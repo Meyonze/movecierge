@@ -1,0 +1,30 @@
+{
+  "oyabeshi": {
+    "hasData": true,
+    "office": "本庁舎（富山県小矢部市本町1番1号）市民課が窓口。転入・転出・転居・世帯変更の手続きを1つの一覧ページでまとめて案内。転出証明書の郵送交付申請は別ページで案内あり。支所の有無はページ内で確認できず。",
+    "links": {
+      "out": "https://www.city.oyabe.toyama.jp/kurashi/1002024/1002033/1002036.html",
+      "in": "https://www.city.oyabe.toyama.jp/kurashi/1002024/1002033/1002036.html",
+      "mail": "https://www.city.oyabe.toyama.jp/kurashi/1002024/1002033/1003126.html"
+    },
+    "confidence": "low"
+  },
+  "imizushi": {
+    "hasData": true,
+    "office": "本庁舎（富山県射水市新開発410番地1）1階市民課が窓口。地区センターでは住所異動の手続きはできないとFAQで明記。転入届・転居届・転出届（窓口/郵送/オンライン）を1つのページにまとめて案内。",
+    "links": {
+      "out": "https://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=3480",
+      "in": "https://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=3480"
+    },
+    "confidence": "low"
+  },
+  "nakaniikawagunfunabashimura": {
+    "hasData": true,
+    "office": "舟橋村役場（富山県中新川郡舟橋村仏生寺55番地）住民生活課が窓口。小規模自治体で支所・出張所はなし。転入届・転居届・転出届（窓口・郵送・マイナポータル）を1ページにまとめて案内している。",
+    "links": {
+      "out": "https://www.vill.funahashi.toyama.jp/living_guide_new/01_2.html",
+      "in": "https://www.vill.funahashi.toyama.jp/living_guide_new/01_2.html"
+    },
+    "confidence": "low"
+  }
+}
