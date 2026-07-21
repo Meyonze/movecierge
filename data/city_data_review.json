@@ -1624,5 +1624,34 @@
       "in": "https://www.city.kamo.niigata.jp/docs/30384.html"
     },
     "confidence": "low"
+  },
+  "katorishi": {
+    "hasData": true,
+    "office": "本庁舎（佐原ロ2127番地、2番窓口）と小見川支所の2ヶ所で受付。転入届・転居届・転出届・世帯変更届はいずれも同一の「住民登録」ページ内でまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.katori.lg.jp/living/todokede_toroku/jumintoroku.html",
+      "in": "https://www.city.katori.lg.jp/living/todokede_toroku/jumintoroku.html"
+    },
+    "confidence": "low"
+  },
+  "sanbushi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、山武出張所・蓮沼出張所・松尾出張所の3出張所で受付（手続きにより出張所では対応不可の場合あり）。転入届・転出届は同一ページ内で案内。",
+    "links": {
+      "out": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
+      "in": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
+      "mail": "https://www.city.sammu.lg.jp/faq.php?mode=detail&code=45"
+    },
+    "confidence": "low"
+  },
+  "isumishi": {
+    "hasData": true,
+    "office": "大原庁舎（市民課市民班）、夷隅庁舎（地域市民班）、岬庁舎（地域市民班）の3庁舎いずれでも受付可能。転入届・転出届・転居届は同一ページでまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1041.html",
+      "in": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1041.html",
+      "mail": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1043.html"
+    },
+    "confidence": "low"
   }
 }
