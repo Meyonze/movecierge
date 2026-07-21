@@ -1493,5 +1493,312 @@
       "in": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shimimmadoguchika/madoguchi/madoguchi/3982.html",
       "mail": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shimimmadoguchika/madoguchi/madoguchi/4016.html"
     }
+  },
+  "tachikawashi": {
+    "hasData": true,
+    "office": "本庁舎1階戸籍住民課のほか、平日夜間・土日も利用できる窓口サービスセンターがある。窓口サービスセンターでの時間外・休日受付は預かりのみで、住民票等の即日発行はできない。",
+    "links": {
+      "out": "https://www.city.tachikawa.lg.jp/kurashi/koseki/1002119/1026502.html",
+      "in": "https://www.city.tachikawa.lg.jp/kurashi/koseki/1002119/1026504.html"
+    }
+  },
+  "musashinoshi": {
+    "hasData": true,
+    "office": "市役所市民課のほか、市内の市政センターでも届出できる。中央市政センターのみ水・金曜の夜間窓口(17-20時)と第2・4日曜の休日窓口(試行実施)がある。",
+    "links": {
+      "out": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004525.html",
+      "in": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004524.html",
+      "mail": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004527.html"
+    }
+  },
+  "mitakashi": {
+    "hasData": true,
+    "office": "市役所1階7番窓口のほか、三鷹台・東部・西部の各市政窓口(平日8:30-17:00)、三鷹駅前市政窓口(平日8:30-19:30、土曜・第2/3/4日曜9-17時)でも手続き可能。",
+    "links": {
+      "out": "https://www.city.mitaka.lg.jp/c_service/000/000320.html",
+      "in": "https://www.city.mitaka.lg.jp/c_service/000/000321.html"
+    }
+  },
+  "fuchuushi": {
+    "hasData": true,
+    "office": "市役所1階総合窓口課のほか、白糸台文化センター(東部出張所)・西府文化センター(西部出張所)でも受付。ただし外国人住民の届出は出張所では扱えず総合窓口課のみ対応。",
+    "links": {
+      "out": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/tenshutu.html",
+      "in": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/tennyu.html",
+      "mail": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/yuusoutennsyutu.html"
+    }
+  },
+  "choufushi": {
+    "hasData": true,
+    "office": "市役所2階市民課窓口のほか神代出張所でも手続き可能(神代出張所では国保・年金等の同時手続きは不可)。休日窓口(原則第2土曜・第4日曜、9-12時半)も開設。",
+    "links": {
+      "out": "https://www.city.chofu.lg.jp/030040/p017020.html",
+      "in": "https://www.city.chofu.lg.jp/030040/p017019.html",
+      "mail": "https://www.city.chofu.lg.jp/030040/p017016.html"
+    }
+  },
+  "kodairashi": {
+    "hasData": true,
+    "office": "市役所1階市民課のほか東部出張所・西部出張所でも届出可能(土曜は市民課のみ午前中受付)。転入届は窓口手続きのみで郵送・オンラインは不可。",
+    "links": {
+      "out": "https://www.city.kodaira.tokyo.jp/kurashi/014/014218.html",
+      "in": "https://www.city.kodaira.tokyo.jp/kurashi/014/014208.html",
+      "mail": "https://www.city.kodaira.tokyo.jp/kurashi/014/014247.html"
+    }
+  },
+  "hinoshi": {
+    "hasData": true,
+    "office": "本庁舎1階市民窓口課のほか、七生支所(京王高幡ショッピングセンター2階)でも手続き可能。本庁舎は土曜も開庁(七生支所は平日のみ)。",
+    "links": {
+      "out": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1015858.html",
+      "in": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1013904.html",
+      "mail": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1002590.html"
+    }
+  },
+  "kokubunjishi": {
+    "hasData": true,
+    "office": "国分寺市役所（市民部市民課窓口係）で受付。転出・転入それぞれ専用ページあり。〒185-8501国分寺市泉町二丁目2番18号、代表042-325-0111、平日8:30-17:00。",
+    "links": {
+      "out": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010959/index.html",
+      "in": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010841/index.html",
+      "mail": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010959/1027672.html"
+    }
+  },
+  "komaeshi": {
+    "hasData": true,
+    "office": "狛江市役所市民課で受付。転出・転入それぞれ専用ページあり、郵送手続きはFAQページで案内。〒201-8585狛江市和泉本町一丁目1番5号、03-3430-1111、平日8:30-17:00。",
+    "links": {
+      "out": "https://www.city.komae.tokyo.jp/index.cfm/41,13612,309,1981,html",
+      "in": "https://www.city.komae.tokyo.jp/index.cfm/41,50264,309,1981,html",
+      "mail": "https://www.city.komae.tokyo.jp/index.cfm/41,108424,308,1968,html"
+    }
+  },
+  "kiyoseshi": {
+    "hasData": true,
+    "office": "清瀬市役所市民課住民係で受付。転出・転入それぞれ専用ページあり、郵送は別ページで案内。〒204-8511清瀬市中里5丁目842番地、042-492-5111（代表）、平日8:30-17:00、一部土日開設あり。",
+    "links": {
+      "out": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003477.html",
+      "in": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003478.html",
+      "mail": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003483.html"
+    }
+  },
+  "higashikurumeshi": {
+    "hasData": true,
+    "office": "東久留米市役所本庁舎1階市民課住民記録窓口係で受付。転出・転入それぞれ専用ページあり、郵送用請求書も別ページ。上の原・ひばりが丘・滝山の各連絡所では転出入手続き不可。〒203-8555東久留米市本町3-3-1、代表042-470-7777、平日8:30-17:00。",
+    "links": {
+      "out": "https://www.city.higashikurume.lg.jp/kurashi/todokede/juminhyo/1000279.html",
+      "in": "https://www.city.higashikurume.lg.jp/kurashi/todokede/juminhyo/1000277.html",
+      "mail": "https://www.city.higashikurume.lg.jp/shinseisho/juminhyo/1001511.html"
+    }
+  },
+  "musashimurayamashi": {
+    "hasData": true,
+    "office": "市民課（市役所本庁舎1階）または緑が丘出張所のいずれかで届出可能。窓口では本人確認書類の提示が必要。",
+    "links": {
+      "out": "https://www.city.musashimurayama.lg.jp/kurashi/todoke/1005178/jumintouroku/1000317.html",
+      "in": "https://www.city.musashimurayama.lg.jp/kurashi/todoke/1005178/jumintouroku/1000316.html",
+      "mail": "https://www.city.musashimurayama.lg.jp/kurashi/shinsei/todokede/1001004.html"
+    }
+  },
+  "tamashi": {
+    "hasData": true,
+    "office": "市役所本庁舎1階市民課のほか、聖蹟桜ヶ丘駅出張所（ヴィータ・コミューネ7階）、多摩センター駅出張所（京王多摩センターSC2階）でも手続き可能。窓口・郵送・マイナポータルの3方式から選べる。",
+    "links": {
+      "out": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001772.html",
+      "in": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001771.html",
+      "mail": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001773.html"
+    }
+  },
+  "inagishi": {
+    "hasData": true,
+    "office": "市役所1階市民課のほか、平尾出張所、若葉台出張所（iプラザ1階）でも届出可。ただし外国人住民を含む世帯の異動は出張所不可で市役所1階市民課のみ対応。",
+    "links": {
+      "out": "https://www.city.inagi.tokyo.jp/kurashi/tetsuzuki/1002554/1002556.html",
+      "in": "https://www.city.inagi.tokyo.jp/kurashi/tetsuzuki/1002554/1002555.html"
+    }
+  },
+  "akirunoichi": {
+    "hasData": true,
+    "office": "市民課市民窓口係（市役所本庁舎1階）または五日市出張所市民総合窓口係で届出可能。転出届のみ郵送可。",
+    "links": {
+      "out": "https://www.city.akiruno.tokyo.jp/0000000878.html",
+      "in": "https://www.city.akiruno.tokyo.jp/0000000877.html"
+    }
+  },
+  "nishitoukyoushi": {
+    "hasData": true,
+    "office": "市民課（田無庁舎2階、防災・保谷保健福祉総合センター1階）のほか、柳橋出張所、ひばりヶ丘駅前出張所でも届出可。郵送は保谷庁舎市民課で一括処理。",
+    "links": {
+      "out": "https://www.city.nishitokyo.lg.jp/kurasi/todokede/zyumin/tennsyututodoke.html",
+      "in": "https://www.city.nishitokyo.lg.jp/kurasi/todokede/zyumin/tennyu.html",
+      "mail": "https://www.city.nishitokyo.lg.jp/kurasi/sinseisyo/itiran/zyumintoroku/yusotensyutu.html"
+    }
+  },
+  "kakamigaharashi": {
+    "hasData": true,
+    "office": "市役所本庁舎市民課または市民サービスセンターで届出可能。ただし外国人住民の転入手続きは本庁舎市民課のみ対応（市民サービスセンター不可）。",
+    "links": {
+      "out": "https://www.city.kakamigahara.lg.jp/life/koseki/1001373/1001375.html",
+      "in": "https://www.city.kakamigahara.lg.jp/life/koseki/1001373/1001374.html",
+      "mail": "https://www.city.kakamigahara.lg.jp/internet/shinseisho/1004586/1004596.html"
+    }
+  },
+  "matsusakashi": {
+    "hasData": true,
+    "office": "本庁（戸籍住民課、松阪市殿町1340-1）のほか、各地域振興局地域住民課・出張所（柿野出張所を除く）でも届出できる。",
+    "links": {
+      "out": "https://www.city.matsusaka.mie.jp/soshiki/15/tenshutu.html",
+      "in": "https://www.city.matsusaka.mie.jp/soshiki/15/tennyuu.html",
+      "mail": "https://www.city.matsusaka.mie.jp/soshiki/15/tenshutuyuusou.html"
+    }
+  },
+  "kuwanashi": {
+    "hasData": true,
+    "office": "本庁（戸籍・住民登録課、中央町二丁目37番地）のほか、多度・長島・大山田の各地区市民センター、桑名駅前サンファーレ北館2階のサテライトオフィス（土日祝も対応）でも届出できる。",
+    "links": {
+      "out": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tenshutsu-honnin.html",
+      "in": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tennyu-honnin.html",
+      "mail": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tenshutsu-yuusou.html"
+    }
+  },
+  "iseshi": {
+    "hasData": true,
+    "office": "伊勢市役所本館1階の戸籍住民課（岩渕1丁目7番29号）のほか、各総合支所生活福祉課および各支所でも届出できる。",
+    "links": {
+      "out": "https://www.city.ise.mie.jp/kurashi/koseki/tensyutsu/1001351.html",
+      "in": "https://www.city.ise.mie.jp/kurashi/koseki/tennyu/1001353.html",
+      "mail": "https://www.city.ise.mie.jp/kurashi/koseki/tensyutsu/1001356.html"
+    }
+  },
+  "shuunanshi": {
+    "hasData": true,
+    "office": "本庁市民課（岐山通1丁目1番地）のほか、各支所でも届出できる（支所名の詳細は本文に記載なし）。",
+    "links": {
+      "out": "https://www.city.shunan.lg.jp/soshiki/20/2623.html",
+      "in": "https://www.city.shunan.lg.jp/soshiki/20/2621.html"
+    }
+  },
+  "kasugashi": {
+    "hasData": true,
+    "office": "市役所1階の市民課受付戸籍担当（原町3-1-5）が窓口。西出張所でも土曜・日曜・祝日を含め一部業務を取り扱う。",
+    "links": {
+      "out": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000838.html",
+      "in": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000840.html",
+      "mail": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000838.html"
+    }
+  },
+  "mishimashi": {
+    "hasData": true,
+    "office": "三島市役所本庁1階市民課窓口（北田町4-47）。支所はなく本庁舎のみで受付。郵送・マイナポータルでの転出手続きにも対応。",
+    "links": {
+      "out": "https://www.city.mishima.shizuoka.jp/page/1243.html",
+      "in": "https://www.city.mishima.shizuoka.jp/page/1244.html",
+      "mail": "https://www.city.mishima.shizuoka.jp/page/3771.html"
+    }
+  },
+  "iwatashi": {
+    "hasData": true,
+    "office": "磐田市役所本庁舎1階市民課（国府台3-1）。木曜延長窓口・日曜開庁窓口あり。転出証明書は郵便請求も可能。",
+    "links": {
+      "out": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+      "in": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html"
+    }
+  },
+  "setoshi": {
+    "hasData": true,
+    "office": "瀬戸市役所本庁舎（追分町64-1）市民課、または三支所で手続き可能。郵送・マイナポータルでの転出届にも対応。",
+    "links": {
+      "out": "https://www.city.seto.aichi.jp/docs/2010/11/10/01009/index.html",
+      "in": "https://www.city.seto.aichi.jp/docs/2010/11/10/00487/index.html",
+      "mail": "https://www.city.seto.aichi.jp/docs/2010/11/10/02792/index.html"
+    }
+  },
+  "inuyamashi": {
+    "hasData": true,
+    "office": "犬山市役所本庁舎1階市民課、または城東・羽黒・楽田・池野の各出張所で異動手続きが可能。",
+    "links": {
+      "out": "https://www.city.inuyama.aichi.jp/question/koseki/1001726.html",
+      "in": "https://www.city.inuyama.aichi.jp/question/koseki/1001724.html",
+      "mail": "https://www.city.inuyama.aichi.jp/kurashi/koseki/1000017/1006633.html"
+    }
+  },
+  "inazawashi": {
+    "hasData": true,
+    "office": "稲沢市役所市民課、祖父江・平和支所、各市民センターで手続き可能（外国人住民は支所・センター不可）。郵送届出も可。",
+    "links": {
+      "out": "https://www.city.inazawa.aichi.jp/0000000619.html",
+      "in": "https://www.city.inazawa.aichi.jp/0000000620.html"
+    }
+  },
+  "gamagoorishi": {
+    "hasData": true,
+    "office": "蒲郡市役所（旭町17番1号）市民課で受付。時間外・休日は取扱いなし。マイナポータル特例転出・郵送にも対応。",
+    "links": {
+      "out": "https://www.city.gamagori.lg.jp/unit/shimin/tensyuttu.html",
+      "in": "https://www.city.gamagori.lg.jp/unit/shimin/tennyu.html",
+      "mail": "https://www.city.gamagori.lg.jp/unit/shimin/yuusouniyorutennsyututodoke.html"
+    }
+  },
+  "toukaishi": {
+    "hasData": true,
+    "office": "東海市役所（中央町一丁目1番地）市民窓口課で受付。郵送・マイナポータルでの転出手続きにも対応。",
+    "links": {
+      "out": "https://www.city.tokai.aichi.jp/kurashi/1001502/1001512/1006103.html",
+      "in": "https://www.city.tokai.aichi.jp/kurashi/1001502/1001512/1006102.html"
+    }
+  },
+  "oobushi": {
+    "hasData": true,
+    "office": "大府市役所（中央町五丁目70番地）総務部市民課で受付。水曜は延長窓口あり。転入届は郵送不可で窓口のみ。",
+    "links": {
+      "out": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1011523.html",
+      "in": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1011608.html",
+      "mail": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1013471.html"
+    }
+  },
+  "nagaokakyoushi": {
+    "hasData": true,
+    "office": "長岡京市役所（開田一丁目1番1号）本庁舎1階市民課住民記録係、窓口番号1で転出・転入とも受付。支所の記載はなし。",
+    "links": {
+      "out": "https://www.city.nagaokakyo.lg.jp/0000000396.html",
+      "in": "https://www.city.nagaokakyo.lg.jp/0000000397.html",
+      "mail": "https://www.city.nagaokakyo.lg.jp/0000000396.html"
+    }
+  },
+  "ashiyashi": {
+    "hasData": true,
+    "office": "芦屋市役所北館1階市民課4番窓口で転出・転入とも受付。ラポルテ市民サービスコーナーでは住民異動届は受付不可と明記されている。",
+    "links": {
+      "out": "https://www.city.ashiya.lg.jp/shimin/sigaitensyutu.html",
+      "in": "https://www.city.ashiya.lg.jp/shimin/sigaitennyu.html",
+      "mail": "https://www.city.ashiya.lg.jp/shimin/download/tenshutsu.html"
+    }
+  },
+  "mikishi": {
+    "hasData": true,
+    "office": "三木市役所3階市民課のほか、吉川支所市民生活課でも転出・転入の手続きが可能（住民異動届様式は吉川支所窓口にも設置）。",
+    "links": {
+      "out": "https://www.city.miki.lg.jp/soshiki/21/2107.html",
+      "in": "https://www.city.miki.lg.jp/soshiki/21/2105.html",
+      "mail": "https://www.city.miki.lg.jp/site/sinseisyo/2194.html"
+    }
+  },
+  "yamatokooriyamashi": {
+    "hasData": true,
+    "office": "大和郡山市役所市民課本庁のほか、平和・治道・昭和・片桐・矢田の5支所でも転出手続き可。ただし転出証明書なしでの転入手続きは支所不可、本庁のみ。",
+    "links": {
+      "out": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/2/1526.html",
+      "in": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/2/1527.html",
+      "mail": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/6/simin_shinseisyo_mokuteki/2/1522.html"
+    }
+  },
+  "tenrishi": {
+    "hasData": true,
+    "office": "天理市役所1階市民課（総合窓口）1か所で転出・転入とも受付。支所の記載はなし。転入届は郵送不可と明記されている。",
+    "links": {
+      "out": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1403236979374.html",
+      "in": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1410921131235.html",
+      "mail": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1403236979374.html"
+    }
   }
 }
