@@ -311,5 +311,132 @@
       "mail": "https://www.city.hadano.kanagawa.jp/soshiki/3/1017/6/2799.html"
     },
     "confidence": "low"
+  },
+  "koganeishi": {
+    "hasData": true,
+    "office": "届出窓口は市役所第二庁舎1階市民課のみで、支所・出張所はない。平日8:30-17:00、休日開庁日9:00-13:00。転入・転居・転出の案内が1ページにまとまっている。",
+    "links": {
+      "out": "https://www.city.koganei.lg.jp/kurashi/410/zyumininkankoseki/413/tennyu-todoke.html",
+      "in": "https://www.city.koganei.lg.jp/kurashi/410/zyumininkankoseki/413/tennyu-todoke.html"
+    },
+    "confidence": "low"
+  },
+  "higashimurayamashi": {
+    "hasData": true,
+    "office": "本庁舎1階市民課窓口で受付（平日8:30-17:00）。ワンズタワー内窓口では手続き不可。地域サービス窓口（出張所的な窓口）も別途あり。〒189-8501東村山市本町1-2-3、代表042-393-5111。",
+    "links": {
+      "out": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
+      "in": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
+      "mail": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/tenshutu_yuusou.html"
+    },
+    "confidence": "low"
+  },
+  "kunitachishi": {
+    "hasData": true,
+    "office": "国立市役所1階7番窓口（行政管理部市民課市民係）で受付。転出届・転入届は同一ページ内で案内。〒186-8501国立市富士見台2-47-1、042-576-2111、平日8:30-17:00。",
+    "links": {
+      "out": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div06/Sec02/gyomu/0190/1461065826848.html",
+      "in": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div06/Sec02/gyomu/0190/1461065826848.html",
+      "mail": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div06/Sec02/gyomu/0190/0193/1461065848250.html"
+    },
+    "confidence": "low"
+  },
+  "fussashi": {
+    "hasData": true,
+    "office": "福生市役所1階総合窓口課で受付。転出・転入とも同一の一覧ページ内で案内（郵送先・特例転出も同ページ記載）。〒197-8501福生市本町5、代表042-551-1511、平日8:30-17:15。",
+    "links": {
+      "out": "https://www.city.fussa.tokyo.jp/life/resident/res1/1001790.html",
+      "in": "https://www.city.fussa.tokyo.jp/life/resident/res1/1001790.html",
+      "mail": "https://www.city.fussa.tokyo.jp/life/resident/res1/1001790.html"
+    },
+    "confidence": "low"
+  },
+  "higashiyamatoshi": {
+    "hasData": true,
+    "office": "東大和市役所1階1番窓口（行政管理部市民課市民係）で受付。転出届・転入届は同一ページで案内、郵送・マイナポータルは別ページ。〒207-8585東大和市中央3-930、042-563-2111、平日8:30-17:00。",
+    "links": {
+      "out": "https://www.city.higashiyamato.lg.jp/kurashi/todokede/1011753/1011755/1001664.html",
+      "in": "https://www.city.higashiyamato.lg.jp/kurashi/todokede/1011753/1011755/1001664.html",
+      "mail": "https://www.city.higashiyamato.lg.jp/kurashi/todokede/1011753/1011755/1007704.html"
+    },
+    "confidence": "low"
+  },
+  "hamurashi": {
+    "hasData": true,
+    "office": "羽村市役所1階市民課のみ（出張所なし）。転出届は郵送も可能。転出届・転入届の案内は同一ページ内にまとめて掲載されている。",
+    "links": {
+      "out": "https://www.city.hamura.tokyo.jp/0000000100.html",
+      "in": "https://www.city.hamura.tokyo.jp/0000000100.html",
+      "mail": "https://www.city.hamura.tokyo.jp/0000002974.html"
+    },
+    "confidence": "low"
+  },
+  "ichiharashi": {
+    "hasData": true,
+    "office": "市民課（第1庁舎1階）のほか各支所でも関連手続きが可能（電話0436-22-1111）。市公式サイトはJS描画のため本文は添付PDF案内で内容を確認した。",
+    "links": {
+      "out": "https://www.city.ichihara.chiba.jp/article?articleId=635a451ff38a7311e61a30f3",
+      "in": "https://www.city.ichihara.chiba.jp/article?articleId=6685fa80bd6dd82535299ef3"
+    },
+    "confidence": "low"
+  },
+  "kusatsushi": {
+    "hasData": true,
+    "office": "草津市役所市民課（草津三丁目13番30号）が窓口。本文中に支所の記載はなく、転入・転居・転出の案内は同一ページにまとめて掲載されている（転出のみオンライン・郵送可）。",
+    "links": {
+      "out": "https://www.city.kusatsu.shiga.jp/kurashi/kosekizyuuminhyou/idotodokede/idotetsuzuki.html",
+      "in": "https://www.city.kusatsu.shiga.jp/kurashi/kosekizyuuminhyou/idotodokede/idotetsuzuki.html",
+      "mail": "https://www.city.kusatsu.shiga.jp/kurashi/kosekizyuuminhyou/idotodokede/tenshutsuyuso.html"
+    },
+    "confidence": "low"
+  },
+  "oonojoushi": {
+    "hasData": true,
+    "office": "市役所本庁1階「まどかフロア」（曙町二丁目2-1）のほか、市内4カ所の地域行政センター（コミュニティセンター内）でも手続きできる。転出・転居・転入の案内は同一ページにまとめて掲載。",
+    "links": {
+      "out": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html#H2_2_58e9ec",
+      "in": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html#H2_4_0f3ae7"
+    },
+    "confidence": "low"
+  },
+  "chikushinoshi": {
+    "hasData": true,
+    "office": "筑紫野市役所市民課（石崎1-1-1）が窓口。転入届・転出届・転居届・世帯変更届の案内は同一ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
+      "in": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
+      "mail": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3928.html"
+    },
+    "confidence": "low"
+  },
+  "kameokashi": {
+    "hasData": true,
+    "office": "亀岡市役所（安町野々神8番地）本庁舎1階市民課で転出・転入とも受付。支所・出張所の記載は見当たらず、本庁舎のみの模様。",
+    "links": {
+      "out": "https://www.city.kameoka.kyoto.jp/soshiki/17/2970.html",
+      "in": "https://www.city.kameoka.kyoto.jp/soshiki/17/2966.html",
+      "mail": "https://www.city.kameoka.kyoto.jp/soshiki/17/3059.html"
+    },
+    "confidence": "low"
+  },
+  "tondabayashishi": {
+    "hasData": true,
+    "office": "富田林市役所（常盤町1-1）市民窓口課が本庁窓口。転居届は金剛連絡所でも可能だが、転出・転入は本庁での受付が基本の模様。",
+    "links": {
+      "out": "https://www.city.tondabayashi.lg.jp/soshiki/15/2063.html",
+      "in": "https://www.city.tondabayashi.lg.jp/soshiki/15/2063.html",
+      "mail": "https://www.city.tondabayashi.lg.jp/soshiki/15/2063.html"
+    },
+    "confidence": "low"
+  },
+  "kawachinaganoshi": {
+    "hasData": true,
+    "office": "河内長野市役所（原町一丁目1番1号）市民窓口課で転出・転入とも受付。支所の記載は見当たらず、本庁舎のみの模様。",
+    "links": {
+      "out": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html",
+      "in": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html",
+      "mail": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html"
+    },
+    "confidence": "low"
   }
 }
