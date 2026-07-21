@@ -3206,5 +3206,14 @@
       "out": "https://www.city.tokamachi.lg.jp/soshiki/shiminfukushibu/shiminseikatsuka/2/gyomu/1450418058158.html",
       "in": "https://www.city.tokamachi.lg.jp/soshiki/shiminfukushibu/shiminseikatsuka/2/gyomu/1450418115641.html"
     }
+  },
+  "ooamishirasatoshi": {
+    "hasData": true,
+    "office": "本庁舎1階の市民課市民班で受付（開庁時間8時45分～16時30分）。支所・出張所の記載はなく本庁舎に窓口が一本化されている。転入・転出それぞれ専用ページで案内。",
+    "links": {
+      "out": "https://www.city.oamishirasato.lg.jp/0000000025.html",
+      "in": "https://www.city.oamishirasato.lg.jp/0000000024.html",
+      "mail": "https://www.city.oamishirasato.lg.jp/0000000025.html"
+    }
   }
 }
