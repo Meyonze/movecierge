@@ -339,54 +339,7 @@
 </div>
 
 <script>
-  // ---- 東京23区 ----
-  const TOKYO23 = [
-    ['chiyoda','千代田区','ちよだく','東京都'],['chuo','中央区','ちゅうおうく','東京都'],['minato','港区','みなとく','東京都'],
-    ['shinjuku','新宿区','しんじゅくく','東京都'],['bunkyo','文京区','ぶんきょうく','東京都'],['taito','台東区','たいとうく','東京都'],
-    ['sumida','墨田区','すみだく','東京都'],['koto','江東区','こうとうく','東京都'],['shinagawa','品川区','しながわく','東京都'],
-    ['meguro','目黒区','めぐろく','東京都'],['ota','大田区','おおたく','東京都'],['setagaya','世田谷区','せたがやく','東京都'],
-    ['shibuya','渋谷区','しぶやく','東京都'],['nakano','中野区','なかのく','東京都'],['suginami','杉並区','すぎなみく','東京都'],
-    ['toshima','豊島区','としまく','東京都'],['kita','北区','きたく','東京都'],['arakawa','荒川区','あらかわく','東京都'],
-    ['itabashi','板橋区','いたばしく','東京都'],['nerima','練馬区','ねりまく','東京都'],['adachi','足立区','あだちく','東京都'],
-    ['katsushika','葛飾区','かつしかく','東京都'],['edogawa','江戸川区','えどがわく','東京都']
-  ];
-  // ---- 政令指定都市（20） ----
-  const DESIGNATED = [
-    ['sapporo','札幌市','さっぽろし','北海道'],['sendai','仙台市','せんだいし','宮城県'],['saitama','さいたま市','さいたまし','埼玉県'],
-    ['chiba','千葉市','ちばし','千葉県'],['yokohama','横浜市','よこはまし','神奈川県'],['kawasaki','川崎市','かわさきし','神奈川県'],
-    ['sagamihara','相模原市','さがみはらし','神奈川県'],['niigata','新潟市','にいがたし','新潟県'],['shizuoka','静岡市','しずおかし','静岡県'],
-    ['hamamatsu','浜松市','はままつし','静岡県'],['nagoya','名古屋市','なごやし','愛知県'],['kyoto','京都市','きょうとし','京都府'],
-    ['osaka','大阪市','おおさかし','大阪府'],['sakai','堺市','さかいし','大阪府'],['kobe','神戸市','こうべし','兵庫県'],
-    ['okayama','岡山市','おかやまし','岡山県'],['hiroshima','広島市','ひろしまし','広島県'],['kitakyushu','北九州市','きたきゅうしゅうし','福岡県'],
-    ['fukuoka','福岡市','ふくおかし','福岡県'],['kumamoto','熊本市','くまもとし','熊本県']
-  ];
-  // ---- 県庁所在地（政令市と重複しない31） ----
-  const CAPITALS = [
-    ['aomori','青森市','あおもりし','青森県'],['morioka','盛岡市','もりおかし','岩手県'],['akita','秋田市','あきたし','秋田県'],
-    ['yamagata','山形市','やまがたし','山形県'],['fukushima','福島市','ふくしまし','福島県'],['mito','水戸市','みとし','茨城県'],
-    ['utsunomiya','宇都宮市','うつのみやし','栃木県'],['maebashi','前橋市','まえばしし','群馬県'],['toyama','富山市','とやまし','富山県'],
-    ['kanazawa','金沢市','かなざわし','石川県'],['fukui','福井市','ふくいし','福井県'],['kofu','甲府市','こうふし','山梨県'],
-    ['nagano','長野市','ながのし','長野県'],['gifu','岐阜市','ぎふし','岐阜県'],['tsu','津市','つし','三重県'],
-    ['otsu','大津市','おおつし','滋賀県'],['nara','奈良市','ならし','奈良県'],['wakayama','和歌山市','わかやまし','和歌山県'],
-    ['tottori','鳥取市','とっとりし','鳥取県'],['matsue','松江市','まつえし','島根県'],['yamaguchi','山口市','やまぐちし','山口県'],
-    ['tokushima','徳島市','とくしまし','徳島県'],['takamatsu','高松市','たかまつし','香川県'],['matsuyama','松山市','まつやまし','愛媛県'],
-    ['kochi','高知市','こうちし','高知県'],['saga','佐賀市','さがし','佐賀県'],['nagasaki','長崎市','ながさきし','長崎県'],
-    ['oita','大分市','おおいたし','大分県'],['miyazaki','宮崎市','みやざきし','宮崎県'],['kagoshima','鹿児島市','かごしまし','鹿児島県'],
-    ['naha','那覇市','なはし','沖縄県']
-  ];
-  // ---- 人口規模で次に優先度が高い主要都市（政令市・県庁所在地と重複しない20） ----
-  const MAJOR_CITIES = [
-    ['hachioji','八王子市','はちおうじし','東京都'],['kawaguchi','川口市','かわぐちし','埼玉県'],['funabashi','船橋市','ふなばしし','千葉県'],
-    ['himeji','姫路市','ひめじし','兵庫県'],['higashiosaka','東大阪市','ひがしおおさかし','大阪府'],['ichikawa','市川市','いちかわし','千葉県'],
-    ['matsudo','松戸市','まつどし','千葉県'],['nishinomiya','西宮市','にしのみやし','兵庫県'],['kurashiki','倉敷市','くらしきし','岡山県'],
-    ['amagasaki','尼崎市','あまがさきし','兵庫県'],['fukuyama','福山市','ふくやまし','広島県'],['fujisawa','藤沢市','ふじさわし','神奈川県'],
-    ['kashiwa','柏市','かしわし','千葉県'],['machida','町田市','まちだし','東京都'],['toyota','豊田市','とよたし','愛知県'],
-    ['toyonaka','豊中市','とよなかし','大阪府'],['yokosuka','横須賀市','よこすかし','神奈川県'],['okazaki','岡崎市','おかざきし','愛知県'],
-    ['suita','吹田市','すいたし','大阪府'],['ichinomiya','一宮市','いちのみやし','愛知県']
-  ];
-
-  const CITIES = [...TOKYO23, ...DESIGNATED, ...CAPITALS, ...MAJOR_CITIES].map(([id,name,yomi,pref])=>({id,name,yomi,pref}));
-
+  let CITIES = [];
   let CITY_DATA = {};
 
   const REQUIRED = {
@@ -600,7 +553,7 @@
   function init(){
     const hasDataCount = Object.keys(CITY_DATA).length;
     document.getElementById('coverage').textContent =
-      `対応都市：東京23区＋政令指定都市＋県庁所在地クラス 計${CITIES.length}都市。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
+      `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
 
     document.getElementById('inputOut').value = cityName(oldWard);
     document.getElementById('inputIn').value = cityName(newWard);
@@ -638,10 +591,12 @@
     updateGenerateButton();
   }
 
-  fetch('./data/city_data.json')
-    .then(res => { if(!res.ok) throw new Error('failed to load city_data.json'); return res.json(); })
-    .then(json => { CITY_DATA = json; })
-    .catch(err => { console.error('city_data.jsonの読み込みに失敗しました。実データなしで表示します。', err); })
+  Promise.all([
+    fetch('./data/cities.json').then(res => { if(!res.ok) throw new Error('failed to load cities.json'); return res.json(); }),
+    fetch('./data/city_data.json').then(res => { if(!res.ok) throw new Error('failed to load city_data.json'); return res.json(); }),
+  ])
+    .then(([cities, cityData]) => { CITIES = cities; CITY_DATA = cityData; })
+    .catch(err => { console.error('都市データの読み込みに失敗しました。', err); })
     .finally(init);
 </script>
 </body>

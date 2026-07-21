@@ -1,0 +1,10442 @@
+[
+  {
+    "id": "chiyoda",
+    "name": "千代田区",
+    "yomi": "ちよだく",
+    "pref": "東京都"
+  },
+  {
+    "id": "chuo",
+    "name": "中央区",
+    "yomi": "ちゅうおうく",
+    "pref": "東京都"
+  },
+  {
+    "id": "minato",
+    "name": "港区",
+    "yomi": "みなとく",
+    "pref": "東京都"
+  },
+  {
+    "id": "shinjuku",
+    "name": "新宿区",
+    "yomi": "しんじゅくく",
+    "pref": "東京都"
+  },
+  {
+    "id": "bunkyo",
+    "name": "文京区",
+    "yomi": "ぶんきょうく",
+    "pref": "東京都"
+  },
+  {
+    "id": "taito",
+    "name": "台東区",
+    "yomi": "たいとうく",
+    "pref": "東京都"
+  },
+  {
+    "id": "sumida",
+    "name": "墨田区",
+    "yomi": "すみだく",
+    "pref": "東京都"
+  },
+  {
+    "id": "koto",
+    "name": "江東区",
+    "yomi": "こうとうく",
+    "pref": "東京都"
+  },
+  {
+    "id": "shinagawa",
+    "name": "品川区",
+    "yomi": "しながわく",
+    "pref": "東京都"
+  },
+  {
+    "id": "meguro",
+    "name": "目黒区",
+    "yomi": "めぐろく",
+    "pref": "東京都"
+  },
+  {
+    "id": "ota",
+    "name": "大田区",
+    "yomi": "おおたく",
+    "pref": "東京都"
+  },
+  {
+    "id": "setagaya",
+    "name": "世田谷区",
+    "yomi": "せたがやく",
+    "pref": "東京都"
+  },
+  {
+    "id": "shibuya",
+    "name": "渋谷区",
+    "yomi": "しぶやく",
+    "pref": "東京都"
+  },
+  {
+    "id": "nakano",
+    "name": "中野区",
+    "yomi": "なかのく",
+    "pref": "東京都"
+  },
+  {
+    "id": "suginami",
+    "name": "杉並区",
+    "yomi": "すぎなみく",
+    "pref": "東京都"
+  },
+  {
+    "id": "toshima",
+    "name": "豊島区",
+    "yomi": "としまく",
+    "pref": "東京都"
+  },
+  {
+    "id": "kita",
+    "name": "北区",
+    "yomi": "きたく",
+    "pref": "東京都"
+  },
+  {
+    "id": "arakawa",
+    "name": "荒川区",
+    "yomi": "あらかわく",
+    "pref": "東京都"
+  },
+  {
+    "id": "itabashi",
+    "name": "板橋区",
+    "yomi": "いたばしく",
+    "pref": "東京都"
+  },
+  {
+    "id": "nerima",
+    "name": "練馬区",
+    "yomi": "ねりまく",
+    "pref": "東京都"
+  },
+  {
+    "id": "adachi",
+    "name": "足立区",
+    "yomi": "あだちく",
+    "pref": "東京都"
+  },
+  {
+    "id": "katsushika",
+    "name": "葛飾区",
+    "yomi": "かつしかく",
+    "pref": "東京都"
+  },
+  {
+    "id": "edogawa",
+    "name": "江戸川区",
+    "yomi": "えどがわく",
+    "pref": "東京都"
+  },
+  {
+    "id": "sapporo",
+    "name": "札幌市",
+    "yomi": "さっぽろし",
+    "pref": "北海道"
+  },
+  {
+    "id": "sendai",
+    "name": "仙台市",
+    "yomi": "せんだいし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "saitama",
+    "name": "さいたま市",
+    "yomi": "さいたまし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chiba",
+    "name": "千葉市",
+    "yomi": "ちばし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "yokohama",
+    "name": "横浜市",
+    "yomi": "よこはまし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "kawasaki",
+    "name": "川崎市",
+    "yomi": "かわさきし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "sagamihara",
+    "name": "相模原市",
+    "yomi": "さがみはらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "niigata",
+    "name": "新潟市",
+    "yomi": "にいがたし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "shizuoka",
+    "name": "静岡市",
+    "yomi": "しずおかし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "hamamatsu",
+    "name": "浜松市",
+    "yomi": "はままつし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "nagoya",
+    "name": "名古屋市",
+    "yomi": "なごやし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kyoto",
+    "name": "京都市",
+    "yomi": "きょうとし",
+    "pref": "京都府"
+  },
+  {
+    "id": "osaka",
+    "name": "大阪市",
+    "yomi": "おおさかし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "sakai",
+    "name": "堺市",
+    "yomi": "さかいし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kobe",
+    "name": "神戸市",
+    "yomi": "こうべし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "okayama",
+    "name": "岡山市",
+    "yomi": "おかやまし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "hiroshima",
+    "name": "広島市",
+    "yomi": "ひろしまし",
+    "pref": "広島県"
+  },
+  {
+    "id": "kitakyushu",
+    "name": "北九州市",
+    "yomi": "きたきゅうしゅうし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "fukuoka",
+    "name": "福岡市",
+    "yomi": "ふくおかし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kumamoto",
+    "name": "熊本市",
+    "yomi": "くまもとし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "aomori",
+    "name": "青森市",
+    "yomi": "あおもりし",
+    "pref": "青森県"
+  },
+  {
+    "id": "morioka",
+    "name": "盛岡市",
+    "yomi": "もりおかし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "akita",
+    "name": "秋田市",
+    "yomi": "あきたし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yamagata",
+    "name": "山形市",
+    "yomi": "やまがたし",
+    "pref": "山形県"
+  },
+  {
+    "id": "fukushima",
+    "name": "福島市",
+    "yomi": "ふくしまし",
+    "pref": "福島県"
+  },
+  {
+    "id": "mito",
+    "name": "水戸市",
+    "yomi": "みとし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "utsunomiya",
+    "name": "宇都宮市",
+    "yomi": "うつのみやし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "maebashi",
+    "name": "前橋市",
+    "yomi": "まえばしし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "toyama",
+    "name": "富山市",
+    "yomi": "とやまし",
+    "pref": "富山県"
+  },
+  {
+    "id": "kanazawa",
+    "name": "金沢市",
+    "yomi": "かなざわし",
+    "pref": "石川県"
+  },
+  {
+    "id": "fukui",
+    "name": "福井市",
+    "yomi": "ふくいし",
+    "pref": "福井県"
+  },
+  {
+    "id": "kofu",
+    "name": "甲府市",
+    "yomi": "こうふし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "nagano",
+    "name": "長野市",
+    "yomi": "ながのし",
+    "pref": "長野県"
+  },
+  {
+    "id": "gifu",
+    "name": "岐阜市",
+    "yomi": "ぎふし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "tsu",
+    "name": "津市",
+    "yomi": "つし",
+    "pref": "三重県"
+  },
+  {
+    "id": "otsu",
+    "name": "大津市",
+    "yomi": "おおつし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "nara",
+    "name": "奈良市",
+    "yomi": "ならし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "wakayama",
+    "name": "和歌山市",
+    "yomi": "わかやまし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "tottori",
+    "name": "鳥取市",
+    "yomi": "とっとりし",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "matsue",
+    "name": "松江市",
+    "yomi": "まつえし",
+    "pref": "島根県"
+  },
+  {
+    "id": "yamaguchi",
+    "name": "山口市",
+    "yomi": "やまぐちし",
+    "pref": "山口県"
+  },
+  {
+    "id": "tokushima",
+    "name": "徳島市",
+    "yomi": "とくしまし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "takamatsu",
+    "name": "高松市",
+    "yomi": "たかまつし",
+    "pref": "香川県"
+  },
+  {
+    "id": "matsuyama",
+    "name": "松山市",
+    "yomi": "まつやまし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "kochi",
+    "name": "高知市",
+    "yomi": "こうちし",
+    "pref": "高知県"
+  },
+  {
+    "id": "saga",
+    "name": "佐賀市",
+    "yomi": "さがし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "nagasaki",
+    "name": "長崎市",
+    "yomi": "ながさきし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "oita",
+    "name": "大分市",
+    "yomi": "おおいたし",
+    "pref": "大分県"
+  },
+  {
+    "id": "miyazaki",
+    "name": "宮崎市",
+    "yomi": "みやざきし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "kagoshima",
+    "name": "鹿児島市",
+    "yomi": "かごしまし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "naha",
+    "name": "那覇市",
+    "yomi": "なはし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "hachioji",
+    "name": "八王子市",
+    "yomi": "はちおうじし",
+    "pref": "東京都"
+  },
+  {
+    "id": "kawaguchi",
+    "name": "川口市",
+    "yomi": "かわぐちし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "funabashi",
+    "name": "船橋市",
+    "yomi": "ふなばしし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "himeji",
+    "name": "姫路市",
+    "yomi": "ひめじし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "higashiosaka",
+    "name": "東大阪市",
+    "yomi": "ひがしおおさかし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "ichikawa",
+    "name": "市川市",
+    "yomi": "いちかわし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "matsudo",
+    "name": "松戸市",
+    "yomi": "まつどし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "nishinomiya",
+    "name": "西宮市",
+    "yomi": "にしのみやし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kurashiki",
+    "name": "倉敷市",
+    "yomi": "くらしきし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "amagasaki",
+    "name": "尼崎市",
+    "yomi": "あまがさきし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "fukuyama",
+    "name": "福山市",
+    "yomi": "ふくやまし",
+    "pref": "広島県"
+  },
+  {
+    "id": "fujisawa",
+    "name": "藤沢市",
+    "yomi": "ふじさわし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "kashiwa",
+    "name": "柏市",
+    "yomi": "かしわし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "machida",
+    "name": "町田市",
+    "yomi": "まちだし",
+    "pref": "東京都"
+  },
+  {
+    "id": "toyota",
+    "name": "豊田市",
+    "yomi": "とよたし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "toyonaka",
+    "name": "豊中市",
+    "yomi": "とよなかし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "yokosuka",
+    "name": "横須賀市",
+    "yomi": "よこすかし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "okazaki",
+    "name": "岡崎市",
+    "yomi": "おかざきし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "suita",
+    "name": "吹田市",
+    "yomi": "すいたし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "ichinomiya",
+    "name": "一宮市",
+    "yomi": "いちのみやし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "hakodateshi",
+    "name": "函館市",
+    "yomi": "はこだてし",
+    "pref": "北海道"
+  },
+  {
+    "id": "otarushi",
+    "name": "小樽市",
+    "yomi": "おたるし",
+    "pref": "北海道"
+  },
+  {
+    "id": "asahikawashi",
+    "name": "旭川市",
+    "yomi": "あさひかわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "muroranshi",
+    "name": "室蘭市",
+    "yomi": "むろらんし",
+    "pref": "北海道"
+  },
+  {
+    "id": "kushiroshi",
+    "name": "釧路市",
+    "yomi": "くしろし",
+    "pref": "北海道"
+  },
+  {
+    "id": "obihiroshi",
+    "name": "帯広市",
+    "yomi": "おびひろし",
+    "pref": "北海道"
+  },
+  {
+    "id": "kitamishi",
+    "name": "北見市",
+    "yomi": "きたみし",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuubarishi",
+    "name": "夕張市",
+    "yomi": "ゆうばりし",
+    "pref": "北海道"
+  },
+  {
+    "id": "iwamizawashi",
+    "name": "岩見沢市",
+    "yomi": "いわみざわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "abashirishi",
+    "name": "網走市",
+    "yomi": "あばしりし",
+    "pref": "北海道"
+  },
+  {
+    "id": "rumoishi",
+    "name": "留萌市",
+    "yomi": "るもいし",
+    "pref": "北海道"
+  },
+  {
+    "id": "tomakomaishi",
+    "name": "苫小牧市",
+    "yomi": "とまこまいし",
+    "pref": "北海道"
+  },
+  {
+    "id": "wakkanaishi",
+    "name": "稚内市",
+    "yomi": "わっかないし",
+    "pref": "北海道"
+  },
+  {
+    "id": "bibaishi",
+    "name": "美唄市",
+    "yomi": "びばいし",
+    "pref": "北海道"
+  },
+  {
+    "id": "ashibetsushi",
+    "name": "芦別市",
+    "yomi": "あしべつし",
+    "pref": "北海道"
+  },
+  {
+    "id": "ebetsushi",
+    "name": "江別市",
+    "yomi": "えべつし",
+    "pref": "北海道"
+  },
+  {
+    "id": "akabirashi",
+    "name": "赤平市",
+    "yomi": "あかびらし",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsushi",
+    "name": "紋別市",
+    "yomi": "もんべつし",
+    "pref": "北海道"
+  },
+  {
+    "id": "shibetsushi",
+    "name": "士別市",
+    "yomi": "しべつし",
+    "pref": "北海道"
+  },
+  {
+    "id": "nayoroshi",
+    "name": "名寄市",
+    "yomi": "なよろし",
+    "pref": "北海道"
+  },
+  {
+    "id": "mikasashi",
+    "name": "三笠市",
+    "yomi": "みかさし",
+    "pref": "北海道"
+  },
+  {
+    "id": "nemuroshi",
+    "name": "根室市",
+    "yomi": "ねむろし",
+    "pref": "北海道"
+  },
+  {
+    "id": "chitoseshi",
+    "name": "千歳市",
+    "yomi": "ちとせし",
+    "pref": "北海道"
+  },
+  {
+    "id": "takikawashi",
+    "name": "滝川市",
+    "yomi": "たきかわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "sunagawashi",
+    "name": "砂川市",
+    "yomi": "すながわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "utashinaishi",
+    "name": "歌志内市",
+    "yomi": "うたしないし",
+    "pref": "北海道"
+  },
+  {
+    "id": "fukagawashi",
+    "name": "深川市",
+    "yomi": "ふかがわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "furanoshi",
+    "name": "富良野市",
+    "yomi": "ふらのし",
+    "pref": "北海道"
+  },
+  {
+    "id": "noboribetsushi",
+    "name": "登別市",
+    "yomi": "のぼりべつし",
+    "pref": "北海道"
+  },
+  {
+    "id": "eniwashi",
+    "name": "恵庭市",
+    "yomi": "えにわし",
+    "pref": "北海道"
+  },
+  {
+    "id": "dateshi",
+    "name": "伊達市",
+    "yomi": "だてし",
+    "pref": "北海道"
+  },
+  {
+    "id": "kitahiroshimashi",
+    "name": "北広島市",
+    "yomi": "きたひろしまし",
+    "pref": "北海道"
+  },
+  {
+    "id": "ishikarishi",
+    "name": "石狩市",
+    "yomi": "いしかりし",
+    "pref": "北海道"
+  },
+  {
+    "id": "hokutoshi",
+    "name": "北斗市",
+    "yomi": "ほくとし",
+    "pref": "北海道"
+  },
+  {
+    "id": "ishikariguntoubetsumachi",
+    "name": "石狩郡当別町",
+    "yomi": "いしかりぐんとうべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "ishikarigunshinshinotsumura",
+    "name": "石狩郡新篠津村",
+    "yomi": "いしかりぐんしんしのつむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "matsumaegunmatsumaemachi",
+    "name": "松前郡松前町",
+    "yomi": "まつまえぐんまつまえまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "matsumaegunfukushimamachi",
+    "name": "松前郡福島町",
+    "yomi": "まつまえぐんふくしままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamiisogunshiriuchimachi",
+    "name": "上磯郡知内町",
+    "yomi": "かみいそぐんしりうちまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamiisogunkikonaimachi",
+    "name": "上磯郡木古内町",
+    "yomi": "かみいそぐんきこないまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamedagunnanaemachi",
+    "name": "亀田郡七飯町",
+    "yomi": "かめだぐんななえまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kayabegunshikabemachi",
+    "name": "茅部郡鹿部町",
+    "yomi": "かやべぐんしかべまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kayabegunmorichou",
+    "name": "茅部郡森町",
+    "yomi": "かやべぐんもりちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "futamigunyakumomachi",
+    "name": "二海郡八雲町",
+    "yomi": "ふたみぐんやくもまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yamakoshigunchoumanbumachi",
+    "name": "山越郡長万部町",
+    "yomi": "やまこしぐんちょうまんぶまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hiyamagunesashimachi",
+    "name": "檜山郡江差町",
+    "yomi": "ひやまぐんえさしまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hiyamagujounokunimachi",
+    "name": "檜山郡上ノ国町",
+    "yomi": "ひやまぐじょうのくにまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hiyamagunassabumachi",
+    "name": "檜山郡厚沢部町",
+    "yomi": "ひやまぐんあっさぶまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nishigunotobechou",
+    "name": "爾志郡乙部町",
+    "yomi": "にしぐんおとべちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "okushirigunokushirimachi",
+    "name": "奥尻郡奥尻町",
+    "yomi": "おくしりぐんおくしりまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "setanagunimaganemachi",
+    "name": "瀬棚郡今金町",
+    "yomi": "せたなぐんいまがねまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kudougunsetanamachi",
+    "name": "久遠郡せたな町",
+    "yomi": "くどうぐんせたなまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "shimamakigunshimamakimura",
+    "name": "島牧郡島牧村",
+    "yomi": "しままきぐんしままきむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "suttsugunsuttsumachi",
+    "name": "寿都郡寿都町",
+    "yomi": "すっつぐんすっつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "suttsugunkuromatsunaimachi",
+    "name": "寿都郡黒松内町",
+    "yomi": "すっつぐんくろまつないまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "isoyagunrankoshimachi",
+    "name": "磯谷郡蘭越町",
+    "yomi": "いそやぐんらんこしまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunnisekomachi",
+    "name": "虻田郡ニセコ町",
+    "yomi": "あぶたぐんにせこまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunmakkarimura",
+    "name": "虻田郡真狩村",
+    "yomi": "あぶたぐんまっかりむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunrusutsumura",
+    "name": "虻田郡留寿都村",
+    "yomi": "あぶたぐんるすつむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunkimobetsuchou",
+    "name": "虻田郡喜茂別町",
+    "yomi": "あぶたぐんきもべつちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunkyougokumachi",
+    "name": "虻田郡京極町",
+    "yomi": "あぶたぐんきょうごくまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutagunkutchanmachi",
+    "name": "虻田郡倶知安町",
+    "yomi": "あぶたぐんくっちゃんまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "iwanaigunkyouwamachi",
+    "name": "岩内郡共和町",
+    "yomi": "いわないぐんきょうわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "iwanaiguniwanaimachi",
+    "name": "岩内郡岩内町",
+    "yomi": "いわないぐんいわないまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "furuugunhakumura",
+    "name": "古宇郡泊村",
+    "yomi": "ふるうぐんはくむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "furuugunkamoenaimura",
+    "name": "古宇郡神恵内村",
+    "yomi": "ふるうぐんかもえないむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "shakotangunshakotanmachi",
+    "name": "積丹郡積丹町",
+    "yomi": "しゃこたんぐんしゃこたんまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "furubiragunfurubiramachi",
+    "name": "古平郡古平町",
+    "yomi": "ふるびらぐんふるびらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yoichigunnikimachi",
+    "name": "余市郡仁木町",
+    "yomi": "よいちぐんにきまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yoichigunyoichimachi",
+    "name": "余市郡余市町",
+    "yomi": "よいちぐんよいちまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yoichigunakaigawamura",
+    "name": "余市郡赤井川村",
+    "yomi": "よいちぐんあかいがわむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigunnanporomachi",
+    "name": "空知郡南幌町",
+    "yomi": "そらちぐんなんぽろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigunnaiemachi",
+    "name": "空知郡奈井江町",
+    "yomi": "そらちぐんないえまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigujousunagawachou",
+    "name": "空知郡上砂川町",
+    "yomi": "そらちぐじょうすながわちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuubarigunyunimachi",
+    "name": "夕張郡由仁町",
+    "yomi": "ゆうばりぐんゆにまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuubarigunchounumamachi",
+    "name": "夕張郡長沼町",
+    "yomi": "ゆうばりぐんちょうぬままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuubarigunkuriyamamachi",
+    "name": "夕張郡栗山町",
+    "yomi": "ゆうばりぐんくりやままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kabatoguntsukigatamachi",
+    "name": "樺戸郡月形町",
+    "yomi": "かばとぐんつきがたまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kabatogunurausumachi",
+    "name": "樺戸郡浦臼町",
+    "yomi": "かばとぐんうらうすまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kabatogunshintotsukawamachi",
+    "name": "樺戸郡新十津川町",
+    "yomi": "かばとぐんしんとつかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunmoseushimachi",
+    "name": "雨竜郡妹背牛町",
+    "yomi": "うりゅうぐんもせうしまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunchippubetsumachi",
+    "name": "雨竜郡秩父別町",
+    "yomi": "うりゅうぐんちっぷべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunuryuumachi",
+    "name": "雨竜郡雨竜町",
+    "yomi": "うりゅうぐんうりゅうまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunhokuryuumachi",
+    "name": "雨竜郡北竜町",
+    "yomi": "うりゅうぐんほくりゅうまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunnumatamachi",
+    "name": "雨竜郡沼田町",
+    "yomi": "うりゅうぐんぬまたまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawaguntakasumachi",
+    "name": "上川郡鷹栖町",
+    "yomi": "かみかわぐんたかすまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunhigashikaguramachi",
+    "name": "上川郡東神楽町",
+    "yomi": "かみかわぐんひがしかぐらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawaguntoumamachi",
+    "name": "上川郡当麻町",
+    "yomi": "かみかわぐんとうままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunpippumachi",
+    "name": "上川郡比布町",
+    "yomi": "かみかわぐんぴっぷまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunaibetsumachi",
+    "name": "上川郡愛別町",
+    "yomi": "かみかわぐんあいべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagujoukawamachi",
+    "name": "上川郡上川町",
+    "yomi": "かみかわぐじょうかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunhigashikawamachi",
+    "name": "上川郡東川町",
+    "yomi": "かみかわぐんひがしかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunbieimachi",
+    "name": "上川郡美瑛町",
+    "yomi": "かみかわぐんびえいまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigujoufuranomachi",
+    "name": "空知郡上富良野町",
+    "yomi": "そらちぐじょうふらのまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigunchuufuranomachi",
+    "name": "空知郡中富良野町",
+    "yomi": "そらちぐんちゅうふらのまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sorachigunminamifuranomachi",
+    "name": "空知郡南富良野町",
+    "yomi": "そらちぐんみなみふらのまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuufutsugunshimukappumura",
+    "name": "勇払郡占冠村",
+    "yomi": "ゆうふつぐんしむかっぷむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunwassamumachi",
+    "name": "上川郡和寒町",
+    "yomi": "かみかわぐんわっさむまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunkenbuchimachi",
+    "name": "上川郡剣淵町",
+    "yomi": "かみかわぐんけんぶちまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunshimokawamachi",
+    "name": "上川郡下川町",
+    "yomi": "かみかわぐんしもかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawagunbifukamachi",
+    "name": "中川郡美深町",
+    "yomi": "なかがわぐんびふかまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawagunotoineppumura",
+    "name": "中川郡音威子府村",
+    "yomi": "なかがわぐんおといねっぷむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawagunchuukawamachi",
+    "name": "中川郡中川町",
+    "yomi": "なかがわぐんちゅうかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "uryuugunhorokanaimachi",
+    "name": "雨竜郡幌加内町",
+    "yomi": "うりゅうぐんほろかないまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "mashikegunmashikemachi",
+    "name": "増毛郡増毛町",
+    "yomi": "ましけぐんましけまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "rumoigunkodairamachi",
+    "name": "留萌郡小平町",
+    "yomi": "るもいぐんこだいらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "tomamaeguntomamaemachi",
+    "name": "苫前郡苫前町",
+    "yomi": "とままえぐんとままえまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "tomamaegunhahoromachi",
+    "name": "苫前郡羽幌町",
+    "yomi": "とままえぐんはほろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "tomamaegunshosanbetsumura",
+    "name": "苫前郡初山別村",
+    "yomi": "とままえぐんしょさんべつむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "teshiogunenbetsumachi",
+    "name": "天塩郡遠別町",
+    "yomi": "てしおぐんえんべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "teshiogunteshiomachi",
+    "name": "天塩郡天塩町",
+    "yomi": "てしおぐんてしおまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "souyagunsarufutsumura",
+    "name": "宗谷郡猿払村",
+    "yomi": "そうやぐんさるふつむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "esashigunhamatonbetsumachi",
+    "name": "枝幸郡浜頓別町",
+    "yomi": "えさしぐんはまとんべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "esashigunchuutonbetsumachi",
+    "name": "枝幸郡中頓別町",
+    "yomi": "えさしぐんちゅうとんべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "esashigunesashimachi",
+    "name": "枝幸郡枝幸町",
+    "yomi": "えさしぐんえさしまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "teshioguntoyotomichou",
+    "name": "天塩郡豊富町",
+    "yomi": "てしおぐんとよとみちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "rebungunrebunmachi",
+    "name": "礼文郡礼文町",
+    "yomi": "れぶんぐんれぶんまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "rishirigunrishirimachi",
+    "name": "利尻郡利尻町",
+    "yomi": "りしりぐんりしりまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "rishirigunrishirifujimachi",
+    "name": "利尻郡利尻富士町",
+    "yomi": "りしりぐんりしりふじまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "teshiogunhoronobemachi",
+    "name": "天塩郡幌延町",
+    "yomi": "てしおぐんほろのべまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abashirigunbihorochou",
+    "name": "網走郡美幌町",
+    "yomi": "あばしりぐんびほろちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "abashiriguntsubetsumachi",
+    "name": "網走郡津別町",
+    "yomi": "あばしりぐんつべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sharigunsharimachi",
+    "name": "斜里郡斜里町",
+    "yomi": "しゃりぐんしゃりまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sharigunkiyosatomachi",
+    "name": "斜里郡清里町",
+    "yomi": "しゃりぐんきよさとまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sharigunkoshimizumachi",
+    "name": "斜里郡小清水町",
+    "yomi": "しゃりぐんこしみずまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "tokorogunkunneppuchou",
+    "name": "常呂郡訓子府町",
+    "yomi": "ところぐんくんねっぷちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "tokorogunokitochou",
+    "name": "常呂郡置戸町",
+    "yomi": "ところぐんおきとちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "tokorogunsaromamachi",
+    "name": "常呂郡佐呂間町",
+    "yomi": "ところぐんさろままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsugunenkarumachi",
+    "name": "紋別郡遠軽町",
+    "yomi": "もんべつぐんえんかるまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsugunyuubetsumachi",
+    "name": "紋別郡湧別町",
+    "yomi": "もんべつぐんゆうべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsuguntakigamimachi",
+    "name": "紋別郡滝上町",
+    "yomi": "もんべつぐんたきがみまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsugunokoppechou",
+    "name": "紋別郡興部町",
+    "yomi": "もんべつぐんおこっぺちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsugunnishiokoppemura",
+    "name": "紋別郡西興部村",
+    "yomi": "もんべつぐんにしおこっぺむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "monbetsugunoumuchou",
+    "name": "紋別郡雄武町",
+    "yomi": "もんべつぐんおうむちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "abashirigunoozoramachi",
+    "name": "網走郡大空町",
+    "yomi": "あばしりぐんおおぞらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutaguntoyouramachi",
+    "name": "虻田郡豊浦町",
+    "yomi": "あぶたぐんとようらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "usugunsoubetsumachi",
+    "name": "有珠郡壮瞥町",
+    "yomi": "うすぐんそうべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "shiraoigunshiraoimachi",
+    "name": "白老郡白老町",
+    "yomi": "しらおいぐんしらおいまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuufutsugunatsumamachi",
+    "name": "勇払郡厚真町",
+    "yomi": "ゆうふつぐんあつままち",
+    "pref": "北海道"
+  },
+  {
+    "id": "abutaguntouyakomachi",
+    "name": "虻田郡洞爺湖町",
+    "yomi": "あぶたぐんとうやこまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuufutsugunabiramachi",
+    "name": "勇払郡安平町",
+    "yomi": "ゆうふつぐんあびらまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "yuufutsugunmukawamachi",
+    "name": "勇払郡むかわ町",
+    "yomi": "ゆうふつぐんむかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sarugunhidakamachi",
+    "name": "沙流郡日高町",
+    "yomi": "さるぐんひだかまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "sarugunhiratorimachi",
+    "name": "沙流郡平取町",
+    "yomi": "さるぐんひらとりまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "niikappugunniikappuchou",
+    "name": "新冠郡新冠町",
+    "yomi": "にいかっぷぐんにいかっぷちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "urakawagunurakawamachi",
+    "name": "浦河郡浦河町",
+    "yomi": "うらかわぐんうらかわまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "samanigunsamanimachi",
+    "name": "様似郡様似町",
+    "yomi": "さまにぐんさまにまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "horoizumigunerimomachi",
+    "name": "幌泉郡えりも町",
+    "yomi": "ほろいずみぐんえりもまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hidakagunshinhidakamachi",
+    "name": "日高郡新ひだか町",
+    "yomi": "ひだかぐんしんひだかまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawahigashigunotoshinachou",
+    "name": "河東郡音更町",
+    "yomi": "かわひがしぐんおとしなちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawahigashigunshihoromachi",
+    "name": "河東郡士幌町",
+    "yomi": "かわひがしぐんしほろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawahigashigujoushihoromachi",
+    "name": "河東郡上士幌町",
+    "yomi": "かわひがしぐじょうしほろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawahigashigunshikaoimachi",
+    "name": "河東郡鹿追町",
+    "yomi": "かわひがしぐんしかおいまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunshintokumachi",
+    "name": "上川郡新得町",
+    "yomi": "かみかわぐんしんとくまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kamikawagunshimizuchou",
+    "name": "上川郡清水町",
+    "yomi": "かみかわぐんしみずちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "kasaigunmemuromachi",
+    "name": "河西郡芽室町",
+    "yomi": "かさいぐんめむろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kasaigunchuusatsunaimura",
+    "name": "河西郡中札内村",
+    "yomi": "かさいぐんちゅうさつないむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "kasaigunsarabetsumura",
+    "name": "河西郡更別村",
+    "yomi": "かさいぐんさらべつむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "hirooguntaijumachi",
+    "name": "広尾郡大樹町",
+    "yomi": "ひろおぐんたいじゅまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hiroogunhiroomachi",
+    "name": "広尾郡広尾町",
+    "yomi": "ひろおぐんひろおまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawagunmakubetsumachi",
+    "name": "中川郡幕別町",
+    "yomi": "なかがわぐんまくべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawakooriiketamachi",
+    "name": "中川郡池田町",
+    "yomi": "なかがわこおりいけたまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawaguntoyokoromachi",
+    "name": "中川郡豊頃町",
+    "yomi": "なかがわぐんとよころまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "nakagawakoorimotobetsumachi",
+    "name": "中川郡本別町",
+    "yomi": "なかがわこおりもとべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "ashorogunashoromachi",
+    "name": "足寄郡足寄町",
+    "yomi": "あしょろぐんあしょろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "ashorogunrikubetsumachi",
+    "name": "足寄郡陸別町",
+    "yomi": "あしょろぐんりくべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "tokachigunurahoromachi",
+    "name": "十勝郡浦幌町",
+    "yomi": "とかちぐんうらほろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kushirogunkushiromachi",
+    "name": "釧路郡釧路町",
+    "yomi": "くしろぐんくしろまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "akkeshigunakkeshimachi",
+    "name": "厚岸郡厚岸町",
+    "yomi": "あっけしぐんあっけしまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "akkeshigunhamanakamachi",
+    "name": "厚岸郡浜中町",
+    "yomi": "あっけしぐんはまなかまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawakamigunshibechamachi",
+    "name": "川上郡標茶町",
+    "yomi": "かわかみぐんしべちゃまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "kawakamigunteshikutsuchou",
+    "name": "川上郡弟子屈町",
+    "yomi": "かわかみぐんてしくつちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "akanguntsuruimura",
+    "name": "阿寒郡鶴居村",
+    "yomi": "あかんぐんつるいむら",
+    "pref": "北海道"
+  },
+  {
+    "id": "shiranukagunshironukachou",
+    "name": "白糠郡白糠町",
+    "yomi": "しらぬかぐんしろぬかちょう",
+    "pref": "北海道"
+  },
+  {
+    "id": "notsukegunbekkaimachi",
+    "name": "野付郡別海町",
+    "yomi": "のつけぐんべっかいまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "shibetsugunchuushibetsumachi",
+    "name": "標津郡中標津町",
+    "yomi": "しべつぐんちゅうしべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "shibetsugunshibetsumachi",
+    "name": "標津郡標津町",
+    "yomi": "しべつぐんしべつまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "menashigunrausumachi",
+    "name": "目梨郡羅臼町",
+    "yomi": "めなしぐんらうすまち",
+    "pref": "北海道"
+  },
+  {
+    "id": "hirosakishi",
+    "name": "弘前市",
+    "yomi": "ひろさきし",
+    "pref": "青森県"
+  },
+  {
+    "id": "hachinoheshi",
+    "name": "八戸市",
+    "yomi": "はちのへし",
+    "pref": "青森県"
+  },
+  {
+    "id": "kuroishishi",
+    "name": "黒石市",
+    "yomi": "くろいしし",
+    "pref": "青森県"
+  },
+  {
+    "id": "goshogawarashi",
+    "name": "五所川原市",
+    "yomi": "ごしょがわらし",
+    "pref": "青森県"
+  },
+  {
+    "id": "towadashi",
+    "name": "十和田市",
+    "yomi": "とわだし",
+    "pref": "青森県"
+  },
+  {
+    "id": "misawashi",
+    "name": "三沢市",
+    "yomi": "みさわし",
+    "pref": "青森県"
+  },
+  {
+    "id": "mutsushi",
+    "name": "むつ市",
+    "yomi": "むつし",
+    "pref": "青森県"
+  },
+  {
+    "id": "tsugarushi",
+    "name": "つがる市",
+    "yomi": "つがるし",
+    "pref": "青森県"
+  },
+  {
+    "id": "hirakawashi",
+    "name": "平川市",
+    "yomi": "ひらかわし",
+    "pref": "青森県"
+  },
+  {
+    "id": "higashitsugarugunhiranaimachi",
+    "name": "東津軽郡平内町",
+    "yomi": "ひがしつがるぐんひらないまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "higashitsugarugunimabetsumachi",
+    "name": "東津軽郡今別町",
+    "yomi": "ひがしつがるぐんいまべつまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "higashitsugarugunyomogidamura",
+    "name": "東津軽郡蓬田村",
+    "yomi": "ひがしつがるぐんよもぎだむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "higashitsugarugunsotokehamachou",
+    "name": "東津軽郡外ケ浜町",
+    "yomi": "ひがしつがるぐんそとけはまちょう",
+    "pref": "青森県"
+  },
+  {
+    "id": "nishitsugarugunajikesawamachi",
+    "name": "西津軽郡鰺ヶ沢町",
+    "yomi": "にしつがるぐんあじゖさわまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "nishitsugarugunfukauramachi",
+    "name": "西津軽郡深浦町",
+    "yomi": "にしつがるぐんふかうらまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "nakatsugarugunnishimeyamura",
+    "name": "中津軽郡西目屋村",
+    "yomi": "なかつがるぐんにしめやむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "minamitsugarugunfujisakimachi",
+    "name": "南津軽郡藤崎町",
+    "yomi": "みなみつがるぐんふじさきまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "minamitsugarugunoowanimachi",
+    "name": "南津軽郡大鰐町",
+    "yomi": "みなみつがるぐんおおわにまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "minamitsugaruguninakadatemura",
+    "name": "南津軽郡田舎館村",
+    "yomi": "みなみつがるぐんいなかだてむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "kitatsugarugunitayanagimachi",
+    "name": "北津軽郡板柳町",
+    "yomi": "きたつがるぐんいたやなぎまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kitatsugaruguntsurutamachi",
+    "name": "北津軽郡鶴田町",
+    "yomi": "きたつがるぐんつるたまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kitatsugarugunchuutomarimachi",
+    "name": "北津軽郡中泊町",
+    "yomi": "きたつがるぐんちゅうとまりまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunnohejimachi",
+    "name": "上北郡野辺地町",
+    "yomi": "かみきたぐんのへじまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunshichinohemachi",
+    "name": "上北郡七戸町",
+    "yomi": "かみきたぐんしちのへまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunrokunohemachi",
+    "name": "上北郡六戸町",
+    "yomi": "かみきたぐんろくのへまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunyokohamamachi",
+    "name": "上北郡横浜町",
+    "yomi": "かみきたぐんよこはままち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitaguntouhokumachi",
+    "name": "上北郡東北町",
+    "yomi": "かみきたぐんとうほくまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunrokuketokoromura",
+    "name": "上北郡六ヶ所村",
+    "yomi": "かみきたぐんろくゖところむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "kamikitagunoirasemachi",
+    "name": "上北郡おいらせ町",
+    "yomi": "かみきたぐんおいらせまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "shimokitagunoohazamamachi",
+    "name": "下北郡大間町",
+    "yomi": "しもきたぐんおおはざままち",
+    "pref": "青森県"
+  },
+  {
+    "id": "shimokitagunhigashidoorimura",
+    "name": "下北郡東通村",
+    "yomi": "しもきたぐんひがしどおりむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "shimokitagunkazamauramura",
+    "name": "下北郡風間浦村",
+    "yomi": "しもきたぐんかざまうらむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "shimokitagunsaimura",
+    "name": "下北郡佐井村",
+    "yomi": "しもきたぐんさいむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannohegunsannohemachi",
+    "name": "三戸郡三戸町",
+    "yomi": "さんのへぐんさんのへまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannohegungonohemachi",
+    "name": "三戸郡五戸町",
+    "yomi": "さんのへぐんごのへまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannoheguntagomachi",
+    "name": "三戸郡田子町",
+    "yomi": "さんのへぐんたごまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannohegunnanbumachi",
+    "name": "三戸郡南部町",
+    "yomi": "さんのへぐんなんぶまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannohegunkaijoumachi",
+    "name": "三戸郡階上町",
+    "yomi": "さんのへぐんかいじょうまち",
+    "pref": "青森県"
+  },
+  {
+    "id": "sannohegunshingoumura",
+    "name": "三戸郡新郷村",
+    "yomi": "さんのへぐんしんごうむら",
+    "pref": "青森県"
+  },
+  {
+    "id": "miyakoshi",
+    "name": "宮古市",
+    "yomi": "みやこし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "oofunatoshi",
+    "name": "大船渡市",
+    "yomi": "おおふなとし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "hanamakishi",
+    "name": "花巻市",
+    "yomi": "はなまきし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kitakamishi",
+    "name": "北上市",
+    "yomi": "きたかみし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kujishi",
+    "name": "久慈市",
+    "yomi": "くじし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "toonoshi",
+    "name": "遠野市",
+    "yomi": "とおのし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "ichinosekishi",
+    "name": "一関市",
+    "yomi": "いちのせきし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "rikuzentakatashi",
+    "name": "陸前高田市",
+    "yomi": "りくぜんたかたし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kamaishishi",
+    "name": "釜石市",
+    "yomi": "かまいしし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "ninoheshi",
+    "name": "二戸市",
+    "yomi": "にのへし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "hachimantaishi",
+    "name": "八幡平市",
+    "yomi": "はちまんたいし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "oushuushi",
+    "name": "奥州市",
+    "yomi": "おうしゅうし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "takizawashi",
+    "name": "滝沢市",
+    "yomi": "たきざわし",
+    "pref": "岩手県"
+  },
+  {
+    "id": "iwategunshizukuishimachi",
+    "name": "岩手郡雫石町",
+    "yomi": "いわてぐんしずくいしまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "iwategunkuzumakimachi",
+    "name": "岩手郡葛巻町",
+    "yomi": "いわてぐんくずまきまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "iwateguniwatemachi",
+    "name": "岩手郡岩手町",
+    "yomi": "いわてぐんいわてまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shiwagunshiwamachi",
+    "name": "紫波郡紫波町",
+    "yomi": "しわぐんしわまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shiwagunyahabamachi",
+    "name": "紫波郡矢巾町",
+    "yomi": "しわぐんやはばまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "wagagunnishiwagamachi",
+    "name": "和賀郡西和賀町",
+    "yomi": "わがぐんにしわがまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "isawagunkinkesakimachi",
+    "name": "胆沢郡金ケ崎町",
+    "yomi": "いさわぐんきんけさきまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "nishiiwaigunhiraizumimachi",
+    "name": "西磐井郡平泉町",
+    "yomi": "にしいわいぐんひらいずみまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kesengunsumitamachi",
+    "name": "気仙郡住田町",
+    "yomi": "けせんぐんすみたまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kamiheigunootsuchimachi",
+    "name": "上閉伊郡大槌町",
+    "yomi": "かみへいぐんおおつちまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shimoheikouriyamatamachi",
+    "name": "下閉伊郡山田町",
+    "yomi": "しもへいこうりやまたまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shimoheiguniwaizumimachi",
+    "name": "下閉伊郡岩泉町",
+    "yomi": "しもへいぐんいわいずみまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shimoheiguntanohatamura",
+    "name": "下閉伊郡田野畑村",
+    "yomi": "しもへいぐんたのはたむら",
+    "pref": "岩手県"
+  },
+  {
+    "id": "shimoheigunfudaimura",
+    "name": "下閉伊郡普代村",
+    "yomi": "しもへいぐんふだいむら",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kunohegunkarumaimachi",
+    "name": "九戸郡軽米町",
+    "yomi": "くのへぐんかるまいまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kunohegunnodamura",
+    "name": "九戸郡野田村",
+    "yomi": "くのへぐんのだむら",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kunohegunkunohemura",
+    "name": "九戸郡九戸村",
+    "yomi": "くのへぐんくのへむら",
+    "pref": "岩手県"
+  },
+  {
+    "id": "kunohegunhironomachi",
+    "name": "九戸郡洋野町",
+    "yomi": "くのへぐんひろのまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "ninohegunichinohemachi",
+    "name": "二戸郡一戸町",
+    "yomi": "にのへぐんいちのへまち",
+    "pref": "岩手県"
+  },
+  {
+    "id": "ishinomakishi",
+    "name": "石巻市",
+    "yomi": "いしのまきし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shiogamashi",
+    "name": "塩竈市",
+    "yomi": "しおがまし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kesennumashi",
+    "name": "気仙沼市",
+    "yomi": "けせんぬまし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shiroishishi",
+    "name": "白石市",
+    "yomi": "しろいしし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "natorishi",
+    "name": "名取市",
+    "yomi": "なとりし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kakudashi",
+    "name": "角田市",
+    "yomi": "かくだし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "tagajoushi",
+    "name": "多賀城市",
+    "yomi": "たがじょうし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "iwanumashi",
+    "name": "岩沼市",
+    "yomi": "いわぬまし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "tomeshi",
+    "name": "登米市",
+    "yomi": "とめし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kuriharashi",
+    "name": "栗原市",
+    "yomi": "くりはらし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "higashimatsushimashi",
+    "name": "東松島市",
+    "yomi": "ひがしまつしまし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "oosakishi",
+    "name": "大崎市",
+    "yomi": "おおさきし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "tomiyashi",
+    "name": "富谷市",
+    "yomi": "とみやし",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kattagunzaouchou",
+    "name": "刈田郡蔵王町",
+    "yomi": "かったぐんざおうちょう",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kattagunshichigashukumachi",
+    "name": "刈田郡七ヶ宿町",
+    "yomi": "かったぐんしちがしゅくまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shibatagunoogawaramachi",
+    "name": "柴田郡大河原町",
+    "yomi": "しばたぐんおおがわらまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shibatagunsontamachi",
+    "name": "柴田郡村田町",
+    "yomi": "しばたぐんそんたまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shibatagunshibatamachi",
+    "name": "柴田郡柴田町",
+    "yomi": "しばたぐんしばたまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "shibatagunkawasakichou",
+    "name": "柴田郡川崎町",
+    "yomi": "しばたぐんかわさきちょう",
+    "pref": "宮城県"
+  },
+  {
+    "id": "igugunmarumorimachi",
+    "name": "伊具郡丸森町",
+    "yomi": "いぐぐんまるもりまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kourigunkourimachi",
+    "name": "亘理郡亘理町",
+    "yomi": "こうりぐんこうりまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kourikouriyamamotomachi",
+    "name": "亘理郡山元町",
+    "yomi": "こうりこうりやまもとまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "miyagigunmatsushimamachi",
+    "name": "宮城郡松島町",
+    "yomi": "みやぎぐんまつしままち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "miyagigunshichigahamamachi",
+    "name": "宮城郡七ヶ浜町",
+    "yomi": "みやぎぐんしちがはままち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "miyagigunrifumachi",
+    "name": "宮城郡利府町",
+    "yomi": "みやぎぐんりふまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kurokawagunyamatochou",
+    "name": "黒川郡大和町",
+    "yomi": "くろかわぐんやまとちょう",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kurokawagunoosatomachi",
+    "name": "黒川郡大郷町",
+    "yomi": "くろかわぐんおおさとまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kurokawagunoohiramura",
+    "name": "黒川郡大衡村",
+    "yomi": "くろかわぐんおおひらむら",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kamigunshikamamachi",
+    "name": "加美郡色麻町",
+    "yomi": "かみぐんしかままち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "kamigunkamimachi",
+    "name": "加美郡加美町",
+    "yomi": "かみぐんかみまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "toodagunwakuyamachi",
+    "name": "遠田郡涌谷町",
+    "yomi": "とおだぐんわくやまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "toodagunmisatomachi",
+    "name": "遠田郡美里町",
+    "yomi": "とおだぐんみさとまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "oshikagunjokawamachi",
+    "name": "牡鹿郡女川町",
+    "yomi": "おしかぐんじょかわまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "motoyoshigunminamisanrikumachi",
+    "name": "本吉郡南三陸町",
+    "yomi": "もとよしぐんみなみさんりくまち",
+    "pref": "宮城県"
+  },
+  {
+    "id": "noshiroshi",
+    "name": "能代市",
+    "yomi": "のしろし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yokoteshi",
+    "name": "横手市",
+    "yomi": "よこてし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "oodateshi",
+    "name": "大館市",
+    "yomi": "おおだてし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "ogashi",
+    "name": "男鹿市",
+    "yomi": "おがし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yuzawashi",
+    "name": "湯沢市",
+    "yomi": "ゆざわし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "kazunoshi",
+    "name": "鹿角市",
+    "yomi": "かづのし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yurihonjoushi",
+    "name": "由利本荘市",
+    "yomi": "ゆりほんじょうし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "katagamishi",
+    "name": "潟上市",
+    "yomi": "かたがみし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "daisenshi",
+    "name": "大仙市",
+    "yomi": "だいせんし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "kitaakitashi",
+    "name": "北秋田市",
+    "yomi": "きたあきたし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "nikahoshi",
+    "name": "にかほ市",
+    "yomi": "にかほし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "senbokushi",
+    "name": "仙北市",
+    "yomi": "せんぼくし",
+    "pref": "秋田県"
+  },
+  {
+    "id": "kazunogunkosakamachi",
+    "name": "鹿角郡小坂町",
+    "yomi": "かづのぐんこさかまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "kitaakitagujoushouanimura",
+    "name": "北秋田郡上小阿仁村",
+    "yomi": "きたあきたぐじょうしょうあにむら",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yamamotogunfujisatomachi",
+    "name": "山本郡藤里町",
+    "yomi": "やまもとぐんふじさとまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yamamotogunsanshumachi",
+    "name": "山本郡三種町",
+    "yomi": "やまもとぐんさんしゅまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yamamotogunhappoumachi",
+    "name": "山本郡八峰町",
+    "yomi": "やまもとぐんはっぽうまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "minamiakitagungojoumemachi",
+    "name": "南秋田郡五城目町",
+    "yomi": "みなみあきたぐんごじょうめまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "minamiakitagunhachirougatamachi",
+    "name": "南秋田郡八郎潟町",
+    "yomi": "みなみあきたぐんはちろうがたまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "minamiakitagunikawamachi",
+    "name": "南秋田郡井川町",
+    "yomi": "みなみあきたぐんいかわまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "minamiakitagunoogatamura",
+    "name": "南秋田郡大潟村",
+    "yomi": "みなみあきたぐんおおがたむら",
+    "pref": "秋田県"
+  },
+  {
+    "id": "senbokugunmisatomachi",
+    "name": "仙北郡美郷町",
+    "yomi": "せんぼくぐんみさとまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "okatsugunugomachi",
+    "name": "雄勝郡羽後町",
+    "yomi": "おかつぐんうごまち",
+    "pref": "秋田県"
+  },
+  {
+    "id": "okatsugunhigashinarusemura",
+    "name": "雄勝郡東成瀬村",
+    "yomi": "おかつぐんひがしなるせむら",
+    "pref": "秋田県"
+  },
+  {
+    "id": "yonezawashi",
+    "name": "米沢市",
+    "yomi": "よねざわし",
+    "pref": "山形県"
+  },
+  {
+    "id": "tsuruokashi",
+    "name": "鶴岡市",
+    "yomi": "つるおかし",
+    "pref": "山形県"
+  },
+  {
+    "id": "sakatashi",
+    "name": "酒田市",
+    "yomi": "さかたし",
+    "pref": "山形県"
+  },
+  {
+    "id": "shinjoushi",
+    "name": "新庄市",
+    "yomi": "しんじょうし",
+    "pref": "山形県"
+  },
+  {
+    "id": "sagaeshi",
+    "name": "寒河江市",
+    "yomi": "さがえし",
+    "pref": "山形県"
+  },
+  {
+    "id": "ueyamashi",
+    "name": "上山市",
+    "yomi": "うえやまし",
+    "pref": "山形県"
+  },
+  {
+    "id": "murayamashi",
+    "name": "村山市",
+    "yomi": "むらやまし",
+    "pref": "山形県"
+  },
+  {
+    "id": "nagaishi",
+    "name": "長井市",
+    "yomi": "ながいし",
+    "pref": "山形県"
+  },
+  {
+    "id": "tendoushi",
+    "name": "天童市",
+    "yomi": "てんどうし",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashineshi",
+    "name": "東根市",
+    "yomi": "ひがしねし",
+    "pref": "山形県"
+  },
+  {
+    "id": "obanazawashi",
+    "name": "尾花沢市",
+    "yomi": "おばなざわし",
+    "pref": "山形県"
+  },
+  {
+    "id": "nanyoushi",
+    "name": "南陽市",
+    "yomi": "なんようし",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashimurayamakouriyamahenmachi",
+    "name": "東村山郡山辺町",
+    "yomi": "ひがしむらやまこうりやまへんまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashimurayamagunchuuyamachou",
+    "name": "東村山郡中山町",
+    "yomi": "ひがしむらやまぐんちゅうやまちょう",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishimurayamagunkahokumachi",
+    "name": "西村山郡河北町",
+    "yomi": "にしむらやまぐんかほくまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishimurayamagunnishigawachou",
+    "name": "西村山郡西川町",
+    "yomi": "にしむらやまぐんにしがわちょう",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishimurayamagunasahimachi",
+    "name": "西村山郡朝日町",
+    "yomi": "にしむらやまぐんあさひまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishimurayamagunooechou",
+    "name": "西村山郡大江町",
+    "yomi": "にしむらやまぐんおおえちょう",
+    "pref": "山形県"
+  },
+  {
+    "id": "kitamurayamagunooishidamachi",
+    "name": "北村山郡大石田町",
+    "yomi": "きたむらやまぐんおおいしだまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunkanayamachou",
+    "name": "最上郡金山町",
+    "yomi": "さいじょうぐんかなやまちょう",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunsaijoumachi",
+    "name": "最上郡最上町",
+    "yomi": "さいじょうぐんさいじょうまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunfunagatamachi",
+    "name": "最上郡舟形町",
+    "yomi": "さいじょうぐんふながたまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunmamurogawamachi",
+    "name": "最上郡真室川町",
+    "yomi": "さいじょうぐんまむろがわまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunookuramura",
+    "name": "最上郡大蔵村",
+    "yomi": "さいじょうぐんおおくらむら",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijougunsakekawamura",
+    "name": "最上郡鮭川村",
+    "yomi": "さいじょうぐんさけかわむら",
+    "pref": "山形県"
+  },
+  {
+    "id": "saijouguntozawamura",
+    "name": "最上郡戸沢村",
+    "yomi": "さいじょうぐんとざわむら",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashiokitamaguntakahatamachi",
+    "name": "東置賜郡高畠町",
+    "yomi": "ひがしおきたまぐんたかはたまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashiokitamagunkawanishimachi",
+    "name": "東置賜郡川西町",
+    "yomi": "ひがしおきたまぐんかわにしまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishiokitamagunogunimachi",
+    "name": "西置賜郡小国町",
+    "yomi": "にしおきたまぐんおぐにまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishiokitamagunshiratakamachi",
+    "name": "西置賜郡白鷹町",
+    "yomi": "にしおきたまぐんしらたかまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "nishiokitamaguniidemachi",
+    "name": "西置賜郡飯豊町",
+    "yomi": "にしおきたまぐんいいでまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashitagawagunmikawamachi",
+    "name": "東田川郡三川町",
+    "yomi": "ひがしたがわぐんみかわまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "higashitagawagunshounaimachi",
+    "name": "東田川郡庄内町",
+    "yomi": "ひがしたがわぐんしょうないまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "akumigunyusamachi",
+    "name": "飽海郡遊佐町",
+    "yomi": "あくみぐんゆさまち",
+    "pref": "山形県"
+  },
+  {
+    "id": "aizuwakamatsushi",
+    "name": "会津若松市",
+    "yomi": "あいづわかまつし",
+    "pref": "福島県"
+  },
+  {
+    "id": "kouriyamashi",
+    "name": "郡山市",
+    "yomi": "こうりやまし",
+    "pref": "福島県"
+  },
+  {
+    "id": "iwakishi",
+    "name": "いわき市",
+    "yomi": "いわきし",
+    "pref": "福島県"
+  },
+  {
+    "id": "shirakawashi",
+    "name": "白河市",
+    "yomi": "しらかわし",
+    "pref": "福島県"
+  },
+  {
+    "id": "sukagawashi",
+    "name": "須賀川市",
+    "yomi": "すかがわし",
+    "pref": "福島県"
+  },
+  {
+    "id": "kitakatashi",
+    "name": "喜多方市",
+    "yomi": "きたかたし",
+    "pref": "福島県"
+  },
+  {
+    "id": "soumashi",
+    "name": "相馬市",
+    "yomi": "そうまし",
+    "pref": "福島県"
+  },
+  {
+    "id": "nihonmatsushi",
+    "name": "二本松市",
+    "yomi": "にほんまつし",
+    "pref": "福島県"
+  },
+  {
+    "id": "tamurashi",
+    "name": "田村市",
+    "yomi": "たむらし",
+    "pref": "福島県"
+  },
+  {
+    "id": "minamisoumashi",
+    "name": "南相馬市",
+    "yomi": "みなみそうまし",
+    "pref": "福島県"
+  },
+  {
+    "id": "dateshi_fuku",
+    "name": "伊達市",
+    "yomi": "だてし",
+    "pref": "福島県"
+  },
+  {
+    "id": "motomiyashi",
+    "name": "本宮市",
+    "yomi": "もとみやし",
+    "pref": "福島県"
+  },
+  {
+    "id": "dategunkuwaorimachi",
+    "name": "伊達郡桑折町",
+    "yomi": "だてぐんくわおりまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "dategunkunimimachi",
+    "name": "伊達郡国見町",
+    "yomi": "だてぐんくにみまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "dategunkawamatamachi",
+    "name": "伊達郡川俣町",
+    "yomi": "だてぐんかわまたまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "adachigunootamamura",
+    "name": "安達郡大玉村",
+    "yomi": "あだちぐんおおたまむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "iwasegunkagamiishimachi",
+    "name": "岩瀬郡鏡石町",
+    "yomi": "いわせぐんかがみいしまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "iwasegunteneimura",
+    "name": "岩瀬郡天栄村",
+    "yomi": "いわせぐんてんえいむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "minamiaizugunshimogoumachi",
+    "name": "南会津郡下郷町",
+    "yomi": "みなみあいづぐんしもごうまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "minamiaizugunhiekimura",
+    "name": "南会津郡檜枝岐村",
+    "yomi": "みなみあいづぐんひえきむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "minamiaizuguntadamimachi",
+    "name": "南会津郡只見町",
+    "yomi": "みなみあいづぐんただみまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "minamiaizugunminamiaizumachi",
+    "name": "南会津郡南会津町",
+    "yomi": "みなみあいづぐんみなみあいづまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "yamagunkitashiobaramura",
+    "name": "耶麻郡北塩原村",
+    "yomi": "やまぐんきたしおばらむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "yamagunnishiaizumachi",
+    "name": "耶麻郡西会津町",
+    "yomi": "やまぐんにしあいづまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "yamagunbandaichou",
+    "name": "耶麻郡磐梯町",
+    "yomi": "やまぐんばんだいちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "yamaguninawashiromachi",
+    "name": "耶麻郡猪苗代町",
+    "yomi": "やまぐんいなわしろまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "kawanumagunkaitsusakashitamachi",
+    "name": "河沼郡会津坂下町",
+    "yomi": "かわぬまぐんかいつさかしたまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "kawanumagunyukawamura",
+    "name": "河沼郡湯川村",
+    "yomi": "かわぬまぐんゆかわむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "kawanumagunyanaizuchou",
+    "name": "河沼郡柳津町",
+    "yomi": "かわぬまぐんやないづちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "oonumagunmishimamachi",
+    "name": "大沼郡三島町",
+    "yomi": "おおぬまぐんみしままち",
+    "pref": "福島県"
+  },
+  {
+    "id": "oonumagunkanayamachou",
+    "name": "大沼郡金山町",
+    "yomi": "おおぬまぐんかなやまちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "oonumagunshouwamura",
+    "name": "大沼郡昭和村",
+    "yomi": "おおぬまぐんしょうわむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "oonumagunkaitsumisatomachi",
+    "name": "大沼郡会津美里町",
+    "yomi": "おおぬまぐんかいつみさとまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "nishishirakawagunsaigoumura",
+    "name": "西白河郡西郷村",
+    "yomi": "にししらかわぐんさいごうむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "nishishirakawagunizumisakimura",
+    "name": "西白河郡泉崎村",
+    "yomi": "にししらかわぐんいずみさきむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "nishishirakawagunchuushimamura",
+    "name": "西白河郡中島村",
+    "yomi": "にししらかわぐんちゅうしまむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "nishishirakawagunyabukimachi",
+    "name": "西白河郡矢吹町",
+    "yomi": "にししらかわぐんやぶきまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "higashishirakawaguntanakuramachi",
+    "name": "東白川郡棚倉町",
+    "yomi": "ひがししらかわぐんたなくらまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "higashishirakawagunyamatsurimachi",
+    "name": "東白川郡矢祭町",
+    "yomi": "ひがししらかわぐんやまつりまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "higashishirakawagunhanawamachi",
+    "name": "東白川郡塙町",
+    "yomi": "ひがししらかわぐんはなわまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "higashishirakawagunsamekawamura",
+    "name": "東白川郡鮫川村",
+    "yomi": "ひがししらかわぐんさめかわむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "ishikawagunishikawachou",
+    "name": "石川郡石川町",
+    "yomi": "いしかわぐんいしかわちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "ishikawaguntamagawamura",
+    "name": "石川郡玉川村",
+    "yomi": "いしかわぐんたまがわむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "ishikawagunhiratamura",
+    "name": "石川郡平田村",
+    "yomi": "いしかわぐんひらたむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "ishikawagunasakawamachi",
+    "name": "石川郡浅川町",
+    "yomi": "いしかわぐんあさかわまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "ishikawagunfurudonomachi",
+    "name": "石川郡古殿町",
+    "yomi": "いしかわぐんふるどのまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "tamuragunmiharumachi",
+    "name": "田村郡三春町",
+    "yomi": "たむらぐんみはるまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "tamuragunonochou",
+    "name": "田村郡小野町",
+    "yomi": "たむらぐんおのちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunkouyamachi",
+    "name": "双葉郡広野町",
+    "yomi": "ふたばぐんこうやまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunnarahamachi",
+    "name": "双葉郡楢葉町",
+    "yomi": "ふたばぐんならはまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabaguntomiokamachi",
+    "name": "双葉郡富岡町",
+    "yomi": "ふたばぐんとみおかまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunkawauchimura",
+    "name": "双葉郡川内村",
+    "yomi": "ふたばぐんかわうちむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunookumamachi",
+    "name": "双葉郡大熊町",
+    "yomi": "ふたばぐんおおくままち",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunfutabachou",
+    "name": "双葉郡双葉町",
+    "yomi": "ふたばぐんふたばちょう",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunnamiemachi",
+    "name": "双葉郡浪江町",
+    "yomi": "ふたばぐんなみえまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "futabagunkatsuraomura",
+    "name": "双葉郡葛尾村",
+    "yomi": "ふたばぐんかつらおむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "soumagunshinchimachi",
+    "name": "相馬郡新地町",
+    "yomi": "そうまぐんしんちまち",
+    "pref": "福島県"
+  },
+  {
+    "id": "soumaguniitatemura",
+    "name": "相馬郡飯舘村",
+    "yomi": "そうまぐんいいたてむら",
+    "pref": "福島県"
+  },
+  {
+    "id": "hitachishi",
+    "name": "日立市",
+    "yomi": "ひたちし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "tsuchiurashi",
+    "name": "土浦市",
+    "yomi": "つちうらし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kogashi",
+    "name": "古河市",
+    "yomi": "こがし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "ishiokashi",
+    "name": "石岡市",
+    "yomi": "いしおかし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "yuukishi",
+    "name": "結城市",
+    "yomi": "ゆうきし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "ryuukesakishi",
+    "name": "龍ヶ崎市",
+    "yomi": "りゅうゖさきし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "shimozumashi",
+    "name": "下妻市",
+    "yomi": "しもづまし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "jousoushi",
+    "name": "常総市",
+    "yomi": "じょうそうし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "hitachiootashi",
+    "name": "常陸太田市",
+    "yomi": "ひたちおおたし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "takahagishi",
+    "name": "高萩市",
+    "yomi": "たかはぎし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kitaibaragishi",
+    "name": "北茨城市",
+    "yomi": "きたいばらぎし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kasamashi",
+    "name": "笠間市",
+    "yomi": "かさまし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "torideshi",
+    "name": "取手市",
+    "yomi": "とりでし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "ushikushi",
+    "name": "牛久市",
+    "yomi": "うしくし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "tsukubashi",
+    "name": "つくば市",
+    "yomi": "つくばし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "hitachinakashi",
+    "name": "ひたちなか市",
+    "yomi": "ひたちなかし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kashimashi",
+    "name": "鹿嶋市",
+    "yomi": "かしまし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "itakoshi",
+    "name": "潮来市",
+    "yomi": "いたこし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "moriyashi",
+    "name": "守谷市",
+    "yomi": "もりやし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "hitachioomiyashi",
+    "name": "常陸大宮市",
+    "yomi": "ひたちおおみやし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "nakashi",
+    "name": "那珂市",
+    "yomi": "なかし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "chikuseishi",
+    "name": "筑西市",
+    "yomi": "ちくせいし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "bandoushi",
+    "name": "坂東市",
+    "yomi": "ばんどうし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "inashikishi",
+    "name": "稲敷市",
+    "yomi": "いなしきし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kasumigaurashi",
+    "name": "かすみがうら市",
+    "yomi": "かすみがうらし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "sakuragawashi",
+    "name": "桜川市",
+    "yomi": "さくらがわし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kamisushi",
+    "name": "神栖市",
+    "yomi": "かみすし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "namegatashi",
+    "name": "行方市",
+    "yomi": "なめがたし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "hokotashi",
+    "name": "鉾田市",
+    "yomi": "ほこたし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "tsukubamiraishi",
+    "name": "つくばみらい市",
+    "yomi": "つくばみらいし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "omitamashi",
+    "name": "小美玉市",
+    "yomi": "おみたまし",
+    "pref": "茨城県"
+  },
+  {
+    "id": "higashiibarakigunibarakimachi",
+    "name": "東茨城郡茨城町",
+    "yomi": "ひがしいばらきぐんいばらきまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "higashiibarakigunooaraimachi",
+    "name": "東茨城郡大洗町",
+    "yomi": "ひがしいばらきぐんおおあらいまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "higashiibarakigunshirosatomachi",
+    "name": "東茨城郡城里町",
+    "yomi": "ひがしいばらきぐんしろさとまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "nakaguntoukaimura",
+    "name": "那珂郡東海村",
+    "yomi": "なかぐんとうかいむら",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kujigunoogomachi",
+    "name": "久慈郡大子町",
+    "yomi": "くじぐんおおごまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "inashikigunmihoromura",
+    "name": "稲敷郡美浦村",
+    "yomi": "いなしきぐんみほろむら",
+    "pref": "茨城県"
+  },
+  {
+    "id": "inashikigunamichou",
+    "name": "稲敷郡阿見町",
+    "yomi": "いなしきぐんあみちょう",
+    "pref": "茨城県"
+  },
+  {
+    "id": "inashikigunkawauchimachi",
+    "name": "稲敷郡河内町",
+    "yomi": "いなしきぐんかわうちまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "yuukigunyachiyomachi",
+    "name": "結城郡八千代町",
+    "yomi": "ゆうきぐんやちよまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "sarushimagungokamachi",
+    "name": "猿島郡五霞町",
+    "yomi": "さるしまぐんごかまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "sarushimagunsakaimachi",
+    "name": "猿島郡境町",
+    "yomi": "さるしまぐんさかいまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "kitasoumaguntonemachi",
+    "name": "北相馬郡利根町",
+    "yomi": "きたそうまぐんとねまち",
+    "pref": "茨城県"
+  },
+  {
+    "id": "ashikagashi",
+    "name": "足利市",
+    "yomi": "あしかがし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "tochigishi",
+    "name": "栃木市",
+    "yomi": "とちぎし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "sanoshi",
+    "name": "佐野市",
+    "yomi": "さのし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "kanumashi",
+    "name": "鹿沼市",
+    "yomi": "かぬまし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "nikkoushi",
+    "name": "日光市",
+    "yomi": "にっこうし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "oyamashi",
+    "name": "小山市",
+    "yomi": "おやまし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "mookashi",
+    "name": "真岡市",
+    "yomi": "もおかし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "ootawarashi",
+    "name": "大田原市",
+    "yomi": "おおたわらし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "yaitashi",
+    "name": "矢板市",
+    "yomi": "やいたし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "nasushiobarashi",
+    "name": "那須塩原市",
+    "yomi": "なすしおばらし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "sakurashi",
+    "name": "さくら市",
+    "yomi": "さくらし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "nasukarasuyamashi",
+    "name": "那須烏山市",
+    "yomi": "なすからすやまし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "shimotsukeshi",
+    "name": "下野市",
+    "yomi": "しもつけし",
+    "pref": "栃木県"
+  },
+  {
+    "id": "kawauchigujoumikawamachi",
+    "name": "河内郡上三川町",
+    "yomi": "かわうちぐじょうみかわまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "hagagunmashikochou",
+    "name": "芳賀郡益子町",
+    "yomi": "はがぐんましこちょう",
+    "pref": "栃木県"
+  },
+  {
+    "id": "hagagunmotegimachi",
+    "name": "芳賀郡茂木町",
+    "yomi": "はがぐんもてぎまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "hagagunichikaimachi",
+    "name": "芳賀郡市貝町",
+    "yomi": "はがぐんいちかいまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "hagagunhagamachi",
+    "name": "芳賀郡芳賀町",
+    "yomi": "はがぐんはがまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "shimotsugagunmibumachi",
+    "name": "下都賀郡壬生町",
+    "yomi": "しもつがぐんみぶまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "shimotsugagunnogimachi",
+    "name": "下都賀郡野木町",
+    "yomi": "しもつがぐんのぎまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "shioyagunshioyamachi",
+    "name": "塩谷郡塩谷町",
+    "yomi": "しおやぐんしおやまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "shioyaguntakanezawamachi",
+    "name": "塩谷郡高根沢町",
+    "yomi": "しおやぐんたかねざわまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "nasugunnasumachi",
+    "name": "那須郡那須町",
+    "yomi": "なすぐんなすまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "nasugunnakagawamachi",
+    "name": "那須郡那珂川町",
+    "yomi": "なすぐんなかがわまち",
+    "pref": "栃木県"
+  },
+  {
+    "id": "takasakishi",
+    "name": "高崎市",
+    "yomi": "たかさきし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kiryuushi",
+    "name": "桐生市",
+    "yomi": "きりゅうし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "isesakishi",
+    "name": "伊勢崎市",
+    "yomi": "いせさきし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ootashi",
+    "name": "太田市",
+    "yomi": "おおたし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "numatashi",
+    "name": "沼田市",
+    "yomi": "ぬまたし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tatebayashishi",
+    "name": "館林市",
+    "yomi": "たてばやしし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "shibukawashi",
+    "name": "渋川市",
+    "yomi": "しぶかわし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "fujiokashi",
+    "name": "藤岡市",
+    "yomi": "ふじおかし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tomiokashi",
+    "name": "富岡市",
+    "yomi": "とみおかし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "annakashi",
+    "name": "安中市",
+    "yomi": "あんなかし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "midorishi",
+    "name": "みどり市",
+    "yomi": "みどりし",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kitagunmagunshintoumura",
+    "name": "北群馬郡榛東村",
+    "yomi": "きたぐんまぐんしんとうむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kitagunmagunyoshiokamachi",
+    "name": "北群馬郡吉岡町",
+    "yomi": "きたぐんまぐんよしおかまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tanogujounomura",
+    "name": "多野郡上野村",
+    "yomi": "たのぐじょうのむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tanogunkannamachi",
+    "name": "多野郡神流町",
+    "yomi": "たのぐんかんなまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kanragunshimonitamachi",
+    "name": "甘楽郡下仁田町",
+    "yomi": "かんらぐんしもにたまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kanragunnanmokumura",
+    "name": "甘楽郡南牧村",
+    "yomi": "かんらぐんなんもくむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kanragunkanramachi",
+    "name": "甘楽郡甘楽町",
+    "yomi": "かんらぐんかんらまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumagunchuuyukijoumachi",
+    "name": "吾妻郡中之条町",
+    "yomi": "あづまぐんちゅうゆきじょうまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumagunchounoharamachi",
+    "name": "吾妻郡長野原町",
+    "yomi": "あづまぐんちょうのはらまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumaguntsumagoimura",
+    "name": "吾妻郡嬬恋村",
+    "yomi": "あづまぐんつまごいむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumagunkusatsumachi",
+    "name": "吾妻郡草津町",
+    "yomi": "あづまぐんくさつまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumagunkouzanmura",
+    "name": "吾妻郡高山村",
+    "yomi": "あづまぐんこうざんむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "azumagunhigashiagatsumamachi",
+    "name": "吾妻郡東吾妻町",
+    "yomi": "あづまぐんひがしあがつままち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tonegunkatashinamura",
+    "name": "利根郡片品村",
+    "yomi": "とねぐんかたしなむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tonegunkawabamura",
+    "name": "利根郡川場村",
+    "yomi": "とねぐんかわばむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tonegunshouwamura",
+    "name": "利根郡昭和村",
+    "yomi": "とねぐんしょうわむら",
+    "pref": "群馬県"
+  },
+  {
+    "id": "tonegunminakamimachi",
+    "name": "利根郡みなかみ町",
+    "yomi": "とねぐんみなかみまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "sawaguntamamuramachi",
+    "name": "佐波郡玉村町",
+    "yomi": "さわぐんたまむらまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ouragunitakuramachi",
+    "name": "邑楽郡板倉町",
+    "yomi": "おうらぐんいたくらまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ouragunmeiwamachi",
+    "name": "邑楽郡明和町",
+    "yomi": "おうらぐんめいわまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ouragunchiyodamachi",
+    "name": "邑楽郡千代田町",
+    "yomi": "おうらぐんちよだまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ouragunooizumichou",
+    "name": "邑楽郡大泉町",
+    "yomi": "おうらぐんおおいずみちょう",
+    "pref": "群馬県"
+  },
+  {
+    "id": "ouragunyuurakumachi",
+    "name": "邑楽郡邑楽町",
+    "yomi": "おうらぐんゆうらくまち",
+    "pref": "群馬県"
+  },
+  {
+    "id": "kawagoeshi",
+    "name": "川越市",
+    "yomi": "かわごえし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kumagayashi",
+    "name": "熊谷市",
+    "yomi": "くまがやし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "gyoudashi",
+    "name": "行田市",
+    "yomi": "ぎょうだし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibushi",
+    "name": "秩父市",
+    "yomi": "ちちぶし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "tokorozawashi",
+    "name": "所沢市",
+    "yomi": "ところざわし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hannoushi",
+    "name": "飯能市",
+    "yomi": "はんのうし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kazoshi",
+    "name": "加須市",
+    "yomi": "かぞし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "honjoushi",
+    "name": "本庄市",
+    "yomi": "ほんじょうし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "higashimatsuyamashi",
+    "name": "東松山市",
+    "yomi": "ひがしまつやまし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kasukabeshi",
+    "name": "春日部市",
+    "yomi": "かすかべし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "sayamashi",
+    "name": "狭山市",
+    "yomi": "さやまし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hanyuushi",
+    "name": "羽生市",
+    "yomi": "はにゅうし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kounosushi",
+    "name": "鴻巣市",
+    "yomi": "こうのすし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "fukayashi",
+    "name": "深谷市",
+    "yomi": "ふかやし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "ageoshi",
+    "name": "上尾市",
+    "yomi": "あげおし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "soukashi",
+    "name": "草加市",
+    "yomi": "そうかし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "koshigayashi",
+    "name": "越谷市",
+    "yomi": "こしがやし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "warabishi",
+    "name": "蕨市",
+    "yomi": "わらびし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "todashi",
+    "name": "戸田市",
+    "yomi": "とだし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "irumashi",
+    "name": "入間市",
+    "yomi": "いるまし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "asakashi",
+    "name": "朝霞市",
+    "yomi": "あさかし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "shikishi",
+    "name": "志木市",
+    "yomi": "しきし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "wakoushi",
+    "name": "和光市",
+    "yomi": "わこうし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "niizashi",
+    "name": "新座市",
+    "yomi": "にいざし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "okegawashi",
+    "name": "桶川市",
+    "yomi": "おけがわし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kukishi",
+    "name": "久喜市",
+    "yomi": "くきし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kitamotoshi",
+    "name": "北本市",
+    "yomi": "きたもとし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "yashioshi",
+    "name": "八潮市",
+    "yomi": "やしおし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "fujimishi",
+    "name": "富士見市",
+    "yomi": "ふじみし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "misatoshi",
+    "name": "三郷市",
+    "yomi": "みさとし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hasudashi",
+    "name": "蓮田市",
+    "yomi": "はすだし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "sakatoshi",
+    "name": "坂戸市",
+    "yomi": "さかとし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "satteshi",
+    "name": "幸手市",
+    "yomi": "さってし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "tsurukeshimashi",
+    "name": "鶴ヶ島市",
+    "yomi": "つるゖしまし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hidakashi",
+    "name": "日高市",
+    "yomi": "ひだかし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "yoshikawashi",
+    "name": "吉川市",
+    "yomi": "よしかわし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "fujiminoichi",
+    "name": "ふじみ野市",
+    "yomi": "ふじみのいち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "shiraokashi",
+    "name": "白岡市",
+    "yomi": "しらおかし",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kitaadachiguninamachi",
+    "name": "北足立郡伊奈町",
+    "yomi": "きたあだちぐんいなまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "irumagunmiyoshimachi",
+    "name": "入間郡三芳町",
+    "yomi": "いるまぐんみよしまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "irumagunmoroyamamachi",
+    "name": "入間郡毛呂山町",
+    "yomi": "いるまぐんもろやままち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "irumagunogosemachi",
+    "name": "入間郡越生町",
+    "yomi": "いるまぐんおごせまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunnamerikawamachi",
+    "name": "比企郡滑川町",
+    "yomi": "ひきぐんなめりかわまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunarashiyamamachi",
+    "name": "比企郡嵐山町",
+    "yomi": "ひきぐんあらしやままち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunogawachou",
+    "name": "比企郡小川町",
+    "yomi": "ひきぐんおがわちょう",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunkawashimamachi",
+    "name": "比企郡川島町",
+    "yomi": "ひきぐんかわしままち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunyoshimimachi",
+    "name": "比企郡吉見町",
+    "yomi": "ひきぐんよしみまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikigunhatoyamachou",
+    "name": "比企郡鳩山町",
+    "yomi": "ひきぐんはとやまちょう",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "hikiguntokigawamachi",
+    "name": "比企郡ときがわ町",
+    "yomi": "ひきぐんときがわまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibugunyokosemachi",
+    "name": "秩父郡横瀬町",
+    "yomi": "ちちぶぐんよこせまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibugunminanomachi",
+    "name": "秩父郡皆野町",
+    "yomi": "ちちぶぐんみなのまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibugunchoutoromachi",
+    "name": "秩父郡長瀞町",
+    "yomi": "ちちぶぐんちょうとろまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibugunoganomachi",
+    "name": "秩父郡小鹿野町",
+    "yomi": "ちちぶぐんおがのまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "chichibugunhigashichichibumura",
+    "name": "秩父郡東秩父村",
+    "yomi": "ちちぶぐんひがしちちぶむら",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kodamagunmisatomachi",
+    "name": "児玉郡美里町",
+    "yomi": "こだまぐんみさとまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kodamagunkamikawamachi",
+    "name": "児玉郡神川町",
+    "yomi": "こだまぐんかみかわまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kodamagujousatomachi",
+    "name": "児玉郡上里町",
+    "yomi": "こだまぐじょうさとまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "oosatogunyoriimachi",
+    "name": "大里郡寄居町",
+    "yomi": "おおさとぐんよりいまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "minamisaitamagunmiyashiromachi",
+    "name": "南埼玉郡宮代町",
+    "yomi": "みなみさいたまぐんみやしろまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kitakatsushikagunsugitomachi",
+    "name": "北葛飾郡杉戸町",
+    "yomi": "きたかつしかぐんすぎとまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "kitakatsushikagunmatsubushimachi",
+    "name": "北葛飾郡松伏町",
+    "yomi": "きたかつしかぐんまつぶしまち",
+    "pref": "埼玉県"
+  },
+  {
+    "id": "choushishi",
+    "name": "銚子市",
+    "yomi": "ちょうしし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "tateyamashi",
+    "name": "館山市",
+    "yomi": "たてやまし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "kisarazushi",
+    "name": "木更津市",
+    "yomi": "きさらづし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "nodashi",
+    "name": "野田市",
+    "yomi": "のだし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "mobarashi",
+    "name": "茂原市",
+    "yomi": "もばらし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "naritashi",
+    "name": "成田市",
+    "yomi": "なりたし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sakurashi_chib",
+    "name": "佐倉市",
+    "yomi": "さくらし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "touganeshi",
+    "name": "東金市",
+    "yomi": "とうがねし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "asahishi",
+    "name": "旭市",
+    "yomi": "あさひし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "narashinoshi",
+    "name": "習志野市",
+    "yomi": "ならしのし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "katsuurashi",
+    "name": "勝浦市",
+    "yomi": "かつうらし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "ichiharashi",
+    "name": "市原市",
+    "yomi": "いちはらし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "nagareyamashi",
+    "name": "流山市",
+    "yomi": "ながれやまし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "yachiyoshi",
+    "name": "八千代市",
+    "yomi": "やちよし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "abikoshi",
+    "name": "我孫子市",
+    "yomi": "あびこし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "kamogawashi",
+    "name": "鴨川市",
+    "yomi": "かもがわし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "kamaketanishi",
+    "name": "鎌ヶ谷市",
+    "yomi": "かまゖたにし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "kimitsushi",
+    "name": "君津市",
+    "yomi": "きみつし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "futtsushi",
+    "name": "富津市",
+    "yomi": "ふっつし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "urayasushi",
+    "name": "浦安市",
+    "yomi": "うらやすし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "yotsukaidoushi",
+    "name": "四街道市",
+    "yomi": "よつかいどうし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sodegaurashi",
+    "name": "袖ヶ浦市",
+    "yomi": "そでがうらし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "yachimatashi",
+    "name": "八街市",
+    "yomi": "やちまたし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "inzaishi",
+    "name": "印西市",
+    "yomi": "いんざいし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "shiraishi",
+    "name": "白井市",
+    "yomi": "しらいし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "tomisatoshi",
+    "name": "富里市",
+    "yomi": "とみさとし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "minamibousoushi",
+    "name": "南房総市",
+    "yomi": "みなみぼうそうし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sousashi",
+    "name": "匝瑳市",
+    "yomi": "そうさし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "katorishi",
+    "name": "香取市",
+    "yomi": "かとりし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sanbushi",
+    "name": "山武市",
+    "yomi": "さんぶし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "isumishi",
+    "name": "いすみ市",
+    "yomi": "いすみし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "ooamishirasatoshi",
+    "name": "大網白里市",
+    "yomi": "おおあみしらさとし",
+    "pref": "千葉県"
+  },
+  {
+    "id": "inbagunsakekurikaesiimachi",
+    "name": "印旛郡酒々井町",
+    "yomi": "いんばぐんさけ々いまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "inbagunsakaemachi",
+    "name": "印旛郡栄町",
+    "yomi": "いんばぐんさかえまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "katorigunkanzakimachi",
+    "name": "香取郡神崎町",
+    "yomi": "かとりぐんかんざきまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "katoriguntakomachi",
+    "name": "香取郡多古町",
+    "yomi": "かとりぐんたこまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "katoriguntounoshoumachi",
+    "name": "香取郡東庄町",
+    "yomi": "かとりぐんとうのしょうまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sanbugunkujuukurimachi",
+    "name": "山武郡九十九里町",
+    "yomi": "さんぶぐんくじゅうくりまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sanbugunshibayamamachi",
+    "name": "山武郡芝山町",
+    "yomi": "さんぶぐんしばやままち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "sanbugunyokoshibahikarimachi",
+    "name": "山武郡横芝光町",
+    "yomi": "さんぶぐんよこしばひかりまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunichinomiyachou",
+    "name": "長生郡一宮町",
+    "yomi": "ちょうせいぐんいちのみやちょう",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunmutsuzawamachi",
+    "name": "長生郡睦沢町",
+    "yomi": "ちょうせいぐんむつざわまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunchounamamura",
+    "name": "長生郡長生村",
+    "yomi": "ちょうせいぐんちょうなまむら",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunshirakomachi",
+    "name": "長生郡白子町",
+    "yomi": "ちょうせいぐんしらこまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunchougaramachi",
+    "name": "長生郡長柄町",
+    "yomi": "ちょうせいぐんちょうがらまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "chouseigunchouminamimachi",
+    "name": "長生郡長南町",
+    "yomi": "ちょうせいぐんちょうみなみまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "isumigunootakimachi",
+    "name": "夷隅郡大多喜町",
+    "yomi": "いすみぐんおおたきまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "isumigunonjukumachi",
+    "name": "夷隅郡御宿町",
+    "yomi": "いすみぐんおんじゅくまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "awagunkyonanmachi",
+    "name": "安房郡鋸南町",
+    "yomi": "あわぐんきょなんまち",
+    "pref": "千葉県"
+  },
+  {
+    "id": "tachikawashi",
+    "name": "立川市",
+    "yomi": "たちかわし",
+    "pref": "東京都"
+  },
+  {
+    "id": "musashinoshi",
+    "name": "武蔵野市",
+    "yomi": "むさしのし",
+    "pref": "東京都"
+  },
+  {
+    "id": "mitakashi",
+    "name": "三鷹市",
+    "yomi": "みたかし",
+    "pref": "東京都"
+  },
+  {
+    "id": "oumeshi",
+    "name": "青梅市",
+    "yomi": "おうめし",
+    "pref": "東京都"
+  },
+  {
+    "id": "fuchuushi",
+    "name": "府中市",
+    "yomi": "ふちゅうし",
+    "pref": "東京都"
+  },
+  {
+    "id": "akirashimashi",
+    "name": "昭島市",
+    "yomi": "あきらしまし",
+    "pref": "東京都"
+  },
+  {
+    "id": "choufushi",
+    "name": "調布市",
+    "yomi": "ちょうふし",
+    "pref": "東京都"
+  },
+  {
+    "id": "koganeishi",
+    "name": "小金井市",
+    "yomi": "こがねいし",
+    "pref": "東京都"
+  },
+  {
+    "id": "kodairashi",
+    "name": "小平市",
+    "yomi": "こだいらし",
+    "pref": "東京都"
+  },
+  {
+    "id": "hinoshi",
+    "name": "日野市",
+    "yomi": "ひのし",
+    "pref": "東京都"
+  },
+  {
+    "id": "higashimurayamashi",
+    "name": "東村山市",
+    "yomi": "ひがしむらやまし",
+    "pref": "東京都"
+  },
+  {
+    "id": "kokubunjishi",
+    "name": "国分寺市",
+    "yomi": "こくぶんじし",
+    "pref": "東京都"
+  },
+  {
+    "id": "kunitachishi",
+    "name": "国立市",
+    "yomi": "くにたちし",
+    "pref": "東京都"
+  },
+  {
+    "id": "fussashi",
+    "name": "福生市",
+    "yomi": "ふっさし",
+    "pref": "東京都"
+  },
+  {
+    "id": "komaeshi",
+    "name": "狛江市",
+    "yomi": "こまえし",
+    "pref": "東京都"
+  },
+  {
+    "id": "higashiyamatoshi",
+    "name": "東大和市",
+    "yomi": "ひがしやまとし",
+    "pref": "東京都"
+  },
+  {
+    "id": "kiyoseshi",
+    "name": "清瀬市",
+    "yomi": "きよせし",
+    "pref": "東京都"
+  },
+  {
+    "id": "higashikurumeshi",
+    "name": "東久留米市",
+    "yomi": "ひがしくるめし",
+    "pref": "東京都"
+  },
+  {
+    "id": "musashimurayamashi",
+    "name": "武蔵村山市",
+    "yomi": "むさしむらやまし",
+    "pref": "東京都"
+  },
+  {
+    "id": "tamashi",
+    "name": "多摩市",
+    "yomi": "たまし",
+    "pref": "東京都"
+  },
+  {
+    "id": "inagishi",
+    "name": "稲城市",
+    "yomi": "いなぎし",
+    "pref": "東京都"
+  },
+  {
+    "id": "hamurashi",
+    "name": "羽村市",
+    "yomi": "はむらし",
+    "pref": "東京都"
+  },
+  {
+    "id": "akirunoichi",
+    "name": "あきる野市",
+    "yomi": "あきるのいち",
+    "pref": "東京都"
+  },
+  {
+    "id": "nishitoukyoushi",
+    "name": "西東京市",
+    "yomi": "にしとうきょうし",
+    "pref": "東京都"
+  },
+  {
+    "id": "nishitamagunmizuhomachi",
+    "name": "西多摩郡瑞穂町",
+    "yomi": "にしたまぐんみずほまち",
+    "pref": "東京都"
+  },
+  {
+    "id": "nishitamagunhinodemachi",
+    "name": "西多摩郡日の出町",
+    "yomi": "にしたまぐんひのでまち",
+    "pref": "東京都"
+  },
+  {
+    "id": "nishitamagunhibaramura",
+    "name": "西多摩郡檜原村",
+    "yomi": "にしたまぐんひばらむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "nishitamagunokutamamachi",
+    "name": "西多摩郡奥多摩町",
+    "yomi": "にしたまぐんおくたままち",
+    "pref": "東京都"
+  },
+  {
+    "id": "ooshimamachi",
+    "name": "大島町",
+    "yomi": "おおしままち",
+    "pref": "東京都"
+  },
+  {
+    "id": "niijimamura",
+    "name": "新島村",
+    "yomi": "にいじまむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "kouzushimamura",
+    "name": "神津島村",
+    "yomi": "こうずしまむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "miyakemura",
+    "name": "三宅村",
+    "yomi": "みやけむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "mikurashimamura",
+    "name": "御蔵島村",
+    "yomi": "みくらしまむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "hachijoumachi",
+    "name": "八丈町",
+    "yomi": "はちじょうまち",
+    "pref": "東京都"
+  },
+  {
+    "id": "aokeshimamura",
+    "name": "青ヶ島村",
+    "yomi": "あおゖしまむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "ogasawaramura",
+    "name": "小笠原村",
+    "yomi": "おがさわらむら",
+    "pref": "東京都"
+  },
+  {
+    "id": "hiratsukashi",
+    "name": "平塚市",
+    "yomi": "ひらつかし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "kamakurashi",
+    "name": "鎌倉市",
+    "yomi": "かまくらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "odawarashi",
+    "name": "小田原市",
+    "yomi": "おだわらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "chigasakishi",
+    "name": "茅ヶ崎市",
+    "yomi": "ちがさきし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "zushishi",
+    "name": "逗子市",
+    "yomi": "ずしし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "miurashi",
+    "name": "三浦市",
+    "yomi": "みうらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "hatanoshi",
+    "name": "秦野市",
+    "yomi": "はたのし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "atsugishi",
+    "name": "厚木市",
+    "yomi": "あつぎし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "yamatoshi",
+    "name": "大和市",
+    "yomi": "やまとし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "iseharashi",
+    "name": "伊勢原市",
+    "yomi": "いせはらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ebinashi",
+    "name": "海老名市",
+    "yomi": "えびなし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "zamashi",
+    "name": "座間市",
+    "yomi": "ざまし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "minamiashigarashi",
+    "name": "南足柄市",
+    "yomi": "みなみあしがらし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ayaseshi",
+    "name": "綾瀬市",
+    "yomi": "あやせし",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "miuragunhayamachou",
+    "name": "三浦郡葉山町",
+    "yomi": "みうらぐんはやまちょう",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "kouzagunsamukawamachi",
+    "name": "高座郡寒川町",
+    "yomi": "こうざぐんさむかわまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "nakagunooisomachi",
+    "name": "中郡大磯町",
+    "yomi": "なかぐんおおいそまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "nakagunninomiyamachi",
+    "name": "中郡二宮町",
+    "yomi": "なかぐんにのみやまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarakamigunchuuimachi",
+    "name": "足柄上郡中井町",
+    "yomi": "あしがらかみぐんちゅういまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarakamigunooichou",
+    "name": "足柄上郡大井町",
+    "yomi": "あしがらかみぐんおおいちょう",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarakamigunmatsudamachi",
+    "name": "足柄上郡松田町",
+    "yomi": "あしがらかみぐんまつだまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarakamikouriyamakitamachi",
+    "name": "足柄上郡山北町",
+    "yomi": "あしがらかみこうりやまきたまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarakamigunkaiseimachi",
+    "name": "足柄上郡開成町",
+    "yomi": "あしがらかみぐんかいせいまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarashimogunhakonemachi",
+    "name": "足柄下郡箱根町",
+    "yomi": "あしがらしもぐんはこねまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarashimogunmanatsurumachi",
+    "name": "足柄下郡真鶴町",
+    "yomi": "あしがらしもぐんまなつるまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "ashigarashimogunyugawaramachi",
+    "name": "足柄下郡湯河原町",
+    "yomi": "あしがらしもぐんゆがわらまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "aikougunaikawamachi",
+    "name": "愛甲郡愛川町",
+    "yomi": "あいこうぐんあいかわまち",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "aikougunkiyokawamura",
+    "name": "愛甲郡清川村",
+    "yomi": "あいこうぐんきよかわむら",
+    "pref": "神奈川県"
+  },
+  {
+    "id": "nagaokashi",
+    "name": "長岡市",
+    "yomi": "ながおかし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "sanjoushi",
+    "name": "三条市",
+    "yomi": "さんじょうし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "kashiwazakishi",
+    "name": "柏崎市",
+    "yomi": "かしわざきし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "shibatashi",
+    "name": "新発田市",
+    "yomi": "しばたし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "ojiyashi",
+    "name": "小千谷市",
+    "yomi": "おじやし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "kamoshi",
+    "name": "加茂市",
+    "yomi": "かもし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "tookamachishi",
+    "name": "十日町市",
+    "yomi": "とおかまちし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "mitsukeshi",
+    "name": "見附市",
+    "yomi": "みつけし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "murakamishi",
+    "name": "村上市",
+    "yomi": "むらかみし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "tsubameshi",
+    "name": "燕市",
+    "yomi": "つばめし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "itoigawashi",
+    "name": "糸魚川市",
+    "yomi": "いといがわし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "myoukoushi",
+    "name": "妙高市",
+    "yomi": "みょうこうし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "gosenshi",
+    "name": "五泉市",
+    "yomi": "ごせんし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "jouetsushi",
+    "name": "上越市",
+    "yomi": "じょうえつし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "aganoshi",
+    "name": "阿賀野市",
+    "yomi": "あがのし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "sadoshi",
+    "name": "佐渡市",
+    "yomi": "さどし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "uonumashi",
+    "name": "魚沼市",
+    "yomi": "うおぬまし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "minamiuonumashi",
+    "name": "南魚沼市",
+    "yomi": "みなみうおぬまし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "tainaishi",
+    "name": "胎内市",
+    "yomi": "たいないし",
+    "pref": "新潟県"
+  },
+  {
+    "id": "kitakanbaragunseiroumachi",
+    "name": "北蒲原郡聖籠町",
+    "yomi": "きたかんばらぐんせいろうまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "nishikanbaragunyahikomura",
+    "name": "西蒲原郡弥彦村",
+    "yomi": "にしかんばらぐんやひこむら",
+    "pref": "新潟県"
+  },
+  {
+    "id": "minamikanbaraguntagamimachi",
+    "name": "南蒲原郡田上町",
+    "yomi": "みなみかんばらぐんたがみまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "higashikanbaragunagamachi",
+    "name": "東蒲原郡阿賀町",
+    "yomi": "ひがしかんばらぐんあがまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "mishimagunizumozakimachi",
+    "name": "三島郡出雲崎町",
+    "yomi": "みしまぐんいずもざきまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "minamiuonumagunyuzawamachi",
+    "name": "南魚沼郡湯沢町",
+    "yomi": "みなみうおぬまぐんゆざわまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "nakauonumaguntsunanmachi",
+    "name": "中魚沼郡津南町",
+    "yomi": "なかうおぬまぐんつなんまち",
+    "pref": "新潟県"
+  },
+  {
+    "id": "kariwagunkariwamura",
+    "name": "刈羽郡刈羽村",
+    "yomi": "かりわぐんかりわむら",
+    "pref": "新潟県"
+  },
+  {
+    "id": "iwafunegunsekigawamura",
+    "name": "岩船郡関川村",
+    "yomi": "いわふねぐんせきがわむら",
+    "pref": "新潟県"
+  },
+  {
+    "id": "iwafunegunawashimauramura",
+    "name": "岩船郡粟島浦村",
+    "yomi": "いわふねぐんあわしまうらむら",
+    "pref": "新潟県"
+  },
+  {
+    "id": "takaokashi",
+    "name": "高岡市",
+    "yomi": "たかおかし",
+    "pref": "富山県"
+  },
+  {
+    "id": "uozushi",
+    "name": "魚津市",
+    "yomi": "うおづし",
+    "pref": "富山県"
+  },
+  {
+    "id": "himishi",
+    "name": "氷見市",
+    "yomi": "ひみし",
+    "pref": "富山県"
+  },
+  {
+    "id": "namerikawashi",
+    "name": "滑川市",
+    "yomi": "なめりかわし",
+    "pref": "富山県"
+  },
+  {
+    "id": "kurobeshi",
+    "name": "黒部市",
+    "yomi": "くろべし",
+    "pref": "富山県"
+  },
+  {
+    "id": "tonamishi",
+    "name": "砺波市",
+    "yomi": "となみし",
+    "pref": "富山県"
+  },
+  {
+    "id": "oyabeshi",
+    "name": "小矢部市",
+    "yomi": "おやべし",
+    "pref": "富山県"
+  },
+  {
+    "id": "nantoshi",
+    "name": "南砺市",
+    "yomi": "なんとし",
+    "pref": "富山県"
+  },
+  {
+    "id": "imizushi",
+    "name": "射水市",
+    "yomi": "いみずし",
+    "pref": "富山県"
+  },
+  {
+    "id": "nakaniikawagunfunabashimura",
+    "name": "中新川郡舟橋村",
+    "yomi": "なかにいかわぐんふなばしむら",
+    "pref": "富山県"
+  },
+  {
+    "id": "nakaniikawagujoushichou",
+    "name": "中新川郡上市町",
+    "yomi": "なかにいかわぐじょうしちょう",
+    "pref": "富山県"
+  },
+  {
+    "id": "nakaniikawagunritsuyamachou",
+    "name": "中新川郡立山町",
+    "yomi": "なかにいかわぐんりつやまちょう",
+    "pref": "富山県"
+  },
+  {
+    "id": "shimoniikawagunnyuuzenmachi",
+    "name": "下新川郡入善町",
+    "yomi": "しもにいかわぐんにゅうぜんまち",
+    "pref": "富山県"
+  },
+  {
+    "id": "shimoniikawagunasahimachi",
+    "name": "下新川郡朝日町",
+    "yomi": "しもにいかわぐんあさひまち",
+    "pref": "富山県"
+  },
+  {
+    "id": "nanaoshi",
+    "name": "七尾市",
+    "yomi": "ななおし",
+    "pref": "石川県"
+  },
+  {
+    "id": "komatsushi",
+    "name": "小松市",
+    "yomi": "こまつし",
+    "pref": "石川県"
+  },
+  {
+    "id": "washimashi",
+    "name": "輪島市",
+    "yomi": "わしまし",
+    "pref": "石川県"
+  },
+  {
+    "id": "suzushi",
+    "name": "珠洲市",
+    "yomi": "すずし",
+    "pref": "石川県"
+  },
+  {
+    "id": "kagashi",
+    "name": "加賀市",
+    "yomi": "かがし",
+    "pref": "石川県"
+  },
+  {
+    "id": "hakuishi",
+    "name": "羽咋市",
+    "yomi": "はくいし",
+    "pref": "石川県"
+  },
+  {
+    "id": "kahokushi",
+    "name": "かほく市",
+    "yomi": "かほくし",
+    "pref": "石川県"
+  },
+  {
+    "id": "hakusanshi",
+    "name": "白山市",
+    "yomi": "はくさんし",
+    "pref": "石川県"
+  },
+  {
+    "id": "nomishi",
+    "name": "能美市",
+    "yomi": "のみし",
+    "pref": "石川県"
+  },
+  {
+    "id": "nonoichishi",
+    "name": "野々市市",
+    "yomi": "ののいちし",
+    "pref": "石川県"
+  },
+  {
+    "id": "nomigunkawakitamachi",
+    "name": "能美郡川北町",
+    "yomi": "のみぐんかわきたまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "kahokuguntsubatamachi",
+    "name": "河北郡津幡町",
+    "yomi": "かほくぐんつばたまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "kahokugunnainadamachi",
+    "name": "河北郡内灘町",
+    "yomi": "かほくぐんないなだまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "hakuigunshigachou",
+    "name": "羽咋郡志賀町",
+    "yomi": "はくいぐんしがちょう",
+    "pref": "石川県"
+  },
+  {
+    "id": "hakuigunhoudatsushimizumachi",
+    "name": "羽咋郡宝達志水町",
+    "yomi": "はくいぐんほうだつしみずまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "kashimagunchuunotomachi",
+    "name": "鹿島郡中能登町",
+    "yomi": "かしまぐんちゅうのとまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "housugunanamizumachi",
+    "name": "鳳珠郡穴水町",
+    "yomi": "ほうすぐんあなみずまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "housugunnotomachi",
+    "name": "鳳珠郡能登町",
+    "yomi": "ほうすぐんのとまち",
+    "pref": "石川県"
+  },
+  {
+    "id": "tsurugashi",
+    "name": "敦賀市",
+    "yomi": "つるがし",
+    "pref": "福井県"
+  },
+  {
+    "id": "obamashi",
+    "name": "小浜市",
+    "yomi": "おばまし",
+    "pref": "福井県"
+  },
+  {
+    "id": "oonoshi",
+    "name": "大野市",
+    "yomi": "おおのし",
+    "pref": "福井県"
+  },
+  {
+    "id": "katsuyamashi",
+    "name": "勝山市",
+    "yomi": "かつやまし",
+    "pref": "福井県"
+  },
+  {
+    "id": "sabaeshi",
+    "name": "鯖江市",
+    "yomi": "さばえし",
+    "pref": "福井県"
+  },
+  {
+    "id": "awarashi",
+    "name": "あわら市",
+    "yomi": "あわらし",
+    "pref": "福井県"
+  },
+  {
+    "id": "echizenshi",
+    "name": "越前市",
+    "yomi": "えちぜんし",
+    "pref": "福井県"
+  },
+  {
+    "id": "sakaishi",
+    "name": "坂井市",
+    "yomi": "さかいし",
+    "pref": "福井県"
+  },
+  {
+    "id": "yoshidaguneiheijimachi",
+    "name": "吉田郡永平寺町",
+    "yomi": "よしだぐんえいへいじまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "imadatekooriiketamachi",
+    "name": "今立郡池田町",
+    "yomi": "いまだてこおりいけたまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "nanjougunminamiechizenmachi",
+    "name": "南条郡南越前町",
+    "yomi": "なんじょうぐんみなみえちぜんまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "tanjougunechizenmachi",
+    "name": "丹生郡越前町",
+    "yomi": "たんじょうぐんえちぜんまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "mikatagunmihamamachi",
+    "name": "三方郡美浜町",
+    "yomi": "みかたぐんみはままち",
+    "pref": "福井県"
+  },
+  {
+    "id": "ooiguntakahamamachi",
+    "name": "大飯郡高浜町",
+    "yomi": "おおいぐんたかはままち",
+    "pref": "福井県"
+  },
+  {
+    "id": "ooigunooimachi",
+    "name": "大飯郡おおい町",
+    "yomi": "おおいぐんおおいまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "mikatakaminakagunwakasamachi",
+    "name": "三方上中郡若狭町",
+    "yomi": "みかたかみなかぐんわかさまち",
+    "pref": "福井県"
+  },
+  {
+    "id": "fujiyoshidashi",
+    "name": "富士吉田市",
+    "yomi": "ふじよしだし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "tsurushi",
+    "name": "都留市",
+    "yomi": "つるし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "yamanashishi",
+    "name": "山梨市",
+    "yomi": "やまなしし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "ootsukishi",
+    "name": "大月市",
+    "yomi": "おおつきし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "nirasakishi",
+    "name": "韮崎市",
+    "yomi": "にらさきし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamiarupusushi",
+    "name": "南アルプス市",
+    "yomi": "みなみあるぷすし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "hokutoshi_yama",
+    "name": "北杜市",
+    "yomi": "ほくとし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "kaishi",
+    "name": "甲斐市",
+    "yomi": "かいし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "usuishi",
+    "name": "笛吹市",
+    "yomi": "うすいし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "uenoharashi",
+    "name": "上野原市",
+    "yomi": "うえのはらし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "koushuushi",
+    "name": "甲州市",
+    "yomi": "こうしゅうし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "chuuoushi",
+    "name": "中央市",
+    "yomi": "ちゅうおうし",
+    "pref": "山梨県"
+  },
+  {
+    "id": "nishiyatsushirogunshikawamisatomachi",
+    "name": "西八代郡市川三郷町",
+    "yomi": "にしやつしろぐんしかわみさとまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamikomagunhayakawamachi",
+    "name": "南巨摩郡早川町",
+    "yomi": "みなみこまぐんはやかわまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamikomagunminobumachi",
+    "name": "南巨摩郡身延町",
+    "yomi": "みなみこまぐんみのぶまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamikomagunnanbumachi",
+    "name": "南巨摩郡南部町",
+    "yomi": "みなみこまぐんなんぶまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamikomagunfujigawamachi",
+    "name": "南巨摩郡富士川町",
+    "yomi": "みなみこまぐんふじがわまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "nakakomagunshouwachou",
+    "name": "中巨摩郡昭和町",
+    "yomi": "なかこまぐんしょうわちょう",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurugundoushimura",
+    "name": "南都留郡道志村",
+    "yomi": "みなみつるぐんどうしむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurugunnishikatsuramachi",
+    "name": "南都留郡西桂町",
+    "yomi": "みなみつるぐんにしかつらまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurugunoshinomura",
+    "name": "南都留郡忍野村",
+    "yomi": "みなみつるぐんおしのむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurukouriyamanakanoumimura",
+    "name": "南都留郡山中湖村",
+    "yomi": "みなみつるこうりやまなかのうみむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurugunnarusawamura",
+    "name": "南都留郡鳴沢村",
+    "yomi": "みなみつるぐんなるさわむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "minamitsurugunfujikawaguchikomachi",
+    "name": "南都留郡富士河口湖町",
+    "yomi": "みなみつるぐんふじかわぐちこまち",
+    "pref": "山梨県"
+  },
+  {
+    "id": "kitatsurugunkosugemura",
+    "name": "北都留郡小菅村",
+    "yomi": "きたつるぐんこすげむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "kitatsuruguntabayamamura",
+    "name": "北都留郡丹波山村",
+    "yomi": "きたつるぐんたばやまむら",
+    "pref": "山梨県"
+  },
+  {
+    "id": "matsumotoshi",
+    "name": "松本市",
+    "yomi": "まつもとし",
+    "pref": "長野県"
+  },
+  {
+    "id": "uedashi",
+    "name": "上田市",
+    "yomi": "うえだし",
+    "pref": "長野県"
+  },
+  {
+    "id": "okayashi",
+    "name": "岡谷市",
+    "yomi": "おかやし",
+    "pref": "長野県"
+  },
+  {
+    "id": "iidashi",
+    "name": "飯田市",
+    "yomi": "いいだし",
+    "pref": "長野県"
+  },
+  {
+    "id": "suwashi",
+    "name": "諏訪市",
+    "yomi": "すわし",
+    "pref": "長野県"
+  },
+  {
+    "id": "suzakashi",
+    "name": "須坂市",
+    "yomi": "すざかし",
+    "pref": "長野県"
+  },
+  {
+    "id": "komoroshi",
+    "name": "小諸市",
+    "yomi": "こもろし",
+    "pref": "長野県"
+  },
+  {
+    "id": "inashi",
+    "name": "伊那市",
+    "yomi": "いなし",
+    "pref": "長野県"
+  },
+  {
+    "id": "komaganeshi",
+    "name": "駒ヶ根市",
+    "yomi": "こまがねし",
+    "pref": "長野県"
+  },
+  {
+    "id": "nakanoshi",
+    "name": "中野市",
+    "yomi": "なかのし",
+    "pref": "長野県"
+  },
+  {
+    "id": "oomachishi",
+    "name": "大町市",
+    "yomi": "おおまちし",
+    "pref": "長野県"
+  },
+  {
+    "id": "iiyamashi",
+    "name": "飯山市",
+    "yomi": "いいやまし",
+    "pref": "長野県"
+  },
+  {
+    "id": "chinoshi",
+    "name": "茅野市",
+    "yomi": "ちのし",
+    "pref": "長野県"
+  },
+  {
+    "id": "shiojirishi",
+    "name": "塩尻市",
+    "yomi": "しおじりし",
+    "pref": "長野県"
+  },
+  {
+    "id": "sakushi",
+    "name": "佐久市",
+    "yomi": "さくし",
+    "pref": "長野県"
+  },
+  {
+    "id": "chikumashi",
+    "name": "千曲市",
+    "yomi": "ちくまし",
+    "pref": "長野県"
+  },
+  {
+    "id": "toumishi",
+    "name": "東御市",
+    "yomi": "とうみし",
+    "pref": "長野県"
+  },
+  {
+    "id": "azuminoshi",
+    "name": "安曇野市",
+    "yomi": "あずみのし",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunshoukaimachi",
+    "name": "南佐久郡小海町",
+    "yomi": "みなみさくぐんしょうかいまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunkawakamimura",
+    "name": "南佐久郡川上村",
+    "yomi": "みなみさくぐんかわかみむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunnanmokumura",
+    "name": "南佐久郡南牧村",
+    "yomi": "みなみさくぐんなんもくむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunminamiaikimura",
+    "name": "南佐久郡南相木村",
+    "yomi": "みなみさくぐんみなみあいきむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunkitaaikimura",
+    "name": "南佐久郡北相木村",
+    "yomi": "みなみさくぐんきたあいきむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "minamisakugunsakuhomachi",
+    "name": "南佐久郡佐久穂町",
+    "yomi": "みなみさくぐんさくほまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitasakugunkaruizawamachi",
+    "name": "北佐久郡軽井沢町",
+    "yomi": "きたさくぐんかるいざわまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitasakugunmiyotamachi",
+    "name": "北佐久郡御代田町",
+    "yomi": "きたさくぐんみよたまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitasakugunritsukamachi",
+    "name": "北佐久郡立科町",
+    "yomi": "きたさくぐんりつかまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "chiisagatagunaokimura",
+    "name": "小県郡青木村",
+    "yomi": "ちいさがたぐんあおきむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "chiisagatagunchouwamachi",
+    "name": "小県郡長和町",
+    "yomi": "ちいさがたぐんちょうわまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "suwagunshimosuwamachi",
+    "name": "諏訪郡下諏訪町",
+    "yomi": "すわぐんしもすわまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "suwagunfujimichou",
+    "name": "諏訪郡富士見町",
+    "yomi": "すわぐんふじみちょう",
+    "pref": "長野県"
+  },
+  {
+    "id": "suwagunharamura",
+    "name": "諏訪郡原村",
+    "yomi": "すわぐんはらむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinaguntatsunochou",
+    "name": "上伊那郡辰野町",
+    "yomi": "かみいなぐんたつのちょう",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinagunminowamachi",
+    "name": "上伊那郡箕輪町",
+    "yomi": "かみいなぐんみのわまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinaguniijimamachi",
+    "name": "上伊那郡飯島町",
+    "yomi": "かみいなぐんいいじままち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinagunminamiminowamura",
+    "name": "上伊那郡南箕輪村",
+    "yomi": "かみいなぐんみなみみのわむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinagunchuukawamura",
+    "name": "上伊那郡中川村",
+    "yomi": "かみいなぐんちゅうかわむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiinagunmiyatamura",
+    "name": "上伊那郡宮田村",
+    "yomi": "かみいなぐんみやたむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunmatsukawachou",
+    "name": "下伊那郡松川町",
+    "yomi": "しもいなぐんまつかわちょう",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinaguntakamorichou",
+    "name": "下伊那郡高森町",
+    "yomi": "しもいなぐんたかもりちょう",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunananmachi",
+    "name": "下伊那郡阿南町",
+    "yomi": "しもいなぐんあなんまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunachimura",
+    "name": "下伊那郡阿智村",
+    "yomi": "しもいなぐんあちむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunhiratanimura",
+    "name": "下伊那郡平谷村",
+    "yomi": "しもいなぐんひらたにむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunnebamura",
+    "name": "下伊那郡根羽村",
+    "yomi": "しもいなぐんねばむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunshimojoumura",
+    "name": "下伊那郡下條村",
+    "yomi": "しもいなぐんしもじょうむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunurugimura",
+    "name": "下伊那郡売木村",
+    "yomi": "しもいなぐんうるぎむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinaguntenryuumura",
+    "name": "下伊那郡天龍村",
+    "yomi": "しもいなぐんてんりゅうむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunyasuokamura",
+    "name": "下伊那郡泰阜村",
+    "yomi": "しもいなぐんやすおかむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunkyoubokumura",
+    "name": "下伊那郡喬木村",
+    "yomi": "しもいなぐんきょうぼくむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinaguntoyookamura",
+    "name": "下伊那郡豊丘村",
+    "yomi": "しもいなぐんとよおかむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimoinagunooshikamura",
+    "name": "下伊那郡大鹿村",
+    "yomi": "しもいなぐんおおしかむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogujoumatsumachi",
+    "name": "木曽郡上松町",
+    "yomi": "きそぐじょうまつまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogunminamigisomachi",
+    "name": "木曽郡南木曽町",
+    "yomi": "きそぐんみなみぎそまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogunkisomura",
+    "name": "木曽郡木祖村",
+    "yomi": "きそぐんきそむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogunoutakimura",
+    "name": "木曽郡王滝村",
+    "yomi": "きそぐんおうたきむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogunookuwamura",
+    "name": "木曽郡大桑村",
+    "yomi": "きそぐんおおくわむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kisogunkisomachi",
+    "name": "木曽郡木曽町",
+    "yomi": "きそぐんきそまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "higashichikumagunomimura",
+    "name": "東筑摩郡麻績村",
+    "yomi": "ひがしちくまぐんおみむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "higashichikumagunikusakamura",
+    "name": "東筑摩郡生坂村",
+    "yomi": "ひがしちくまぐんいくさかむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "higashichikumakouriyamakatachimura",
+    "name": "東筑摩郡山形村",
+    "yomi": "ひがしちくまこうりやまかたちむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "higashichikumagunasahimura",
+    "name": "東筑摩郡朝日村",
+    "yomi": "ひがしちくまぐんあさひむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "higashichikumagunchikuhokumura",
+    "name": "東筑摩郡筑北村",
+    "yomi": "ひがしちくまぐんちくほくむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitaazumikooriiketamachi",
+    "name": "北安曇郡池田町",
+    "yomi": "きたあずみこおりいけたまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitaazumigunmatsukawamura",
+    "name": "北安曇郡松川村",
+    "yomi": "きたあずみぐんまつかわむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitaazumigunhakubamura",
+    "name": "北安曇郡白馬村",
+    "yomi": "きたあずみぐんはくばむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kitaazumigunkotanimura",
+    "name": "北安曇郡小谷村",
+    "yomi": "きたあずみぐんこたにむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "hanishinagunsakakimachi",
+    "name": "埴科郡坂城町",
+    "yomi": "はにしなぐんさかきまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamitakaigunobusemachi",
+    "name": "上高井郡小布施町",
+    "yomi": "かみたかいぐんおぶせまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamitakaigunkouzanmura",
+    "name": "上高井郡高山村",
+    "yomi": "かみたかいぐんこうざんむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimotakaikouriyamanouchimachi",
+    "name": "下高井郡山ノ内町",
+    "yomi": "しもたかいこうりやまのうちまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimotakaigunkijimatairamura",
+    "name": "下高井郡木島平村",
+    "yomi": "しもたかいぐんきじまたいらむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimotakaigunnozawaonsenmura",
+    "name": "下高井郡野沢温泉村",
+    "yomi": "しもたかいぐんのざわおんせんむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiminochigunshinanochou",
+    "name": "上水内郡信濃町",
+    "yomi": "かみみのちぐんしなのちょう",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiminochigunogawamura",
+    "name": "上水内郡小川村",
+    "yomi": "かみみのちぐんおがわむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "kamiminochiguniizunamachi",
+    "name": "上水内郡飯綱町",
+    "yomi": "かみみのちぐんいいずなまち",
+    "pref": "長野県"
+  },
+  {
+    "id": "shimominochigunsakaemura",
+    "name": "下水内郡栄村",
+    "yomi": "しもみのちぐんさかえむら",
+    "pref": "長野県"
+  },
+  {
+    "id": "oogakishi",
+    "name": "大垣市",
+    "yomi": "おおがきし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kouzanshi",
+    "name": "高山市",
+    "yomi": "こうざんし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "tajimishi",
+    "name": "多治見市",
+    "yomi": "たじみし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kanshi",
+    "name": "関市",
+    "yomi": "かんし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "nakatsugawashi",
+    "name": "中津川市",
+    "yomi": "なかつがわし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "minoshi",
+    "name": "美濃市",
+    "yomi": "みのし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "mizunamishi",
+    "name": "瑞浪市",
+    "yomi": "みずなみし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "haneshimashi",
+    "name": "羽島市",
+    "yomi": "はねしまし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "enashi",
+    "name": "恵那市",
+    "yomi": "えなし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "minokamoshi",
+    "name": "美濃加茂市",
+    "yomi": "みのかもし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "tokishi",
+    "name": "土岐市",
+    "yomi": "ときし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kakamigaharashi",
+    "name": "各務原市",
+    "yomi": "かかみがはらし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kanishi",
+    "name": "可児市",
+    "yomi": "かにし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "yamagatashi",
+    "name": "山県市",
+    "yomi": "やまがたし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "mizuhoshi",
+    "name": "瑞穂市",
+    "yomi": "みずほし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "hidashi",
+    "name": "飛騨市",
+    "yomi": "ひだし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "motosushi",
+    "name": "本巣市",
+    "yomi": "もとすし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "gujoushi",
+    "name": "郡上市",
+    "yomi": "ぐじょうし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "geroshi",
+    "name": "下呂市",
+    "yomi": "げろし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kaizushi",
+    "name": "海津市",
+    "yomi": "かいづし",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "haneshimagunginanmachi",
+    "name": "羽島郡岐南町",
+    "yomi": "はねしまぐんぎなんまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "haneshimagunkasamatsumachi",
+    "name": "羽島郡笠松町",
+    "yomi": "はねしまぐんかさまつまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "yourougunyouroumachi",
+    "name": "養老郡養老町",
+    "yomi": "ようろうぐんようろうまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "fuwaguntaruimachi",
+    "name": "不破郡垂井町",
+    "yomi": "ふわぐんたるいまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "fuwagunsekigaharamachi",
+    "name": "不破郡関ケ原町",
+    "yomi": "ふわぐんせきがはらまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "anpachigunkoubechou",
+    "name": "安八郡神戸町",
+    "yomi": "あんぱちぐんこうべちょう",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "anpachigunwanouchimachi",
+    "name": "安八郡輪之内町",
+    "yomi": "あんぱちぐんわのうちまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "anpachigunanpachimachi",
+    "name": "安八郡安八町",
+    "yomi": "あんぱちぐんあんぱちまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "ibigunibigawamachi",
+    "name": "揖斐郡揖斐川町",
+    "yomi": "いびぐんいびがわまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "ibigunoonomachi",
+    "name": "揖斐郡大野町",
+    "yomi": "いびぐんおおのまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "ibikooriiketamachi",
+    "name": "揖斐郡池田町",
+    "yomi": "いびこおりいけたまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "motosugunkitagatamachi",
+    "name": "本巣郡北方町",
+    "yomi": "もとすぐんきたがたまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunsakahogimachi",
+    "name": "加茂郡坂祝町",
+    "yomi": "かもぐんさかほぎまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamoguntomikamachi",
+    "name": "加茂郡富加町",
+    "yomi": "かもぐんとみかまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunkawabemachi",
+    "name": "加茂郡川辺町",
+    "yomi": "かもぐんかわべまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunhichisoumachi",
+    "name": "加茂郡七宗町",
+    "yomi": "かもぐんひちそうまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunyaotsumachi",
+    "name": "加茂郡八百津町",
+    "yomi": "かもぐんやおつまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunshirakawamachi",
+    "name": "加茂郡白川町",
+    "yomi": "かもぐんしらかわまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kamogunhigashishirakawamura",
+    "name": "加茂郡東白川村",
+    "yomi": "かもぐんひがししらかわむら",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "kanigunmitakemachi",
+    "name": "可児郡御嵩町",
+    "yomi": "かにぐんみたけまち",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "oonogunshirakawamura",
+    "name": "大野郡白川村",
+    "yomi": "おおのぐんしらかわむら",
+    "pref": "岐阜県"
+  },
+  {
+    "id": "numazushi",
+    "name": "沼津市",
+    "yomi": "ぬまづし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "atamishi",
+    "name": "熱海市",
+    "yomi": "あたみし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "mishimashi",
+    "name": "三島市",
+    "yomi": "みしまし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "fujinomiyashi",
+    "name": "富士宮市",
+    "yomi": "ふじのみやし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "itoushi",
+    "name": "伊東市",
+    "yomi": "いとうし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shimadashi",
+    "name": "島田市",
+    "yomi": "しまだし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "fujishi",
+    "name": "富士市",
+    "yomi": "ふじし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "iwatashi",
+    "name": "磐田市",
+    "yomi": "いわたし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "yaizushi",
+    "name": "焼津市",
+    "yomi": "やいづし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kakegawashi",
+    "name": "掛川市",
+    "yomi": "かけがわし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "fujiedashi",
+    "name": "藤枝市",
+    "yomi": "ふじえだし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "gotenbashi",
+    "name": "御殿場市",
+    "yomi": "ごてんばし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "fukuroishi",
+    "name": "袋井市",
+    "yomi": "ふくろいし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shimodashi",
+    "name": "下田市",
+    "yomi": "しもだし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "susonoshi",
+    "name": "裾野市",
+    "yomi": "すそのし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kosaishi",
+    "name": "湖西市",
+    "yomi": "こさいし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "izushi",
+    "name": "伊豆市",
+    "yomi": "いずし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "omaezakishi",
+    "name": "御前崎市",
+    "yomi": "おまえざきし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kikugawashi",
+    "name": "菊川市",
+    "yomi": "きくがわし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "izunokunishi",
+    "name": "伊豆の国市",
+    "yomi": "いずのくにし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "makinoharashi",
+    "name": "牧之原市",
+    "yomi": "まきのはらし",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kamogunhigashiizumachi",
+    "name": "賀茂郡東伊豆町",
+    "yomi": "かもぐんひがしいずまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kamogunkawazumachi",
+    "name": "賀茂郡河津町",
+    "yomi": "かもぐんかわづまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kamogunminamiizumachi",
+    "name": "賀茂郡南伊豆町",
+    "yomi": "かもぐんみなみいずまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kamogunmatsuzakimachi",
+    "name": "賀茂郡松崎町",
+    "yomi": "かもぐんまつざきまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "kamogunnishiizumachi",
+    "name": "賀茂郡西伊豆町",
+    "yomi": "かもぐんにしいずまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "tagatagunkannamimachi",
+    "name": "田方郡函南町",
+    "yomi": "たがたぐんかんなみまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shuntougunshimizuchou",
+    "name": "駿東郡清水町",
+    "yomi": "しゅんとうぐんしみずちょう",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shuntougunnagaizumimachi",
+    "name": "駿東郡長泉町",
+    "yomi": "しゅんとうぐんながいずみまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shuntougunoyamamachi",
+    "name": "駿東郡小山町",
+    "yomi": "しゅんとうぐんおやままち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "haibaragunyoshidachou",
+    "name": "榛原郡吉田町",
+    "yomi": "はいばらぐんよしだちょう",
+    "pref": "静岡県"
+  },
+  {
+    "id": "haibaragunkawanehonmachi",
+    "name": "榛原郡川根本町",
+    "yomi": "はいばらぐんかわねほんまち",
+    "pref": "静岡県"
+  },
+  {
+    "id": "shuuchigunmorichou",
+    "name": "周智郡森町",
+    "yomi": "しゅうちぐんもりちょう",
+    "pref": "静岡県"
+  },
+  {
+    "id": "toyohashishi",
+    "name": "豊橋市",
+    "yomi": "とよはしし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "setoshi",
+    "name": "瀬戸市",
+    "yomi": "せとし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "handashi",
+    "name": "半田市",
+    "yomi": "はんだし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kasugaishi",
+    "name": "春日井市",
+    "yomi": "かすがいし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "toyokawashi",
+    "name": "豊川市",
+    "yomi": "とよかわし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "tsushimashi",
+    "name": "津島市",
+    "yomi": "つしまし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "hekinanshi",
+    "name": "碧南市",
+    "yomi": "へきなんし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kariyashi",
+    "name": "刈谷市",
+    "yomi": "かりやし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "anjoushi",
+    "name": "安城市",
+    "yomi": "あんじょうし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "nishioshi",
+    "name": "西尾市",
+    "yomi": "にしおし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "gamagoorishi",
+    "name": "蒲郡市",
+    "yomi": "がまごおりし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "inuyamashi",
+    "name": "犬山市",
+    "yomi": "いぬやまし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "tokonameshi",
+    "name": "常滑市",
+    "yomi": "とこなめし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kounanshi",
+    "name": "江南市",
+    "yomi": "こうなんし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "komakishi",
+    "name": "小牧市",
+    "yomi": "こまきし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "inazawashi",
+    "name": "稲沢市",
+    "yomi": "いなざわし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "shinjoushi_aich",
+    "name": "新城市",
+    "yomi": "しんじょうし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "toukaishi",
+    "name": "東海市",
+    "yomi": "とうかいし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "oobushi",
+    "name": "大府市",
+    "yomi": "おおぶし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitashi",
+    "name": "知多市",
+    "yomi": "ちたし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chiryuushi",
+    "name": "知立市",
+    "yomi": "ちりゅうし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "owariasahishi",
+    "name": "尾張旭市",
+    "yomi": "おわりあさひし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "takahamashi",
+    "name": "高浜市",
+    "yomi": "たかはまし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "iwakurashi",
+    "name": "岩倉市",
+    "yomi": "いわくらし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "toyoakeshi",
+    "name": "豊明市",
+    "yomi": "とよあけし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "nisshinshi",
+    "name": "日進市",
+    "yomi": "にっしんし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "taharashi",
+    "name": "田原市",
+    "yomi": "たはらし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "aisaishi",
+    "name": "愛西市",
+    "yomi": "あいさいし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kiyosushi",
+    "name": "清須市",
+    "yomi": "きよすし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kitanagoyashi",
+    "name": "北名古屋市",
+    "yomi": "きたなごやし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "yatomishi",
+    "name": "弥富市",
+    "yomi": "やとみし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "miyoshishi",
+    "name": "みよし市",
+    "yomi": "みよしし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "amashi",
+    "name": "あま市",
+    "yomi": "あまし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "nagakuteshi",
+    "name": "長久手市",
+    "yomi": "ながくてし",
+    "pref": "愛知県"
+  },
+  {
+    "id": "aichiguntougoumachi",
+    "name": "愛知郡東郷町",
+    "yomi": "あいちぐんとうごうまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "nishikasugaiguntoyoyamamachi",
+    "name": "西春日井郡豊山町",
+    "yomi": "にしかすがいぐんとよやままち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "tanbagunooguchimachi",
+    "name": "丹羽郡大口町",
+    "yomi": "たんばぐんおおぐちまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "tanbagunfusoumachi",
+    "name": "丹羽郡扶桑町",
+    "yomi": "たんばぐんふそうまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kaifugundaijimachi",
+    "name": "海部郡大治町",
+    "yomi": "かいふぐんだいじまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kaifugunkaniemachi",
+    "name": "海部郡蟹江町",
+    "yomi": "かいふぐんかにえまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kaifuguntobishimamura",
+    "name": "海部郡飛島村",
+    "yomi": "かいふぐんとびしまむら",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitagunaguimachi",
+    "name": "知多郡阿久比町",
+    "yomi": "ちたぐんあぐいまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitagunhigashiuramachi",
+    "name": "知多郡東浦町",
+    "yomi": "ちたぐんひがしうらまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitagunminamichitamachi",
+    "name": "知多郡南知多町",
+    "yomi": "ちたぐんみなみちたまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitagunmihamamachi",
+    "name": "知多郡美浜町",
+    "yomi": "ちたぐんみはままち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "chitaguntaketoyomachi",
+    "name": "知多郡武豊町",
+    "yomi": "ちたぐんたけとよまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "nukatagunkoudachou",
+    "name": "額田郡幸田町",
+    "yomi": "ぬかたぐんこうだちょう",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kitashitaragunshitaramachi",
+    "name": "北設楽郡設楽町",
+    "yomi": "きたしたらぐんしたらまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kitashitaraguntoueimachi",
+    "name": "北設楽郡東栄町",
+    "yomi": "きたしたらぐんとうえいまち",
+    "pref": "愛知県"
+  },
+  {
+    "id": "kitashitaraguntoyonemura",
+    "name": "北設楽郡豊根村",
+    "yomi": "きたしたらぐんとよねむら",
+    "pref": "愛知県"
+  },
+  {
+    "id": "yokkaichishi",
+    "name": "四日市市",
+    "yomi": "よっかいちし",
+    "pref": "三重県"
+  },
+  {
+    "id": "iseshi",
+    "name": "伊勢市",
+    "yomi": "いせし",
+    "pref": "三重県"
+  },
+  {
+    "id": "matsusakashi",
+    "name": "松阪市",
+    "yomi": "まつさかし",
+    "pref": "三重県"
+  },
+  {
+    "id": "kuwanashi",
+    "name": "桑名市",
+    "yomi": "くわなし",
+    "pref": "三重県"
+  },
+  {
+    "id": "suzukashi",
+    "name": "鈴鹿市",
+    "yomi": "すずかし",
+    "pref": "三重県"
+  },
+  {
+    "id": "nabarishi",
+    "name": "名張市",
+    "yomi": "なばりし",
+    "pref": "三重県"
+  },
+  {
+    "id": "owaseshi",
+    "name": "尾鷲市",
+    "yomi": "おわせし",
+    "pref": "三重県"
+  },
+  {
+    "id": "kameyamashi",
+    "name": "亀山市",
+    "yomi": "かめやまし",
+    "pref": "三重県"
+  },
+  {
+    "id": "tobashi",
+    "name": "鳥羽市",
+    "yomi": "とばし",
+    "pref": "三重県"
+  },
+  {
+    "id": "kumanoshi",
+    "name": "熊野市",
+    "yomi": "くまのし",
+    "pref": "三重県"
+  },
+  {
+    "id": "inabeshi",
+    "name": "いなべ市",
+    "yomi": "いなべし",
+    "pref": "三重県"
+  },
+  {
+    "id": "shimashi",
+    "name": "志摩市",
+    "yomi": "しまし",
+    "pref": "三重県"
+  },
+  {
+    "id": "igashi",
+    "name": "伊賀市",
+    "yomi": "いがし",
+    "pref": "三重県"
+  },
+  {
+    "id": "kuwanagunkisomisakichou",
+    "name": "桑名郡木曽岬町",
+    "yomi": "くわなぐんきそみさきちょう",
+    "pref": "三重県"
+  },
+  {
+    "id": "inabeguntouinmachi",
+    "name": "員弁郡東員町",
+    "yomi": "いなべぐんとういんまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "miegunkomonomachi",
+    "name": "三重郡菰野町",
+    "yomi": "みえぐんこものまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "miegunasahimachi",
+    "name": "三重郡朝日町",
+    "yomi": "みえぐんあさひまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "miegunkawagoemachi",
+    "name": "三重郡川越町",
+    "yomi": "みえぐんかわごえまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "takiguntakimachi",
+    "name": "多気郡多気町",
+    "yomi": "たきぐんたきまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "takigunmeiwamachi",
+    "name": "多気郡明和町",
+    "yomi": "たきぐんめいわまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "takigunoodaimachi",
+    "name": "多気郡大台町",
+    "yomi": "たきぐんおおだいまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "wataraiguntamakimachi",
+    "name": "度会郡玉城町",
+    "yomi": "わたらいぐんたまきまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "wataraigunwataraimachi",
+    "name": "度会郡度会町",
+    "yomi": "わたらいぐんわたらいまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "wataraiguntaikimachi",
+    "name": "度会郡大紀町",
+    "yomi": "わたらいぐんたいきまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "wataraigunminamiisemachi",
+    "name": "度会郡南伊勢町",
+    "yomi": "わたらいぐんみなみいせまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "kitamurogunkihokumachi",
+    "name": "北牟婁郡紀北町",
+    "yomi": "きたむろぐんきほくまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "minamimurogunmihamamachi",
+    "name": "南牟婁郡御浜町",
+    "yomi": "みなみむろぐんみはままち",
+    "pref": "三重県"
+  },
+  {
+    "id": "minamimurogunkihoumachi",
+    "name": "南牟婁郡紀宝町",
+    "yomi": "みなみむろぐんきほうまち",
+    "pref": "三重県"
+  },
+  {
+    "id": "hikoneshi",
+    "name": "彦根市",
+    "yomi": "ひこねし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "nagahamashi",
+    "name": "長浜市",
+    "yomi": "ながはまし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "oumihachimanshi",
+    "name": "近江八幡市",
+    "yomi": "おうみはちまんし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "kusatsushi",
+    "name": "草津市",
+    "yomi": "くさつし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "moriyamashi",
+    "name": "守山市",
+    "yomi": "もりやまし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "rittoushi",
+    "name": "栗東市",
+    "yomi": "りっとうし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "koukashi",
+    "name": "甲賀市",
+    "yomi": "こうかし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "yasushi",
+    "name": "野洲市",
+    "yomi": "やすし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "konanshi",
+    "name": "湖南市",
+    "yomi": "こなんし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "takashimashi",
+    "name": "高島市",
+    "yomi": "たかしまし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "higashioumishi",
+    "name": "東近江市",
+    "yomi": "ひがしおうみし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "yoneharashi",
+    "name": "米原市",
+    "yomi": "よねはらし",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "gamougunhinomachi",
+    "name": "蒲生郡日野町",
+    "yomi": "がもうぐんひのまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "gamougunryuuoumachi",
+    "name": "蒲生郡竜王町",
+    "yomi": "がもうぐんりゅうおうまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "aichigunaishoumachi",
+    "name": "愛知郡愛荘町",
+    "yomi": "あいちぐんあいしょうまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "inugamiguntoyosatomachi",
+    "name": "犬上郡豊郷町",
+    "yomi": "いぬがみぐんとよさとまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "inugamigunkouramachi",
+    "name": "犬上郡甲良町",
+    "yomi": "いぬがみぐんこうらまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "inugamiguntagamachi",
+    "name": "犬上郡多賀町",
+    "yomi": "いぬがみぐんたがまち",
+    "pref": "滋賀県"
+  },
+  {
+    "id": "fukuchiyamashi",
+    "name": "福知山市",
+    "yomi": "ふくちやまし",
+    "pref": "京都府"
+  },
+  {
+    "id": "maizurushi",
+    "name": "舞鶴市",
+    "yomi": "まいづるし",
+    "pref": "京都府"
+  },
+  {
+    "id": "ayabeshi",
+    "name": "綾部市",
+    "yomi": "あやべし",
+    "pref": "京都府"
+  },
+  {
+    "id": "ujishi",
+    "name": "宇治市",
+    "yomi": "うじし",
+    "pref": "京都府"
+  },
+  {
+    "id": "miyazushi",
+    "name": "宮津市",
+    "yomi": "みやづし",
+    "pref": "京都府"
+  },
+  {
+    "id": "kameokashi",
+    "name": "亀岡市",
+    "yomi": "かめおかし",
+    "pref": "京都府"
+  },
+  {
+    "id": "jouyoushi",
+    "name": "城陽市",
+    "yomi": "じょうようし",
+    "pref": "京都府"
+  },
+  {
+    "id": "kouhishi",
+    "name": "向日市",
+    "yomi": "こうひし",
+    "pref": "京都府"
+  },
+  {
+    "id": "nagaokakyoushi",
+    "name": "長岡京市",
+    "yomi": "ながおかきょうし",
+    "pref": "京都府"
+  },
+  {
+    "id": "yahatashi",
+    "name": "八幡市",
+    "yomi": "やはたし",
+    "pref": "京都府"
+  },
+  {
+    "id": "kyoutanabeshi",
+    "name": "京田辺市",
+    "yomi": "きょうたなべし",
+    "pref": "京都府"
+  },
+  {
+    "id": "kyoutangoshi",
+    "name": "京丹後市",
+    "yomi": "きょうたんごし",
+    "pref": "京都府"
+  },
+  {
+    "id": "nantanshi",
+    "name": "南丹市",
+    "yomi": "なんたんし",
+    "pref": "京都府"
+  },
+  {
+    "id": "kizugawashi",
+    "name": "木津川市",
+    "yomi": "きづがわし",
+    "pref": "京都府"
+  },
+  {
+    "id": "otokunigunooyamazakimachi",
+    "name": "乙訓郡大山崎町",
+    "yomi": "おとくにぐんおおやまざきまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "kuzegunkumiyamamachi",
+    "name": "久世郡久御山町",
+    "yomi": "くぜぐんくみやままち",
+    "pref": "京都府"
+  },
+  {
+    "id": "tsuzukigunidemachi",
+    "name": "綴喜郡井手町",
+    "yomi": "つづきぐんいでまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "tsuzukigunujitawaramachi",
+    "name": "綴喜郡宇治田原町",
+    "yomi": "つづきぐんうじたわらまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "sagaragunkasagimachi",
+    "name": "相楽郡笠置町",
+    "yomi": "さがらぐんかさぎまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "sagaragunwazukamachi",
+    "name": "相楽郡和束町",
+    "yomi": "さがらぐんわづかまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "sagaragunseikamachi",
+    "name": "相楽郡精華町",
+    "yomi": "さがらぐんせいかまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "sagaragunminamiyamashiromura",
+    "name": "相楽郡南山城村",
+    "yomi": "さがらぐんみなみやましろむら",
+    "pref": "京都府"
+  },
+  {
+    "id": "funaigunkyoutanbamachi",
+    "name": "船井郡京丹波町",
+    "yomi": "ふないぐんきょうたんばまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "yosaguninechou",
+    "name": "与謝郡伊根町",
+    "yomi": "よさぐんいねちょう",
+    "pref": "京都府"
+  },
+  {
+    "id": "yosagunyosanomachi",
+    "name": "与謝郡与謝野町",
+    "yomi": "よさぐんよさのまち",
+    "pref": "京都府"
+  },
+  {
+    "id": "kishiwadashi",
+    "name": "岸和田市",
+    "yomi": "きしわだし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "ikedashi",
+    "name": "池田市",
+    "yomi": "いけだし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "izumiootsushi",
+    "name": "泉大津市",
+    "yomi": "いずみおおつし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "takatsukishi",
+    "name": "高槻市",
+    "yomi": "たかつきし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kaizukashi",
+    "name": "貝塚市",
+    "yomi": "かいづかし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "moriguchishi",
+    "name": "守口市",
+    "yomi": "もりぐちし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "hirakatashi",
+    "name": "枚方市",
+    "yomi": "ひらかたし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "ibaragishi",
+    "name": "茨木市",
+    "yomi": "いばらぎし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "yaoshi",
+    "name": "八尾市",
+    "yomi": "やおし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "izumisanoshi",
+    "name": "泉佐野市",
+    "yomi": "いずみさのし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "tondabayashishi",
+    "name": "富田林市",
+    "yomi": "とんだばやしし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "neyagawashi",
+    "name": "寝屋川市",
+    "yomi": "ねやがわし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kawachinaganoshi",
+    "name": "河内長野市",
+    "yomi": "かわちながのし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "matsubarashi",
+    "name": "松原市",
+    "yomi": "まつばらし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "daitoushi",
+    "name": "大東市",
+    "yomi": "だいとうし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "izumishi",
+    "name": "和泉市",
+    "yomi": "いずみし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "minooshi",
+    "name": "箕面市",
+    "yomi": "みのおし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kashiwabarashi",
+    "name": "柏原市",
+    "yomi": "かしわばらし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "habikinoshi",
+    "name": "羽曳野市",
+    "yomi": "はびきのし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kadomashi",
+    "name": "門真市",
+    "yomi": "かどまし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "settsushi",
+    "name": "摂津市",
+    "yomi": "せっつし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "takaishishi",
+    "name": "高石市",
+    "yomi": "たかいしし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "fujiiderashi",
+    "name": "藤井寺市",
+    "yomi": "ふじいでらし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "sennanshi",
+    "name": "泉南市",
+    "yomi": "せんなんし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "shijounawateshi",
+    "name": "四條畷市",
+    "yomi": "しじょうなわてし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "kounoshi",
+    "name": "交野市",
+    "yomi": "こうのし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "oosakasayamashi",
+    "name": "大阪狭山市",
+    "yomi": "おおさかさやまし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "hannanshi",
+    "name": "阪南市",
+    "yomi": "はんなんし",
+    "pref": "大阪府"
+  },
+  {
+    "id": "mishimagunshimamotomachi",
+    "name": "三島郡島本町",
+    "yomi": "みしまぐんしまもとまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "toyonoguntoyonomachi",
+    "name": "豊能郡豊能町",
+    "yomi": "とよのぐんとよのまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "toyonogunnosemachi",
+    "name": "豊能郡能勢町",
+    "yomi": "とよのぐんのせまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "senbokuguntadaokamachi",
+    "name": "泉北郡忠岡町",
+    "yomi": "せんぼくぐんただおかまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "sennangunkumatorimachi",
+    "name": "泉南郡熊取町",
+    "yomi": "せんなんぐんくまとりまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "sennanguntajirimachi",
+    "name": "泉南郡田尻町",
+    "yomi": "せんなんぐんたじりまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "sennangunmisakichou",
+    "name": "泉南郡岬町",
+    "yomi": "せんなんぐんみさきちょう",
+    "pref": "大阪府"
+  },
+  {
+    "id": "minamikawachiguntaishimachi",
+    "name": "南河内郡太子町",
+    "yomi": "みなみかわちぐんたいしまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "minamikawachigunkananmachi",
+    "name": "南河内郡河南町",
+    "yomi": "みなみかわちぐんかなんまち",
+    "pref": "大阪府"
+  },
+  {
+    "id": "minamikawachigunchihayaakasakamura",
+    "name": "南河内郡千早赤阪村",
+    "yomi": "みなみかわちぐんちはやあかさかむら",
+    "pref": "大阪府"
+  },
+  {
+    "id": "akashishi",
+    "name": "明石市",
+    "yomi": "あかしし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "sumotoshi",
+    "name": "洲本市",
+    "yomi": "すもとし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "ashiyashi",
+    "name": "芦屋市",
+    "yomi": "あしやし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "itamishi",
+    "name": "伊丹市",
+    "yomi": "いたみし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "aioishi",
+    "name": "相生市",
+    "yomi": "あいおいし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "toyookashi",
+    "name": "豊岡市",
+    "yomi": "とよおかし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kakogawashi",
+    "name": "加古川市",
+    "yomi": "かこがわし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "akoushi",
+    "name": "赤穂市",
+    "yomi": "あこうし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "nishiwakishi",
+    "name": "西脇市",
+    "yomi": "にしわきし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "takarazukashi",
+    "name": "宝塚市",
+    "yomi": "たからづかし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "mikishi",
+    "name": "三木市",
+    "yomi": "みきし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "takasagoshi",
+    "name": "高砂市",
+    "yomi": "たかさごし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kawanishishi",
+    "name": "川西市",
+    "yomi": "かわにしし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "onoshi",
+    "name": "小野市",
+    "yomi": "おのし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "mitashi",
+    "name": "三田市",
+    "yomi": "みたし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kasaishi",
+    "name": "加西市",
+    "yomi": "かさいし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "tanbashinoyamashi",
+    "name": "丹波篠山市",
+    "yomi": "たんばしのやまし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "youfushi",
+    "name": "養父市",
+    "yomi": "ようふし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "tanbashi",
+    "name": "丹波市",
+    "yomi": "たんばし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "minamiawajishi",
+    "name": "南あわじ市",
+    "yomi": "みなみあわじし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "asagoshi",
+    "name": "朝来市",
+    "yomi": "あさごし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "awajishi",
+    "name": "淡路市",
+    "yomi": "あわじし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "shisoushi",
+    "name": "宍粟市",
+    "yomi": "しそうし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "katoushi",
+    "name": "加東市",
+    "yomi": "かとうし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "tatsunoshi",
+    "name": "たつの市",
+    "yomi": "たつのし",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kawabeguninagawamachi",
+    "name": "川辺郡猪名川町",
+    "yomi": "かわべぐんいながわまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "takaguntakamachi",
+    "name": "多可郡多可町",
+    "yomi": "たかぐんたかまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kakoguninamimachi",
+    "name": "加古郡稲美町",
+    "yomi": "かこぐんいなみまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kakogunharimamachi",
+    "name": "加古郡播磨町",
+    "yomi": "かこぐんはりままち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kanzakigunshikawamachi",
+    "name": "神崎郡市川町",
+    "yomi": "かんざきぐんしかわまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kanzakigunfukuzakimachi",
+    "name": "神崎郡福崎町",
+    "yomi": "かんざきぐんふくざきまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "kanzakigunkamikawamachi",
+    "name": "神崎郡神河町",
+    "yomi": "かんざきぐんかみかわまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "iboguntaishimachi",
+    "name": "揖保郡太子町",
+    "yomi": "いぼぐんたいしまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "akougujougunmachi",
+    "name": "赤穂郡上郡町",
+    "yomi": "あこうぐじょうぐんまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "sayougunsayoumachi",
+    "name": "佐用郡佐用町",
+    "yomi": "さようぐんさようまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "mikatagunkamimachi",
+    "name": "美方郡香美町",
+    "yomi": "みかたぐんかみまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "mikatagunshinonsenmachi",
+    "name": "美方郡新温泉町",
+    "yomi": "みかたぐんしんおんせんまち",
+    "pref": "兵庫県"
+  },
+  {
+    "id": "yamatotakadashi",
+    "name": "大和高田市",
+    "yomi": "やまとたかだし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yamatokooriyamashi",
+    "name": "大和郡山市",
+    "yomi": "やまとこおりやまし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "tenrishi",
+    "name": "天理市",
+    "yomi": "てんりし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kashiharashi",
+    "name": "橿原市",
+    "yomi": "かしはらし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "sakuraishi",
+    "name": "桜井市",
+    "yomi": "さくらいし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "gojoushi",
+    "name": "五條市",
+    "yomi": "ごじょうし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "goshoshi",
+    "name": "御所市",
+    "yomi": "ごしょし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "ikomashi",
+    "name": "生駒市",
+    "yomi": "いこまし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kashibashi",
+    "name": "香芝市",
+    "yomi": "かしばし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "katsuragishi",
+    "name": "葛城市",
+    "yomi": "かつらぎし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "udashi",
+    "name": "宇陀市",
+    "yomi": "うだし",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yamabekouriyamasoemura",
+    "name": "山辺郡山添村",
+    "yomi": "やまべこうりやまそえむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "ikomagunhegurimachi",
+    "name": "生駒郡平群町",
+    "yomi": "いこまぐんへぐりまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "ikomagunmisatomachi",
+    "name": "生駒郡三郷町",
+    "yomi": "いこまぐんみさとまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "ikomagunikarugamachi",
+    "name": "生駒郡斑鳩町",
+    "yomi": "いこまぐんいかるがまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "ikomagunandomachi",
+    "name": "生駒郡安堵町",
+    "yomi": "いこまぐんあんどまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "shikigunkawanishimachi",
+    "name": "磯城郡川西町",
+    "yomi": "しきぐんかわにしまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "shikigunmiyakemachi",
+    "name": "磯城郡三宅町",
+    "yomi": "しきぐんみやけまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "shikiguntawaramotomachi",
+    "name": "磯城郡田原本町",
+    "yomi": "しきぐんたわらもとまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "udagunsojimura",
+    "name": "宇陀郡曽爾村",
+    "yomi": "うだぐんそじむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "udagunmitsuemura",
+    "name": "宇陀郡御杖村",
+    "yomi": "うだぐんみつえむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "takaichiguntakatorimachi",
+    "name": "高市郡高取町",
+    "yomi": "たかいちぐんたかとりまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "takaichigunasukamura",
+    "name": "高市郡明日香村",
+    "yomi": "たかいちぐんあすかむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kitakatsuragigujoumakimachi",
+    "name": "北葛城郡上牧町",
+    "yomi": "きたかつらぎぐじょうまきまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kitakatsuragigunouteramachi",
+    "name": "北葛城郡王寺町",
+    "yomi": "きたかつらぎぐんおうてらまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kitakatsuragigunkouryoumachi",
+    "name": "北葛城郡広陵町",
+    "yomi": "きたかつらぎぐんこうりょうまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kitakatsuragigunkawaichou",
+    "name": "北葛城郡河合町",
+    "yomi": "きたかつらぎぐんかわいちょう",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunyoshinochou",
+    "name": "吉野郡吉野町",
+    "yomi": "よしのぐんよしのちょう",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunooyodomachi",
+    "name": "吉野郡大淀町",
+    "yomi": "よしのぐんおおよどまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunshimoichimachi",
+    "name": "吉野郡下市町",
+    "yomi": "よしのぐんしもいちまち",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunkurotakimura",
+    "name": "吉野郡黒滝村",
+    "yomi": "よしのぐんくろたきむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunamakawamura",
+    "name": "吉野郡天川村",
+    "yomi": "よしのぐんあまかわむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunnosegawamura",
+    "name": "吉野郡野迫川村",
+    "yomi": "よしのぐんのせがわむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinoguntotsugawamura",
+    "name": "吉野郡十津川村",
+    "yomi": "よしのぐんとつがわむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunshimokitayamamura",
+    "name": "吉野郡下北山村",
+    "yomi": "よしのぐんしもきたやまむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogujoukitayamamura",
+    "name": "吉野郡上北山村",
+    "yomi": "よしのぐじょうきたやまむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunkawakamimura",
+    "name": "吉野郡川上村",
+    "yomi": "よしのぐんかわかみむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "yoshinogunhigashiyoshinomura",
+    "name": "吉野郡東吉野村",
+    "yomi": "よしのぐんひがしよしのむら",
+    "pref": "奈良県"
+  },
+  {
+    "id": "kainanshi",
+    "name": "海南市",
+    "yomi": "かいなんし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hashimotoshi",
+    "name": "橋本市",
+    "yomi": "はしもとし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "aridashi",
+    "name": "有田市",
+    "yomi": "ありだし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "goboushi",
+    "name": "御坊市",
+    "yomi": "ごぼうし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "tanabeshi",
+    "name": "田辺市",
+    "yomi": "たなべし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "shinguushi",
+    "name": "新宮市",
+    "yomi": "しんぐうし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "kinokawashi",
+    "name": "紀の川市",
+    "yomi": "きのかわし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "iwadeshi",
+    "name": "岩出市",
+    "yomi": "いわでし",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "kaisougunkiminomachi",
+    "name": "海草郡紀美野町",
+    "yomi": "かいそうぐんきみのまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "itogunkatsuragimachi",
+    "name": "伊都郡かつらぎ町",
+    "yomi": "いとぐんかつらぎまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "itogunkudoyamamachi",
+    "name": "伊都郡九度山町",
+    "yomi": "いとぐんくどやままち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "itoguntakanomachi",
+    "name": "伊都郡高野町",
+    "yomi": "いとぐんたかのまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "aridagunyuasamachi",
+    "name": "有田郡湯浅町",
+    "yomi": "ありだぐんゆあさまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "aridagunhirokawachou",
+    "name": "有田郡広川町",
+    "yomi": "ありだぐんひろかわちょう",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "aridagunaridagawamachi",
+    "name": "有田郡有田川町",
+    "yomi": "ありだぐんありだがわまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakagunmihamamachi",
+    "name": "日高郡美浜町",
+    "yomi": "ひだかぐんみはままち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakagunhidakamachi",
+    "name": "日高郡日高町",
+    "yomi": "ひだかぐんひだかまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakagunyuramachi",
+    "name": "日高郡由良町",
+    "yomi": "ひだかぐんゆらまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakaguninnamimachi",
+    "name": "日高郡印南町",
+    "yomi": "ひだかぐんいんなみまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakagunminabemachi",
+    "name": "日高郡みなべ町",
+    "yomi": "ひだかぐんみなべまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "hidakagunhidakagawamachi",
+    "name": "日高郡日高川町",
+    "yomi": "ひだかぐんひだかがわまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "nishimurogunshirahamachou",
+    "name": "西牟婁郡白浜町",
+    "yomi": "にしむろぐんしらはまちょう",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "nishimurogujoutondachou",
+    "name": "西牟婁郡上富田町",
+    "yomi": "にしむろぐじょうとんだちょう",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "nishimurogunsusamimachi",
+    "name": "西牟婁郡すさみ町",
+    "yomi": "にしむろぐんすさみまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "higashimurogunnachikatsuuramachi",
+    "name": "東牟婁郡那智勝浦町",
+    "yomi": "ひがしむろぐんなちかつうらまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "higashimuroguntaijimachi",
+    "name": "東牟婁郡太地町",
+    "yomi": "ひがしむろぐんたいじまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "higashimurogunkozagawamachi",
+    "name": "東牟婁郡古座川町",
+    "yomi": "ひがしむろぐんこざがわまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "higashimurogunkitayamamura",
+    "name": "東牟婁郡北山村",
+    "yomi": "ひがしむろぐんきたやまむら",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "higashimurogunkushimotomachi",
+    "name": "東牟婁郡串本町",
+    "yomi": "ひがしむろぐんくしもとまち",
+    "pref": "和歌山県"
+  },
+  {
+    "id": "yonagoshi",
+    "name": "米子市",
+    "yomi": "よなごし",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "kurayoshishi",
+    "name": "倉吉市",
+    "yomi": "くらよしし",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "sakaiminatoshi",
+    "name": "境港市",
+    "yomi": "さかいみなとし",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "iwamiguniwamimachi",
+    "name": "岩美郡岩美町",
+    "yomi": "いわみぐんいわみまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "yagashiragunwakasamachi",
+    "name": "八頭郡若桜町",
+    "yomi": "やがしらぐんわかさまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "yagashiragunchizumachi",
+    "name": "八頭郡智頭町",
+    "yomi": "やがしらぐんちずまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "yagashiragunyagashiramachi",
+    "name": "八頭郡八頭町",
+    "yomi": "やがしらぐんやがしらまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "touhakugunmisasamachi",
+    "name": "東伯郡三朝町",
+    "yomi": "とうはくぐんみささまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "touhakugunyurihamamachi",
+    "name": "東伯郡湯梨浜町",
+    "yomi": "とうはくぐんゆりはままち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "touhakugunkotouramachi",
+    "name": "東伯郡琴浦町",
+    "yomi": "とうはくぐんことうらまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "touhakugunhokueimachi",
+    "name": "東伯郡北栄町",
+    "yomi": "とうはくぐんほくえいまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "saihakugunhiezumura",
+    "name": "西伯郡日吉津村",
+    "yomi": "さいはくぐんひえづむら",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "saihakugunooyamachou",
+    "name": "西伯郡大山町",
+    "yomi": "さいはくぐんおおやまちょう",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "saihakugunnanbumachi",
+    "name": "西伯郡南部町",
+    "yomi": "さいはくぐんなんぶまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "saihakugunhoukimachi",
+    "name": "西伯郡伯耆町",
+    "yomi": "さいはくぐんほうきまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "hinogunnichinanmachi",
+    "name": "日野郡日南町",
+    "yomi": "ひのぐんにちなんまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "hinogunhinomachi",
+    "name": "日野郡日野町",
+    "yomi": "ひのぐんひのまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "hinogunkoufumachi",
+    "name": "日野郡江府町",
+    "yomi": "ひのぐんこうふまち",
+    "pref": "鳥取県"
+  },
+  {
+    "id": "hamadashi",
+    "name": "浜田市",
+    "yomi": "はまだし",
+    "pref": "島根県"
+  },
+  {
+    "id": "izumoshi",
+    "name": "出雲市",
+    "yomi": "いずもし",
+    "pref": "島根県"
+  },
+  {
+    "id": "masudashi",
+    "name": "益田市",
+    "yomi": "ますだし",
+    "pref": "島根県"
+  },
+  {
+    "id": "ootashi_shim",
+    "name": "大田市",
+    "yomi": "おおたし",
+    "pref": "島根県"
+  },
+  {
+    "id": "yasugishi",
+    "name": "安来市",
+    "yomi": "やすぎし",
+    "pref": "島根県"
+  },
+  {
+    "id": "goutsushi",
+    "name": "江津市",
+    "yomi": "ごうつし",
+    "pref": "島根県"
+  },
+  {
+    "id": "unnanshi",
+    "name": "雲南市",
+    "yomi": "うんなんし",
+    "pref": "島根県"
+  },
+  {
+    "id": "nitagunokuizumomachi",
+    "name": "仁多郡奥出雲町",
+    "yomi": "にたぐんおくいずもまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "iishiguniinanmachi",
+    "name": "飯石郡飯南町",
+    "yomi": "いいしぐんいいなんまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "ouchigunkawamotomachi",
+    "name": "邑智郡川本町",
+    "yomi": "おうちぐんかわもとまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "ouchigunmisatomachi",
+    "name": "邑智郡美郷町",
+    "yomi": "おうちぐんみさとまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "ouchigunyuuminamimachi",
+    "name": "邑智郡邑南町",
+    "yomi": "おうちぐんゆうみなみまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "kanoashiguntsuwanomachi",
+    "name": "鹿足郡津和野町",
+    "yomi": "かのあしぐんつわのまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "kanoashigunyoshikamachi",
+    "name": "鹿足郡吉賀町",
+    "yomi": "かのあしぐんよしかまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "okigunkaishimachi",
+    "name": "隠岐郡海士町",
+    "yomi": "おきぐんかいしまち",
+    "pref": "島根県"
+  },
+  {
+    "id": "okigunnishinoshimamachi",
+    "name": "隠岐郡西ノ島町",
+    "yomi": "おきぐんにしのしままち",
+    "pref": "島根県"
+  },
+  {
+    "id": "okiguntomoomura",
+    "name": "隠岐郡知夫村",
+    "yomi": "おきぐんともおむら",
+    "pref": "島根県"
+  },
+  {
+    "id": "okigunokinoshimamachi",
+    "name": "隠岐郡隠岐の島町",
+    "yomi": "おきぐんおきのしままち",
+    "pref": "島根県"
+  },
+  {
+    "id": "tsuyamashi",
+    "name": "津山市",
+    "yomi": "つやまし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "tamanoshi",
+    "name": "玉野市",
+    "yomi": "たまのし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "kasaokashi",
+    "name": "笠岡市",
+    "yomi": "かさおかし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "iharashi",
+    "name": "井原市",
+    "yomi": "いはらし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "soujashi",
+    "name": "総社市",
+    "yomi": "そうじゃし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "takahashishi",
+    "name": "高梁市",
+    "yomi": "たかはしし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "niimishi",
+    "name": "新見市",
+    "yomi": "にいみし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "bizenshi",
+    "name": "備前市",
+    "yomi": "びぜんし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "setouchishi",
+    "name": "瀬戸内市",
+    "yomi": "せとうちし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "akaiwashi",
+    "name": "赤磐市",
+    "yomi": "あかいわし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "maniwashi",
+    "name": "真庭市",
+    "yomi": "まにわし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "mimasakashi",
+    "name": "美作市",
+    "yomi": "みまさかし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "asakuchishi",
+    "name": "浅口市",
+    "yomi": "あさくちし",
+    "pref": "岡山県"
+  },
+  {
+    "id": "wakigunwakimachi",
+    "name": "和気郡和気町",
+    "yomi": "わきぐんわきまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "tsukubogunsoushimamachi",
+    "name": "都窪郡早島町",
+    "yomi": "つくぼぐんそうしままち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "asakuchigunsatoshoumachi",
+    "name": "浅口郡里庄町",
+    "yomi": "あさくちぐんさとしょうまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "odagunyakakechou",
+    "name": "小田郡矢掛町",
+    "yomi": "おだぐんやかけちょう",
+    "pref": "岡山県"
+  },
+  {
+    "id": "maniwagunshinjoumura",
+    "name": "真庭郡新庄村",
+    "yomi": "まにわぐんしんじょうむら",
+    "pref": "岡山県"
+  },
+  {
+    "id": "tomatagunkagaminomachi",
+    "name": "苫田郡鏡野町",
+    "yomi": "とまたぐんかがみのまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "katsutagunshououmachi",
+    "name": "勝田郡勝央町",
+    "yomi": "かつたぐんしょうおうまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "katsutagunnagimachi",
+    "name": "勝田郡奈義町",
+    "yomi": "かつたぐんなぎまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "eidagunnishiawakuramura",
+    "name": "英田郡西粟倉村",
+    "yomi": "えいだぐんにしあわくらむら",
+    "pref": "岡山県"
+  },
+  {
+    "id": "kumegunkumenanmachi",
+    "name": "久米郡久米南町",
+    "yomi": "くめぐんくめなんまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "kumegunmisakimachi",
+    "name": "久米郡美咲町",
+    "yomi": "くめぐんみさきまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "kagagunkibichuuoumachi",
+    "name": "加賀郡吉備中央町",
+    "yomi": "かがぐんきびちゅうおうまち",
+    "pref": "岡山県"
+  },
+  {
+    "id": "kureshi",
+    "name": "呉市",
+    "yomi": "くれし",
+    "pref": "広島県"
+  },
+  {
+    "id": "takeharashi",
+    "name": "竹原市",
+    "yomi": "たけはらし",
+    "pref": "広島県"
+  },
+  {
+    "id": "miharashi",
+    "name": "三原市",
+    "yomi": "みはらし",
+    "pref": "広島県"
+  },
+  {
+    "id": "onomichishi",
+    "name": "尾道市",
+    "yomi": "おのみちし",
+    "pref": "広島県"
+  },
+  {
+    "id": "fuchuushi_hiro",
+    "name": "府中市",
+    "yomi": "ふちゅうし",
+    "pref": "広島県"
+  },
+  {
+    "id": "sanjishi",
+    "name": "三次市",
+    "yomi": "さんじし",
+    "pref": "広島県"
+  },
+  {
+    "id": "shoubarashi",
+    "name": "庄原市",
+    "yomi": "しょうばらし",
+    "pref": "広島県"
+  },
+  {
+    "id": "ootakeshi",
+    "name": "大竹市",
+    "yomi": "おおたけし",
+    "pref": "広島県"
+  },
+  {
+    "id": "higashihiroshimashi",
+    "name": "東広島市",
+    "yomi": "ひがしひろしまし",
+    "pref": "広島県"
+  },
+  {
+    "id": "hatsukaichishi",
+    "name": "廿日市市",
+    "yomi": "はつかいちし",
+    "pref": "広島県"
+  },
+  {
+    "id": "akitakatashi",
+    "name": "安芸高田市",
+    "yomi": "あきたかたし",
+    "pref": "広島県"
+  },
+  {
+    "id": "edashimashi",
+    "name": "江田島市",
+    "yomi": "えだしまし",
+    "pref": "広島県"
+  },
+  {
+    "id": "akigunfuchuumachi",
+    "name": "安芸郡府中町",
+    "yomi": "あきぐんふちゅうまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "akigunkaitamachi",
+    "name": "安芸郡海田町",
+    "yomi": "あきぐんかいたまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "akigunkumanomachi",
+    "name": "安芸郡熊野町",
+    "yomi": "あきぐんくまのまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "akigunsakamachi",
+    "name": "安芸郡坂町",
+    "yomi": "あきぐんさかまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "yamagatagunakiootamachi",
+    "name": "山県郡安芸太田町",
+    "yomi": "やまがたぐんあきおおたまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "yamagatagunkitahiroshimamachi",
+    "name": "山県郡北広島町",
+    "yomi": "やまがたぐんきたひろしままち",
+    "pref": "広島県"
+  },
+  {
+    "id": "toyodagunoosakikamishimamachi",
+    "name": "豊田郡大崎上島町",
+    "yomi": "とよだぐんおおさきかみしままち",
+    "pref": "広島県"
+  },
+  {
+    "id": "seragunseramachi",
+    "name": "世羅郡世羅町",
+    "yomi": "せらぐんせらまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "jinsekigunjinsekikougenmachi",
+    "name": "神石郡神石高原町",
+    "yomi": "じんせきぐんじんせきこうげんまち",
+    "pref": "広島県"
+  },
+  {
+    "id": "shimonosekishi",
+    "name": "下関市",
+    "yomi": "しものせきし",
+    "pref": "山口県"
+  },
+  {
+    "id": "ubeshi",
+    "name": "宇部市",
+    "yomi": "うべし",
+    "pref": "山口県"
+  },
+  {
+    "id": "hagishi",
+    "name": "萩市",
+    "yomi": "はぎし",
+    "pref": "山口県"
+  },
+  {
+    "id": "houfushi",
+    "name": "防府市",
+    "yomi": "ほうふし",
+    "pref": "山口県"
+  },
+  {
+    "id": "kudamatsushi",
+    "name": "下松市",
+    "yomi": "くだまつし",
+    "pref": "山口県"
+  },
+  {
+    "id": "iwakunishi",
+    "name": "岩国市",
+    "yomi": "いわくにし",
+    "pref": "山口県"
+  },
+  {
+    "id": "hikarishi",
+    "name": "光市",
+    "yomi": "ひかりし",
+    "pref": "山口県"
+  },
+  {
+    "id": "nagatoshi",
+    "name": "長門市",
+    "yomi": "ながとし",
+    "pref": "山口県"
+  },
+  {
+    "id": "yanaishi",
+    "name": "柳井市",
+    "yomi": "やないし",
+    "pref": "山口県"
+  },
+  {
+    "id": "mineshi",
+    "name": "美祢市",
+    "yomi": "みねし",
+    "pref": "山口県"
+  },
+  {
+    "id": "shuunanshi",
+    "name": "周南市",
+    "yomi": "しゅうなんし",
+    "pref": "山口県"
+  },
+  {
+    "id": "sanyouonodashi",
+    "name": "山陽小野田市",
+    "yomi": "さんようおのだし",
+    "pref": "山口県"
+  },
+  {
+    "id": "ooshimagunsuouooshimamachi",
+    "name": "大島郡周防大島町",
+    "yomi": "おおしまぐんすおうおおしままち",
+    "pref": "山口県"
+  },
+  {
+    "id": "kugagunwakimachi",
+    "name": "玖珂郡和木町",
+    "yomi": "くがぐんわきまち",
+    "pref": "山口県"
+  },
+  {
+    "id": "kumagegujoukanmachi",
+    "name": "熊毛郡上関町",
+    "yomi": "くまげぐじょうかんまち",
+    "pref": "山口県"
+  },
+  {
+    "id": "kumageguntabusemachi",
+    "name": "熊毛郡田布施町",
+    "yomi": "くまげぐんたぶせまち",
+    "pref": "山口県"
+  },
+  {
+    "id": "kumagegunheizeimachi",
+    "name": "熊毛郡平生町",
+    "yomi": "くまげぐんへいぜいまち",
+    "pref": "山口県"
+  },
+  {
+    "id": "abugunabumachi",
+    "name": "阿武郡阿武町",
+    "yomi": "あぶぐんあぶまち",
+    "pref": "山口県"
+  },
+  {
+    "id": "narutoshi",
+    "name": "鳴門市",
+    "yomi": "なるとし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "komatsushimashi",
+    "name": "小松島市",
+    "yomi": "こまつしまし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "ananshi",
+    "name": "阿南市",
+    "yomi": "あなんし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "yoshinogawashi",
+    "name": "吉野川市",
+    "yomi": "よしのがわし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "awashi",
+    "name": "阿波市",
+    "yomi": "あわし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "mimashi",
+    "name": "美馬市",
+    "yomi": "みまし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "miyoshishi_toku",
+    "name": "三好市",
+    "yomi": "みよしし",
+    "pref": "徳島県"
+  },
+  {
+    "id": "katsuuragunkatsuuramachi",
+    "name": "勝浦郡勝浦町",
+    "yomi": "かつうらぐんかつうらまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "katsuuragujoukachimachi",
+    "name": "勝浦郡上勝町",
+    "yomi": "かつうらぐじょうかちまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "meitougunsanagouchimura",
+    "name": "名東郡佐那河内村",
+    "yomi": "めいとうぐんさなごうちむら",
+    "pref": "徳島県"
+  },
+  {
+    "id": "myouzaigunishiimachi",
+    "name": "名西郡石井町",
+    "yomi": "みょうざいぐんいしいまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "myouzaigunkamiyamamachi",
+    "name": "名西郡神山町",
+    "yomi": "みょうざいぐんかみやままち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "nakagunnakamachi",
+    "name": "那賀郡那賀町",
+    "yomi": "なかぐんなかまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "kaifugunmugimachi",
+    "name": "海部郡牟岐町",
+    "yomi": "かいふぐんむぎまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "kaifugunminamimachi",
+    "name": "海部郡美波町",
+    "yomi": "かいふぐんみなみまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "kaifugunkaiyoumachi",
+    "name": "海部郡海陽町",
+    "yomi": "かいふぐんかいようまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "itanogunmatsushigemachi",
+    "name": "板野郡松茂町",
+    "yomi": "いたのぐんまつしげまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "itanogunkitajimamachi",
+    "name": "板野郡北島町",
+    "yomi": "いたのぐんきたじままち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "itanogunaizumimachi",
+    "name": "板野郡藍住町",
+    "yomi": "いたのぐんあいずみまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "itanogunitanomachi",
+    "name": "板野郡板野町",
+    "yomi": "いたのぐんいたのまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "itanogujouitamachi",
+    "name": "板野郡上板町",
+    "yomi": "いたのぐじょういたまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "mimaguntsurugimachi",
+    "name": "美馬郡つるぎ町",
+    "yomi": "みまぐんつるぎまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "miyoshigunhigashimiyoshimachi",
+    "name": "三好郡東みよし町",
+    "yomi": "みよしぐんひがしみよしまち",
+    "pref": "徳島県"
+  },
+  {
+    "id": "marugameshi",
+    "name": "丸亀市",
+    "yomi": "まるがめし",
+    "pref": "香川県"
+  },
+  {
+    "id": "sakaideshi",
+    "name": "坂出市",
+    "yomi": "さかいでし",
+    "pref": "香川県"
+  },
+  {
+    "id": "zentsuujishi",
+    "name": "善通寺市",
+    "yomi": "ぜんつうじし",
+    "pref": "香川県"
+  },
+  {
+    "id": "kanonjishi",
+    "name": "観音寺市",
+    "yomi": "かんおんじし",
+    "pref": "香川県"
+  },
+  {
+    "id": "sanukishi",
+    "name": "さぬき市",
+    "yomi": "さぬきし",
+    "pref": "香川県"
+  },
+  {
+    "id": "higashikagawashi",
+    "name": "東かがわ市",
+    "yomi": "ひがしかがわし",
+    "pref": "香川県"
+  },
+  {
+    "id": "mitoyoshi",
+    "name": "三豊市",
+    "yomi": "みとよし",
+    "pref": "香川県"
+  },
+  {
+    "id": "azukiguntonoshoumachi",
+    "name": "小豆郡土庄町",
+    "yomi": "あずきぐんとのしょうまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "azukigunshouzushimamachi",
+    "name": "小豆郡小豆島町",
+    "yomi": "あずきぐんしょうずしままち",
+    "pref": "香川県"
+  },
+  {
+    "id": "kidagunmikimachi",
+    "name": "木田郡三木町",
+    "yomi": "きだぐんみきまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "kagawagunnaoshimamachi",
+    "name": "香川郡直島町",
+    "yomi": "かがわぐんなおしままち",
+    "pref": "香川県"
+  },
+  {
+    "id": "ayautagunutatsumachi",
+    "name": "綾歌郡宇多津町",
+    "yomi": "あやうたぐんうたつまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "ayautagunayakawamachi",
+    "name": "綾歌郡綾川町",
+    "yomi": "あやうたぐんあやかわまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "nakatadogunkotohiramachi",
+    "name": "仲多度郡琴平町",
+    "yomi": "なかたどぐんことひらまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "nakatadoguntadotsumachi",
+    "name": "仲多度郡多度津町",
+    "yomi": "なかたどぐんたどつまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "nakatadogunmannoumachi",
+    "name": "仲多度郡まんのう町",
+    "yomi": "なかたどぐんまんのうまち",
+    "pref": "香川県"
+  },
+  {
+    "id": "imabarishi",
+    "name": "今治市",
+    "yomi": "いまばりし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "uwashimashi",
+    "name": "宇和島市",
+    "yomi": "うわしまし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "yawatahamashi",
+    "name": "八幡浜市",
+    "yomi": "やわたはまし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "niihamashi",
+    "name": "新居浜市",
+    "yomi": "にいはまし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "saijoushi",
+    "name": "西条市",
+    "yomi": "さいじょうし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "oozushi",
+    "name": "大洲市",
+    "yomi": "おおずし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "iyoshi",
+    "name": "伊予市",
+    "yomi": "いよし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "shikokuchuuoushi",
+    "name": "四国中央市",
+    "yomi": "しこくちゅうおうし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "seiyoshi",
+    "name": "西予市",
+    "yomi": "せいよし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "touonshi",
+    "name": "東温市",
+    "yomi": "とうおんし",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "ochigujoushimamachi",
+    "name": "越智郡上島町",
+    "yomi": "おちぐじょうしままち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "kamiukenagunkumakougenmachi",
+    "name": "上浮穴郡久万高原町",
+    "yomi": "かみうけなぐんくまこうげんまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "iyogunmatsumaemachi",
+    "name": "伊予郡松前町",
+    "yomi": "いよぐんまつまえまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "iyoguntobemachi",
+    "name": "伊予郡砥部町",
+    "yomi": "いよぐんとべまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "kitagunnaikomachi",
+    "name": "喜多郡内子町",
+    "yomi": "きたぐんないこまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "nishiuwagunikatamachi",
+    "name": "西宇和郡伊方町",
+    "yomi": "にしうわぐんいかたまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "kitauwagunmatsunomachi",
+    "name": "北宇和郡松野町",
+    "yomi": "きたうわぐんまつのまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "kitauwagunkihokumachi",
+    "name": "北宇和郡鬼北町",
+    "yomi": "きたうわぐんきほくまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "minamiuwagunainanmachi",
+    "name": "南宇和郡愛南町",
+    "yomi": "みなみうわぐんあいなんまち",
+    "pref": "愛媛県"
+  },
+  {
+    "id": "murotoshi",
+    "name": "室戸市",
+    "yomi": "むろとし",
+    "pref": "高知県"
+  },
+  {
+    "id": "akishi",
+    "name": "安芸市",
+    "yomi": "あきし",
+    "pref": "高知県"
+  },
+  {
+    "id": "nangokushi",
+    "name": "南国市",
+    "yomi": "なんごくし",
+    "pref": "高知県"
+  },
+  {
+    "id": "tosashi",
+    "name": "土佐市",
+    "yomi": "とさし",
+    "pref": "高知県"
+  },
+  {
+    "id": "susakishi",
+    "name": "須崎市",
+    "yomi": "すさきし",
+    "pref": "高知県"
+  },
+  {
+    "id": "sukumoshi",
+    "name": "宿毛市",
+    "yomi": "すくもし",
+    "pref": "高知県"
+  },
+  {
+    "id": "tosashimizushi",
+    "name": "土佐清水市",
+    "yomi": "とさしみずし",
+    "pref": "高知県"
+  },
+  {
+    "id": "shimantoshi",
+    "name": "四万十市",
+    "yomi": "しまんとし",
+    "pref": "高知県"
+  },
+  {
+    "id": "kounanshi_kouc",
+    "name": "香南市",
+    "yomi": "こうなんし",
+    "pref": "高知県"
+  },
+  {
+    "id": "kamishi",
+    "name": "香美市",
+    "yomi": "かみし",
+    "pref": "高知県"
+  },
+  {
+    "id": "akiguntouyoumachi",
+    "name": "安芸郡東洋町",
+    "yomi": "あきぐんとうようまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "akigunnaharimachi",
+    "name": "安芸郡奈半利町",
+    "yomi": "あきぐんなはりまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "akiguntanomachi",
+    "name": "安芸郡田野町",
+    "yomi": "あきぐんたのまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "akigunyasudamachi",
+    "name": "安芸郡安田町",
+    "yomi": "あきぐんやすだまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "akigunkitagawamura",
+    "name": "安芸郡北川村",
+    "yomi": "あきぐんきたがわむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "akigunumajimura",
+    "name": "安芸郡馬路村",
+    "yomi": "あきぐんうまじむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "akigungeiseimura",
+    "name": "安芸郡芸西村",
+    "yomi": "あきぐんげいせいむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "nagaokakoorimotoyamachou",
+    "name": "長岡郡本山町",
+    "yomi": "ながおかこおりもとやまちょう",
+    "pref": "高知県"
+  },
+  {
+    "id": "nagaokaguntaihoumachi",
+    "name": "長岡郡大豊町",
+    "yomi": "ながおかぐんたいほうまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "tosaguntosamachi",
+    "name": "土佐郡土佐町",
+    "yomi": "とさぐんとさまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "tosagunookawamura",
+    "name": "土佐郡大川村",
+    "yomi": "とさぐんおおかわむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "agawaguninomachi",
+    "name": "吾川郡いの町",
+    "yomi": "あがわぐんいのまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "agawagunniyodogawamachi",
+    "name": "吾川郡仁淀川町",
+    "yomi": "あがわぐんによどがわまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunchuutosamachi",
+    "name": "高岡郡中土佐町",
+    "yomi": "たかおかぐんちゅうとさまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunsagawamachi",
+    "name": "高岡郡佐川町",
+    "yomi": "たかおかぐんさがわまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunochimachi",
+    "name": "高岡郡越知町",
+    "yomi": "たかおかぐんおちまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunyusuharamachi",
+    "name": "高岡郡檮原町",
+    "yomi": "たかおかぐんゆすはらまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunhidakamura",
+    "name": "高岡郡日高村",
+    "yomi": "たかおかぐんひだかむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokaguntsunomachi",
+    "name": "高岡郡津野町",
+    "yomi": "たかおかぐんつのまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "takaokagunshimantomachi",
+    "name": "高岡郡四万十町",
+    "yomi": "たかおかぐんしまんとまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "hatagunootsukimachi",
+    "name": "幡多郡大月町",
+    "yomi": "はたぐんおおつきまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "hatagunmiharamura",
+    "name": "幡多郡三原村",
+    "yomi": "はたぐんみはらむら",
+    "pref": "高知県"
+  },
+  {
+    "id": "hatagunkuroshiomachi",
+    "name": "幡多郡黒潮町",
+    "yomi": "はたぐんくろしおまち",
+    "pref": "高知県"
+  },
+  {
+    "id": "oomutashi",
+    "name": "大牟田市",
+    "yomi": "おおむたし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kurumeshi",
+    "name": "久留米市",
+    "yomi": "くるめし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "noogatashi",
+    "name": "直方市",
+    "yomi": "のおがたし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "iizukashi",
+    "name": "飯塚市",
+    "yomi": "いいづかし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawashi",
+    "name": "田川市",
+    "yomi": "たがわし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "yanagawashi",
+    "name": "柳川市",
+    "yomi": "やながわし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "yameshi",
+    "name": "八女市",
+    "yomi": "やめし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "chikugoshi",
+    "name": "筑後市",
+    "yomi": "ちくごし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ookawashi",
+    "name": "大川市",
+    "yomi": "おおかわし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "yukuhashishi",
+    "name": "行橋市",
+    "yomi": "ゆくはしし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "buzenshi",
+    "name": "豊前市",
+    "yomi": "ぶぜんし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "chuukanshi",
+    "name": "中間市",
+    "yomi": "ちゅうかんし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ogoorishi",
+    "name": "小郡市",
+    "yomi": "おごおりし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "chikushinoshi",
+    "name": "筑紫野市",
+    "yomi": "ちくしのし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasugashi",
+    "name": "春日市",
+    "yomi": "かすがし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "oonojoushi",
+    "name": "大野城市",
+    "yomi": "おおのじょうし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "munakatashi",
+    "name": "宗像市",
+    "yomi": "むなかたし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "dazaifushi",
+    "name": "太宰府市",
+    "yomi": "だざいふし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kogashi_fuku",
+    "name": "古賀市",
+    "yomi": "こがし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "fukutsushi",
+    "name": "福津市",
+    "yomi": "ふくつし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ukihashi",
+    "name": "うきは市",
+    "yomi": "うきはし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "miyawakashi",
+    "name": "宮若市",
+    "yomi": "みやわかし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kamashi",
+    "name": "嘉麻市",
+    "yomi": "かまし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "asakurashi",
+    "name": "朝倉市",
+    "yomi": "あさくらし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "miyamashi",
+    "name": "みやま市",
+    "yomi": "みやまし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "itoshimashi",
+    "name": "糸島市",
+    "yomi": "いとしまし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "nakagawashi",
+    "name": "那珂川市",
+    "yomi": "なかがわし",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunumimachi",
+    "name": "糟屋郡宇美町",
+    "yomi": "かすやぐんうみまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunsasagurimachi",
+    "name": "糟屋郡篠栗町",
+    "yomi": "かすやぐんささぐりまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunshimemachi",
+    "name": "糟屋郡志免町",
+    "yomi": "かすやぐんしめまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunsuemachi",
+    "name": "糟屋郡須恵町",
+    "yomi": "かすやぐんすえまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunshinguumachi",
+    "name": "糟屋郡新宮町",
+    "yomi": "かすやぐんしんぐうまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunhisayamamachi",
+    "name": "糟屋郡久山町",
+    "yomi": "かすやぐんひさやままち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kasuyagunkasuyamachi",
+    "name": "糟屋郡粕屋町",
+    "yomi": "かすやぐんかすやまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ongagunashiyamachi",
+    "name": "遠賀郡芦屋町",
+    "yomi": "おんがぐんあしやまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ongagunmizumakimachi",
+    "name": "遠賀郡水巻町",
+    "yomi": "おんがぐんみずまきまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ongagunokagakichou",
+    "name": "遠賀郡岡垣町",
+    "yomi": "おんがぐんおかがきちょう",
+    "pref": "福岡県"
+  },
+  {
+    "id": "ongagunongamachi",
+    "name": "遠賀郡遠賀町",
+    "yomi": "おんがぐんおんがまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kurategunkotakechou",
+    "name": "鞍手郡小竹町",
+    "yomi": "くらてぐんこたけちょう",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kurategunkuratemachi",
+    "name": "鞍手郡鞍手町",
+    "yomi": "くらてぐんくらてまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kahogunkatsuragawamachi",
+    "name": "嘉穂郡桂川町",
+    "yomi": "かほぐんかつらがわまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "asakuragunchikuzenmachi",
+    "name": "朝倉郡筑前町",
+    "yomi": "あさくらぐんちくぜんまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "asakuraguntouhoumura",
+    "name": "朝倉郡東峰村",
+    "yomi": "あさくらぐんとうほうむら",
+    "pref": "福岡県"
+  },
+  {
+    "id": "mitsuiguntachiaraimachi",
+    "name": "三井郡大刀洗町",
+    "yomi": "みついぐんたちあらいまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "mizumaguntaibokumachi",
+    "name": "三潴郡大木町",
+    "yomi": "みずまぐんたいぼくまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "yamegunhirokawachou",
+    "name": "八女郡広川町",
+    "yomi": "やめぐんひろかわちょう",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunkoushunmachi",
+    "name": "田川郡香春町",
+    "yomi": "たがわぐんこうしゅんまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunsoedamachi",
+    "name": "田川郡添田町",
+    "yomi": "たがわぐんそえだまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunitodamachi",
+    "name": "田川郡糸田町",
+    "yomi": "たがわぐんいとだまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunkawasakichou",
+    "name": "田川郡川崎町",
+    "yomi": "たがわぐんかわさきちょう",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawaguntaininmachi",
+    "name": "田川郡大任町",
+    "yomi": "たがわぐんたいにんまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunakamura",
+    "name": "田川郡赤村",
+    "yomi": "たがわぐんあかむら",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tagawagunfukuchimachi",
+    "name": "田川郡福智町",
+    "yomi": "たがわぐんふくちまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kyoutogunkaridamachi",
+    "name": "京都郡苅田町",
+    "yomi": "きょうとぐんかりだまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "kyoutogunmiyakomachi",
+    "name": "京都郡みやこ町",
+    "yomi": "きょうとぐんみやこまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tsukiagegunyoshitomimachi",
+    "name": "築上郡吉富町",
+    "yomi": "つきあげぐんよしとみまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tsukiagegunuwagemachi",
+    "name": "築上郡上毛町",
+    "yomi": "つきあげぐんうわげまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "tsukiagegunchikujoumachi",
+    "name": "築上郡築上町",
+    "yomi": "つきあげぐんちくじょうまち",
+    "pref": "福岡県"
+  },
+  {
+    "id": "karatsushi",
+    "name": "唐津市",
+    "yomi": "からつし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "tosushi",
+    "name": "鳥栖市",
+    "yomi": "とすし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "takushi",
+    "name": "多久市",
+    "yomi": "たくし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "imarishi",
+    "name": "伊万里市",
+    "yomi": "いまりし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "takeoshi",
+    "name": "武雄市",
+    "yomi": "たけおし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kashimashi_saga",
+    "name": "鹿島市",
+    "yomi": "かしまし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "ogishi",
+    "name": "小城市",
+    "yomi": "おぎし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "ureshinoshi",
+    "name": "嬉野市",
+    "yomi": "うれしのし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kanzakishi",
+    "name": "神埼市",
+    "yomi": "かんざきし",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kanzakigunyoshinokesatomachi",
+    "name": "神埼郡吉野ヶ里町",
+    "yomi": "かんざきぐんよしのゖさとまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "miyakigunkiyamamachi",
+    "name": "三養基郡基山町",
+    "yomi": "みやきぐんきやままち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "miyakigujouminemachi",
+    "name": "三養基郡上峰町",
+    "yomi": "みやきぐじょうみねまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "miyakigunmiyakimachi",
+    "name": "三養基郡みやき町",
+    "yomi": "みやきぐんみやきまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "higashimatsuuragungenkaimachi",
+    "name": "東松浦郡玄海町",
+    "yomi": "ひがしまつうらぐんげんかいまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "nishimatsuuragunaridamachi",
+    "name": "西松浦郡有田町",
+    "yomi": "にしまつうらぐんありだまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kineshimagunoomachimachi",
+    "name": "杵島郡大町町",
+    "yomi": "きねしまぐんおおまちまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kineshimagunkouhokumachi",
+    "name": "杵島郡江北町",
+    "yomi": "きねしまぐんこうほくまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "kineshimagunshiroishimachi",
+    "name": "杵島郡白石町",
+    "yomi": "きねしまぐんしろいしまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "fujitsuguntaroumachi",
+    "name": "藤津郡太良町",
+    "yomi": "ふじつぐんたろうまち",
+    "pref": "佐賀県"
+  },
+  {
+    "id": "saseboshi",
+    "name": "佐世保市",
+    "yomi": "させぼし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "shimabarashi",
+    "name": "島原市",
+    "yomi": "しまばらし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "isahayashi",
+    "name": "諫早市",
+    "yomi": "いさはやし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "oomurashi",
+    "name": "大村市",
+    "yomi": "おおむらし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "hiradoshi",
+    "name": "平戸市",
+    "yomi": "ひらどし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "matsuurashi",
+    "name": "松浦市",
+    "yomi": "まつうらし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "tsushimashi_naga",
+    "name": "対馬市",
+    "yomi": "つしまし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "ichishishi",
+    "name": "壱岐市",
+    "yomi": "いちしし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "gotoushi",
+    "name": "五島市",
+    "yomi": "ごとうし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "saikaishi",
+    "name": "西海市",
+    "yomi": "さいかいし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "unzenshi",
+    "name": "雲仙市",
+    "yomi": "うんぜんし",
+    "pref": "長崎県"
+  },
+  {
+    "id": "nantouharaichi",
+    "name": "南島原市",
+    "yomi": "なんとうはらいち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "nishisonogigunchouyomachi",
+    "name": "西彼杵郡長与町",
+    "yomi": "にしそのぎぐんちょうよまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "nishisonogiguntokitsumachi",
+    "name": "西彼杵郡時津町",
+    "yomi": "にしそのぎぐんときつまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "higashisonogigunhigashisonogimachi",
+    "name": "東彼杵郡東彼杵町",
+    "yomi": "ひがしそのぎぐんひがしそのぎまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "higashisonogigunkawatanamachi",
+    "name": "東彼杵郡川棚町",
+    "yomi": "ひがしそのぎぐんかわたなまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "higashisonogigunhasamimachi",
+    "name": "東彼杵郡波佐見町",
+    "yomi": "ひがしそのぎぐんはさみまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "kitamatsuuragunojikamachi",
+    "name": "北松浦郡小値賀町",
+    "yomi": "きたまつうらぐんおぢかまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "kitamatsuuragunsassamachi",
+    "name": "北松浦郡佐々町",
+    "yomi": "きたまつうらぐんさっさまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "minamimatsuuragunshinuegotoumachi",
+    "name": "南松浦郡新上五島町",
+    "yomi": "みなみまつうらぐんしんうえごとうまち",
+    "pref": "長崎県"
+  },
+  {
+    "id": "yatsushiroshi",
+    "name": "八代市",
+    "yomi": "やつしろし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "hitoyoshishi",
+    "name": "人吉市",
+    "yomi": "ひとよしし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "araoshi",
+    "name": "荒尾市",
+    "yomi": "あらおし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "minamatashi",
+    "name": "水俣市",
+    "yomi": "みなまたし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "tamanashi",
+    "name": "玉名市",
+    "yomi": "たまなし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "yamagashi",
+    "name": "山鹿市",
+    "yomi": "やまがし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kikuchishi",
+    "name": "菊池市",
+    "yomi": "きくちし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "utoshi",
+    "name": "宇土市",
+    "yomi": "うとし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamiamakusashi",
+    "name": "上天草市",
+    "yomi": "かみあまくさし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "ukishi",
+    "name": "宇城市",
+    "yomi": "うきし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asoshi",
+    "name": "阿蘇市",
+    "yomi": "あそし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "amakusashi",
+    "name": "天草市",
+    "yomi": "あまくさし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "goushishi",
+    "name": "合志市",
+    "yomi": "ごうしし",
+    "pref": "熊本県"
+  },
+  {
+    "id": "shimomashikigunmisatomachi",
+    "name": "下益城郡美里町",
+    "yomi": "しもましきぐんみさとまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "tamanagungyokutoumachi",
+    "name": "玉名郡玉東町",
+    "yomi": "たまなぐんぎょくとうまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "tamanagunnankanmachi",
+    "name": "玉名郡南関町",
+    "yomi": "たまなぐんなんかんまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "tamanagunchousumachi",
+    "name": "玉名郡長洲町",
+    "yomi": "たまなぐんちょうすまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "tamanagunnagomimachi",
+    "name": "玉名郡和水町",
+    "yomi": "たまなぐんなごみまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kikuchigunootsumachi",
+    "name": "菊池郡大津町",
+    "yomi": "きくちぐんおおつまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kikuchigunkikuyoumachi",
+    "name": "菊池郡菊陽町",
+    "yomi": "きくちぐんきくようまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asogunminamiogunimachi",
+    "name": "阿蘇郡南小国町",
+    "yomi": "あそぐんみなみおぐにまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asogunogunimachi",
+    "name": "阿蘇郡小国町",
+    "yomi": "あそぐんおぐにまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asogunubuyamamura",
+    "name": "阿蘇郡産山村",
+    "yomi": "あそぐんうぶやまむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asoguntakamorichou",
+    "name": "阿蘇郡高森町",
+    "yomi": "あそぐんたかもりちょう",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asogunnishiharamura",
+    "name": "阿蘇郡西原村",
+    "yomi": "あそぐんにしはらむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "asogunminamiasomura",
+    "name": "阿蘇郡南阿蘇村",
+    "yomi": "あそぐんみなみあそむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamimashikigunmifunemachi",
+    "name": "上益城郡御船町",
+    "yomi": "かみましきぐんみふねまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamimashikigunkashimamachi",
+    "name": "上益城郡嘉島町",
+    "yomi": "かみましきぐんかしままち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamimashikigunmashikimachi",
+    "name": "上益城郡益城町",
+    "yomi": "かみましきぐんましきまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamimashikigunkousamachi",
+    "name": "上益城郡甲佐町",
+    "yomi": "かみましきぐんこうさまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kamimashikikouriyamamiyakochou",
+    "name": "上益城郡山都町",
+    "yomi": "かみましきこうりやまみやこちょう",
+    "pref": "熊本県"
+  },
+  {
+    "id": "yatsushirogunhikawamachi",
+    "name": "八代郡氷川町",
+    "yomi": "やつしろぐんひかわまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "ashikitagunashikitamachi",
+    "name": "葦北郡芦北町",
+    "yomi": "あしきたぐんあしきたまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "ashikitaguntsunagimachi",
+    "name": "葦北郡津奈木町",
+    "yomi": "あしきたぐんつなぎまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunnishikichou",
+    "name": "球磨郡錦町",
+    "yomi": "くまぐんにしきちょう",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumaguntaragimachi",
+    "name": "球磨郡多良木町",
+    "yomi": "くまぐんたらぎまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunsuijoumura",
+    "name": "球磨郡水上村",
+    "yomi": "くまぐんすいじょうむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunsagaramura",
+    "name": "球磨郡相良村",
+    "yomi": "くまぐんさがらむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunitsukimura",
+    "name": "球磨郡五木村",
+    "yomi": "くまぐんいつきむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumakouriyamaemura",
+    "name": "球磨郡山江村",
+    "yomi": "くまこうりやまえむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunkumamura",
+    "name": "球磨郡球磨村",
+    "yomi": "くまぐんくまむら",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunasagirimachi",
+    "name": "球磨郡あさぎり町",
+    "yomi": "くまぐんあさぎりまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "amakusagunreihokumachi",
+    "name": "天草郡苓北町",
+    "yomi": "あまくさぐんれいほくまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "kumagunyunomaemachi",
+    "name": "球磨郡湯前町",
+    "yomi": "くまぐんゆのまえまち",
+    "pref": "熊本県"
+  },
+  {
+    "id": "beppushi",
+    "name": "別府市",
+    "yomi": "べっぷし",
+    "pref": "大分県"
+  },
+  {
+    "id": "nakatsushi",
+    "name": "中津市",
+    "yomi": "なかつし",
+    "pref": "大分県"
+  },
+  {
+    "id": "hitashi",
+    "name": "日田市",
+    "yomi": "ひたし",
+    "pref": "大分県"
+  },
+  {
+    "id": "saekishi",
+    "name": "佐伯市",
+    "yomi": "さえきし",
+    "pref": "大分県"
+  },
+  {
+    "id": "usukishi",
+    "name": "臼杵市",
+    "yomi": "うすきし",
+    "pref": "大分県"
+  },
+  {
+    "id": "tsukumishi",
+    "name": "津久見市",
+    "yomi": "つくみし",
+    "pref": "大分県"
+  },
+  {
+    "id": "takedashi",
+    "name": "竹田市",
+    "yomi": "たけだし",
+    "pref": "大分県"
+  },
+  {
+    "id": "bungotakadashi",
+    "name": "豊後高田市",
+    "yomi": "ぶんごたかだし",
+    "pref": "大分県"
+  },
+  {
+    "id": "kitsukishi",
+    "name": "杵築市",
+    "yomi": "きつきし",
+    "pref": "大分県"
+  },
+  {
+    "id": "usashi",
+    "name": "宇佐市",
+    "yomi": "うさし",
+    "pref": "大分県"
+  },
+  {
+    "id": "bungooonoshi",
+    "name": "豊後大野市",
+    "yomi": "ぶんごおおのし",
+    "pref": "大分県"
+  },
+  {
+    "id": "yuushi",
+    "name": "由布市",
+    "yomi": "ゆうし",
+    "pref": "大分県"
+  },
+  {
+    "id": "kunisakishi",
+    "name": "国東市",
+    "yomi": "くにさきし",
+    "pref": "大分県"
+  },
+  {
+    "id": "higashikunisakigunhimejimamura",
+    "name": "東国東郡姫島村",
+    "yomi": "ひがしくにさきぐんひめじまむら",
+    "pref": "大分県"
+  },
+  {
+    "id": "hayamigunhinodemachi",
+    "name": "速見郡日出町",
+    "yomi": "はやみぐんひのでまち",
+    "pref": "大分県"
+  },
+  {
+    "id": "kusugunkokonoemachi",
+    "name": "玖珠郡九重町",
+    "yomi": "くすぐんここのえまち",
+    "pref": "大分県"
+  },
+  {
+    "id": "kusugunkusumachi",
+    "name": "玖珠郡玖珠町",
+    "yomi": "くすぐんくすまち",
+    "pref": "大分県"
+  },
+  {
+    "id": "tomishiroshi",
+    "name": "都城市",
+    "yomi": "とみしろし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nobeokashi",
+    "name": "延岡市",
+    "yomi": "のべおかし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nichinanshi",
+    "name": "日南市",
+    "yomi": "にちなんし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "kobayashishi",
+    "name": "小林市",
+    "yomi": "こばやしし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "hyuugashi",
+    "name": "日向市",
+    "yomi": "ひゅうがし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "kushimashi",
+    "name": "串間市",
+    "yomi": "くしまし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "saitoshi",
+    "name": "西都市",
+    "yomi": "さいとし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "ebinoshi",
+    "name": "えびの市",
+    "yomi": "えびのし",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "kitamorokatagunmimatamachi",
+    "name": "北諸県郡三股町",
+    "yomi": "きたもろかたぐんみまたまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nishimorokatagunkougenmachi",
+    "name": "西諸県郡高原町",
+    "yomi": "にしもろかたぐんこうげんまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashimorokatagunkunitomimachi",
+    "name": "東諸県郡国富町",
+    "yomi": "ひがしもろかたぐんくにとみまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashimorokatagunayamachi",
+    "name": "東諸県郡綾町",
+    "yomi": "ひがしもろかたぐんあやまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyuguntakanabemachi",
+    "name": "児湯郡高鍋町",
+    "yomi": "こゆぐんたかなべまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyugunshintomimachi",
+    "name": "児湯郡新富町",
+    "yomi": "こゆぐんしんとみまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyugunnishimeramura",
+    "name": "児湯郡西米良村",
+    "yomi": "こゆぐんにしめらむら",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyugunkishiromachi",
+    "name": "児湯郡木城町",
+    "yomi": "こゆぐんきしろまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyugunkawaminamimachi",
+    "name": "児湯郡川南町",
+    "yomi": "こゆぐんかわみなみまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "koyuguntonoumachi",
+    "name": "児湯郡都農町",
+    "yomi": "こゆぐんとのうまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashiusukigunkadogawamachi",
+    "name": "東臼杵郡門川町",
+    "yomi": "ひがしうすきぐんかどがわまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashiusukigunmorotsukamura",
+    "name": "東臼杵郡諸塚村",
+    "yomi": "ひがしうすきぐんもろつかむら",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashiusukigunshiibamura",
+    "name": "東臼杵郡椎葉村",
+    "yomi": "ひがしうすきぐんしいばむら",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "higashiusukigunmisatomachi",
+    "name": "東臼杵郡美郷町",
+    "yomi": "ひがしうすきぐんみさとまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nishiusukiguntakachihomachi",
+    "name": "西臼杵郡高千穂町",
+    "yomi": "にしうすきぐんたかちほまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nishiusukigunhinokagemachi",
+    "name": "西臼杵郡日之影町",
+    "yomi": "にしうすきぐんひのかげまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "nishiusukigungokesemachi",
+    "name": "西臼杵郡五ヶ瀬町",
+    "yomi": "にしうすきぐんごゖせまち",
+    "pref": "宮崎県"
+  },
+  {
+    "id": "kanoyashi",
+    "name": "鹿屋市",
+    "yomi": "かのやし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "makurazakishi",
+    "name": "枕崎市",
+    "yomi": "まくらざきし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "akuneshi",
+    "name": "阿久根市",
+    "yomi": "あくねし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "shussuishi",
+    "name": "出水市",
+    "yomi": "しゅっすいし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ibusukishi",
+    "name": "指宿市",
+    "yomi": "いぶすきし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "nishinoomoteshi",
+    "name": "西之表市",
+    "yomi": "にしのおもてし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "tarumizushi",
+    "name": "垂水市",
+    "yomi": "たるみずし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "satsumasendaishi",
+    "name": "薩摩川内市",
+    "yomi": "さつませんだいし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "hiokishi",
+    "name": "日置市",
+    "yomi": "ひおきし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "sooichi",
+    "name": "曽於市",
+    "yomi": "そおいち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kirishimashi",
+    "name": "霧島市",
+    "yomi": "きりしまし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ichikikushikinoshi",
+    "name": "いちき串木野市",
+    "yomi": "いちきくしきのし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "minamisatsumashi",
+    "name": "南さつま市",
+    "yomi": "みなみさつまし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "shibushishi",
+    "name": "志布志市",
+    "yomi": "しぶしし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "amamishi",
+    "name": "奄美市",
+    "yomi": "あまみし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "minamikyuushuushi",
+    "name": "南九州市",
+    "yomi": "みなみきゅうしゅうし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "isashi",
+    "name": "伊佐市",
+    "yomi": "いさし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "airashi",
+    "name": "姶良市",
+    "yomi": "あいらし",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kakoshimagunmishimamura",
+    "name": "鹿児島郡三島村",
+    "yomi": "かこしまぐんみしまむら",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kakoshimagunjuushimamura",
+    "name": "鹿児島郡十島村",
+    "yomi": "かこしまぐんじゅうしまむら",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "satsumagunsatsumamachi",
+    "name": "薩摩郡さつま町",
+    "yomi": "さつまぐんさつままち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "shussuigunchoushimamachi",
+    "name": "出水郡長島町",
+    "yomi": "しゅっすいぐんちょうしままち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "airagunyuusuimachi",
+    "name": "姶良郡湧水町",
+    "yomi": "あいらぐんゆうすいまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "soogunoosakimachi",
+    "name": "曽於郡大崎町",
+    "yomi": "そおぐんおおさきまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kimotsukigunhigashikushiramachi",
+    "name": "肝属郡東串良町",
+    "yomi": "きもつきぐんひがしくしらまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kimotsukigunkinkoumachi",
+    "name": "肝属郡錦江町",
+    "yomi": "きもつきぐんきんこうまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kimotsukigunminamioosumimachi",
+    "name": "肝属郡南大隅町",
+    "yomi": "きもつきぐんみなみおおすみまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kimotsukigunkimotsukimachi",
+    "name": "肝属郡肝付町",
+    "yomi": "きもつきぐんきもつきまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kumagegunchuushushimachi",
+    "name": "熊毛郡中種子町",
+    "yomi": "くまげぐんちゅうしゅしまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kumagegunminamitanemachi",
+    "name": "熊毛郡南種子町",
+    "yomi": "くまげぐんみなみたねまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "kumagegunyakushimamachi",
+    "name": "熊毛郡屋久島町",
+    "yomi": "くまげぐんやくしままち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunyamatomura",
+    "name": "大島郡大和村",
+    "yomi": "おおしまぐんやまとむら",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunukenmura",
+    "name": "大島郡宇検村",
+    "yomi": "おおしまぐんうけんむら",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunsetouchimachi",
+    "name": "大島郡瀬戸内町",
+    "yomi": "おおしまぐんせとうちまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimaguntatsugoumachi",
+    "name": "大島郡龍郷町",
+    "yomi": "おおしまぐんたつごうまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunkikaimachi",
+    "name": "大島郡喜界町",
+    "yomi": "おおしまぐんきかいまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunnoriyukishimamachi",
+    "name": "大島郡徳之島町",
+    "yomi": "おおしまぐんのりゆきしままち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunamagimachi",
+    "name": "大島郡天城町",
+    "yomi": "おおしまぐんあまぎまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunisenmachi",
+    "name": "大島郡伊仙町",
+    "yomi": "おおしまぐんいせんまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunwadomarimachi",
+    "name": "大島郡和泊町",
+    "yomi": "おおしまぐんわどまりまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunchimeimachi",
+    "name": "大島郡知名町",
+    "yomi": "おおしまぐんちめいまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ooshimagunyoronmachi",
+    "name": "大島郡与論町",
+    "yomi": "おおしまぐんよろんまち",
+    "pref": "鹿児島県"
+  },
+  {
+    "id": "ginowanshi",
+    "name": "宜野湾市",
+    "yomi": "ぎのわんし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "ishigakishi",
+    "name": "石垣市",
+    "yomi": "いしがきし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "urasoeshi",
+    "name": "浦添市",
+    "yomi": "うらそえし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nagoshi",
+    "name": "名護市",
+    "yomi": "なごし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "itomanshi",
+    "name": "糸満市",
+    "yomi": "いとまんし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "okinawashi",
+    "name": "沖縄市",
+    "yomi": "おきなわし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "tomigusukushi",
+    "name": "豊見城市",
+    "yomi": "とみぐすくし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "urumashi",
+    "name": "うるま市",
+    "yomi": "うるまし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "miyakoshimashi",
+    "name": "宮古島市",
+    "yomi": "みやこしまし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nanjoushi",
+    "name": "南城市",
+    "yomi": "なんじょうし",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunkunigamimura",
+    "name": "国頭郡国頭村",
+    "yomi": "くにがみぐんくにがみむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunoogimimura",
+    "name": "国頭郡大宜味村",
+    "yomi": "くにがみぐんおおぎみむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunhigashimura",
+    "name": "国頭郡東村",
+    "yomi": "くにがみぐんひがしむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunnakijinmura",
+    "name": "国頭郡今帰仁村",
+    "yomi": "くにがみぐんなきじんむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamikoorimotobumachi",
+    "name": "国頭郡本部町",
+    "yomi": "くにがみこおりもとぶまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunonnamura",
+    "name": "国頭郡恩納村",
+    "yomi": "くにがみぐんおんなむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunginozamura",
+    "name": "国頭郡宜野座村",
+    "yomi": "くにがみぐんぎのざむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamigunkanatakemachi",
+    "name": "国頭郡金武町",
+    "yomi": "くにがみぐんかなたけまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "kunigamiguniemura",
+    "name": "国頭郡伊江村",
+    "yomi": "くにがみぐんいえむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunyomitanmura",
+    "name": "中頭郡読谷村",
+    "yomi": "なかずぐんよみたんむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunkadenamachi",
+    "name": "中頭郡嘉手納町",
+    "yomi": "なかずぐんかでなまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunkitatanimachi",
+    "name": "中頭郡北谷町",
+    "yomi": "なかずぐんきたたにまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunkitanakagusukumura",
+    "name": "中頭郡北中城村",
+    "yomi": "なかずぐんきたなかぐすくむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunchuushiromura",
+    "name": "中頭郡中城村",
+    "yomi": "なかずぐんちゅうしろむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "nakazugunnishiharamachi",
+    "name": "中頭郡西原町",
+    "yomi": "なかずぐんにしはらまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunyonabarumachi",
+    "name": "島尻郡与那原町",
+    "yomi": "しましりぐんよなばるまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunhaebaramachi",
+    "name": "島尻郡南風原町",
+    "yomi": "しましりぐんはえばらまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashiriguntokashikimura",
+    "name": "島尻郡渡嘉敷村",
+    "yomi": "しましりぐんとかしきむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunzamamimura",
+    "name": "島尻郡座間味村",
+    "yomi": "しましりぐんざまみむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunagunimura",
+    "name": "島尻郡粟国村",
+    "yomi": "しましりぐんあぐにむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashiriguntonakimura",
+    "name": "島尻郡渡名喜村",
+    "yomi": "しましりぐんとなきむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunminamidaitoumura",
+    "name": "島尻郡南大東村",
+    "yomi": "しましりぐんみなみだいとうむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunkitadaitoumura",
+    "name": "島尻郡北大東村",
+    "yomi": "しましりぐんきただいとうむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashiriguniheyamura",
+    "name": "島尻郡伊平屋村",
+    "yomi": "しましりぐんいへやむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunizenamura",
+    "name": "島尻郡伊是名村",
+    "yomi": "しましりぐんいぜなむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunkumeshimamachi",
+    "name": "島尻郡久米島町",
+    "yomi": "しましりぐんくめしままち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "shimashirigunyaesemachi",
+    "name": "島尻郡八重瀬町",
+    "yomi": "しましりぐんやえせまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "miyakoguntaramamura",
+    "name": "宮古郡多良間村",
+    "yomi": "みやこぐんたらまむら",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "yaeyamaguntaketomimachi",
+    "name": "八重山郡竹富町",
+    "yomi": "やえやまぐんたけとみまち",
+    "pref": "沖縄県"
+  },
+  {
+    "id": "yaeyamagunyonakunimachi",
+    "name": "八重山郡与那国町",
+    "yomi": "やえやまぐんよなくにまち",
+    "pref": "沖縄県"
+  }
+]
