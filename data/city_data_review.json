@@ -162,5 +162,154 @@
       "in": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html"
     },
     "confidence": "low"
+  },
+  "kawanishishi": {
+    "hasData": true,
+    "office": "川西市役所本庁(中央町12番1号)1階の市民課が窓口。支所・出張所の記載は確認できず本庁窓口が中心。オンライン事前入力サービス「CHA-CHAT申請」で来庁前に届出書を作成可能。",
+    "links": {
+      "out": "https://www.city.kawanishi.hyogo.jp/kurashi/juminhyo_koseki_shomei/1017407/jyumintoroku.html",
+      "in": "https://www.city.kawanishi.hyogo.jp/kurashi/juminhyo_koseki_shomei/1017407/jyumintoroku.html"
+    },
+    "confidence": "low"
+  },
+  "kashiharashi": {
+    "hasData": true,
+    "office": "橿原市役所分庁舎(内膳町1-1-60)の市民窓口課が窓口。公式サイトから外部の手続き検索ナビ(gaas-port.jp)の各ページへ案内される形式で、転入は窓口のみ、転出は窓口・郵送・オンライン可。",
+    "links": {
+      "out": "https://www.gaas-port.jp/29_kashihara/procedure/347",
+      "in": "https://www.gaas-port.jp/29_kashihara/procedure/346",
+      "mail": "https://www.gaas-port.jp/29_kashihara/procedure/418"
+    },
+    "confidence": "low"
+  },
+  "kishiwadashi": {
+    "hasData": true,
+    "office": "岸和田市役所新館1階市民課が中心窓口。各サービスセンター・山滝支所でも転入出届を受付可能(マイナンバーカードの書換は市民課のみ)。転入・転出は同一ページ内で案内されている。",
+    "links": {
+      "out": "https://www.city.kishiwada.lg.jp/page/21-jumin.html",
+      "in": "https://www.city.kishiwada.lg.jp/page/21-jumin.html",
+      "mail": "https://www.city.kishiwada.lg.jp/page/21-jumin.html"
+    },
+    "confidence": "low"
+  },
+  "izumishi": {
+    "hasData": true,
+    "office": "和泉市役所市民室(府中町二丁目7番5号)または和泉シティプラザ出張所で受付。転入・転出とも同一ページ内で案内されており、専用の個別ページは確認できず。転出のみ郵送可。",
+    "links": {
+      "out": "https://www.city.osaka-izumi.lg.jp/kakukano/siminseikatubu/siminka/gyoumu/jyumintoroku.html",
+      "in": "https://www.city.osaka-izumi.lg.jp/kakukano/siminseikatubu/siminka/gyoumu/jyumintoroku.html",
+      "mail": "https://www.city.osaka-izumi.lg.jp/kakukano/siminseikatubu/siminka/gyoumu/jyumintoroku.html"
+    },
+    "confidence": "low"
+  },
+  "matsubarashi": {
+    "hasData": true,
+    "office": "松原市役所（大阪府松原市阿保1丁目1番1号）窓口課が窓口。転入・転出・転居・郵便請求などすべて「住民登録」ページ内で一括案内されており、支所についての言及はない。",
+    "links": {
+      "out": "https://www.city.matsubara.lg.jp/docs/page4177.html",
+      "in": "https://www.city.matsubara.lg.jp/docs/page4177.html",
+      "mail": "https://www.city.matsubara.lg.jp/docs/page4177.html"
+    },
+    "confidence": "low"
+  },
+  "handashi": {
+    "hasData": true,
+    "office": "半田市役所市民課が窓口での住民異動手続き（転入・転居・転出）をまとめて扱う。窓口ページに支所の記載はなく、郵送は転出のみ別ページで案内。",
+    "links": {
+      "out": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/1001643.html",
+      "in": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/1001643.html",
+      "mail": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/1001644.html"
+    },
+    "confidence": "low"
+  },
+  "beppushi": {
+    "hasData": true,
+    "office": "本庁市民課（市庁舎GF）のほか、亀川出張所・朝日出張所・南部出張所でも転入出手続きが可能（外国人住民の手続きは本庁市民課のみ）。転出届に限り郵送での届出も可能。",
+    "links": {
+      "out": "https://www.city.beppu.oita.jp/seikatu/todokede_syoumei/koseki_jyuuminhyounado/detail3.html",
+      "in": "https://www.city.beppu.oita.jp/seikatu/todokede_syoumei/koseki_jyuuminhyounado/detail3.html",
+      "mail": "https://www.city.beppu.oita.jp/seikatu/todokede_syoumei/koseki_jyuuminhyounado/detail8.html"
+    },
+    "confidence": "low"
+  },
+  "kirishimashi": {
+    "hasData": true,
+    "office": "国分庁舎市民課のほか、隼人市民福祉課、各総合支所市民生活課、福山市民サービスセンターでも手続き可能。転入届・転居届は郵送不可で窓口必須だが、転出届は郵送でも受付可能。",
+    "links": {
+      "out": "https://www.city-kirishima.jp/simin/kurashi/koseki/tetsuzuki/jushohenko.html#e",
+      "in": "https://www.city-kirishima.jp/simin/kurashi/koseki/tetsuzuki/jushohenko.html#a",
+      "mail": "https://www.city-kirishima.jp/simin/kurashi/koseki/tetsuzuki/jushohenko.html#tensyutuyuso"
+    },
+    "confidence": "low"
+  },
+  "ebetsushi": {
+    "hasData": true,
+    "office": "本庁舎1階の戸籍住民課・住民記録係が窓口。市役所大麻出張所でも対応。転出届は郵送での手続きが可能だが、転入届は郵送不可で窓口での届出が必須。",
+    "links": {
+      "out": "https://www.city.ebetsu.hokkaido.jp/soshiki/shimin/115.html",
+      "in": "https://www.city.ebetsu.hokkaido.jp/soshiki/shimin/115.html",
+      "mail": "https://www.city.ebetsu.hokkaido.jp/soshiki/shimin/74392.html"
+    },
+    "confidence": "low"
+  },
+  "chitoseshi": {
+    "hasData": true,
+    "office": "市役所戸籍住民課戸籍住民係が窓口。各支所でも住民異動の手続きが可能。転出届は郵送・マイナポータルでのオンライン申請にも対応するが、転入届は窓口での手続きが必要。",
+    "links": {
+      "out": "https://www.city.chitose.lg.jp/docs/95-56917-162-837.html",
+      "in": "https://www.city.chitose.lg.jp/docs/95-56917-162-837.html",
+      "mail": "https://www.city.chitose.lg.jp/c10/1002545/1002556/1002559/1003573.html"
+    },
+    "confidence": "low"
+  },
+  "tsuchiurashi": {
+    "hasData": true,
+    "office": "本庁舎市民課と都和・南・新治・神立の4支所で受付。市民課窓口は毎週木曜20時まで延長。転入・転出・転居の案内が同一ページに一括掲載されており、専用ページには分かれていない。",
+    "links": {
+      "out": "https://www.city.tsuchiura.lg.jp/kurashi-tetsuzuki/kakushushomei/tensyu-renshutsu-tenkyo/page000575.html",
+      "in": "https://www.city.tsuchiura.lg.jp/kurashi-tetsuzuki/kakushushomei/tensyu-renshutsu-tenkyo/page000575.html",
+      "mail": "https://www.city.tsuchiura.lg.jp/data/doc/1569393683_doc_17_0.pdf"
+    },
+    "confidence": "low"
+  },
+  "kisarazushi": {
+    "hasData": true,
+    "office": "朝日庁舎市民課（朝日3丁目8番1号）と富来田出張所（富来田公民館）で受付。駅前庁舎では住所変更の手続き不可。転入・転出・転居・世帯変更届が同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.kisarazu.lg.jp/soshiki/shimin/shimin/1/1150.html",
+      "in": "https://www.city.kisarazu.lg.jp/soshiki/shimin/shimin/1/1150.html",
+      "mail": "https://www.city.kisarazu.lg.jp/material/files/group/19/tenshutu.pdf"
+    },
+    "confidence": "low"
+  },
+  "sakurashi_chib": {
+    "hasData": true,
+    "office": "市役所市民課（海隣寺町97）および各出張所・派出所（西志津市民サービスセンターを除く）で受付。転入・転出・転居の案内が同一ページに一括掲載され、専用ページには分かれていない。",
+    "links": {
+      "out": "https://www.city.sakura.lg.jp/soshiki/shiminka/1/4675.html",
+      "in": "https://www.city.sakura.lg.jp/soshiki/shiminka/1/4675.html",
+      "mail": "https://www.city.sakura.lg.jp/soshiki/shiminka/56/3156.html"
+    },
+    "confidence": "low"
+  },
+  "naritashi": {
+    "hasData": true,
+    "office": "市民課（本庁舎行政棟1階）のほか、市民課赤坂分室、下総支所、大栄支所でも転入・転出の届出が可能。転入・転出の案内は同一ページ内で説明されている。",
+    "links": {
+      "out": "https://www.city.narita.chiba.jp/kurashi/page097600.html",
+      "in": "https://www.city.narita.chiba.jp/kurashi/page097600.html",
+      "mail": "https://www.city.narita.chiba.jp/download/page289700.html"
+    },
+    "confidence": "low"
+  },
+  "hatanoshi": {
+    "hasData": true,
+    "office": "住民登録（住所異動）の届出は本庁舎（桜町1-3-2）戸籍住民課窓口のみで受付。市内の連絡所では届出を受け付けていない。転入・転出は同一ページで案内。",
+    "links": {
+      "out": "https://www.city.hadano.kanagawa.jp/soshiki/3/1017/6/1573.html",
+      "in": "https://www.city.hadano.kanagawa.jp/soshiki/3/1017/6/1573.html",
+      "mail": "https://www.city.hadano.kanagawa.jp/soshiki/3/1017/6/2799.html"
+    },
+    "confidence": "low"
   }
 }
