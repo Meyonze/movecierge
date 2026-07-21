@@ -438,5 +438,149 @@
       "mail": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html"
     },
     "confidence": "low"
+  },
+  "ishinomakishi": {
+    "hasData": true,
+    "office": "石巻市役所（宮城県石巻市穀町14番1号）市民課のほか各総合支所市民福祉課・各支所でも届出可。転入・転居・転出届は「住所変更の届出」という同一ページ内でまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.ishinomaki.lg.jp/cont/10304000/1089/1089.html",
+      "in": "https://www.city.ishinomaki.lg.jp/cont/10304000/1089/1089.html",
+      "mail": "https://www.city.ishinomaki.lg.jp/cont/10304000/3890/20130328115948.html"
+    },
+    "confidence": "low"
+  },
+  "tochigishi": {
+    "hasData": true,
+    "office": "栃木市役所（栃木県栃木市万町9-25、本庁舎2階）市民生活課市民係で受付。転入届・転居届・転出届は「住所や世帯の変更」という同一ページ内でまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.tochigi.lg.jp/soshiki/19/60118.html",
+      "in": "https://www.city.tochigi.lg.jp/soshiki/19/60118.html",
+      "mail": "https://www.city.tochigi.lg.jp/soshiki/19/60906.html"
+    },
+    "confidence": "low"
+  },
+  "takahamashi": {
+    "hasData": true,
+    "office": "本庁舎1階2番窓口が唯一の届出場所（支所の記載なし）。転出はマイナポータル・郵送も可だが、転入は窓口のみの取扱い。",
+    "links": {
+      "out": "https://www.city.takahama.lg.jp/soshiki/shimin/976.html",
+      "in": "https://www.city.takahama.lg.jp/soshiki/shimin/2480.html",
+      "mail": "https://www.city.takahama.lg.jp/soshiki/shimin/978.html"
+    },
+    "confidence": "low"
+  },
+  "chiryuushi": {
+    "hasData": true,
+    "office": "知立市役所1階1番窓口の市民課戸籍住民係が窓口（平日9-16時）。支所・出張所はなく本庁舎のみ。転出届は郵送・オンライン（マイナポータル）にも対応。",
+    "links": {
+      "out": "https://www.city.chiryu.aichi.jp/soshiki/somu/shimin/gyomu/2/juusyohennkou/1445358890070.html",
+      "in": "https://www.city.chiryu.aichi.jp/soshiki/somu/shimin/gyomu/2/juusyohennkou/1445358890070.html",
+      "mail": "https://www.city.chiryu.aichi.jp/kurashi/koseki/hennkou/1454556004559.html"
+    },
+    "confidence": "low"
+  },
+  "iwakurashi": {
+    "hasData": true,
+    "office": "岩倉市役所（市民協働部市民窓口課窓口グループ）が唯一の窓口（平日9-16時、第2日曜は証明発行のみ午前実施）。支所はなく、転入・転居・転出とも同一ページで案内。",
+    "links": {
+      "out": "https://www.city.iwakura.aichi.jp/0000000207.html",
+      "in": "https://www.city.iwakura.aichi.jp/0000000207.html"
+    },
+    "confidence": "low"
+  },
+  "izumisanoshi": {
+    "hasData": true,
+    "office": "泉佐野市役所1階の市民課が窓口。転入・転出・転居の案内が同一ページにまとめられている。転出は郵送・オンライン（マイナポータル）にも対応。",
+    "links": {
+      "out": "https://www.city.izumisano.lg.jp/kakuka/somu/shimin/menu/jusyohenko.html",
+      "in": "https://www.city.izumisano.lg.jp/kakuka/somu/shimin/menu/jusyohenko.html"
+    },
+    "confidence": "low"
+  },
+  "kashiwabarashi": {
+    "hasData": true,
+    "office": "柏原市役所本庁1階市民課（安堂町1番55号）と国分出張所（国分本町2丁目7番2号）の2か所で届出可能。ただし国分出張所は住民異動のみ扱い、関連手続きは本庁対応。",
+    "links": {
+      "out": "https://www.city.kashiwara.lg.jp/docs/2014042800014/",
+      "in": "https://www.city.kashiwara.lg.jp/docs/2014042800014/"
+    },
+    "confidence": "low"
+  },
+  "onoshi": {
+    "hasData": true,
+    "office": "小野市役所1階市民課（中島町531番地）が唯一の窓口。支所・出張所の記載はなし。",
+    "links": {
+      "out": "https://www.city.ono.hyogo.jp/soshikikarasagasu/shiminfukushibu_shiminka/gyomuannai/2/3/2869.html",
+      "in": "https://www.city.ono.hyogo.jp/soshikikarasagasu/shiminfukushibu_shiminka/gyomuannai/2/3/2869.html"
+    },
+    "confidence": "low"
+  },
+  "sumotoshi": {
+    "hasData": true,
+    "office": "洲本市本庁舎1階市民協働課（本町三丁目4番10号）のほか、五色庁舎の窓口サービス課、由良支所の計3か所で住民異動届を受け付けている。",
+    "links": {
+      "out": "https://www.city.sumoto.lg.jp/site/notmadoguchi/1150.html",
+      "in": "https://www.city.sumoto.lg.jp/site/notmadoguchi/1150.html"
+    },
+    "confidence": "low"
+  },
+  "sakuraishi": {
+    "hasData": true,
+    "office": "窓口は桜井市役所（大字粟殿432-1）市民生活部市民課。公式ページには支所についての記載はなく、本庁舎のみでの対応とみられる。",
+    "links": {
+      "out": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/shinseisyodl/1393304265205.html",
+      "in": null,
+      "mail": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/shinseisyodl/1393304265205.html"
+    },
+    "confidence": "low"
+  },
+  "kasaokashi": {
+    "hasData": true,
+    "office": "窓口は笠岡市役所（中央町1-1）市民生活部市民課戸籍係。公式ページ上では転入届・転出届・転居届がいずれも同一ページ内でまとめて案内されており、支所・出張所についての記載は見当たらない。",
+    "links": {
+      "out": "https://www.city.kasaoka.okayama.jp/soshiki/16/1728.html",
+      "in": "https://www.city.kasaoka.okayama.jp/soshiki/16/1728.html"
+    },
+    "confidence": "low"
+  },
+  "miharashi": {
+    "hasData": true,
+    "office": "本庁舎（三原市港町三丁目5番1号）1階市民課のほか、本郷・久井・大和の各支所でも住民異動の届出ができる。",
+    "links": {
+      "out": "https://www.city.mihara.hiroshima.jp/soshiki/20/jyuuminnidounotodoke.html",
+      "in": "https://www.city.mihara.hiroshima.jp/soshiki/20/jyuuminnidounotodoke.html",
+      "mail": "https://www.city.mihara.hiroshima.jp/soshiki/20/yuusouseikyu.html"
+    },
+    "confidence": "low"
+  },
+  "onomichishi": {
+    "hasData": true,
+    "office": "尾道市役所本庁舎（久保一丁目15番1号）市民課のほか、向東連絡所を除く各支所で住民異動の届出ができる。",
+    "links": {
+      "out": "https://www.city.onomichi.hiroshima.jp/soshiki/14/9915.html",
+      "in": "https://www.city.onomichi.hiroshima.jp/soshiki/14/9915.html",
+      "mail": "https://www.city.onomichi.hiroshima.jp/soshiki/14/2198.html"
+    },
+    "confidence": "low"
+  },
+  "hatsukaichishi": {
+    "hasData": true,
+    "office": "廿日市市役所（下平良一丁目11番1号）市民課のほか、佐伯支所・吉和支所・大野支所・宮島支所でも届出ができる。",
+    "links": {
+      "out": "https://www.city.hatsukaichi.hiroshima.jp/soshiki/19/11987.html",
+      "in": "https://www.city.hatsukaichi.hiroshima.jp/soshiki/19/11987.html",
+      "mail": "https://www.city.hatsukaichi.hiroshima.jp/soshiki/19/11989.html"
+    },
+    "confidence": "low"
+  },
+  "marugameshi": {
+    "hasData": true,
+    "office": "丸亀市役所本庁舎（大手町二丁目4番21号）市民課のほか、綾歌・飯山市民総合センター、本島・広島市民センターで届出ができる。",
+    "links": {
+      "out": "https://www.city.marugame.lg.jp/site/life-stage/44400.html",
+      "in": "https://www.city.marugame.lg.jp/site/life-stage/44400.html",
+      "mail": "https://www.city.marugame.lg.jp/site/download/40030.html"
+    },
+    "confidence": "low"
   }
 }
