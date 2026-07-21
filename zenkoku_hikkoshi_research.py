@@ -32,9 +32,11 @@ Claude API (web_search ツール) を使って自動収集するバッチスク�
       全件実行することを推奨。
 
 【注意】
-  - web_search ツールの type 文字列（"web_search_20260318"）は Anthropic 側で更新されることが
-    あるため、実行前に https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool
-    で最新の値を確認してください。
+  - web_search ツールの type 文字列は "web_search_20250305"（基本版）を使用している。
+    Haiku 4.5 はダイナミックフィルタリング版（"web_search_20260209"、Opus 4.8/4.7/4.6・
+    Sonnet 5・Sonnet 4.6 のみ対応）を使えないため。モデルを変更する場合は対応する
+    type 文字列も見直すこと。最新情報は
+    https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool を参照。
   - 自動抽出したURL・窓口情報は完璧ではありません。confidence が "low" のものは
     data/city_data_review.json にまとまるので、公開前に目視で確認してください。
   - 極端に短時間で大量リクエストを送るとレート制限に当たることがあります。
@@ -62,7 +64,7 @@ REVIEW_FILE = OUTPUT_DIR / "city_data_review.json"
 # 東京23区は「市」を含まない単独の「△△区」なのでこのパターンにはマッチせず、そのまま残る。
 WARD_PATTERN = re.compile(r"^(.+?市)(.+区)$")
 
-WEB_SEARCH_TOOL_TYPE = "web_search_20260318"  # 実行前に最新版か要確認
+WEB_SEARCH_TOOL_TYPE = "web_search_20250305"  # Haiku 4.5はダイナミックフィルタリング版(web_search_20260209)非対応のため基本版を使用
 
 SYSTEM_PROMPT = """あなたは日本の自治体の住民異動手続き（転出届・転入届）のページを調べる
 リサーチアシスタントです。
