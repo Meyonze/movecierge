@@ -582,5 +582,188 @@
       "mail": "https://www.city.marugame.lg.jp/site/download/40030.html"
     },
     "confidence": "low"
+  },
+  "sanoshi": {
+    "hasData": true,
+    "office": "佐野市役所（栃木県佐野市高砂町1）市民生活部市民課届出証明係が窓口。転入・転出・転居・世帯変更が同一ページで案内されており、専用ページは未確認。",
+    "links": {
+      "out": "https://www.city.sano.lg.jp/soshikiichiran/shimin/shiminka/gyomuannai/1/4197.html",
+      "in": "https://www.city.sano.lg.jp/soshikiichiran/shimin/shiminka/gyomuannai/1/4197.html"
+    },
+    "confidence": "low"
+  },
+  "okegawashi": {
+    "hasData": true,
+    "office": "桶川市役所（泉一丁目3番28号）市民課窓口係が対応。支所の記載はなし。転入・転出・転居が同一ページで案内され、転出は郵送・マイナポータルにも対応。",
+    "links": {
+      "out": "https://www.city.okegawa.lg.jp/soshiki/soumubu/shimin/todoke_shoumei/hikkoshi/1477.html",
+      "in": "https://www.city.okegawa.lg.jp/soshiki/soumubu/shimin/todoke_shoumei/hikkoshi/1477.html"
+    },
+    "confidence": "low"
+  },
+  "kitamotoshi": {
+    "hasData": true,
+    "office": "北本市役所（本町1-111）市民課窓口担当が対応。転入・転出・転居が同一ページで案内され、転出は郵送・マイナンバーカードでのオンライン届出にも対応、転入・転居は窓口のみ。",
+    "links": {
+      "out": "https://www.city.kitamoto.lg.jp/soshiki/shiminkeizai/shimin/gyomu/g2/1419238934705.html",
+      "in": "https://www.city.kitamoto.lg.jp/soshiki/shiminkeizai/shimin/gyomu/g2/1419238934705.html"
+    },
+    "confidence": "low"
+  },
+  "kounosushi": {
+    "hasData": true,
+    "office": "鴻巣市役所（本庁舎・新館1階）市民課が窓口。吹上支所・川里支所でも対応可（個人番号カードを使った転出入手続きも可）。転入・転居・転出・郵送転出のすべてが同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.kounosu.saitama.jp/page/27050.html",
+      "in": "https://www.city.kounosu.saitama.jp/page/27050.html",
+      "mail": "https://www.city.kounosu.saitama.jp/page/27050.html"
+    },
+    "confidence": "low"
+  },
+  "fujimishi": {
+    "hasData": true,
+    "office": "富士見市役所市民課のほか各出張所でも届出可能（〒354-8511 埼玉県富士見市大字鶴馬1800番地の1）。転入・転居・転出・郵送転出の案内が1つのページにまとまっている。転入届は郵送・オンライン不可で窓口来庁必須。",
+    "links": {
+      "out": "https://www.city.fujimi.saitama.jp/kurashi_tetsuzuki/02todokede/jusho_koseki/2010-0528-0952-130.html",
+      "in": "https://www.city.fujimi.saitama.jp/kurashi_tetsuzuki/02todokede/jusho_koseki/2010-0528-0952-130.html",
+      "mail": "https://www.city.fujimi.saitama.jp/kurashi_tetsuzuki/02todokede/jusho_koseki/2010-0528-0952-130.html"
+    },
+    "confidence": "low"
+  },
+  "satteshi": {
+    "hasData": true,
+    "office": "幸手市役所市民課（〒340-0192 埼玉県幸手市東4-6-8）が窓口。支所の記載はなし。転入・転出・転居・世帯変更の届出が1つの表にまとまったページで案内されており、転出届のみ郵送・オンライン専用の別ページがある。",
+    "links": {
+      "out": "https://www.city.satte.lg.jp/soshiki/shimin/1/773.html",
+      "in": "https://www.city.satte.lg.jp/soshiki/shimin/1/773.html",
+      "mail": "https://www.city.satte.lg.jp/soshiki/shimin/1/3907.html"
+    },
+    "confidence": "low"
+  },
+  "shiraokashi": {
+    "hasData": true,
+    "office": "白岡市役所本庁舎の市民課が唯一の窓口。支所・出張所の記載はなく、本庁一括対応。マイナポータルによるオンライン転出や郵送での転出証明書送付にも対応している。",
+    "links": {
+      "out": "https://www.city.shiraoka.lg.jp/soshiki/soumubu/shiminka/2/6/753.html",
+      "in": "https://www.city.shiraoka.lg.jp/soshiki/soumubu/shiminka/2/6/753.html",
+      "mail": "https://www.city.shiraoka.lg.jp/material/files/group/12/QRtensyutu.xlsx"
+    },
+    "confidence": "low"
+  },
+  "zushishi": {
+    "hasData": true,
+    "office": "逗子市役所本庁舎の戸籍住民課が窓口。転入・転出・転居等の届出はすべて同一ページで案内されており、支所についての記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.zushi.kanagawa.jp/kurashi/koseki/1001768/1001774.html",
+      "in": "https://www.city.zushi.kanagawa.jp/kurashi/koseki/1001768/1001774.html",
+      "mail": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/001/774/1-20220721120039.pdf"
+    },
+    "confidence": "low"
+  },
+  "chitashi": {
+    "hasData": true,
+    "office": "知多市役所本庁の市民窓口課が届出窓口（開庁は平日9時から16時）。転入届・転出届は同一ページでまとめて案内されており、支所についての記載は見当たらない。",
+    "links": {
+      "out": "https://www.city.chita.lg.jp/docs/2014010900371/",
+      "in": "https://www.city.chita.lg.jp/docs/2014010900371/",
+      "mail": "https://www.city.chita.lg.jp/docs/2014010900609/"
+    },
+    "confidence": "low"
+  },
+  "shijounawateshi": {
+    "hasData": true,
+    "office": "四條畷市役所本館1階の市民課、および田原支所で受付可能。転入届・転出届（郵送手続きを含む）・転居届の案内が1つのページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.city.shijonawate.lg.jp/shinsei/80318.html",
+      "in": "https://www.city.shijonawate.lg.jp/shinsei/80318.html",
+      "mail": "https://www.city.shijonawate.lg.jp/shinsei/80318.html"
+    },
+    "confidence": "low"
+  },
+  "aioishi": {
+    "hasData": true,
+    "office": "相生市役所（旭1丁目）市民課市民係の窓口が届出先。支所の記載は見当たらず本庁舎のみとみられる。転入届・転出届・転居届の案内は1つの表にまとめられたページのみで、更新も2012年と古い。",
+    "links": {
+      "out": "https://www.city.aioi.lg.jp/soshiki/shimin/zyuuminidou.html",
+      "in": "https://www.city.aioi.lg.jp/soshiki/shimin/zyuuminidou.html",
+      "mail": "https://www.city.aioi.lg.jp/soshiki/shimin/sinseisyo-down.html"
+    },
+    "confidence": "low"
+  },
+  "goshoshi": {
+    "hasData": true,
+    "office": "御所市役所市民課（〒639-2298 奈良県御所市1番地の3）。本庁舎1カ所での対応で、支所の記載は確認できない。転入・転居・転出はすべて同一ページ内で案内されている。",
+    "links": {
+      "out": "https://www.city.gose.nara.jp/0000000469.html",
+      "in": "https://www.city.gose.nara.jp/0000000469.html",
+      "mail": "https://www.city.gose.nara.jp/0000000459.html"
+    },
+    "confidence": "low"
+  },
+  "oomutashi": {
+    "hasData": true,
+    "office": "大牟田市役所市民課（〒836-8666 福岡県大牟田市有明町2丁目3番地）。平日8:30-17:15開庁、原則第2日曜に休日窓口も開設。転入・転出・転居は「住民異動届」という同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.omuta.lg.jp/kiji0032488/index.html",
+      "in": "https://www.city.omuta.lg.jp/kiji0032488/index.html"
+    },
+    "confidence": "low"
+  },
+  "yanagawashi": {
+    "hasData": true,
+    "office": "柳川庁舎市民課のほか、大和庁舎・三橋庁舎の市民サービス課でも届出可能な3庁舎体制。平日8:30-17:00、柳川庁舎は第2木曜19時まで延長、第4日曜も一部開庁。",
+    "links": {
+      "out": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
+      "in": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
+      "mail": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html"
+    },
+    "confidence": "low"
+  },
+  "chikugoshi": {
+    "hasData": true,
+    "office": "筑後市役所市民課（戸籍・住民担当）（〒833-8601 福岡県筑後市大字山ノ井898番地）。本庁一括対応で、支所についての記載は見当たらない。転入・転出・転居は同一ページで案内。",
+    "links": {
+      "out": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
+      "in": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
+      "mail": "https://www.city.chikugo.lg.jp/kurashi/_6067/_30651/_20751.html"
+    },
+    "confidence": "low"
+  },
+  "kogashi_fuku": {
+    "hasData": true,
+    "office": "古賀市役所市民国保課（本庁、駅東1-1-1）で受付。支所は確認できず本庁舎窓口が中心。転入・転出が集中する3〜4月には日曜臨時開庁を実施。",
+    "links": {
+      "out": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php",
+      "in": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php"
+    },
+    "confidence": "low"
+  },
+  "fukutsushi": {
+    "hasData": true,
+    "office": "福津市役所市民課（市役所本館1階、福津市中央1-1-1）で受付。転出はオンライン届出も可能だが、転入・転居は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
+      "in": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html"
+    },
+    "confidence": "low"
+  },
+  "munakatashi": {
+    "hasData": true,
+    "office": "宗像市役所市民課（本庁、東郷1-1-1）のほか、離島にある大島行政センターでも転出・転入の届出が可能。転入は郵送不可、転出は郵送可。",
+    "links": {
+      "out": "https://www.city.munakata.lg.jp/kiji003991/index.html",
+      "in": "https://www.city.munakata.lg.jp/kiji003991/index.html"
+    },
+    "confidence": "low"
+  },
+  "karatsushi": {
+    "hasData": true,
+    "office": "唐津市役所市民課（本庁、西城内1-1）に加え、浜玉・厳木・相知・北波多・肥前・鎮西・呼子・七山の8市民センター（旧町村の窓口）で手続き可能。開庁8時30分〜17時15分。",
+    "links": {
+      "out": "https://www.city.karatsu.lg.jp/page/3998.html",
+      "in": "https://www.city.karatsu.lg.jp/site/navi/3082.html",
+      "mail": "https://www.city.karatsu.lg.jp/page/3998.html"
+    },
+    "confidence": "low"
   }
 }
