@@ -809,5 +809,100 @@
       "in": "https://www.city.ichinomiya.aichi.jp/shiminkenkou/shimin/1043968/1005645/1000134/1000778.html",
       "mail": "https://www.city.ichinomiya.aichi.jp/shiminkenkou/shimin/1043968/1059379/1009957/1021151.html"
     }
+  },
+  "takaokashi": {
+    "hasData": true,
+    "office": "本庁舎1階市民課(6番窓口)が窓口。伏木・戸出・中田・福岡の各支所でも取扱い可。転出はオンライン・郵送も可（転入は窓口のみ）。平日8:30~17:15、来庁は16時頃までに。",
+    "links": {
+      "out": "https://www.city.takaoka.toyama.jp/soshiki/shiminka/2/4/7/2453.html",
+      "in": "https://www.city.takaoka.toyama.jp/soshiki/shiminka/2/4/7/3736.html",
+      "mail": "https://www.city.takaoka.toyama.jp/soshiki/shiminka/2/4/7/3740.html"
+    }
+  },
+  "uozushi": {
+    "hasData": true,
+    "office": "魚津市役所市民環境課市民係(釈迦堂1-10-1)が窓口。支所の記載はなく本庁舎のみ。転出はマイナンバーカードでLINE経由のオンライン申請も可。平日8:30~17:15、月曜は19時まで窓口延長。",
+    "links": {
+      "out": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=344",
+      "in": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=280"
+    }
+  },
+  "himishi": {
+    "hasData": true,
+    "office": "氷見市役所市民課(鞍川1060番地)が窓口。支所の記載はなく本庁舎のみ。転出届は窓口持参のほか郵送でも受付可（本人確認書類の写しと返信用封筒が必要）。平日8:30~17:15。",
+    "links": {
+      "out": "https://www.city.himi.toyama.jp/gyosei/soshiki/shimin/1/4/829.html",
+      "in": "https://www.city.himi.toyama.jp/gyosei/soshiki/shimin/1/4/827.html",
+      "mail": "https://www.city.himi.toyama.jp/material/files/group/15/yuusouniyorutenshututodoke.pdf"
+    }
+  },
+  "namerikawashi": {
+    "hasData": true,
+    "office": "滑川市役所市民課(寺家町104番地)が窓口。支所の記載はなく本庁舎のみ。転入・転居・転出・世帯変更をまとめた1ページで案内しており、マイナンバーカードによるオンライン転出も可。",
+    "links": {
+      "out": "https://www.city.namerikawa.toyama.jp/soshiki/9/6/2/1155.html",
+      "in": "https://www.city.namerikawa.toyama.jp/soshiki/9/6/2/1155.html"
+    }
+  },
+  "kurobeshi": {
+    "hasData": true,
+    "office": "黒部市役所市民環境課(本庁舎)が窓口、宇奈月サービスセンター市民サービス課でも取扱い可。窓口に行けない場合は郵送での転出届提出にも対応。平日8:30~17:45、宇奈月は17:15まで。",
+    "links": {
+      "out": "https://www.city.kurobe.toyama.jp/category/page.aspx?servno=9",
+      "in": "https://www.city.kurobe.toyama.jp/category/page.aspx?servno=8",
+      "mail": "https://www.city.kurobe.toyama.jp/category/page.aspx?servno=11317"
+    }
+  },
+  "tonamishi": {
+    "hasData": true,
+    "office": "本庁舎（富山県砺波市栄町7番3号）1階の市民課市民係が窓口。支所・出張所についての記載はなし。転出届は窓口・郵送・マイナポータルのいずれでも手続き可能、転入届は窓口のみ。",
+    "links": {
+      "out": "https://www.city.tonami.lg.jp/service/1904p/",
+      "in": "https://www.city.tonami.lg.jp/service/1900p/"
+    }
+  },
+  "nantoshi": {
+    "hasData": true,
+    "office": "本庁（富山県南砺市荒木1550番地）。旧8町村合併のため、届出受付場所は「市民センター窓口」と案内されている。転出届は窓口・郵送とも可能、転入届は窓口のみ。転出届・転入届・郵送専用転出届それぞれ専用ページあり。",
+    "links": {
+      "out": "https://www.city.nanto.toyama.jp/soshiki/shimin/1/5/194.html",
+      "in": "https://www.city.nanto.toyama.jp/soshiki/shimin/1/5/369.html",
+      "mail": "https://www.city.nanto.toyama.jp/soshiki/shimin/1/5/361.html"
+    }
+  },
+  "nakaniikawagujoushichou": {
+    "hasData": true,
+    "office": "上市町役場（富山県中新川郡上市町法音寺1番地）町民課住基戸籍班が窓口。支所の記載はなく本庁舎のみで転入・転居・転出の届出を扱う。開庁は平日午前8時30分〜午後5時15分。",
+    "links": {
+      "out": "https://www.town.kamiichi.toyama.jp/page/1138.html",
+      "in": "https://www.town.kamiichi.toyama.jp/page/1138.html",
+      "mail": "https://www.town.kamiichi.toyama.jp/page/11286.html"
+    }
+  },
+  "nakaniikawagunritsuyamachou": {
+    "hasData": true,
+    "office": "立山町役場（富山県中新川郡立山町前沢2440番地）庁舎1階の住民課住民係が窓口。支所の記載はなく本庁一括対応。毎週月曜のみ午後6時30分まで受付時間を延長している。",
+    "links": {
+      "out": "https://www.town.tateyama.toyama.jp/soshikikarasagasu/juminka/juminkakari/4/jyuminhyo/3441.html",
+      "in": "https://www.town.tateyama.toyama.jp/soshikikarasagasu/juminka/juminkakari/4/jyuminhyo/3441.html",
+      "mail": "https://www.town.tateyama.toyama.jp/life/hikkoshi/tennyu_tenshutsu_tenkyo/4864.html"
+    }
+  },
+  "shimoniikawagunnyuuzenmachi": {
+    "hasData": true,
+    "office": "入善町役場（富山県下新川郡入善町入膳423）住民環境課住民係が窓口。支所の記載は見当たらず本庁舎のみで対応。マイナンバーカードがあればオンライン転出届も可能。",
+    "links": {
+      "out": "https://www.town.nyuzen.toyama.jp/gyosei/soshiki/jumin_kankyo/1/1/1142.html",
+      "in": "https://www.town.nyuzen.toyama.jp/gyosei/soshiki/jumin_kankyo/1/1/1141.html"
+    }
+  },
+  "shimoniikawagunasahimachi": {
+    "hasData": true,
+    "office": "朝日町役場（富山県下新川郡朝日町道下1133）住民・子ども課が窓口。支所の記載はなく本庁舎のみで対応。窓口に来られない場合は郵送での転出証明書交付申請も受け付ける。",
+    "links": {
+      "out": "https://www.town.asahi.toyama.jp/soshiki/jumin_kodomo/idou/1449207595365.html",
+      "in": "https://www.town.asahi.toyama.jp/soshiki/jumin_kodomo/idou/1449207588490.html",
+      "mail": "https://www.town.asahi.toyama.jp/soshiki/jumin_kodomo/idou/1449207595365.html"
+    }
   }
 }
