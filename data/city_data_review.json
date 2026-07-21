@@ -26,5 +26,141 @@
       "in": "https://www.vill.funahashi.toyama.jp/living_guide_new/01_2.html"
     },
     "confidence": "low"
+  },
+  "toyohashishi": {
+    "hasData": true,
+    "office": "豊橋市役所西館1階市民課のほか、窓口センターでも受付(外国人住民の転入を除く)。平日8:30〜17:15。転出届はオンライン(マイナポータル)・郵送でも提出可能。",
+    "links": {
+      "out": "https://www.city.toyohashi.lg.jp/8814.htm",
+      "in": "https://www.city.toyohashi.lg.jp/8814.htm",
+      "mail": "https://www.city.toyohashi.lg.jp/16116.htm"
+    },
+    "confidence": "low"
+  },
+  "kasugaishi": {
+    "hasData": true,
+    "office": "春日井市役所1階戸籍住民課のほか、坂下出張所・東部市民センター・高蔵寺ふれあいセンター・味美ふれあいセンターでも受付(外国籍の方は市役所のみ)。日曜窓口(月1回)あり。平日8:30〜17:15。",
+    "links": {
+      "out": "https://www.city.kasugai.lg.jp/kurashi/todoke/1001889/jumin/index.html",
+      "in": "https://www.city.kasugai.lg.jp/kurashi/todoke/1001889/jumin/index.html",
+      "mail": "https://www.city.kasugai.lg.jp/kurashi/todoke/1001889/jumin/1039062/index.html"
+    },
+    "confidence": "low"
+  },
+  "hirakatashi": {
+    "hasData": true,
+    "office": "枚方市役所本館1階市民課のほか、津田・香里ケ丘・北部の3支所、枚方市駅市民窓口センター(要予約)でも受付。平日9:00〜17:30(市民課・支所は来庁予約制度あり)。",
+    "links": {
+      "out": "https://www.city.hirakata.osaka.jp/0000000425.html",
+      "in": "https://www.city.hirakata.osaka.jp/0000000425.html",
+      "mail": "https://www.city.hirakata.osaka.jp/0000028164.html"
+    },
+    "confidence": "low"
+  },
+  "akashishi": {
+    "hasData": true,
+    "office": "明石市役所本庁舎2階3番窓口(市民課)のほか、あかし総合窓口(パピオスあかし)、大久保・魚住・二見市民センター、明舞・西明石・高丘・江井島サービスコーナーでも受付(一部窓口は外国人住民や国外異動の届出不可)。",
+    "links": {
+      "out": "https://www.city.akashi.lg.jp/shimin_kenkou/shimin_ka/kurashi/jumin/jumintoroku.html",
+      "in": "https://www.city.akashi.lg.jp/shimin_kenkou/shimin_ka/kurashi/jumin/jumintoroku.html",
+      "mail": "https://www.city.akashi.lg.jp/shimin_kenkou/shimin_ka/shinsesho/download/shimin/shiminka/tenshutsutodoke.html"
+    },
+    "confidence": "low"
+  },
+  "tomakomaishi": {
+    "hasData": true,
+    "office": "本庁舎1階窓口サービス課のほか、のぞみ出張所・勇払出張所・沼ノ端出張所の3出張所で届出可能。転入届・転出届・転居届は同一の「住所変更の手続き」ページ内でまとめて案内されており、郵送での転出届提出も可能と記載あり。",
+    "links": {
+      "out": "https://www.city.tomakomai.hokkaido.jp/kurashi/jumin/idou/juminhenko.html",
+      "in": "https://www.city.tomakomai.hokkaido.jp/kurashi/jumin/idou/juminhenko.html"
+    },
+    "confidence": "low"
+  },
+  "iwakishi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、支所・市民サービスセンター（いわき駅前市民サービスセンター含む）で転入届・転居届・転出届をまとめて受付。窓口により受付時間が異なる。",
+    "links": {
+      "out": "https://www.city.iwaki.lg.jp/www/contents/1001000003066/index.html",
+      "in": "https://www.city.iwaki.lg.jp/www/contents/1001000003066/index.html",
+      "mail": "https://www.city.iwaki.lg.jp/www/contents/1001000003088/"
+    },
+    "confidence": "low"
+  },
+  "hirosakishi": {
+    "hasData": true,
+    "office": "市役所市民防災館1階市民課のほか、駅前分室（ヒロロスクエア内総合行政窓口）、岩木・相馬の各総合支所、東目屋など各出張所で受付（平日8時30分〜17時）。",
+    "links": {
+      "out": "https://www.city.hirosaki.aomori.jp/kurashi/todoke/address.html",
+      "in": "https://www.city.hirosaki.aomori.jp/kurashi/todoke/address.html"
+    },
+    "confidence": "low"
+  },
+  "numazushi": {
+    "hasData": true,
+    "office": "沼津市役所（御幸町16-1）市民課が窓口。転入・転居・転出の3手続きは1本のページにまとめて案内されており、スマート窓口システムでの事前入力やマイナポータルでの転出オンライン届出にも対応。窓口混雑カレンダーの案内あり。",
+    "links": {
+      "out": "https://www.city.numazu.shizuoka.jp/kurashi/todokede/tenshutunyu.htm",
+      "in": "https://www.city.numazu.shizuoka.jp/kurashi/todokede/tenshutunyu.htm",
+      "mail": "https://www.city.numazu.shizuoka.jp/kurashi/todokede/yusou2.htm"
+    },
+    "confidence": "low"
+  },
+  "shimonosekishi": {
+    "hasData": true,
+    "office": "下関市役所本庁舎西棟1階市民サービス課、各総合支所市民生活課市民国保係、各支所で受付。第2・4日曜の午後は本庁舎で休日窓口も開設。転出・転入・転居の案内は1ページにまとめられている。",
+    "links": {
+      "out": "https://www.city.shimonoseki.lg.jp/soshiki/20/3462.html",
+      "in": "https://www.city.shimonoseki.lg.jp/soshiki/20/3462.html",
+      "mail": "https://www.city.shimonoseki.lg.jp/soshiki/20/3455.html"
+    },
+    "confidence": "low"
+  },
+  "kurumeshi": {
+    "hasData": true,
+    "office": "久留米市役所1階市民課、各市民センター、各総合支所市民福祉課で受付。転入届・転出届は同一ページ内の一覧としてまとめて案内されている。開庁時間は平日8時30分〜17時15分。",
+    "links": {
+      "out": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
+      "in": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
+      "mail": "https://www.city.kurume.fukuoka.jp/1500soshiki/9024shiminka/3020shinsei/2007-1215-1248-432.html"
+    },
+    "confidence": "low"
+  },
+  "oyamashi": {
+    "hasData": true,
+    "office": "小山市役所1階市民課、市内11か所の出張所で受付。転入・転出・転居・世帯変更の案内は1ページにまとめられている。市民課と城南出張所等で休日窓口、市民課と小山東出張所でスマート窓口の事前入力に対応。",
+    "links": {
+      "out": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003542.html",
+      "in": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003542.html",
+      "mail": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003517.html"
+    },
+    "confidence": "low"
+  },
+  "nobeokashi": {
+    "hasData": true,
+    "office": "延岡市役所市民課（本庁舎）が窓口。転出入届は同一の「住民異動」ページで案内されており、転出届のみオンライン・郵送にも対応。支所に関する記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.nobeoka.miyazaki.jp/soshiki/23/2337.html",
+      "in": "https://www.city.nobeoka.miyazaki.jp/soshiki/23/2337.html"
+    },
+    "confidence": "low"
+  },
+  "ageoshi": {
+    "hasData": true,
+    "office": "本庁舎市民課(1階)のほか、上尾駅出張所・尾山台出張所・平方支所・原市支所・大石支所・上平支所・大谷支所でも受付（出張所・支所は一部業務制限あり）。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.city.ageo.lg.jp/page/414927.html",
+      "in": "https://www.city.ageo.lg.jp/faq/soshiki/page/zyuuminnhyoufaq11.html",
+      "mail": "https://www.city.ageo.lg.jp/page/31-yuusoutennsyutu.html"
+    },
+    "confidence": "low"
+  },
+  "kasukabeshi": {
+    "hasData": true,
+    "office": "本庁舎2階市民課のほか、庄和総合支所1階市民窓口担当、武里出張所でも転出入届を受付。転入届・転出届とも同一ページで案内されており、転出届のみ郵送・オンライン可。",
+    "links": {
+      "out": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
+      "in": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html"
+    },
+    "confidence": "low"
   }
 }
