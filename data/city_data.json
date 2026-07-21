@@ -3051,5 +3051,160 @@
       "out": "https://www.city.arao.lg.jp/kurashi/todokede/hikkoshi/6799.html",
       "in": "https://www.city.arao.lg.jp/kurashi/todokede/hikkoshi/9845.html"
     }
+  },
+  "yuubarishi": {
+    "hasData": true,
+    "office": "本庁市民課市民係（夕張市本町4丁目2番地、1階1番窓口）に加え、南支所でも転出・転入届を受け付ける。郵送での戸籍・住民票等証明申請書の様式も公式サイトに用意されている。",
+    "links": {
+      "out": "https://www.city.yubari.lg.jp/soshiki/9/1505.html",
+      "in": "https://www.city.yubari.lg.jp/soshiki/9/1504.html",
+      "mail": "https://www.city.yubari.lg.jp/soshiki/9/1494.html"
+    }
+  },
+  "abashirishi": {
+    "hasData": true,
+    "office": "本庁は市民環境部戸籍保険課市民係（〒093-8555 網走市南5条東1丁目10番地）。支所の記載は見当たらないが、郵送での転出届・戸籍住民票等の請求に対応している。",
+    "links": {
+      "out": "https://www.city.abashiri.hokkaido.jp/soshiki/9/1696.html",
+      "in": "https://www.city.abashiri.hokkaido.jp/soshiki/9/1694.html",
+      "mail": "https://www.city.abashiri.hokkaido.jp/soshiki/9/1690.html"
+    }
+  },
+  "monbetsushi": {
+    "hasData": true,
+    "office": "窓口は市民生活部市民課市民係（電話0158-24-2111）。転出・転入それぞれ専用ページで案内されており、転出証明書の郵便請求ページも別途用意されている。支所の記載はなし。",
+    "links": {
+      "out": "https://mombetsu.jp/life/?content=586",
+      "in": "https://mombetsu.jp/life/?content=587",
+      "mail": "https://mombetsu.jp/life/?content=596"
+    }
+  },
+  "nemuroshi": {
+    "hasData": true,
+    "office": "本庁市民課（根室市常盤町2丁目27番地）に加え歯舞支所でも転入・転出届を受付。転出届ページ内に郵送請求（郵送依頼用申請書）の案内もあり、送付先は本庁市民課戸籍住民担当。",
+    "links": {
+      "out": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/shiminfukushibu/shimin/todokede/kosekijuminkankei/4756.html",
+      "in": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/shiminfukushibu/shimin/todokede/kosekijuminkankei/4356.html"
+    }
+  },
+  "utashinaishi": {
+    "hasData": true,
+    "office": "本庁舎1階の市民課戸籍保険グループが唯一の窓口。支所・出張所はなく、転出・転入とも単一の窓口で受付する小規模自治体。",
+    "links": {
+      "out": "https://www.city.utashinai.hokkaido.jp/hotnews/detail/00004645.html",
+      "in": "https://www.city.utashinai.hokkaido.jp/hotnews/detail/00004644.html",
+      "mail": "https://www.city.utashinai.hokkaido.jp/hotnews/detail/00004645.html"
+    }
+  },
+  "furanoshi": {
+    "hasData": true,
+    "office": "本庁（複合庁舎2階 市民課戸籍住民係）のほか、山部支所・東山支所でも転出・転入の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.furano.hokkaido.jp/life/docs/2013071000211.html",
+      "in": "https://www.city.furano.hokkaido.jp/life/docs/2013071000181.html",
+      "mail": "https://www.city.furano.hokkaido.jp/life/docs/2013071000211.html"
+    }
+  },
+  "yokoteshi": {
+    "hasData": true,
+    "office": "本庁舎1階の市民課（国保市民課）に加え、各地域局市民サービス課でも受付。転出は郵送・オンラインにも対応。",
+    "links": {
+      "out": "https://www.city.yokote.lg.jp/faq/1001625/1001632/1002357.html",
+      "in": "https://www.city.yokote.lg.jp/faq/1001625/1001632/1002367.html",
+      "mail": "https://www.city.yokote.lg.jp/kurashi/1001137/1001197/1012623.html"
+    }
+  },
+  "yuzawashi": {
+    "hasData": true,
+    "office": "本庁舎市民課住民班のほか、各総合支所でも届出が可能。受付は平日8時30分〜17時15分。",
+    "links": {
+      "out": "https://www.city-yuzawa.jp/soshiki/18/156.html",
+      "in": "https://www.city-yuzawa.jp/soshiki/18/155.html",
+      "mail": "https://www.city-yuzawa.jp/soshiki/18/186.html"
+    }
+  },
+  "katagamishi": {
+    "hasData": true,
+    "office": "届出先は市役所本庁市民課市民班のみ。各出張所では転入届・転出届いずれも受け付け不可。",
+    "links": {
+      "out": "https://www.city.katagami.lg.jp/soshiki/shiminseikatsu/shimin/shimin/jumintoroku/879.html",
+      "in": "https://www.city.katagami.lg.jp/soshiki/shiminseikatsu/shimin/shimin/jumintoroku/881.html"
+    }
+  },
+  "daisenshi": {
+    "hasData": true,
+    "office": "本庁（大曲庁舎）市民課窓口のほか、各支所の市民サービス課窓口でも届出可能。平日8時30分〜17時15分。",
+    "links": {
+      "out": "https://www.city.daisen.lg.jp/archive/contents-9228",
+      "in": "https://www.city.daisen.lg.jp/docs/2013101500186/",
+      "mail": "https://www.city.daisen.lg.jp/archive/contents-8230"
+    }
+  },
+  "yuukishi": {
+    "hasData": true,
+    "office": "結城市役所(結城市中央町二丁目3番地)庁舎1階市民課。江川出張所・山川出張所・結城出張所も窓口業務を行う。",
+    "links": {
+      "out": "https://www.city.yuki.lg.jp/kurashi-tetsuzuki/juumin/todokede/page000248.html",
+      "in": "https://www.city.yuki.lg.jp/kurashi-tetsuzuki/juumin/todokede/page000249.html"
+    }
+  },
+  "ryuukesakishi": {
+    "hasData": true,
+    "office": "本庁舎の市民窓口課(龍ケ崎市3710番地)1階のほか、東部出張所(さんさん館内)、市民窓口ステーション(サプラスクエアサプラ2階、毎日夜7時まで)でも手続き可能。",
+    "links": {
+      "out": "https://www.city.ryugasaki.ibaraki.jp/kurashi/todokede/jumintouroku/jyuminhyo/2016071500040.html",
+      "in": "https://www.city.ryugasaki.ibaraki.jp/kurashi/todokede/jumintouroku/jyuminhyo/2016030700078.html"
+    }
+  },
+  "shimozumashi": {
+    "hasData": true,
+    "office": "下妻市役所(下妻市本城町三丁目13番地)1階市民課市民係。毎月第1・3木曜日は夜間窓口(午後7時まで)を実施。",
+    "links": {
+      "out": "https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/koseki-juumin-tetsuzuki/jyusho-todoke/page000057.html",
+      "in": "https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/koseki-juumin-tetsuzuki/jyusho-todoke/page000056.html"
+    }
+  },
+  "kashimashi": {
+    "hasData": true,
+    "office": "鹿嶋市役所総合窓口課（本庁舎、茨城県鹿嶋市大字平井1187-1）が窓口。大野出張所でも平日手続き可能。本庁は第2・第4日曜日も開庁（12時〜13時を除く）。",
+    "links": {
+      "out": "https://www.city.kashima.ibaraki.jp/soshiki/37/2830.html",
+      "in": "https://city.kashima.ibaraki.jp/site/shinsei/2833.html",
+      "mail": "https://www.city.kashima.ibaraki.jp/soshiki/37/59127.html"
+    }
+  },
+  "itakoshi": {
+    "hasData": true,
+    "office": "潮来市役所本庁舎（茨城県潮来市辻626）1階の市民課が窓口。支所・出張所の記載は見当たらず、本庁舎に窓口が集約されている。",
+    "links": {
+      "out": "https://www.city.itako.lg.jp/ku-te/tetsuduki/tennyu-shi-kyo/page002769.html",
+      "in": "https://www.city.itako.lg.jp/ku-te/tetsuduki/tennyu-shi-kyo/page000038.html",
+      "mail": "https://www.city.itako.lg.jp/ku-te/tetsuduki/tennyu-shi-kyo/page002769.html"
+    }
+  },
+  "shibatashi": {
+    "hasData": true,
+    "office": "本庁市民生活課（ヨリネスしばた1階）のほか各支所の住民福祉係でも届出可能。マイナンバーカード保有者はマイナポータルでオンライン転出届もできる。",
+    "links": {
+      "out": "https://www.city.shibata.lg.jp/kurashi/koseki/juminhyo/1000641.html",
+      "in": "https://www.city.shibata.lg.jp/kurashi/koseki/juminhyo/1000640.html"
+    }
+  },
+  "ojiyashi": {
+    "hasData": true,
+    "office": "本庁市民生活課（市役所2階）のほか片貝支所、東山・岩沢・真人・川井の各連絡所でも届出可能（連絡所・支所は交付や関連手続が後日になる場合あり）。",
+    "links": {
+      "out": "https://www.city.ojiya.niigata.jp/soshiki/shimin/tenshutsutodoke.html",
+      "in": "https://www.city.ojiya.niigata.jp/soshiki/shimin/tennyutodoke.html",
+      "mail": "https://www.city.ojiya.niigata.jp/soshiki/shimin/tenshutsushomeisho-yuso.html"
+    }
+  },
+  "tookamachishi": {
+    "hasData": true,
+    "office": "本庁1階の市民福祉部市民生活課市民係が担当。転入届は本庁・各支所どちらでも受付可能。転出届は窓口来庁・マイナポータル・郵送請求の3方式に対応。",
+    "links": {
+      "out": "https://www.city.tokamachi.lg.jp/soshiki/shiminfukushibu/shiminseikatsuka/2/gyomu/1450418058158.html",
+      "in": "https://www.city.tokamachi.lg.jp/soshiki/shiminfukushibu/shiminseikatsuka/2/gyomu/1450418115641.html"
+    }
   }
 }
