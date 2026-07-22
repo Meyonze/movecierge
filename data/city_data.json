@@ -3215,5 +3215,55 @@
       "in": "https://www.city.oamishirasato.lg.jp/0000000024.html",
       "mail": "https://www.city.oamishirasato.lg.jp/0000000025.html"
     }
+  },
+  "kouzanshi": {
+    "hasData": true,
+    "office": "本庁市民課（花岡町2丁目18番地）と各支所地域振興課で受付。窓口は平日8時30分〜17時15分（本庁のみ延長窓口あり）。転出届のみ郵送可、転入届は窓口来庁が必須。",
+    "links": {
+      "out": "https://www.city.takayama.lg.jp/1005237/1005239.html",
+      "in": "https://www.city.takayama.lg.jp/1005237/1005238.html",
+      "mail": "https://www.city.takayama.lg.jp/kurashi/1000014/1004894/1000378.html"
+    }
+  },
+  "minoshi": {
+    "hasData": true,
+    "office": "美濃市役所（美濃市1350番地）市民生活課市民係が窓口。開庁時間は平日9時〜16時。支所・出張所の記載はなく本庁一括対応とみられる。転出届は郵送でも受付可。",
+    "links": {
+      "out": "https://www.city.mino.gifu.jp/docs/955.html",
+      "in": "https://www.city.mino.gifu.jp/docs/959.html"
+    }
+  },
+  "haneshimashi": {
+    "hasData": true,
+    "office": "羽島市役所（竹鼻町55番地）市民課が窓口。受付は平日8時45分〜16時45分、休日開庁日は正午まで。支所の記載はなく本庁一括対応とみられる。転出届は郵送可。",
+    "links": {
+      "out": "https://www.city.hashima.lg.jp/1151.html",
+      "in": "https://www.city.hashima.lg.jp/1152.html"
+    }
+  },
+  "yamagatashi": {
+    "hasData": true,
+    "office": "山県市役所（高木1000番地1）市民環境課戸籍住民係が窓口。開庁時間は平日8時30分〜17時15分。支所の記載はなく本庁一括対応とみられる。",
+    "links": {
+      "out": "https://www.city.yamagata.gifu.jp/soshiki/shimin/1684.html",
+      "in": "https://www.city.yamagata.gifu.jp/soshiki/shimin/1683.html"
+    }
+  },
+  "mizuhoshi": {
+    "hasData": true,
+    "office": "瑞穂市には穂積庁舎（別府1288番地・市民課）と巣南庁舎（宮田300番地2・市民窓口課）の2庁舎があり、いずれでも転入出手続きが可能。開庁時間は平日9時〜16時30分。",
+    "links": {
+      "out": "https://www.city.mizuho.lg.jp/1399.htm",
+      "in": "https://www.city.mizuho.lg.jp/1400.htm",
+      "mail": "https://www.city.mizuho.lg.jp/2274.htm"
+    }
+  },
+  "hidashi": {
+    "hasData": true,
+    "office": "本庁（古川町本町2-22・市民保険課）のほか河合・宮川・神岡の3振興事務所でも受付。開庁は平日8時30分〜17時15分、窓口9時〜16時30分（月曜は予約制で延長あり）。",
+    "links": {
+      "out": "https://www.city.hida.gifu.jp/soshiki/13/452.html",
+      "in": "https://www.city.hida.gifu.jp/soshiki/13/jyuusyohenkou.html"
+    }
   }
 }

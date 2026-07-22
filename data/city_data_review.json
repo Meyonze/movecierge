@@ -1653,5 +1653,24 @@
       "mail": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1043.html"
     },
     "confidence": "low"
+  },
+  "kanishi": {
+    "hasData": true,
+    "office": "可児市役所（広見一丁目1番地）市民課が窓口。平日8時30分〜17時15分、第2・4日曜も市民課等一部業務で日曜窓口開設。マイナンバー関連は本庁のみ、その他は各連絡所でも一部取扱いあり。",
+    "links": {
+      "out": "https://www.city.kani.lg.jp/4606.htm",
+      "in": "https://www.city.kani.lg.jp/4606.htm",
+      "mail": "https://www.city.kani.lg.jp/4580.htm"
+    },
+    "confidence": "low"
+  },
+  "motosushi": {
+    "hasData": true,
+    "office": "本巣市役所本庁舎（早野255番地）市民課市民窓口係が窓口。根尾分庁舎（根尾板所625番地1）でも受付。開庁は平日8時30分〜17時15分、市民窓口受付は9時〜16時30分。",
+    "links": {
+      "out": "https://www.city.motosu.lg.jp/0000000076.html",
+      "in": "https://www.city.motosu.lg.jp/0000000076.html"
+    },
+    "confidence": "low"
   }
 }
