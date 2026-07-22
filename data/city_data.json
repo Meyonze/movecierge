@@ -3265,5 +3265,203 @@
       "out": "https://www.city.hida.gifu.jp/soshiki/13/452.html",
       "in": "https://www.city.hida.gifu.jp/soshiki/13/jyuusyohenkou.html"
     }
+  },
+  "tateyamashi": {
+    "hasData": true,
+    "office": "窓口は本庁舎（北条1145-1）1階市民課のみで支所・出張所はない。木曜日は午後7時まで窓口延長あり。",
+    "links": {
+      "out": "https://www.city.tateyama.chiba.jp/simin/page000075.html",
+      "in": "https://www.city.tateyama.chiba.jp/simin/page000074.html"
+    }
+  },
+  "katsuurashi": {
+    "hasData": true,
+    "office": "窓口は本庁1階市民課のみで、支所・出張所は特にない。郵送やマイナポータルによる転出届にも対応している。",
+    "links": {
+      "out": "https://www.city.katsuura.lg.jp/page/1173.html",
+      "in": "https://www.city.katsuura.lg.jp/page/1174.html",
+      "mail": "https://www.city.katsuura.lg.jp/page/1173.html"
+    }
+  },
+  "kamogawashi": {
+    "hasData": true,
+    "office": "本庁1階総合窓口のほか、天津小湊支所、江見・吉尾・小湊の各出張所、ふれあいセンター市民サービスコーナーで受付（転入届の郵送は不可）。",
+    "links": {
+      "out": "https://www.city.kamogawa.lg.jp/site/shinsei/783.html",
+      "in": "https://www.city.kamogawa.lg.jp/site/shinsei/771.html",
+      "mail": "https://www.city.kamogawa.lg.jp/site/shinsei/759.html"
+    }
+  },
+  "kamaketanishi": {
+    "hasData": true,
+    "office": "窓口は本庁（新鎌ケ谷2丁目6-1）1階市民課のみで、支所・出張所は設けられていない。",
+    "links": {
+      "out": "https://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/todokede/tetsuzuki/tensyutsu.html",
+      "in": "https://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/todokede/tetsuzuki/tennyu.html"
+    }
+  },
+  "sousashi": {
+    "hasData": true,
+    "office": "本庁1階市民課または野栄総合支所で受付。転出届は郵送・マイナポータル可だが、転入届は郵送不可で来庁が必要。",
+    "links": {
+      "out": "https://www.city.sosa.lg.jp/page/page000028.html",
+      "in": "https://www.city.sosa.lg.jp/page/page000026.html"
+    }
+  },
+  "gujoushi": {
+    "hasData": true,
+    "office": "郡上市役所（八幡町島谷）市民課のほか、大和・白鳥・高鷲・美並・明宝・和良の6振興事務所でも転出・転入届の受付が可能。転出届は郵送でも可能だが、転入届は郵送不可で窓口のみ。",
+    "links": {
+      "out": "https://www.city.gujo.gifu.jp/faq/cat788/faq00004.html",
+      "in": "https://www.city.gujo.gifu.jp/faq/cat788/faq00002.html",
+      "mail": "https://www.city.gujo.gifu.jp/faq/cat788/faq00034.html"
+    }
+  },
+  "geroshi": {
+    "hasData": true,
+    "office": "下呂市役所（森）市民サービス課のほか、萩原・小坂・金山・馬瀬の各振興事務所でも取扱い可能（竹原出張所は不可）。市外への転出届は郵送でも受付、転入届は窓口のみ。",
+    "links": {
+      "out": "https://www.city.gero.lg.jp/soshiki/4/234.html",
+      "in": "https://www.city.gero.lg.jp/soshiki/4/233.html",
+      "mail": "https://www.city.gero.lg.jp/soshiki/4/234.html"
+    }
+  },
+  "kaizushi": {
+    "hasData": true,
+    "office": "本庁舎（海津町高須515）の市民課が窓口。転出届は郵送でも受付しているが、転入届は郵送での取り扱いがなく窓口での手続きが必要。",
+    "links": {
+      "out": "https://www.city.kaizu.lg.jp/kosodate/0000000940.html",
+      "in": "https://www.city.kaizu.lg.jp/kosodate/0000000931.html",
+      "mail": "https://www.city.kaizu.lg.jp/faq/faq_detail.php?frmId=266"
+    }
+  },
+  "atamishi": {
+    "hasData": true,
+    "office": "市役所第1庁舎1階市民生活課市民室のほか、南熱海支所・泉支所でも受付。転出届は郵送・マイナポータルでも可能だが、転入届は郵送不可で窓口のみの対応。",
+    "links": {
+      "out": "https://www.city.atami.lg.jp/kurashi/juminhyo/1000615/1000618.html",
+      "in": "https://www.city.atami.lg.jp/kurashi/juminhyo/1000615/1000616.html",
+      "mail": "https://www.city.atami.lg.jp/kurashi/juminhyo/1000615/1000618.html"
+    }
+  },
+  "gotenbashi": {
+    "hasData": true,
+    "office": "市役所市民課のほか、市役所各支所・駅前サービスセンターでも受付。転出届は郵送・マイナポータルでも可能、転入届は窓口での手続きが必要。",
+    "links": {
+      "out": "https://www.city.gotemba.lg.jp/kurashi/b-1/b-1-1/487.html",
+      "in": "https://www.city.gotemba.lg.jp/kurashi/b-1/b-1-1/478.html",
+      "mail": "https://www.city.gotemba.lg.jp/kurashi/b-1/b-1-1/487.html"
+    }
+  },
+  "fukuroishi": {
+    "hasData": true,
+    "office": "市民課戸籍住民係のほか、浅羽支所市民サービス課でも転出・転入の届出ができる。転出届は郵送・オンライン予約サービスにも対応。",
+    "links": {
+      "out": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534788638.html",
+      "in": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534788881.html",
+      "mail": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534783319.html"
+    }
+  },
+  "shimodashi": {
+    "hasData": true,
+    "office": "本庁舎（市民保健課市民係）が窓口。支所・出張所の記載は見当たらず、単一窓口での対応。郵送での転出証明書申請にも対応している。",
+    "links": {
+      "out": "https://www.city.shimoda.shizuoka.jp/category/210000hikkoshi/157088.html",
+      "in": "https://www.city.shimoda.shizuoka.jp/category/020500koseki_todokede/157086.html",
+      "mail": "https://www.city.shimoda.shizuoka.jp/category/020500koseki_todokede/122051.html"
+    }
+  },
+  "omaezakishi": {
+    "hasData": true,
+    "office": "御前崎市役所市民課（戸籍・住民記録係、池新田5585番地）が窓口。転出手続きは30分以上かかる場合がある旨案内あり。支所の記載は見当たらない。",
+    "links": {
+      "out": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html",
+      "in": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html"
+    }
+  },
+  "kikugawashi": {
+    "hasData": true,
+    "office": "菊川市役所生活環境部市民課（堀之内61、本庁舎）が窓口。支所についての記載は見当たらず、本庁舎での対応が基本。",
+    "links": {
+      "out": "https://www.city.kikugawa.shizuoka.jp/shimin/tenshutsutodoke.html",
+      "in": "https://www.city.kikugawa.shizuoka.jp/shimin/tennyuutodoke.html"
+    }
+  },
+  "izunokunishi": {
+    "hasData": true,
+    "office": "市民課（伊豆長岡庁舎）が窓口。受付時間は平日8時30分〜17時15分（木曜は19時まで延長）。郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.city.izunokuni.shizuoka.jp/naga_simin/kurashi/touroku/jyumin/tenshutsu.html",
+      "in": "https://www.city.izunokuni.shizuoka.jp/naga_simin/kurashi/touroku/jyumin/tennyu.html"
+    }
+  },
+  "makinoharashi": {
+    "hasData": true,
+    "office": "市民課代表（静波447-1、本庁舎）が転出届、榛原窓口係・相良窓口係（相良275）でも転入届に対応。夜間窓口（水曜19時まで）あり。",
+    "links": {
+      "out": "https://www.city.makinohara.shizuoka.jp/soshiki/9/1433.html",
+      "in": "https://www.city.makinohara.shizuoka.jp/soshiki/9/1434.html",
+      "mail": "https://www.city.makinohara.shizuoka.jp/soshiki/9/8574.html"
+    }
+  },
+  "maizurushi": {
+    "hasData": true,
+    "office": "舞鶴市役所市民課（本庁）のほか、西支所・加佐分室でも転出入届を受付。ただし加佐分室ではマイナンバーカードを使った特例転入は取り扱っていない。",
+    "links": {
+      "out": "https://www.city.maizuru.kyoto.jp/kurashi/0000000421.html",
+      "in": "https://www.city.maizuru.kyoto.jp/kurashi/0000000406.html",
+      "mail": "https://www.city.maizuru.kyoto.jp/kurashi/0000000421.html"
+    }
+  },
+  "miyazushi": {
+    "hasData": true,
+    "office": "宮津市役所市民環境課市民窓口係（本庁、字柳縄手345番地の1）が窓口。支所についての記載は確認できず、転出届は窓口・郵便・マイナポータルのいずれでも提出可能。",
+    "links": {
+      "out": "https://www.city.miyazu.kyoto.jp/site/juminhyo/5347.html",
+      "in": "https://www.city.miyazu.kyoto.jp/site/juminhyo/5276.html",
+      "mail": "https://www.city.miyazu.kyoto.jp/site/juminhyo/5347.html"
+    }
+  },
+  "jouyoushi": {
+    "hasData": true,
+    "office": "城陽市役所本庁舎1階市民課窓口（寺田東ノ口16番地、17番地）が窓口。支所についての記載はなく、郵便・マイナポータルによる転出届にも対応。",
+    "links": {
+      "out": "https://www.city.joyo.kyoto.jp/0000000237.html",
+      "in": "https://www.city.joyo.kyoto.jp/0000000241.html",
+      "mail": "https://www.city.joyo.kyoto.jp/0000003999.html"
+    }
+  },
+  "kouhishi": {
+    "hasData": true,
+    "office": "転出入の届出窓口は本館ではなく東向日別館3階市民課窓口係（寺戸町小佃5番地の1）。本館・議会棟は別の場所（寺戸町中野20番地）にある。",
+    "links": {
+      "out": "https://www.city.muko.kyoto.jp/site/shinsei/1946.html",
+      "in": "https://www.city.muko.kyoto.jp/site/shinsei/1945.html"
+    }
+  },
+  "kyoutanabeshi": {
+    "hasData": true,
+    "office": "京田辺市役所市民部市民年金課戸籍住民係（本庁、田辺80）が窓口。支所についての記載は確認できず。",
+    "links": {
+      "out": "https://www.city.kyotanabe.lg.jp/module/tetsuzuki.php?mode=pickup&furiwake=1&id=4&b=all",
+      "in": "https://www.city.kyotanabe.lg.jp/module/tetsuzuki.php?mode=pickup&furiwake=1&id=3&b=all",
+      "mail": "https://www.city.kyotanabe.lg.jp/0000000283.html"
+    }
+  },
+  "kyoutangoshi": {
+    "hasData": true,
+    "office": "市民課（峰山庁舎）のほか、峰山庁舎を除く各市民局窓口（旧6町域）でも転出届・転入届を受け付けている（世帯主のみ転出等一部手続きは窓口のみ対応）。",
+    "links": {
+      "out": "https://www.city.kyotango.lg.jp/top/kurashi/todoke/5/4739.html",
+      "in": "https://www.city.kyotango.lg.jp/top/kurashi/todoke/5/4738.html"
+    }
+  },
+  "kizugawashi": {
+    "hasData": true,
+    "office": "木津川市役所本庁市民課（1階1番窓口）が窓口。支所についての記載は確認できず、窓口へ来庁できない場合は郵送での届出にも対応。",
+    "links": {
+      "out": "https://www.city.kizugawa.lg.jp/0000000760.html",
+      "in": "https://www.city.kizugawa.lg.jp/0000000759.html"
+    }
   }
 }

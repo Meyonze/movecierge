@@ -1672,5 +1672,121 @@
       "in": "https://www.city.motosu.lg.jp/0000000076.html"
     },
     "confidence": "low"
+  },
+  "nodashi": {
+    "hasData": true,
+    "office": "本庁1階市民課のほか、関宿支所、南・北・中央出張所、愛宕駅前出張所（平日夜間・土曜も対応）の複数拠点で受付している。",
+    "links": {
+      "out": "https://www.city.noda.chiba.jp/kurashi/soudan/todokede/1000268.html",
+      "in": "https://www.city.noda.chiba.jp/kurashi/soudan/todokede/1003105.html"
+    },
+    "confidence": "low"
+  },
+  "sodegaurashi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、長浦交流センター・平川交流センターでも住所異動の受付が可能（外国人住民の異動は本庁市民課のみ）。",
+    "links": {
+      "out": "https://www.city.sodegaura.lg.jp/soshiki/shimin/tetuduki.html",
+      "in": "https://www.city.sodegaura.lg.jp/soshiki/shimin/tetuduki.html",
+      "mail": "https://www.city.sodegaura.lg.jp/soshiki/shimin/yuusouseikyu.html"
+    },
+    "confidence": "low"
+  },
+  "minamibousoushi": {
+    "hasData": true,
+    "office": "本庁市民課（富浦町）のほか朝夷行政センター・各地域センターで受付。ただし転入届・転居届は本庁と朝夷行政センターのみで扱う。",
+    "links": {
+      "out": "https://www.city.minamiboso.chiba.jp/0000000597.html",
+      "in": "https://www.city.minamiboso.chiba.jp/0000000597.html"
+    },
+    "confidence": "low"
+  },
+  "itoushi": {
+    "hasData": true,
+    "office": "伊東市役所（大原二丁目）市民課が窓口。公式サイトでは転入届・転出届の案内が「住民登録」という1ページに同居しており、専用の個別ページは確認できなかった。転出は郵送・オンライン可。",
+    "links": {
+      "out": "https://www.city.ito.shizuoka.jp/gyosei/soshikikarasagasu/shiminka/kurashi_tetsuzuki/4/5/2085.html",
+      "in": "https://www.city.ito.shizuoka.jp/gyosei/soshikikarasagasu/shiminka/kurashi_tetsuzuki/4/5/2085.html",
+      "mail": "https://www.city.ito.shizuoka.jp/gyosei/soshikikarasagasu/shiminka/kurashi_tetsuzuki/4/5/2064.html"
+    },
+    "confidence": "low"
+  },
+  "shimadashi": {
+    "hasData": true,
+    "office": "島田市役所市民課のほか、金谷支所・川根支所の地域総合課でも届出可能。公式サイトでは転入・転出・転居の案内が「住所変更の届出」という1ページにまとまっており、専用の個別ページは確認できなかった。転出は郵送可、転入は郵送不可。",
+    "links": {
+      "out": "https://www.city.shimada.shizuoka.jp/kurashi-docs/zuusyoido.html",
+      "in": "https://www.city.shimada.shizuoka.jp/kurashi-docs/zuusyoido.html",
+      "mail": "https://www.city.shimada.shizuoka.jp/kurashi-docs/zuusyoido.html"
+    },
+    "confidence": "low"
+  },
+  "susonoshi": {
+    "hasData": true,
+    "office": "本庁舎1階の市民課のほか、深良支所・富岡支所・須山支所でも転入・転出・転居の届出が可能。窓口予約サービスあり。",
+    "links": {
+      "out": "https://www.city.susono.shizuoka.jp/soshiki/2/2/5/7/1744.html",
+      "in": "https://www.city.susono.shizuoka.jp/soshiki/2/2/5/7/1744.html",
+      "mail": "https://www.city.susono.shizuoka.jp/soshiki/2/2/5/7/1725.html"
+    },
+    "confidence": "low"
+  },
+  "kosaishi": {
+    "hasData": true,
+    "office": "湖西市役所市民課（本庁）のほか、新居支所市民窓口係でも転入・転出・転居等の届出ができる。ただし新居支所では転入に関する一部業務は取り扱えない。",
+    "links": {
+      "out": "https://www.city.kosai.shizuoka.jp/kurashi_tetsuzuki/todokede_toroku_shomei/kakushutetsuzuki/3296.html",
+      "in": "https://www.city.kosai.shizuoka.jp/kurashi_tetsuzuki/todokede_toroku_shomei/kakushutetsuzuki/3296.html",
+      "mail": "https://www.city.kosai.shizuoka.jp/soshikiichiran/shiminka/gyomuannai/6/4/yuubin/2155.html"
+    },
+    "confidence": "low"
+  },
+  "izushi": {
+    "hasData": true,
+    "office": "市民課（伊豆市小立野38-2、本庁舎）のほか、市内各支所でも転入・転出・転居の手続きができる。",
+    "links": {
+      "out": "https://www.city.izu.shizuoka.jp/soshiki/1011/3/4/445.html",
+      "in": "https://www.city.izu.shizuoka.jp/soshiki/1011/3/4/445.html"
+    },
+    "confidence": "low"
+  },
+  "fukuchiyamashi": {
+    "hasData": true,
+    "office": "本庁市民課（福知山市字内記13番地の1）に加え、三和・夜久野・大江の3支所でも転出入・転居届を受付。転出届・転入届・転居届は「住民異動届」として同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.fukuchiyama.lg.jp/site/shinsei1/1612.html",
+      "in": "https://www.city.fukuchiyama.lg.jp/site/shinsei1/1612.html",
+      "mail": "https://www.city.fukuchiyama.lg.jp/soshiki/22/1602.html"
+    },
+    "confidence": "low"
+  },
+  "ayabeshi": {
+    "hasData": true,
+    "office": "綾部市役所市民・国保課戸籍住民担当（本庁、京都府綾部市若竹町8番地の1）が窓口。支所についての記載は確認できず、転出届は郵送・マイナンバーカードでの提出も可能だが転入届・転居届は来庁が必要。",
+    "links": {
+      "out": "https://www.city.ayabe.lg.jp/0000002750.html",
+      "in": "https://www.city.ayabe.lg.jp/0000002750.html",
+      "mail": "https://www.city.ayabe.lg.jp/0000002425.html"
+    },
+    "confidence": "low"
+  },
+  "yahatashi": {
+    "hasData": true,
+    "office": "八幡市役所市民生活部市民課（本庁、八幡園内75）が転出入届の窓口。橋本窓口・美濃山窓口という地域窓口もあるが、証明書発行のみを扱い転出入届の受付は行っていない。",
+    "links": {
+      "out": "https://www.city.yawata.kyoto.jp/0000000233.html",
+      "in": "https://www.city.yawata.kyoto.jp/0000000233.html",
+      "mail": "https://www.city.yawata.kyoto.jp/0000005734.html"
+    },
+    "confidence": "low"
+  },
+  "nantanshi": {
+    "hasData": true,
+    "office": "南丹市役所市民課（本庁、園部町小桜町47番地）が窓口。支所についての記載は確認できず、転出届はオンライン・郵送にも対応。",
+    "links": {
+      "out": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html",
+      "in": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html"
+    },
+    "confidence": "low"
   }
 }
