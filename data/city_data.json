@@ -3963,5 +3963,122 @@
       "out": "https://www.city.mima.lg.jp/gyosei/docs/tensyutu.html",
       "in": "https://www.city.mima.lg.jp/gyosei/docs/tennyutodoke.html"
     }
+  },
+  "kujishi": {
+    "hasData": true,
+    "office": "転出届・転入届とも市役所市民課および山形総合支所ふるさと振興課で受付（マイナンバーカードを使う転入手続きは市役所市民課のみ）。",
+    "links": {
+      "out": "https://www.city.kuji.lg.jp/soshiki/shimin/1/2/1_1/1464.html",
+      "in": "https://www.city.kuji.lg.jp/soshiki/shimin/1/2/1_1/1463.html",
+      "mail": null
+    }
+  },
+  "kamaishishi": {
+    "hasData": true,
+    "office": "転出届・転入届とも市民課総合窓口係および各地区生活応援センター（釜石地区を除く）で受付。",
+    "links": {
+      "out": "https://www.city.kamaishi.iwate.jp/docs/2017122700037/",
+      "in": "https://www.city.kamaishi.iwate.jp/docs/2016052300010/",
+      "mail": null
+    }
+  },
+  "takizawashi": {
+    "hasData": true,
+    "office": "転出届・転入届とも滝沢市役所本庁または東部出張所で受付。",
+    "links": {
+      "out": "https://www.city.takizawa.iwate.jp/life/todokede/jumin/jumin-juusyohennkou/_2174.html",
+      "in": "https://www.city.takizawa.iwate.jp/life/todokede/jumin/jumin-juusyohennkou/_2173.html",
+      "mail": null
+    }
+  },
+  "toonoshi": {
+    "hasData": true,
+    "office": "転出届・転入届とも遠野市役所とぴあ庁舎市民課および宮守総合支所で受付。",
+    "links": {
+      "out": "https://www.city.tono.iwate.jp/index.cfm/1,70373,68,html",
+      "in": "https://www.city.tono.iwate.jp/index.cfm/1,70374,68,html",
+      "mail": null
+    }
+  },
+  "kitakatashi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、各総合支所（塩川・熱塩加納・高郷・山都・北方の各総合支所住民課）でも届出可能。",
+    "links": {
+      "out": "https://www.city.kitakata.fukushima.jp/soshiki/shimin/547.html",
+      "in": "https://www.city.kitakata.fukushima.jp/soshiki/shimin/552.html",
+      "mail": "https://www.city.kitakata.fukushima.jp/soshiki/shimin/559.html"
+    }
+  },
+  "minamisoumashi": {
+    "hasData": true,
+    "office": "本庁市民課（原町区）のほか、小高区役所・鹿島区役所のいずれでも居住区にかかわらず届出可能。",
+    "links": {
+      "out": "https://www.city.minamisoma.lg.jp/portal/sections/13/1310/13101/8/1/20877.html",
+      "in": "https://www.city.minamisoma.lg.jp/portal/sections/13/1310/13101/8/1/1248.html",
+      "mail": "https://www.city.minamisoma.lg.jp/portal/sections/13/1310/13101/3_1/1254.html"
+    }
+  },
+  "imarishi": {
+    "hasData": true,
+    "office": "伊万里市民課窓口または各出張所（市内複数の出張所で受付可）。転出届・転入届は別ページで案内。",
+    "links": {
+      "out": "https://www.city.imari.lg.jp/5909.htm",
+      "in": "https://www.city.imari.lg.jp/5908.htm",
+      "mail": "https://www.city.imari.lg.jp/5909.htm"
+    }
+  },
+  "kashimashi_saga": {
+    "hasData": true,
+    "office": "鹿島市役所市民部市民課が窓口。転出届・転入届は別ページで案内され、郵送による転出届も専用ページあり。",
+    "links": {
+      "out": "https://www.city.saga-kashima.lg.jp/main/2960.html",
+      "in": "https://www.city.saga-kashima.lg.jp/main/2958.html",
+      "mail": "https://www.city.saga-kashima.lg.jp/main/2998.html"
+    }
+  },
+  "ogishi": {
+    "hasData": true,
+    "office": "小城市役所市民課または各出張所（小城・牛津・芦刈）で受付。転出届・転入届は別ページで案内され、郵送申請による転出届も専用ページあり（転入は郵送不可・窓口のみ）。",
+    "links": {
+      "out": "https://www.city.ogi.lg.jp/main/22696.html",
+      "in": "https://www.city.ogi.lg.jp/main/22742.html",
+      "mail": "https://www.city.ogi.lg.jp/main/41133.html"
+    }
+  },
+  "ureshinoshi": {
+    "hasData": true,
+    "office": "塩田庁舎市民課・嬉野庁舎市民課の2庁舎で受付。転出届・転入届は別ページで案内。郵送での転出手続きは転出届ページ内に方法が記載（専用の別ページなし）。",
+    "links": {
+      "out": "https://www.city.ureshino.lg.jp/kurashi/koseki/_19468/_28402.html",
+      "in": "https://www.city.ureshino.lg.jp/kurashi/koseki/_19468/_28400.html",
+      "mail": "https://www.city.ureshino.lg.jp/kurashi/koseki/_19468/_28402.html"
+    }
+  },
+  "makurazakishi": {
+    "hasData": true,
+    "office": "市民生活課市民係の1窓口で対応（支所の記載は確認できず）。転出届ページ内に郵送での転出証明書取り寄せ方法も併記されている。",
+    "links": {
+      "out": "https://www.city.makurazaki.lg.jp/site/shinsei-navi/5357.html",
+      "in": "https://www.city.makurazaki.lg.jp/site/shinsei-navi/list120-309.html",
+      "mail": null
+    }
+  },
+  "tarumizushi": {
+    "hasData": true,
+    "office": "垂水市役所本庁市民課市民係の1窓口。転出届ページ内に郵送・オンライン（マイナポータル）による届出方法も併記されている。",
+    "links": {
+      "out": "http://www.city.tarumizu.lg.jp/shimin/kurashi/koseki/hikkoshi/tenshutsu.html",
+      "in": "http://www.city.tarumizu.lg.jp/shimin/kurashi/koseki/hikkoshi/tennyu.html",
+      "mail": null
+    }
+  },
+  "hiokishi": {
+    "hasData": true,
+    "office": "本庁市民生活課のほか、各支所（東市来・日吉・吹上）の地域振興課市民係でも手続き可能。転入届・転出届が別ページで独立して案内されている。",
+    "links": {
+      "out": "https://www.city.hioki.kagoshima.jp/shimin/kurashi/tetsuzuki/koseki-jumin/tensyutu/tensyutsu.html",
+      "in": "https://www.city.hioki.kagoshima.jp/shimin/kurashi/tetsuzuki/koseki-jumin/tennyu/tennyu.html",
+      "mail": "https://www.city.hioki.kagoshima.jp/shimin/kurashi/tetsuzuki/koseki-jumin/tensyutu/yuusouniyorutennsyutu.html"
+    }
   }
 }
