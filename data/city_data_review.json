@@ -2231,5 +2231,84 @@
       "mail": "https://www.city.usa.oita.jp/sougo/soshiki/11/shimin/6/4281.html"
     },
     "confidence": "low"
+  },
+  "hamadashi": {
+    "hasData": true,
+    "office": "浜田市役所（総合窓口課、本庁舎1階）のほか、金城・旭・弥栄・三隅の各支所市民福祉課でも受付可。地域自治区の窓口案内では住民異動届を受付するが、保険等の関連手続きは本庁または各支所で別途行う必要がある。",
+    "links": {
+      "out": "https://www.city.hamada.shimane.jp/www/contents/1001000001089/index.html",
+      "in": "https://www.city.hamada.shimane.jp/www/contents/1001000001089/index.html",
+      "mail": "https://www.city.hamada.shimane.jp/www/contents/1001000001088/index_k.html"
+    }
+  },
+  "ootashi_shim": {
+    "hasData": true,
+    "office": "大田市役所（大田町）市民課のほか、仁摩支所・温泉津支所の市民生活課でも転出・転入の届出を受付している。",
+    "links": {
+      "out": "https://www.city.oda.lg.jp/tag/341/",
+      "in": "https://www.city.oda.lg.jp/tag/341/"
+    }
+  },
+  "yasugishi": {
+    "hasData": true,
+    "office": "安来市役所（安来庁舎）市民課のほか、広瀬庁舎広瀬地域センター・伯太庁舎伯太地域センターでも転出・転入の届出を受付している。",
+    "links": {
+      "out": "https://www.city.yasugi.shimane.jp/kurashi/shinsei/todokede/tenkyo.html",
+      "in": "https://www.city.yasugi.shimane.jp/kurashi/shinsei/todokede/tenkyo.html",
+      "mail": "https://www.city.yasugi.shimane.jp/kurashi/shinsei/shomei/tenshutsu-yuso.html"
+    }
+  },
+  "goutsushi": {
+    "hasData": true,
+    "office": "江津市役所（江津町、本庁舎1階）市民生活課のほか、桜江支所でも受付可。ただし桜江支所では取り扱えない手続きもあるため事前確認が必要。",
+    "links": {
+      "out": "https://www.city.gotsu.lg.jp/soshiki/12/2301.html",
+      "in": "https://www.city.gotsu.lg.jp/soshiki/12/2301.html",
+      "mail": "https://www.city.gotsu.lg.jp/soshiki/12/2676.html"
+    }
+  },
+  "unnanshi": {
+    "hasData": true,
+    "office": "雲南市役所（木次町、本庁舎）市民生活課のほか、大東・加茂・木次・三刀屋・吉田・掛合の各総合センター市民福祉課でも転出・転入の届出を受付している。",
+    "links": {
+      "out": "https://www.city.unnan.shimane.jp/unnan/kurashi/todokede/touroku/residency.html",
+      "in": "https://www.city.unnan.shimane.jp/unnan/kurashi/todokede/touroku/residency.html"
+    }
+  },
+  "narutoshi": {
+    "hasData": true,
+    "office": "鳴門市役所本庁舎(徳島県鳴門市撫養町南浜字東浜170)の市民課市民担当が窓口。転入届・転出届・転居届は同じ「住民登録」ページで一括案内されており、支所については記載が確認できなかった。",
+    "links": {
+      "out": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/jyumintouroku.html",
+      "in": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/jyumintouroku.html",
+      "mail": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/online.html"
+    }
+  },
+  "komatsushimashi": {
+    "hasData": true,
+    "office": "小松島市役所(徳島県小松島市横須町1番1号)の戸籍住民課が窓口。転入届・転出届は「住民異動届」ページに両方まとめて掲載されており、郵送による転出届の案内も同ページ内にある。支所の記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.komatsushima.lg.jp/docs/703781.html",
+      "in": "https://www.city.komatsushima.lg.jp/docs/703781.html",
+      "mail": "https://www.city.komatsushima.lg.jp/docs/3100860.html"
+    }
+  },
+  "yoshinogawashi": {
+    "hasData": true,
+    "office": "吉野川市役所(〒776-8611 徳島県吉野川市鴨島町鴨島115番地1)の市民生活課が窓口。転入届・転居届・転出届は「住所変更等の届出」ページに一覧表でまとめて掲載されている。支所の記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.yoshinogawa.lg.jp/docs/2010100600039/",
+      "in": "https://www.city.yoshinogawa.lg.jp/docs/2010100600039/",
+      "mail": "https://www.city.yoshinogawa.lg.jp/docs/2023020600058/"
+    }
+  },
+  "miyoshishi_toku": {
+    "hasData": true,
+    "office": "三好市役所(〒778-8501 徳島県三好市池田町サラダ1610番地1)の市民課のほか、三野・山城・井川・東祖谷・西祖谷の各支所でも手続き可能。転入・転居・転出・世帯変更は1ページにまとめて案内されている。",
+    "links": {
+      "out": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
+      "in": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
+      "mail": "https://www.miyoshi.i-tokushima.jp/docs/11021.html"
+    }
   }
 }
