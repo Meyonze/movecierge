@@ -2310,5 +2310,149 @@
       "in": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
       "mail": "https://www.miyoshi.i-tokushima.jp/docs/11021.html"
     }
+  },
+  "rikuzentakatashi": {
+    "hasData": true,
+    "office": "転出届・転入届とも市民課市民係（本庁舎）で受付。同一ページ内に転入届・転出届・転居届の説明が併記されている。",
+    "links": {
+      "out": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
+      "in": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
+      "mail": "https://www.city.rikuzentakata.iwate.jp/material/files/group/21/tokureiyuusoutennsyutu2026.pdf"
+    }
+  },
+  "ninoheshi": {
+    "hasData": true,
+    "office": "転出届・転入届とも二戸市役所、浄法寺総合支所、各出張所で受付（外国人住民の届出は市役所・浄法寺総合支所のみ）。同一ページ内に転入届・転出届・転居届・世帯変更届が併記されている。",
+    "links": {
+      "out": "https://www.city.ninohe.lg.jp/info/80",
+      "in": "https://www.city.ninohe.lg.jp/info/80",
+      "mail": null
+    }
+  },
+  "hachimantaishi": {
+    "hasData": true,
+    "office": "転出届・転入届とも市民課、西根総合支所、安代総合支所、田山支所で受付。同一ページ内に出生・死亡・婚姻・転入・転出・転居等の届出が一覧で併記されている。",
+    "links": {
+      "out": "https://www.city.hachimantai.lg.jp/soshiki/shiminka/1675.html",
+      "in": "https://www.city.hachimantai.lg.jp/soshiki/shiminka/1675.html",
+      "mail": null
+    }
+  },
+  "soumashi": {
+    "hasData": true,
+    "office": "市民課（本庁）で受付。転出届・転入届など住民異動届はすべて「住民登録」ページに一括掲載されており、個別ページには分かれていない。",
+    "links": {
+      "out": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
+      "in": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
+      "mail": null
+    }
+  },
+  "nihonmatsushi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、安達支所・岩代支所・東和支所の地域振興課市民福祉係でも届出可能。",
+    "links": {
+      "out": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/todokede_syomei/page001532.html",
+      "in": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/todokede_syomei/page001532.html",
+      "mail": null
+    }
+  },
+  "tamurashi": {
+    "hasData": true,
+    "office": "本庁市民課戸籍住民係のほか、各行政局・各出張所でも届出可能。",
+    "links": {
+      "out": "https://www.city.tamura.lg.jp/soshiki/6/shimin-madoguti-idou.html",
+      "in": "https://www.city.tamura.lg.jp/soshiki/6/shimin-madoguti-idou.html",
+      "mail": null
+    }
+  },
+  "dateshi_fuku": {
+    "hasData": true,
+    "office": "市民課（保原町・中央棟1階）のほか、伊達・梁川・霊山・月舘の各総合支所でも届出可能。",
+    "links": {
+      "out": "https://www.city.fukushima-date.lg.jp/soshiki/10/10.html",
+      "in": "https://www.city.fukushima-date.lg.jp/soshiki/10/202.html",
+      "mail": null
+    }
+  },
+  "motomiyashi": {
+    "hasData": true,
+    "office": "本宮市役所市民課市民窓口係のほか、白沢総合支所窓口サービス係でも届出可能。",
+    "links": {
+      "out": "https://www.city.motomiya.lg.jp/soshiki/9/jyuuminidou.html",
+      "in": "https://www.city.motomiya.lg.jp/soshiki/9/jyuuminidou.html",
+      "mail": null
+    }
+  },
+  "takushi": {
+    "hasData": true,
+    "office": "多久市役所市民課窓口係が唯一の窓口（支所なし）。転入届・転出届・転居届は同一ページ内にまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.taku.lg.jp/soshiki/2/2019.html",
+      "in": "https://www.city.taku.lg.jp/soshiki/2/2019.html",
+      "mail": null
+    }
+  },
+  "takeoshi": {
+    "hasData": true,
+    "office": "武雄市役所福祉部市民課窓口係が窓口。転入届・転出届・転居届は同一の一覧表ページにまとめられている（種別ごとのURLは分かれていない）。郵送での転出届は別ページで案内。",
+    "links": {
+      "out": "https://www.city.takeo.lg.jp/benri/madoguchi/ido/007677.html",
+      "in": "https://www.city.takeo.lg.jp/benri/madoguchi/ido/007677.html",
+      "mail": "https://www.city.takeo.lg.jp/benri/madoguchi/ido/007682.html"
+    }
+  },
+  "kanzakishi": {
+    "hasData": true,
+    "office": "神埼市役所市民課総合窓口班が窓口。転入届・転出届・転居届は同一ページ内にまとめて案内されている（種別ごとのURLは分かれていない）。郵送での転出届様式も同ページからダウンロード可。",
+    "links": {
+      "out": "https://www.city.kanzaki.saga.jp/main/359.html",
+      "in": "https://www.city.kanzaki.saga.jp/main/359.html",
+      "mail": "https://www.city.kanzaki.saga.jp/main/359.html"
+    }
+  },
+  "nishinoomoteshi": {
+    "hasData": true,
+    "office": "市民生活課市民係の1窓口（種子島・西之表市役所本庁）。転入届・転出届・転居届が同一ページの1つの表にまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
+      "in": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
+      "mail": null
+    }
+  },
+  "shibushishi": {
+    "hasData": true,
+    "office": "志布志庁舎市民環境課、有明庁舎市民税務課、松山庁舎総務市民課の3庁舎で受付。転入届・転出届は「住民異動届」として同一ページにまとめて案内されている（郵送転出証明書請求は別ページあり）。",
+    "links": {
+      "out": "https://www.city.shibushi.lg.jp/soshiki/6/16831.html",
+      "in": "https://www.city.shibushi.lg.jp/soshiki/6/16831.html",
+      "mail": "https://www.city.shibushi.lg.jp/soshiki/6/12844.html"
+    }
+  },
+  "isashi": {
+    "hasData": true,
+    "office": "大口庁舎市民課、菱刈庁舎地域総務課の2庁舎で受付。転入届・転出届・転居届の案内は「戸籍や住民票などの届出・各種証明書」という1つの大きな総合ページ内にまとめられている。",
+    "links": {
+      "out": "https://www.city.isa.kagoshima.jp/life/madoguchi/%E6%88%B8%E7%B1%8D%E3%82%84%E4%BD%8F%E6%B0%91%E7%A5%A8%E3%81%AA%E3%81%A9%E3%81%AE%E5%B1%8A%E5%87%BA%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/",
+      "in": "https://www.city.isa.kagoshima.jp/life/madoguchi/%E6%88%B8%E7%B1%8D%E3%82%84%E4%BD%8F%E6%B0%91%E7%A5%A8%E3%81%AA%E3%81%A9%E3%81%AE%E5%B1%8A%E5%87%BA%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/",
+      "mail": null
+    }
+  },
+  "sooichi": {
+    "hasData": true,
+    "office": "市民環境課（本庁）が窓口。転入届・転居届・転出届・世帯変更届の届出期間や必要書類が同一ページの1つの表にまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.soo.kagoshima.jp/kurashi/todokedesyomei/todokede/jyuminhyotodoke.html",
+      "in": "https://www.city.soo.kagoshima.jp/kurashi/todokedesyomei/todokede/jyuminhyotodoke.html",
+      "mail": null
+    }
+  },
+  "minamikyuushuushi": {
+    "hasData": true,
+    "office": "市民生活課市民係。「お住まいの地域に関わらず、各庁舎で手続きができます」との案内があり、複数庁舎（旧川辺町・知覧町・頴娃町）で対応。転入届・転出届は同一ページの1つの表にまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.minamikyushu.lg.jp/soshikikarasagasu/shiminseikatsuka/shimin/1/369.html",
+      "in": "https://www.city.minamikyushu.lg.jp/soshikikarasagasu/shiminseikatsuka/shimin/1/369.html",
+      "mail": null
+    }
   }
 }
