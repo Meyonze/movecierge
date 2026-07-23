@@ -2009,5 +2009,227 @@
       "mail": "https://www.city.toon.ehime.jp/soshiki/12/1974.html"
     },
     "confidence": "low"
+  },
+  "sakatashi": {
+    "hasData": true,
+    "office": "酒田市役所本庁舎市民課のほか、松山・平田・八幡の各総合支所市民係でも住民異動届を受付。転出届・転入届は同一ページ内の異なる項目として案内されている。",
+    "links": {
+      "out": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/idou-tetsuduki.html",
+      "in": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/idou-tetsuduki.html",
+      "mail": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/yuso-tensyutu.html"
+    },
+    "confidence": "low"
+  },
+  "ueyamashi": {
+    "hasData": true,
+    "office": "上山市役所市民生活課3番窓口（平日8:45〜16:30）で一括対応。支所の記載はなく、マイナンバー未所持者向けに「書かない窓口」事前申請システムがある。",
+    "links": {
+      "out": "https://www.city.kaminoyama.yamagata.jp/soshiki/6/jumintouroku.html",
+      "in": "https://www.city.kaminoyama.yamagata.jp/soshiki/6/jumintouroku.html",
+      "mail": "https://www.city.kaminoyama.yamagata.jp/soshiki/6/tensyutusyoumei.html"
+    },
+    "confidence": "low"
+  },
+  "higashineshi": {
+    "hasData": true,
+    "office": "東根市役所1階1番窓口（市民課）で住民異動届を一括対応。支所の記載はなく、本庁舎のみで受付している。",
+    "links": {
+      "out": "https://www.city.higashine.yamagata.jp/section_list/section007/124",
+      "in": "https://www.city.higashine.yamagata.jp/section_list/section007/124",
+      "mail": "https://www.city.higashine.yamagata.jp/section_list/section007/1006"
+    },
+    "confidence": "low"
+  },
+  "nanyoushi": {
+    "hasData": true,
+    "office": "南陽市役所市民課市民係で手続き。支所の記載はなし。当環境からは同ドメインへの直接アクセスがネットワーク制限で不可のため、2025年時点のWebアーカイブで内容を確認した。",
+    "links": {
+      "out": "http://www.city.nanyo.yamagata.jp/siminkakari/160",
+      "in": "http://www.city.nanyo.yamagata.jp/hitukosisinsei/158",
+      "mail": "http://www.city.nanyo.yamagata.jp/hitukosisinsei/169"
+    },
+    "confidence": "low"
+  },
+  "murakamishi": {
+    "hasData": true,
+    "office": "村上市役所本庁舎（三之町1-1）市民課市民年金室が窓口。転入・転居・転出・世帯変更届をまとめて案内する1ページ構成で、転出入それぞれの専用ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.murakami.lg.jp/soshiki/24/todokede-juminido.html",
+      "in": "https://www.city.murakami.lg.jp/soshiki/24/todokede-juminido.html"
+    },
+    "confidence": "low"
+  },
+  "tsubameshi": {
+    "hasData": true,
+    "office": "燕市役所（吉田西太田1934番地）市民課市民窓口1係が窓口。転入・転居・転出届は表形式でまとめた1ページで案内されており、転出届単独の専用ページは郵送手続きのみ確認できた。",
+    "links": {
+      "out": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/15400.html",
+      "in": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/15400.html",
+      "mail": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/2573.html"
+    },
+    "confidence": "low"
+  },
+  "myoukoushi": {
+    "hasData": true,
+    "office": "手続きは市民税務課（本庁）、妙高高原支所、妙高支所の3か所で対応。転入・転出・転居・世帯主変更届を1ページにまとめて案内しており、転出入それぞれの専用ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.myoko.niigata.jp/docs/2108.html",
+      "in": "https://www.city.myoko.niigata.jp/docs/2108.html",
+      "mail": "https://www.city.myoko.niigata.jp/docs/777.html"
+    },
+    "confidence": "low"
+  },
+  "gosenshi": {
+    "hasData": true,
+    "office": "五泉市役所（太田1094番地1）市民課が本庁窓口。村松支所地域振興課（市民係）でも対応可。転入届・転出届は表形式で1ページにまとめて案内されており、専用の個別ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.gosen.lg.jp/organization/6/6/11041.html",
+      "in": "https://www.city.gosen.lg.jp/organization/6/6/11041.html"
+    },
+    "confidence": "low"
+  },
+  "nanaoshi": {
+    "hasData": true,
+    "office": "本庁舎（袖ケ江町）では住民異動届の手続きができず、届出窓口は「七尾駅前ミナ.クル2階」の市民課のみに集約されている。",
+    "links": {
+      "out": "https://www.city.nanao.lg.jp/shimin/kurashi/todokede/konnatoki/inkkoshi.html#tenshutsu",
+      "in": "https://www.city.nanao.lg.jp/shimin/kurashi/todokede/konnatoki/inkkoshi.html#tenyu",
+      "mail": "https://www.city.nanao.lg.jp/shimin/kurashi/todokede/konnatoki/inkkoshi.html"
+    },
+    "confidence": "low"
+  },
+  "washimashi": {
+    "hasData": true,
+    "office": "市役所市民課・門前総合支所地域生活課、または各支所・出張所で届出可能（外国人は市民課のみ）。ページの公開は2016年で令和6年能登半島地震後の体制変更が反映されているか要再確認。",
+    "links": {
+      "out": "https://www.city.wajima.ishikawa.jp/docs/2016071200018/",
+      "in": "https://www.city.wajima.ishikawa.jp/docs/2016071200018/",
+      "mail": "https://www.city.wajima.ishikawa.jp/docs/2013040100072/"
+    },
+    "confidence": "low"
+  },
+  "hakuishi": {
+    "hasData": true,
+    "office": "市役所1階7番窓口（市民窓口課市民窓口係）に届出窓口を一本化。支所の記載はなく、転出・転入とも同一の案内ページ内で説明されている。",
+    "links": {
+      "out": "https://www.city.hakui.lg.jp/soshiki/shiminfukushibu/shimin/2/3/7513.html",
+      "in": "https://www.city.hakui.lg.jp/soshiki/shiminfukushibu/shimin/2/3/7513.html",
+      "mail": "https://www.city.hakui.lg.jp/soshiki/shiminfukushibu/shimin/2/todokede/7524.html"
+    },
+    "confidence": "low"
+  },
+  "kahokushi": {
+    "hasData": true,
+    "office": "本庁舎（かほく市宇野気）の市民課のほか、高松サービスセンター・七塚サービスセンターでも受付可能。転出届・転入届は同一ページでまとめて案内されている。",
+    "links": {
+      "out": "https://www.city.kahoku.lg.jp/001/106/111/d000256.html",
+      "in": "https://www.city.kahoku.lg.jp/001/106/111/d000256.html"
+    },
+    "confidence": "low"
+  },
+  "nomishi": {
+    "hasData": true,
+    "office": "本庁舎（能美市来丸町）の市民サービス課が窓口。転入・転出・転居の手続きは同一ページでまとめて案内されている。支所の記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000070/index.html",
+      "in": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000070/index.html",
+      "mail": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000066/index.html"
+    },
+    "confidence": "low"
+  },
+  "suzakashi": {
+    "hasData": true,
+    "office": "本庁舎（須坂市大字須坂）の市民課が窓口。転入・転出・転居の手続きが同一ページにまとめて案内されており、支所の記載は見当たらない。",
+    "links": {
+      "out": "https://www.city.suzaka.nagano.jp/soshiki/3010/1/173.html",
+      "in": "https://www.city.suzaka.nagano.jp/soshiki/3010/1/173.html"
+    },
+    "confidence": "low"
+  },
+  "iiyamashi": {
+    "hasData": true,
+    "office": "本庁舎（飯山市大字飯山）市民環境課市民係が窓口。転入・転出のいずれも同一ページ内でまとめて案内されており、支所の記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm",
+      "in": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm"
+    },
+    "confidence": "low"
+  },
+  "chinoshi": {
+    "hasData": true,
+    "office": "茅野市役所（塚原二丁目6番1号）市民課戸籍係が窓口。支所・出張所はなく本庁舎に窓口が集約されている。転入届・転出届は同一ページ（住所変更および世帯変更の手続）で案内されており、専用の郵送受付ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.chino.lg.jp/soshiki/shimin/662.html",
+      "in": "https://www.city.chino.lg.jp/soshiki/shimin/662.html"
+    },
+    "confidence": "low"
+  },
+  "chikumashi": {
+    "hasData": true,
+    "office": "千曲市役所（杭瀬下二丁目1番地、3庁舎統合の新庁舎）市民課が窓口。上山田戸倉出張所（上山田温泉四丁目15-1）でも住民異動の窓口対応がある。転入届・転出届は同一ページ「住民異動の届出」で案内。",
+    "links": {
+      "out": "https://www.city.chikuma.lg.jp/soshiki/shimin/todokede_shomei/3/4723.html",
+      "in": "https://www.city.chikuma.lg.jp/soshiki/shimin/todokede_shomei/3/4723.html",
+      "mail": "https://www.city.chikuma.lg.jp/soshiki/shimin/todokede_shomei/3/10884.html"
+    },
+    "confidence": "low"
+  },
+  "toumishi": {
+    "hasData": true,
+    "office": "東御市役所（県281番地2）市民課市民係が窓口。支所についての記載は見当たらず、本庁舎に窓口が集約されていると見られる。転入届・転出届は同一ページ「住民登録」で案内されている。",
+    "links": {
+      "out": "https://www.city.tomi.nagano.jp/category/zyuuminn/130041.html",
+      "in": "https://www.city.tomi.nagano.jp/category/zyuuminn/130041.html",
+      "mail": "https://www.city.tomi.nagano.jp/category/kosekich/130047.html"
+    },
+    "confidence": "low"
+  },
+  "ikedashi": {
+    "hasData": true,
+    "office": "池田市役所1階総合窓口課（城南1丁目1番1号）が窓口。支所の記載はなく本庁舎一箇所に窓口が集約されている。転入届・転出届は同一ページ「住所の届出」で案内されている。",
+    "links": {
+      "out": "https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/sogomadoguchi/jumin/1415930711002.html",
+      "in": "https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/sogomadoguchi/jumin/1415930711002.html",
+      "mail": "https://www.city.ikeda.osaka.jp/material/files/group/82/yusotenshutsu.pdf"
+    },
+    "confidence": "low"
+  },
+  "moriguchishi": {
+    "hasData": true,
+    "office": "守口市役所2階北エリア総合窓口課が窓口。支所の設置はなく本庁舎一箇所に窓口が集約されている。転入届・転出届は同一ページ「転入・転居・転出・世帯変更届」で案内され、郵送受付の案内は確認できなかった。",
+    "links": {
+      "out": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shiminseikatsubu/sogomadoguchika/kosekijumintorokupasupoto/juki/2090.html",
+      "in": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shiminseikatsubu/sogomadoguchika/kosekijumintorokupasupoto/juki/2090.html"
+    },
+    "confidence": "low"
+  },
+  "sennanshi": {
+    "hasData": true,
+    "office": "窓口は泉南市役所本庁(市民課市民係)のみで、支所・出張所の記載は確認できず。転入・転出とも同一ページで案内。転出届は郵送可(要電話確認)、専用の郵送手続きページは見当たらない。",
+    "links": {
+      "out": "https://www.city.sennan.lg.jp/kakuka/shiminseikatu/shimin/shimin/touroku/1455945381234.html",
+      "in": "https://www.city.sennan.lg.jp/kakuka/shiminseikatu/shimin/shimin/touroku/1455945381234.html",
+      "mail": "https://www.city.sennan.lg.jp/kakuka/shiminseikatu/shimin/news/1586848747985.html"
+    },
+    "confidence": "low"
+  },
+  "takedashi": {
+    "hasData": true,
+    "office": "竹田市役所本庁市民課が中心窓口。市内には荻支所・久住支所・直入支所の3支所があり、いずれも市民係で転入・転居の来庁受付が可能。転出はマイナポータルでのオンライン届出にも対応。",
+    "links": {
+      "out": "https://www.city.taketa.oita.jp/soshiki/shiminka/1/276.html",
+      "in": "https://www.city.taketa.oita.jp/soshiki/shiminka/1/276.html"
+    },
+    "confidence": "low"
+  },
+  "usashi": {
+    "hasData": true,
+    "office": "本庁舎1階の市民課窓口サービス係が主窓口。支所・出張所での取り扱いも案内されているが、詳細は個別確認が必要。転入・転出・転居がまとめて1ページで案内されている。",
+    "links": {
+      "out": "https://www.city.usa.oita.jp/sougo/soshiki/11/shimin/6/4281.html",
+      "in": "https://www.city.usa.oita.jp/sougo/soshiki/11/shimin/6/4281.html",
+      "mail": "https://www.city.usa.oita.jp/sougo/soshiki/11/shimin/6/4281.html"
+    },
+    "confidence": "low"
   }
 }
