@@ -3919,5 +3919,49 @@
       "in": "https://www.city.kunisaki.oita.jp/soshiki/shimin-kenko/tennyu.html",
       "mail": "https://www.city.kunisaki.oita.jp/soshiki/shimin-kenko/tensyutuyuso.html"
     }
+  },
+  "izumoshi": {
+    "hasData": true,
+    "office": "出雲市役所（本庁、今市町）市民課のほか、平田・佐田・多伎・湖陵・大社・斐川の各行政センターでも転出・転入の届出を受付している。",
+    "links": {
+      "out": "https://www.city.izumo.shimane.jp/www/contents/1000000001304/index.html",
+      "in": "https://www.city.izumo.shimane.jp/www/contents/1000000001302/index.html",
+      "mail": "https://www.city.izumo.shimane.jp/www/contents/1000000000979/index.html"
+    }
+  },
+  "masudashi": {
+    "hasData": true,
+    "office": "益田市役所（常盤町）市民課のほか、美都地域総務課・匹見地域総務課でも転出・転入の届出を受付している。",
+    "links": {
+      "out": "https://www.city.masuda.lg.jp/soshikikarasagasu/somubu/shiminka/7/1331.html",
+      "in": "https://www.city.masuda.lg.jp/soshikikarasagasu/somubu/shiminka/7/1330.html",
+      "mail": "https://www.city.masuda.lg.jp/soshikikarasagasu/somubu/shiminka/7/1323.html"
+    }
+  },
+  "ananshi": {
+    "hasData": true,
+    "office": "阿南市役所本庁(〒774-8501 徳島県阿南市富岡町トノ町12番地3)の市民生活課のほか、各支所・各住民センター・連絡所でも転出届・転入届の受付が可能。",
+    "links": {
+      "out": "https://www.city.anan.tokushima.jp/docs/2010092700045/",
+      "in": "https://www.city.anan.tokushima.jp/docs/2010092700052/",
+      "mail": "https://www.city.anan.tokushima.jp/docs/2023020200029/"
+    }
+  },
+  "awashi": {
+    "hasData": true,
+    "office": "阿波市役所本庁(〒771-1695 徳島県阿波市市場町切幡字古田201番地1)1階の市民課のほか、阿波・土成・吉野の各支所地域課でも転出届・転入届の受付が可能。",
+    "links": {
+      "out": "https://www.city.awa.lg.jp/docs/2013040600565/",
+      "in": "https://www.city.awa.lg.jp/docs/2013040600534/",
+      "mail": "https://www.city.awa.lg.jp/docs/2013040600107/"
+    }
+  },
+  "mimashi": {
+    "hasData": true,
+    "office": "美馬市役所(〒777-8577 徳島県美馬市穴吹町穴吹字九反地5番地)北館2階1番窓口の市民課が窓口。郵送・特例転出(マイナンバーカード利用)にも対応。支所の記載は確認できなかった。",
+    "links": {
+      "out": "https://www.city.mima.lg.jp/gyosei/docs/tensyutu.html",
+      "in": "https://www.city.mima.lg.jp/gyosei/docs/tennyutodoke.html"
+    }
   }
 }
