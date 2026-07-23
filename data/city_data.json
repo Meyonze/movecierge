@@ -4080,5 +4080,113 @@
       "in": "https://www.city.hioki.kagoshima.jp/shimin/kurashi/tetsuzuki/koseki-jumin/tennyu/tennyu.html",
       "mail": "https://www.city.hioki.kagoshima.jp/shimin/kurashi/tetsuzuki/koseki-jumin/tensyutu/yuusouniyorutennsyutu.html"
     }
+  },
+  "miyawakashi": {
+    "hasData": true,
+    "office": "本庁市民課、または若宮総合支所（若宮コミュニティセンター「ハートフル」内）市民窓口課で受付。転出・転入それぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.city.miyawaka.lg.jp/kiji003447112/index.html",
+      "in": "https://www.city.miyawaka.lg.jp/kiji003448991/index.html",
+      "mail": "https://www.city.miyawaka.lg.jp/kiji003448839/index.html"
+    }
+  },
+  "kamashi": {
+    "hasData": true,
+    "office": "本庁のほか、碓井総合支所・山田総合支所・嘉穂総合支所の計4施設で受付。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.city.kama.lg.jp/soshiki/9/35967.html",
+      "in": "https://www.city.kama.lg.jp/soshiki/9/35776.html",
+      "mail": "https://www.city.kama.lg.jp/soshiki/9/29602.html"
+    }
+  },
+  "nakagawashi": {
+    "hasData": true,
+    "office": "那珂川市役所 市民課（本庁のみ、支所なし）。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.city.nakagawa.lg.jp/soshiki/6/tensyututodoke.html",
+      "in": "https://www.city.nakagawa.lg.jp/soshiki/6/tennyutodoke.html",
+      "mail": "https://www.city.nakagawa.lg.jp/soshiki/6/tensyututodoke.html"
+    }
+  },
+  "honjoushi": {
+    "hasData": true,
+    "office": "本庁市民課のほか、児玉総合支所（旧児玉町エリア）支所市民福祉課でも受付可。窓口は平日8時30分～17時15分。",
+    "links": {
+      "out": "https://www.city.honjo.lg.jp/soshiki/shiminseikatsu/shimin/tantoujouhou/idou_henkou/tenshutsu.html",
+      "in": "https://www.city.honjo.lg.jp/soshiki/shiminseikatsu/shimin/tantoujouhou/idou_henkou/tennyu.html",
+      "mail": null
+    }
+  },
+  "hasudashi": {
+    "hasData": true,
+    "office": "蓮田市役所1階市民課窓口のほか、蓮田駅西口行政センターでも受付可（内容により土日不可の場合あり）。",
+    "links": {
+      "out": "https://www.city.hasuda.saitama.jp/shimin/kurashi/koseki/jumin/ido/tensyutsu.html",
+      "in": "https://www.city.hasuda.saitama.jp/shimin/kurashi/koseki/jumin/ido/tennyu.html",
+      "mail": null
+    }
+  },
+  "hidakashi": {
+    "hasData": true,
+    "office": "市役所市民課（本庁）のほか、高麗・高萩・高根・武蔵台の4出張所でも転出届の届出が可能（転入届は本庁のみ記載）。",
+    "links": {
+      "out": "https://www.city.hidaka.lg.jp/soshiki/shiminseikatsu/shimin/shimin/todokedeshomei/jumintouroku/10737.html",
+      "in": "https://www.city.hidaka.lg.jp/soshiki/shiminseikatsu/shimin/shimin/todokedeshomei/jumintouroku/10736.html",
+      "mail": "https://www.city.hidaka.lg.jp/soshiki/shiminseikatsu/shimin/shimin/todokedeshomei/kakushushomei/14255.html"
+    }
+  },
+  "tanbashinoyamashi": {
+    "hasData": true,
+    "office": "届出先は丹波篠山市役所市民課（本庁舎1階）および各支所。転入届・転出届は別ページで案内されており、転出届ページ内に郵送手続きの説明もある。",
+    "links": {
+      "out": "https://www.city.tambasasayama.lg.jp/soshikikarasagasu/shiminka/kurashi_tetsuzuki/1/2498.html",
+      "in": "https://www.city.tambasasayama.lg.jp/soshikikarasagasu/shiminka/kurashi_tetsuzuki/1/2499.html",
+      "mail": null
+    }
+  },
+  "kainanshi": {
+    "hasData": true,
+    "office": "市民課（海南市役所1階）で手続き。転出届はマイナポータルでのオンライン提出・郵送請求にも対応。",
+    "links": {
+      "out": "https://www.city.kainan.lg.jp/kakubusho/soumubu/shiminka/shiminkatorikumi/juminido/tenshutsutodoke.html",
+      "in": "https://www.city.kainan.lg.jp/kakubusho/soumubu/shiminka/shiminkatorikumi/juminido/tennyutodoke.html",
+      "mail": "https://www.city.kainan.lg.jp/kakubusho/soumubu/shiminka/shiminkatorikumi/juminido/tenshutsutodoke.html"
+    }
+  },
+  "aridashi": {
+    "hasData": true,
+    "office": "市民部市民課（有田市箕島50）で手続き。転出届・転入届それぞれ独立したページで案内されている。",
+    "links": {
+      "out": "https://www.city.arida.lg.jp/kurashi/todokede/1000732.html",
+      "in": "https://www.city.arida.lg.jp/kurashi/todokede/1000730.html",
+      "mail": null
+    }
+  },
+  "kamiamakusashi": {
+    "hasData": true,
+    "office": "上天草市役所 市民生活部市民課市民係（松島町合津7915番地1、0969-28-3367・3368）。転出・転入それぞれ独立したページで案内されており、郵便による転出届にも対応。",
+    "links": {
+      "out": "https://www.city.kamiamakusa.kumamoto.jp/q/list/271.html",
+      "in": "https://www.city.kamiamakusa.kumamoto.jp/q/list/267.html",
+      "mail": "https://www.city.kamiamakusa.kumamoto.jp/q/aview/271/13558.html"
+    }
+  },
+  "asoshi": {
+    "hasData": true,
+    "office": "阿蘇市役所（本庁）市民課（一の宮町宮地504番地1、0967-22-3135）。転出届・転入届はそれぞれ独立したページで詳しく案内されている。転出届は郵送も可。",
+    "links": {
+      "out": "https://www.city.aso.kumamoto.jp/citizens/certificate/address_change/reshuffle/area_from_the_city/",
+      "in": "https://www.city.aso.kumamoto.jp/citizens/certificate/address_change/reshuffle/city_from_the_suburbs/",
+      "mail": null
+    }
+  },
+  "goushishi": {
+    "hasData": true,
+    "office": "合志市役所 市民課市民窓口班（竹迫2140番地、096-248-1113）のほか西合志総合窓口課（御代志市民センター内）・須屋支所・泉ヶ丘支所でも手続き可能。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.city.koshi.lg.jp/kiji00311586/index.html",
+      "in": "https://www.city.koshi.lg.jp/kiji00311587/index.html",
+      "mail": "https://www.city.koshi.lg.jp/kiji00313511/index.html"
+    }
   }
 }
