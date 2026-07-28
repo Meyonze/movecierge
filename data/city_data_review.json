@@ -2688,5 +2688,14 @@
       "in": "https://www.city.uki.kumamoto.jp/kurashi/sumai/2445816",
       "mail": null
     }
+  },
+  "tobashi": {
+    "hasData": true,
+    "office": "鳥羽市役所西庁舎1階 市民課、または各連絡所が窓口。転入・転出・転居が同一ページにまとまっている。転出は郵送・マイナポータルも可。",
+    "links": {
+      "out": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html",
+      "in": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html",
+      "mail": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html"
+    }
   }
 }
