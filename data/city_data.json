@@ -4188,5 +4188,77 @@
       "in": "https://www.city.koshi.lg.jp/kiji00311587/index.html",
       "mail": "https://www.city.koshi.lg.jp/kiji00313511/index.html"
     }
+  },
+  "hokutoshi_yama": {
+    "hasData": true,
+    "office": "本庁市民課または各総合支所（明野・白州・小淵沢・武川・長坂・大泉・須玉・高根）の地域市民課で受付。",
+    "links": {
+      "out": "https://www.city.hokuto.yamanashi.jp/docs/1328.html",
+      "in": "https://www.city.hokuto.yamanashi.jp/docs/1329.html",
+      "mail": null
+    }
+  },
+  "usuishi": {
+    "hasData": true,
+    "office": "笛吹市役所 市民窓口館（戸籍住民課）が窓口。転出はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.fuefuki.yamanashi.jp/kosekijyumin/kurashi/todokede/tenshutu.html",
+      "in": "https://www.city.fuefuki.yamanashi.jp/kosekijyumin/kurashi/todokede/tennyu.html",
+      "mail": null
+    }
+  },
+  "uenoharashi": {
+    "hasData": true,
+    "office": "上野原市役所本庁舎 市民課窓口担当で受付。",
+    "links": {
+      "out": "https://www.city.uenohara.yamanashi.jp/page/2393.html",
+      "in": "https://www.city.uenohara.yamanashi.jp/page/2392.html",
+      "mail": null
+    }
+  },
+  "koushuushi": {
+    "hasData": true,
+    "office": "甲州市役所 本庁舎1階市民課が窓口（マイナンバーカードによるワンストップサービス利用時は各支所不可、本庁舎のみ）。転出届は郵送も可。",
+    "links": {
+      "out": "https://www.city.koshu.yamanashi.jp/docs/2021012000664/",
+      "in": "https://www.city.koshu.yamanashi.jp/docs/2021012000657/",
+      "mail": "https://www.city.koshu.yamanashi.jp/docs/2021012000664/"
+    }
+  },
+  "chuuoushi": {
+    "hasData": true,
+    "office": "中央市役所本館 市民環境課（住民担当）で受付。転出届は郵送・マイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.chuo.yamanashi.jp/soshiki/siminnkannkyouka/jyuuminntanntou/jumintoroku/3830.html",
+      "in": "https://www.city.chuo.yamanashi.jp/soshiki/siminnkannkyouka/jyuuminntanntou/jumintoroku/401.html",
+      "mail": "https://www.city.chuo.yamanashi.jp/soshiki/siminnkannkyouka/jyuuminntanntou/jumintoroku/13286.html"
+    }
+  },
+  "kumanoshi": {
+    "hasData": true,
+    "office": "熊野市役所 市民保険課（戸籍住民係）で受付。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.city.kumano.lg.jp/life/?content=375",
+      "in": "https://www.city.kumano.lg.jp/life/?content=372",
+      "mail": null
+    }
+  },
+  "shimashi": {
+    "hasData": true,
+    "office": "志摩市役所 市民課、または各支所（浜島・大王・志摩・磯部）で受付。転出届は郵送も可能。",
+    "links": {
+      "out": "https://www.city.shima.mie.jp/kurashi_tetsuzuki/todokedetetsuzukishomei/juminidotodokekosekinikansurutodoke/1458721508836.html",
+      "in": "https://www.city.shima.mie.jp/kurashi_tetsuzuki/todokedetetsuzukishomei/juminidotodokekosekinikansurutodoke/1458721508759.html",
+      "mail": "https://www.city.shima.mie.jp/kurashi_tetsuzuki/todokedetetsuzukishomei/juminidotodokekosekinikansurutodoke/1458721508836.html"
+    }
+  },
+  "igashi": {
+    "hasData": true,
+    "office": "伊賀市役所 本庁戸籍住民課、または各支所（上野支所を除く）で受付。転入届は郵送不可（窓口のみ）、転出届は郵送・オンライン可。",
+    "links": {
+      "out": "https://www.city.iga.lg.jp/0000002795.html",
+      "in": "https://www.city.iga.lg.jp/0000002785.html",
+      "mail": "https://www.city.iga.lg.jp/0000002795.html"
+    }
   }
 }
