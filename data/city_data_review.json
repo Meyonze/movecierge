@@ -2931,5 +2931,131 @@
       "in": "https://www.city.kobayashi.lg.jp/soshikikarasagasu/shiminseikatsubushiminka/todokede_shomei/4/1225.html",
       "mail": null
     }
+  },
+  "kakoshimagunmishimamura": {
+    "hasData": true,
+    "office": "村外への転出は三島村役場本庁または各島の出張所窓口（マイナポータルでのオンライン転出届提出も可）。村内への転入は本庁窓口で受付。担当は民生課。",
+    "links": {
+      "out": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
+      "in": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
+      "mail": null
+    }
+  },
+  "kakoshimagunjuushimamura": {
+    "hasData": true,
+    "office": "転入届は各島の出張所、転出届は本庁窓口で受付（村内の島ごとに窓口が分かれる離島特有の運用）。担当は住民課。",
+    "links": {
+      "out": "https://www.tokara.jp/life/tennyu/",
+      "in": "https://www.tokara.jp/life/tennyu/",
+      "mail": null
+    }
+  },
+  "satsumagunsatsumamachi": {
+    "hasData": true,
+    "office": "さつま町役場本庁 町民環境課町民係で転入届・転出届・転居届を受付。マイナンバーカード利用の特例転出入、郵送での転出届提出にも対応。",
+    "links": {
+      "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
+      "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
+      "mail": "https://www.satsuma-net.jp/material/files/group/7/tensyutuyuubin.pdf"
+    }
+  },
+  "shussuigunchoushimamachi": {
+    "hasData": true,
+    "office": "鷹巣本所（町民保健課戸籍住民係）または指江支所（総合管理課）で転入届・転出届を受付。転出時は窓口で転出証明書を発行。",
+    "links": {
+      "out": "https://www.town.nagashima.lg.jp/livelihood/li0006/",
+      "in": "https://www.town.nagashima.lg.jp/livelihood/li0006/",
+      "mail": null
+    }
+  },
+  "airagunyuusuimachi": {
+    "hasData": true,
+    "office": "栗野庁舎住民税務課または吉松庁舎住民税務課で転入届・転出届・転居届を受付。転出届は郵送提出用の書式あり。",
+    "links": {
+      "out": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
+      "in": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
+      "mail": "https://www.town.yusui.kagoshima.jp/uploaded/attachment/2710.pdf"
+    }
+  },
+  "soogunoosakimachi": {
+    "hasData": true,
+    "office": "町民課窓口係（曽於郡大崎町仮宿1029番地）。マイナポータルでのオンライン転出届提出に対応し来庁不要。窓口での転入・転出手続きの詳細ページはリンク切れのため確認できず。",
+    "links": {
+      "out": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/hikkosionestop.html",
+      "in": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/hikkosionestop.html",
+      "mail": null
+    }
+  },
+  "kimotsukigunhigashikushiramachi": {
+    "hasData": true,
+    "office": "役場住民課窓口で転入届・転出届・転居届を受付。遠隔地の場合は郵送での転出届（転出証明書の郵送請求）にも対応。",
+    "links": {
+      "out": "https://www.higashikushira.com/docs/2019042300021/",
+      "in": "https://www.higashikushira.com/docs/2019042300021/",
+      "mail": "https://www.higashikushira.com/docs/2019042300021/"
+    }
+  },
+  "tonegunkatashinamura": {
+    "hasData": true,
+    "office": "片品村役場 住民課",
+    "links": {
+      "out": "https://www.vill.katashina.gunma.jp/gaiyou/kakuka/jyumin/zyuumin/2016-1219-1134-38.html",
+      "in": "https://www.vill.katashina.gunma.jp/gaiyou/kakuka/jyumin/zyuumin/2016-1219-1134-38.html",
+      "mail": null
+    }
+  },
+  "tonegunkawabamura": {
+    "hasData": true,
+    "office": "川場村役場 住民課 住民係",
+    "links": {
+      "out": "https://www.vill.kawaba.gunma.jp/kurashi/tetsuzuki/syoumei/idou.html",
+      "in": "https://www.vill.kawaba.gunma.jp/kurashi/tetsuzuki/syoumei/idou.html",
+      "mail": null
+    }
+  },
+  "tonegunminakamimachi": {
+    "hasData": true,
+    "office": "みなかみ町役場 住民課 住民・戸籍係（各支所は住民係）",
+    "links": {
+      "out": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2016-1013-1056-15.html",
+      "in": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2016-1013-1056-15.html",
+      "mail": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2021-0305-0959-72.html"
+    }
+  },
+  "ouragunmeiwamachi": {
+    "hasData": true,
+    "office": "明和町役場 住民環境課 住民係",
+    "links": {
+      "out": "https://www.town.meiwa.gunma.jp/life/soshiki/juuminkankyo/2/7/694.html",
+      "in": "https://www.town.meiwa.gunma.jp/life/soshiki/juuminkankyo/2/7/694.html",
+      "mail": null
+    }
+  },
+  "ouragunchiyodamachi": {
+    "hasData": true,
+    "office": "千代田町役場 住民生活課 住民係",
+    "links": {
+      "out": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html",
+      "in": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html",
+      "mail": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html"
+    }
+  },
+  "ouragunooizumichou": {
+    "hasData": true,
+    "office": "大泉町役場 住民課（庁舎1階101番窓口）",
+    "links": {
+      "out": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/030/20200804203647.html",
+      "in": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/030/20200804203647.html",
+      "mail": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/090/20200919203030.html"
+    }
+  },
+  "ouragunyuurakumachi": {
+    "hasData": true,
+    "office": "邑楽町役場 住民保険課 窓口係",
+    "links": {
+      "out": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html",
+      "in": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html",
+      "mail": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html"
+    }
   }
 }

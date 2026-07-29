@@ -4449,5 +4449,50 @@
       "in": "https://www.city.ebino.lg.jp/soshiki/shiminkankyo/4/3/988.html",
       "mail": "https://www.city.ebino.lg.jp/soshiki/shiminkankyo/4/3/989.html"
     }
+  },
+  "kimotsukigunkinkoumachi": {
+    "hasData": true,
+    "office": "錦江町役場で転居・転入・転出の届出を受付。転入・転出それぞれ必要書類の案内PDFが別々に用意されている。",
+    "links": {
+      "out": "https://www.town.kinko.lg.jp/documents/770/6240.pdf",
+      "in": "https://www.town.kinko.lg.jp/documents/770/6239.pdf",
+      "mail": null
+    }
+  },
+  "azumagunhigashiagatsumamachi": {
+    "hasData": true,
+    "office": "東吾妻町役場 町民課、または東支所の窓口",
+    "links": {
+      "out": "https://www.town.higashiagatsuma.gunma.jp/www/contents/1204041141523/index.html",
+      "in": "https://www.town.higashiagatsuma.gunma.jp/www/contents/1204040924435/index.html",
+      "mail": null
+    }
+  },
+  "tonegunshouwamura": {
+    "hasData": true,
+    "office": "昭和村役場 住民課（役場1階の窓口）",
+    "links": {
+      "out": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1226-1440-22.html",
+      "in": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1221-1108-22.html",
+      "mail": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1226-1440-22.html"
+    }
+  },
+  "sawaguntamamuramachi": {
+    "hasData": true,
+    "office": "玉村町役場 住民課 住民係",
+    "links": {
+      "out": "https://www.town.tamamura.lg.jp/docs/2019052700385/",
+      "in": "https://www.town.tamamura.lg.jp/docs/2019052800115/",
+      "mail": "https://www.town.tamamura.lg.jp/docs/2019052700385/"
+    }
+  },
+  "ouragunitakuramachi": {
+    "hasData": true,
+    "office": "板倉町役場 住民環境課 戸籍年金係",
+    "links": {
+      "out": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225152205.html",
+      "in": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225151424.html",
+      "mail": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225153345.html"
+    }
   }
 }
