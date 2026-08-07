@@ -3466,5 +3466,15 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "asoguntakamorichou": {
+    "hasData": true,
+    "office": "高森町役場住民福祉課（熊本県阿蘇郡高森町）で転入届・転出届を受け付け。転出証明書の郵送請求にも対応。",
+    "links": {
+      "out": "https://www.town.takamori.kumamoto.jp/chosha/fukushi/sp/post-26.html",
+      "in": "https://www.town.takamori.kumamoto.jp/chosha/fukushi/sp/tennyuu.html",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }

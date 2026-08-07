@@ -5050,5 +5050,295 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "yatsushiroshi": {
+    "hasData": true,
+    "office": "八代市役所市民課で転入届・転出届を受け付け。マイナンバーカードを使った引越しワンストップサービスにも対応。",
+    "links": {
+      "out": "https://www.city.yatsushiro.lg.jp/kiji00319502/index.html",
+      "in": "https://www.city.yatsushiro.lg.jp/kiji00319502/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hitoyoshishi": {
+    "hasData": true,
+    "office": "人吉市役所市民課で転入届・転出届を受け付け。転出届は郵送可、マイナポータルからのオンライン転出にも対応。",
+    "links": {
+      "out": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
+      "in": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
+      "mail": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/35297"
+    },
+    "confidence": "high"
+  },
+  "minamatashi": {
+    "hasData": true,
+    "office": "水俣市役所で転入届・転出届を受け付け。マイナンバーカードを使ったオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.minamata.lg.jp/list00347.html",
+      "in": "https://www.city.minamata.lg.jp/list00347.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamagashi": {
+    "hasData": true,
+    "office": "山鹿市役所市民窓口サービス課で転入届・転出届・転居届・世帯主変更を受け付け。転出届は郵送可。",
+    "links": {
+      "out": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
+      "in": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kikuchishi": {
+    "hasData": true,
+    "office": "菊池市役所で転入届・転出届を受け付け。転出届は郵送可、マイナポータルからのオンライン転出手続きにも対応。",
+    "links": {
+      "out": "https://www.city.kikuchi.lg.jp/iju/article/view/1328/12164.html",
+      "in": "https://www.city.kikuchi.lg.jp/iju/article/view/1328/12164.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "utoshi": {
+    "hasData": true,
+    "office": "宇土市役所で転入・転出時の手続きを受け付け。詳細は市公式ページ「転入・転出時の手続きについて」参照。",
+    "links": {
+      "out": "https://www.city.uto.lg.jp/article/view/1232/1296.html",
+      "in": "https://www.city.uto.lg.jp/article/view/1232/1296.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ukishi": {
+    "hasData": true,
+    "office": "宇城市役所市民課で転入・転出・転居・世帯構成変更などの住民異動を受け付け。引っ越しワンストップサービスにも対応。",
+    "links": {
+      "out": "https://www.city.uki.kumamoto.jp/kurashi/sumai/juminhyo/2006895",
+      "in": "https://www.city.uki.kumamoto.jp/kurashi/sumai/juminhyo/2006895",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimomashikigunmisatomachi": {
+    "hasData": true,
+    "office": "美里町役場（熊本県下益城郡美里町）で転入・転出・転居の住所異動手続きを受け付け。マイナンバーカードがあればオンライン転出も可能。",
+    "links": {
+      "out": "https://www.town.kumamoto-misato.lg.jp/soshiki/juminsekatsu/1/8/4/309.html",
+      "in": "https://www.town.kumamoto-misato.lg.jp/soshiki/juminsekatsu/1/8/4/309.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamanagungyokutoumachi": {
+    "hasData": true,
+    "office": "玉東町役場町民福祉課（熊本県玉名郡玉東町）で転入・転出・町内転居・世帯異動の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.gyokuto.kumamoto.jp/kiji003841/index.html",
+      "in": "https://www.town.gyokuto.kumamoto.jp/kiji003841/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamanagunnankanmachi": {
+    "hasData": true,
+    "office": "南関町役場（熊本県玉名郡南関町）税務住民課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.nankan.lg.jp/kurashi/todokede/jushohenko/",
+      "in": "https://www.town.nankan.lg.jp/kurashi/todokede/jushohenko/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamanagunchousumachi": {
+    "hasData": true,
+    "office": "長洲町役場住民環境課（熊本県玉名郡長洲町）で転入届・転出届を受け付け。転出届は郵便・オンラインでも申請可能。",
+    "links": {
+      "out": "https://www.town.nagasu.lg.jp/soshiki/juumin/todokede/kiji0037002/",
+      "in": "https://www.town.nagasu.lg.jp/soshiki/juumin/todokede/kiji0037002/",
+      "mail": "https://www.town.nagasu.lg.jp/soshiki/juumin/todokede/kiji0036074/"
+    },
+    "confidence": "high"
+  },
+  "tamanagunnagomimachi": {
+    "hasData": true,
+    "office": "和水町役場住民環境課（熊本県玉名郡和水町、本庁・三加和支所）で転入届・転出届を受け付け。転出届は郵送可。",
+    "links": {
+      "out": "https://www.town.nagomi.lg.jp/soshiki/jyuminkankyo/kurashi/3_120/",
+      "in": "https://www.town.nagomi.lg.jp/soshiki/jyuminkankyo/kurashi/3_119/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kikuchigunootsumachi": {
+    "hasData": true,
+    "office": "大津町役場住民課（熊本県菊池郡大津町）で転入・転出・転居の住民異動を受け付け。郵送・オンライン申請にも対応。",
+    "links": {
+      "out": "https://www.town.ozu.kumamoto.jp/page/1693.html",
+      "in": "https://www.town.ozu.kumamoto.jp/page/1693.html",
+      "mail": "https://www.town.ozu.kumamoto.jp/page/1745.html"
+    },
+    "confidence": "high"
+  },
+  "kikuchigunkikuyoumachi": {
+    "hasData": true,
+    "office": "菊陽町役場（熊本県菊池郡菊陽町）で住所変更（転入・転出）の届出を受け付け。マイナンバーカードによるオンライン転出届が便利。",
+    "links": {
+      "out": "https://www.town.kikuyo.lg.jp/list00156.html",
+      "in": "https://www.town.kikuyo.lg.jp/list00156.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asogunminamiogunimachi": {
+    "hasData": true,
+    "office": "南小国町役場町民課（熊本県阿蘇郡南小国町）で戸籍・住民票関係の住民異動届（転入・転出）を受け付け。",
+    "links": {
+      "out": "https://www.town.minamioguni.lg.jp/living/koseki_jumin-hyo/",
+      "in": "https://www.town.minamioguni.lg.jp/living/koseki_jumin-hyo/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asogunogunimachi": {
+    "hasData": true,
+    "office": "小国町役場税務住民課住民係（熊本県阿蘇郡小国町）で転入届・転出届を受け付け。転出届は郵送可。",
+    "links": {
+      "out": "https://www.town.kumamoto-oguni.lg.jp/kurashinojyoho/kurashi_chomin/chomin_jyuminhyo/20254",
+      "in": "https://www.town.kumamoto-oguni.lg.jp/kantankensaku/kantan_kekkon/kekkon_jyumin/20253",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asogunubuyamamura": {
+    "hasData": true,
+    "office": "産山村役場住民課（熊本県阿蘇郡産山村）で転入届・転出届・転居届を受け付け。",
+    "links": {
+      "out": "https://www.ubuyama-v.jp/kurashinojoho/hikkoshi/index.html",
+      "in": "https://www.ubuyama-v.jp/kurashinojoho/hikkoshi/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asogunnishiharamura": {
+    "hasData": true,
+    "office": "西原村役場住民福祉課（熊本県阿蘇郡西原村）で住所変更（転入・転出）の届出を受け付け。転出届は郵送も可能。",
+    "links": {
+      "out": "https://www.vill.nishihara.kumamoto.jp/list00132.html",
+      "in": "https://www.vill.nishihara.kumamoto.jp/list00132.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asogunminamiasomura": {
+    "hasData": true,
+    "office": "南阿蘇村役場（熊本県阿蘇郡南阿蘇村）で引っ越しに伴う転入届・転出届の手続きを受け付け。",
+    "links": {
+      "out": "https://www.vill.minamiaso.lg.jp/kiji003745/index.html",
+      "in": "https://www.vill.minamiaso.lg.jp/dynamic/procnavi/pub/list.aspx?c_id=21&class_id=1",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamimashikigunmifunemachi": {
+    "hasData": true,
+    "office": "御船町役場（熊本県上益城郡御船町）で転入届・転出届・転居届を受け付け。",
+    "links": {
+      "out": "https://www.town.mifune.kumamoto.jp/page2643.html",
+      "in": "https://www.town.mifune.kumamoto.jp/page2644.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamimashikigunkashimamachi": {
+    "hasData": true,
+    "office": "嘉島町役場（熊本県上益城郡嘉島町）で住所変更（転入・転出）の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.kumamoto-kashima.lg.jp/q/list/197.html",
+      "in": "https://www.town.kumamoto-kashima.lg.jp/q/list/197.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamimashikigunmashikimachi": {
+    "hasData": true,
+    "office": "益城町役場（熊本県上益城郡益城町）で転入届・転出届を受け付け。マイナンバーカードによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.mashiki.lg.jp/kiji0036255/index.html",
+      "in": "https://www.town.mashiki.lg.jp/kiji0036259/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamimashikigunkousamachi": {
+    "hasData": true,
+    "office": "甲佐町役場（熊本県上益城郡甲佐町）で届出・登録・証明（転入届・転出届等）を受け付け。",
+    "links": {
+      "out": "https://www.town.kosa.lg.jp/q/list/104.html",
+      "in": "https://www.town.kosa.lg.jp/q/list/104.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamimashikikouriyamamiyakochou": {
+    "hasData": true,
+    "office": "山都町役場（熊本県上益城郡山都町、本庁・清和支所・蘇陽支所）で住所変更（転入・転出）の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.kumamoto-yamato.lg.jp/list00360.html",
+      "in": "https://www.town.kumamoto-yamato.lg.jp/list00360.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yatsushirogunhikawamachi": {
+    "hasData": true,
+    "office": "氷川町役場（熊本県八代郡氷川町）で転入届・転出届を受け付け。マイナンバーカードでのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.hikawa.kumamoto.jp/kiji003314/index.html",
+      "in": "https://www.town.hikawa.kumamoto.jp/kiji0035873/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashikitagunashikitamachi": {
+    "hasData": true,
+    "office": "芦北町役場（熊本県葦北郡芦北町）で転入届・転出届を受け付け。マイナポータルからのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.ashikita.lg.jp/kurashi/koseki_etc/juminhyo/2002477",
+      "in": "https://www.town.ashikita.lg.jp/kurashisarch/hikkoshi/2002453",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashikitaguntsunagimachi": {
+    "hasData": true,
+    "office": "津奈木町役場総務課総務班（熊本県葦北郡津奈木町）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.tsunagi.lg.jp/page900.html",
+      "in": "https://www.town.tsunagi.lg.jp/page899.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kumagunnishikichou": {
+    "hasData": true,
+    "office": "錦町役場（熊本県球磨郡錦町）で住所変更（転入・転出）の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.kumamoto-nishiki.lg.jp/list00141.html",
+      "in": "https://www.town.kumamoto-nishiki.lg.jp/list00141.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kumaguntaragimachi": {
+    "hasData": true,
+    "office": "多良木町役場住民ほけん課戸籍住民登録係（熊本県球磨郡多良木町）で住民異動届（転入届・転出届等）を受け付け。",
+    "links": {
+      "out": "https://www.town.taragi.lg.jp/gyousei/kurashi/koseki/juminhyo/index.html",
+      "in": "https://www.town.taragi.lg.jp/gyousei/kurashi/koseki/juminhyo/index.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
