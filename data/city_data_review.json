@@ -3486,5 +3486,55 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "suttsugunsuttsumachi": {
+    "hasData": true,
+    "office": "寿都町役場 町民課住民係（寿都郡寿都町）。町民課窓口で転入・転出届を受け付け。",
+    "links": {
+      "out": "http://www.town.suttu.lg.jp/life/detail.php?id=18",
+      "in": "http://www.town.suttu.lg.jp/life/detail.php?id=3",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "suttsugunkuromatsunaimachi": {
+    "hasData": true,
+    "office": "黒松内町役場 住民課（寿都郡黒松内町）。役場本庁舎1階窓口で転入・転出の住民異動届を受け付け。",
+    "links": {
+      "out": "http://www.kuromatsunai.com/townlife/koseki/file002/",
+      "in": "http://www.kuromatsunai.com/townlife/koseki/file002/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "abutagunkyougokumachi": {
+    "hasData": true,
+    "office": "京極町役場（虻田郡京極町）。郵送は転出届のみ可能で、転入・転居の届出は窓口での手続きが必須。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kabatoguntsukigatamachi": {
+    "hasData": true,
+    "office": "月形町役場（樺戸郡月形町）。くらし・手続きページの各種届出欄で転入・転出を案内。",
+    "links": {
+      "out": "https://www.town.tsukigata.hokkaido.jp/life/1/1/1/",
+      "in": "https://www.town.tsukigata.hokkaido.jp/life/1/1/1/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "uryuugunchippubetsumachi": {
+    "hasData": true,
+    "office": "秩父別町役場 戸籍・年金係（雨竜郡秩父別町）。",
+    "links": {
+      "out": "https://www.town.chippubetsu.hokkaido.jp/category/single.html?category=life&content_category=20",
+      "in": "https://www.town.chippubetsu.hokkaido.jp/category/single.html?category=life&content_category=20",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
