@@ -3536,5 +3536,45 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "minamitsugarugunoowanimachi": {
+    "hasData": true,
+    "office": "大鰐町役場 住民生活課（青森県南津軽郡大鰐町大字大鰐字上牡丹森5-3）で転入届・転出届を受け付け（要問合せ）。",
+    "links": {
+      "out": "http://www.town.owani.lg.jp/index.cfm/7,1203,16,92,html",
+      "in": "http://www.town.owani.lg.jp/index.cfm/7,113,16,92,html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "minamitsugaruguninakadatemura": {
+    "hasData": true,
+    "office": "田舎館村役場 住民課（電話：0172-58-2111）で転入届・転出届を受け付け（要問合せ）。",
+    "links": {
+      "out": "http://www.vill.inakadate.lg.jp/docs/2012022400292/",
+      "in": "http://www.vill.inakadate.lg.jp/docs/2012022400292/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimokitagunhigashidoorimura": {
+    "hasData": true,
+    "office": "東通村役場で転入届・転出届を受け付け（公式サイトに接続できず窓口所在地の詳細未確認）。",
+    "links": {
+      "out": "http://www.vill.higashidoori.lg.jp/",
+      "in": "http://www.vill.higashidoori.lg.jp/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimokitagunsaimura": {
+    "hasData": true,
+    "office": "佐井村役場 住民生活課で転入届・転出届を受け付け（具体的な手続きページ未特定のため要確認）。",
+    "links": {
+      "out": "https://www.vill.sai.lg.jp/category/division/resident-life/",
+      "in": "https://www.vill.sai.lg.jp/category/division/resident-life/",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }

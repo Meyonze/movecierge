@@ -5880,5 +5880,265 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "hirosakishi": {
+    "hasData": true,
+    "office": "弘前市役所 市民課（本庁舎）で転入届・転出届を受け付け。郵送・マイナポータルでの転出手続きも可能。",
+    "links": {
+      "out": "https://www.city.hirosaki.aomori.jp/kurashi/todoke/address.html",
+      "in": "https://www.city.hirosaki.aomori.jp/kurashi/todoke/address.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kuroishishi": {
+    "hasData": true,
+    "office": "黒石市役所 市民環境課 戸籍住民係（青森県黒石市大字市ノ町11番地1号）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.city.kuroishi.aomori.jp/kurashi/kurashi/jyumin/jyusyo_ido.html",
+      "in": "https://www.city.kuroishi.aomori.jp/kurashi/kurashi/jyumin/jyusyo_ido.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "goshogawarashi": {
+    "hasData": true,
+    "office": "五所川原市役所、金木総合支所、市浦総合支所で戸籍・住民異動の届出（転入届・転出届）を受け付け。",
+    "links": {
+      "out": "https://www.city.goshogawara.lg.jp/kurashi/kurashi/todokede.html",
+      "in": "https://www.city.goshogawara.lg.jp/kurashi/kurashi/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tsugarushi": {
+    "hasData": true,
+    "office": "つがる市役所市民課、稲垣出張所、車力出張所で転入届・転出届を受け付け（つがる出張所では届出不可）。",
+    "links": {
+      "out": "https://www.city.tsugaru.aomori.jp/soshiki/minsei/shimin/jumin/4997.html",
+      "in": "https://www.city.tsugaru.aomori.jp/soshiki/minsei/shimin/jumin/4997.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hirakawashi": {
+    "hasData": true,
+    "office": "平川市役所 市民課 市民係（平川市柏木町藤山25番地6）、尾上総合支所、碇ヶ関総合支所で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.city.hirakawa.lg.jp/kurashi/koseki/junminidou.html",
+      "in": "https://www.city.hirakawa.lg.jp/kurashi/koseki/junminidou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashitsugarugunhiranaimachi": {
+    "hasData": true,
+    "office": "平内町役場 町民課（青森県東津軽郡平内町大字小湊字小湊63番地）で転入届・転居届を受け付け。",
+    "links": {
+      "out": "https://www.town.hiranai.aomori.jp/soshiki/chomin/1/4/551.html",
+      "in": "https://www.town.hiranai.aomori.jp/soshiki/chomin/1/4/551.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashitsugarugunimabetsumachi": {
+    "hasData": true,
+    "office": "今別町役場 町民福祉課 町民担当（青森県東津軽郡今別町大字今別字今別167番地）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.imabetsu.lg.jp/kurashi/koseki/tennyushutu.html",
+      "in": "https://www.town.imabetsu.lg.jp/kurashi/koseki/tennyushutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashitsugarugunyomogidamura": {
+    "hasData": true,
+    "office": "蓬田村役場 住民課（青森県東津軽郡蓬田村大字阿弥陀川字汐干126-1）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.yomogita.lg.jp/kurashi/shoumei/jumin_kihondaichou.html",
+      "in": "https://www.vill.yomogita.lg.jp/kurashi/shoumei/jumin_kihondaichou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashitsugarugunsotokehamachou": {
+    "hasData": true,
+    "office": "外ヶ浜町役場 住民課（本庁・青森県東津軽郡外ヶ浜町字蟹田高銅屋44番地2）、平舘支所、三厩支所で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.sotogahama.lg.jp/kurashi/todokede/jumin_touroku.html",
+      "in": "https://www.town.sotogahama.lg.jp/kurashi/todokede/jumin_touroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishitsugarugunajikesawamachi": {
+    "hasData": true,
+    "office": "鰺ヶ沢町役場 総合窓口課 戸籍年金班（青森県西津軽郡鰺ヶ沢町大字舞戸町字鳴戸321番地）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.ajigasawa.lg.jp/kurashi/madoguchi/tennyushutsu_todoke.html",
+      "in": "https://www.town.ajigasawa.lg.jp/kurashi/madoguchi/tennyushutsu_todoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishitsugarugunfukauramachi": {
+    "hasData": true,
+    "office": "深浦町役場 町民課で転入・転出・転居の手続きを受け付け。",
+    "links": {
+      "out": "https://www.town.fukaura.lg.jp/doc/2019091200068/",
+      "in": "https://www.town.fukaura.lg.jp/doc/2019091200068/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakatsugarugunnishimeyamura": {
+    "hasData": true,
+    "office": "西目屋村役場 住民課住民係（青森県中津軽郡西目屋村大字田代字神田57番地）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.nishimeya.jp/kurashinojoho/hikkoshi/375.html",
+      "in": "https://www.nishimeya.jp/kurashinojoho/hikkoshi/314.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamitsugarugunfujisakimachi": {
+    "hasData": true,
+    "office": "藤崎町役場 住民課（青森県南津軽郡藤崎町大字西豊田一丁目1番地）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.fujisaki.lg.jp/index.cfm/7,0,14,97,html",
+      "in": "https://www.town.fujisaki.lg.jp/index.cfm/7,0,14,97,html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitatsugarugunitayanagimachi": {
+    "hasData": true,
+    "office": "板柳町役場 町民生活課（青森県北津軽郡板柳町大字板柳字土井239-3）で住民票・戸籍関連の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.itayanagi.aomori.jp/life/residence/",
+      "in": "https://www.town.itayanagi.aomori.jp/life/residence/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitatsugaruguntsurutamachi": {
+    "hasData": true,
+    "office": "鶴田町役場（青森県北津軽郡鶴田町大字鶴田字早瀬200番地1）で戸籍・住民登録の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.tsuruta.lg.jp/kurashi/kurashi-koseki/index.html",
+      "in": "https://www.town.tsuruta.lg.jp/kurashi/kurashi-koseki/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitatsugarugunchuutomarimachi": {
+    "hasData": true,
+    "office": "中泊町役場 町民課（青森県北津軽郡中泊町大字中里字紅葉坂209番地）で住所変更（転入・転出・転居）の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.nakadomari.lg.jp/soshikikarasagasu/chominka/gyomuannai/5/5/1081.html",
+      "in": "https://www.town.nakadomari.lg.jp/soshikikarasagasu/chominka/gyomuannai/5/5/1081.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunnohejimachi": {
+    "hasData": true,
+    "office": "野辺地町役場 町民課で住民異動届（転入届・転出届・転居届）を受け付け。",
+    "links": {
+      "out": "https://www.town.noheji.aomori.jp/life/seikatsu/koseki-jumin-inkan/koseki-jumin/1118",
+      "in": "https://www.town.noheji.aomori.jp/life/seikatsu/koseki-jumin-inkan/koseki-jumin/1118",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunshichinohemachi": {
+    "hasData": true,
+    "office": "七戸町役場 町民課（青森県上北郡七戸町字森ノ上131番地4）、七戸庁舎支所庶務課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shichinohe.lg.jp/kurashi/dekigoto/tennyuu/post-2.html",
+      "in": "https://www.town.shichinohe.lg.jp/kurashi/dekigoto/tennyuu/post-1.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunrokunohemachi": {
+    "hasData": true,
+    "office": "六戸町役場 町民課（青森県上北郡六戸町大字犬落瀬字前谷地60）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.rokunohe.aomori.jp/docs/2022041100207/",
+      "in": "https://www.town.rokunohe.aomori.jp/docs/2022041100205/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunyokohamamachi": {
+    "hasData": true,
+    "office": "横浜町役場（青森県上北郡横浜町字寺下35番地）で住民異動届（転入・転出・転居）を受け付け。",
+    "links": {
+      "out": "https://www.town.yokohama.lg.jp/index.cfm/6,0,12,94,html",
+      "in": "https://www.town.yokohama.lg.jp/index.cfm/6,0,12,94,html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitaguntouhokumachi": {
+    "hasData": true,
+    "office": "東北町役場 町民課（本庁舎・青森県上北郡東北町上北南四丁目32-484）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.tohoku.lg.jp/kurashi/jyumin/jyuminhyo_02.html",
+      "in": "https://www.town.tohoku.lg.jp/kurashi/jyumin/jyuminhyo_01.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunrokuketokoromura": {
+    "hasData": true,
+    "office": "六ヶ所村役場（青森県上北郡六ヶ所村大字尾駮字野附475）で住民票の異動に関する届出（転入届・転出届等）を受け付け。",
+    "links": {
+      "out": "https://www.rokkasho.jp/index.cfm/10,0,19,96,html",
+      "in": "https://www.rokkasho.jp/index.cfm/10,0,19,96,html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikitagunoirasemachi": {
+    "hasData": true,
+    "office": "おいらせ町役場 町民課（青森県上北郡おいらせ町中下田135-2）で転入届・転出届・転居届を受け付け。",
+    "links": {
+      "out": "https://www.town.oirase.aomori.jp/soshiki/1131/tennnyu.html",
+      "in": "https://www.town.oirase.aomori.jp/soshiki/1131/tennnyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimokitagunoohazamamachi": {
+    "hasData": true,
+    "office": "大間町役場 住民福祉課（青森県下北郡大間町大字大間字奥戸下道20番地4）で住民異動届（転入届・転居届・転出届）を受け付け。",
+    "links": {
+      "out": "https://www.town.ooma.lg.jp/lifestage/moving/",
+      "in": "https://www.town.ooma.lg.jp/lifestage/moving/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimokitagunkazamauramura": {
+    "hasData": true,
+    "office": "風間浦村役場 総務課（青森県下北郡風間浦村大字易国間字古野44番地7）で転入届・転出届・転居届を受け付け。",
+    "links": {
+      "out": "https://www.kazamaura.jp/%E5%BC%95%E8%B6%8A%E3%81%97/",
+      "in": "https://www.kazamaura.jp/%E5%BC%95%E8%B6%8A%E3%81%97/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sannohegunsannohemachi": {
+    "hasData": true,
+    "office": "三戸町役場（青森県三戸郡三戸町大字在府小路町43）で転入・転出・世帯変更・転居の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.sannohe.aomori.jp/kurashi_tetsuzuki/jyumin/4576.html",
+      "in": "https://www.town.sannohe.aomori.jp/kurashi_tetsuzuki/jyumin/4576.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
