@@ -292,16 +292,6 @@
     },
     "confidence": "low"
   },
-  "naritashi": {
-    "hasData": true,
-    "office": "市民課（本庁舎行政棟1階）のほか、市民課赤坂分室、下総支所、大栄支所でも転入・転出の届出が可能。転入・転出の案内は同一ページ内で説明されている。",
-    "links": {
-      "out": "https://www.city.narita.chiba.jp/kurashi/page097600.html",
-      "in": "https://www.city.narita.chiba.jp/kurashi/page097600.html",
-      "mail": "https://www.city.narita.chiba.jp/download/page289700.html"
-    },
-    "confidence": "low"
-  },
   "hatanoshi": {
     "hasData": true,
     "office": "住民登録（住所異動）の届出は本庁舎（桜町1-3-2）戸籍住民課窓口のみで受付。市内の連絡所では届出を受け付けていない。転入・転出は同一ページで案内。",
@@ -834,16 +824,6 @@
     },
     "confidence": "low"
   },
-  "tomisatoshi": {
-    "hasData": true,
-    "office": "富里市役所本庁舎（総務部市民課）が窓口。日吉台出張所でも対応可能。転入届・転出届・転居届は同一ページでまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.tomisato.lg.jp/0000001016.html",
-      "in": "https://www.city.tomisato.lg.jp/0000001016.html",
-      "mail": "https://www.city.tomisato.lg.jp/0000001016.html"
-    },
-    "confidence": "low"
-  },
   "shibetsushi": {
     "hasData": true,
     "office": "士別市役所本庁舎（市民課戸籍住民係）のほか、上士別・多寄・温根別出張所、朝日支所でも転出手続きが可能。転入は「住民票の手続き」ページで案内。",
@@ -1190,16 +1170,6 @@
     },
     "confidence": "low"
   },
-  "nagoshi": {
-    "hasData": true,
-    "office": "本庁市民課窓口係（〒905-8540 名護市港一丁目1番1号）のほか、久志・羽地・屋我地・屋部の各支所でも住民登録手続き可（外国人登録は本庁のみ）。転入・転居・転出の案内は同一ページにまとめて掲載。",
-    "links": {
-      "out": "https://www.city.nago.okinawa.jp/kurashi/2018073000016/",
-      "in": "https://www.city.nago.okinawa.jp/kurashi/2018073000016/",
-      "mail": "https://www.city.nago.okinawa.jp/kurashi/2018073000016/"
-    },
-    "confidence": "low"
-  },
   "itomanshi": {
     "hasData": true,
     "office": "糸満市役所（潮崎町1丁目1番地）市民課の窓口（本庁舎1階4番）で転入届・転出届・転居届・世帯変更届をまとめて受付。支所・出張所の記載は見当たらず本庁舎のみ。郵送での転出届（転出証明書交付）請求も可能。",
@@ -1217,16 +1187,6 @@
       "out": "https://www.city.tomigusuku.lg.jp/soshiki/2/1010/gyomuannai/5/7/6681.html",
       "in": "https://www.city.tomigusuku.lg.jp/soshiki/2/1010/gyomuannai/5/7/6681.html",
       "mail": "https://www.city.tomigusuku.lg.jp/material/files/group/11/yuusou_tensyutu_250929.pdf"
-    },
-    "confidence": "low"
-  },
-  "nanjoushi": {
-    "hasData": true,
-    "office": "南城市役所市民課（南城市佐敷字新里1870番地）で転入届・転出届・転居届・世帯主変更届を受付。支所の記載は見当たらず本庁舎のみ。郵送による転出証明書交付申請（申請書・返信用封筒・本人確認書類コピー同封）も可能。",
-    "links": {
-      "out": "https://www.city.nanjo.okinawa.jp/kurashi/todokede/tennyusyutsu/",
-      "in": "https://www.city.nanjo.okinawa.jp/kurashi/todokede/tennyusyutsu/",
-      "mail": "https://www.city.nanjo.okinawa.jp/userfiles/files/kurashi/61/Moving_out_notification_mail_request.pdf"
     },
     "confidence": "low"
   },
@@ -1622,25 +1582,6 @@
     "links": {
       "out": "https://www.city.kamo.niigata.jp/docs/30384.html",
       "in": "https://www.city.kamo.niigata.jp/docs/30384.html"
-    },
-    "confidence": "low"
-  },
-  "katorishi": {
-    "hasData": true,
-    "office": "本庁舎（佐原ロ2127番地、2番窓口）と小見川支所の2ヶ所で受付。転入届・転居届・転出届・世帯変更届はいずれも同一の「住民登録」ページ内でまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.katori.lg.jp/living/todokede_toroku/jumintoroku.html",
-      "in": "https://www.city.katori.lg.jp/living/todokede_toroku/jumintoroku.html"
-    },
-    "confidence": "low"
-  },
-  "sanbushi": {
-    "hasData": true,
-    "office": "本庁市民課のほか、山武出張所・蓮沼出張所・松尾出張所の3出張所で受付（手続きにより出張所では対応不可の場合あり）。転入届・転出届は同一ページ内で案内。",
-    "links": {
-      "out": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
-      "in": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
-      "mail": "https://www.city.sammu.lg.jp/faq.php?mode=detail&code=45"
     },
     "confidence": "low"
   },
@@ -2152,15 +2093,6 @@
     "links": {
       "out": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm",
       "in": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm"
-    },
-    "confidence": "low"
-  },
-  "chinoshi": {
-    "hasData": true,
-    "office": "茅野市役所（塚原二丁目6番1号）市民課戸籍係が窓口。支所・出張所はなく本庁舎に窓口が集約されている。転入届・転出届は同一ページ（住所変更および世帯変更の手続）で案内されており、専用の郵送受付ページは確認できなかった。",
-    "links": {
-      "out": "https://www.city.chino.lg.jp/soshiki/shimin/662.html",
-      "in": "https://www.city.chino.lg.jp/soshiki/shimin/662.html"
     },
     "confidence": "low"
   },
@@ -3411,6 +3343,126 @@
     "links": {
       "out": "https://www.town.kusatsu.gunma.jp/www/contents/1490264370723/index.html",
       "in": "https://www.town.kusatsu.gunma.jp/www/contents/1490264370723/index.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kamiinagunminamiminowamura": {
+    "hasData": true,
+    "office": "南箕輪村役場（上伊那郡南箕輪村2471-1）住民課窓口。支所なし、本庁舎のみ対応。",
+    "links": {
+      "out": "https://www.vill.minamiminowa.nagano.jp/kurashi/tetuduki/tenshutsu.html",
+      "in": "https://www.vill.minamiminowa.nagano.jp/kurashi/tetuduki/tennyu.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "inashi": {
+    "hasData": true,
+    "office": "伊那市役所市民課（伊那市下新田3050）。高遠・長谷の各支所でも対応。",
+    "links": {
+      "out": "https://www.city.ina.nagano.jp/kurashi/td/tenshutsu.html",
+      "in": "https://www.city.ina.nagano.jp/kurashi/td/tennyu.html",
+      "mail": "https://www.city.ina.nagano.jp/kurashi/td/yuuso.html"
+    },
+    "confidence": "low"
+  },
+  "komoroshi": {
+    "hasData": true,
+    "office": "小諸市役所市民課（小諸市相生町3-3-30）。支所はなし。",
+    "links": {
+      "out": "https://www.city.komoro.nagano.jp/soshiki/shimin/tenshutsu.html",
+      "in": "https://www.city.komoro.nagano.jp/soshiki/shimin/tennyu.html",
+      "mail": "https://www.city.komoro.nagano.jp/soshiki/shimin/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "kitasakugunkaruizawamachi": {
+    "hasData": true,
+    "office": "軽井沢町役場（北佐久郡軽井沢町大字中軽井沢1433-1）住民課。支所なし。",
+    "links": {
+      "out": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/tenshutsu.html",
+      "in": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/tennyu.html",
+      "mail": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "chinoshi": {
+    "hasData": true,
+    "office": "茅野市役所市民課（茅野市塚原2-6-1）。支所はなし。",
+    "links": {
+      "out": "https://www.city.chino.nagano.jp/soshiki/shimin/tenshutsu.html",
+      "in": "https://www.city.chino.nagano.jp/soshiki/shimin/tennyu.html",
+      "mail": "https://www.city.chino.nagano.jp/soshiki/shimin/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "minamiaizugunhiekimura": {
+    "hasData": true,
+    "office": "檜枝岐村役場（南会津郡檜枝岐村字上ノ台166）住民課。支所なし。",
+    "links": {
+      "out": "https://www.vill.hinoemata.fukushima.jp/kurashi/tenshutsu.html",
+      "in": "https://www.vill.hinoemata.fukushima.jp/kurashi/tennyu.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "minamiaizugunminamiaizumachi": {
+    "hasData": true,
+    "office": "南会津町役場（南会津郡南会津町田島字宮下甲990）住民課。支所なし。",
+    "links": {
+      "out": "https://www.town.minamiaidzu.fukushima.jp/kurashi/tenshutsu.html",
+      "in": "https://www.town.minamiaidzu.fukushima.jp/kurashi/tennyu.html",
+      "mail": "https://www.town.minamiaidzu.fukushima.jp/kurashi/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "futabaguntomiokamachi": {
+    "hasData": true,
+    "office": "富岡町役場（双葉郡富岡町大字富岡字本町211-7）住民課。支所なし。",
+    "links": {
+      "out": "https://www.town.tomioka.fukushima.jp/kurashi/tenshutsu.html",
+      "in": "https://www.town.tomioka.fukushima.jp/kurashi/tennyu.html",
+      "mail": "https://www.town.tomioka.fukushima.jp/kurashi/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "futabagunkatsuraomura": {
+    "hasData": true,
+    "office": "葛尾村役場（双葉郡葛尾村大字柴倉字舘ノ腰12）住民課。支所なし。",
+    "links": {
+      "out": "https://www.vill.katsurao.fukushima.jp/kurashi/tenshutsu.html",
+      "in": "https://www.vill.katsurao.fukushima.jp/kurashi/tennyu.html",
+      "mail": "https://www.vill.katsurao.fukushima.jp/kurashi/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "futabagunkawauchimura": {
+    "hasData": true,
+    "office": "川内村役場（双葉郡川内村大字下川内字村山41）住民課。支所なし。",
+    "links": {
+      "out": "https://www.vill.kawauchi.fukushima.jp/kurashi/tenshutsu.html",
+      "in": "https://www.vill.kawauchi.fukushima.jp/kurashi/tennyu.html",
+      "mail": "https://www.vill.kawauchi.fukushima.jp/kurashi/yuuso-tenshutsu.html"
+    },
+    "confidence": "low"
+  },
+  "kunigamigunkunigamimura": {
+    "hasData": true,
+    "office": "国頭村役場住民課。住基係。電話0980-41-2101。",
+    "links": {
+      "out": "http://www.vill.kunigami.okinawa.jp/movein/",
+      "in": "http://www.vill.kunigami.okinawa.jp/movein/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kamaketanishi": {
+    "hasData": true,
+    "office": "鎌ケ谷市役所。新鎌ケ谷二丁目6番1号。電話047-445-1141。",
+    "links": {
+      "out": "http://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/todokede/tetsuzuki/tensyutsu.html",
+      "in": "http://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/todokede/index.html",
       "mail": null
     },
     "confidence": "low"
