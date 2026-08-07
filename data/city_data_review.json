@@ -3002,7 +3002,8 @@
       "out": "https://www.vill.katashina.gunma.jp/gaiyou/kakuka/jyumin/zyuumin/2016-1219-1134-38.html",
       "in": "https://www.vill.katashina.gunma.jp/gaiyou/kakuka/jyumin/zyuumin/2016-1219-1134-38.html",
       "mail": null
-    }
+    },
+    "confidence": "low"
   },
   "tonegunkawabamura": {
     "hasData": true,
@@ -3011,7 +3012,8 @@
       "out": "https://www.vill.kawaba.gunma.jp/kurashi/tetsuzuki/syoumei/idou.html",
       "in": "https://www.vill.kawaba.gunma.jp/kurashi/tetsuzuki/syoumei/idou.html",
       "mail": null
-    }
+    },
+    "confidence": "low"
   },
   "tonegunminakamimachi": {
     "hasData": true,
@@ -3020,7 +3022,8 @@
       "out": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2016-1013-1056-15.html",
       "in": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2016-1013-1056-15.html",
       "mail": "https://www.town.minakami.gunma.jp/life/01todokede/koseki/2021-0305-0959-72.html"
-    }
+    },
+    "confidence": "low"
   },
   "ouragunmeiwamachi": {
     "hasData": true,
@@ -3029,7 +3032,8 @@
       "out": "https://www.town.meiwa.gunma.jp/life/soshiki/juuminkankyo/2/7/694.html",
       "in": "https://www.town.meiwa.gunma.jp/life/soshiki/juuminkankyo/2/7/694.html",
       "mail": null
-    }
+    },
+    "confidence": "low"
   },
   "ouragunchiyodamachi": {
     "hasData": true,
@@ -3038,7 +3042,8 @@
       "out": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html",
       "in": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html",
       "mail": "https://www.town.chiyoda.gunma.jp/jyumin/jyumin/jyumin005.html"
-    }
+    },
+    "confidence": "low"
   },
   "ouragunooizumichou": {
     "hasData": true,
@@ -3047,7 +3052,8 @@
       "out": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/030/20200804203647.html",
       "in": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/030/20200804203647.html",
       "mail": "https://www.town.oizumi.gunma.jp/s017/kurashi/020/050/090/20200919203030.html"
-    }
+    },
+    "confidence": "low"
   },
   "ouragunyuurakumachi": {
     "hasData": true,
@@ -3056,6 +3062,357 @@
       "out": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html",
       "in": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html",
       "mail": "https://www.town.ora.gunma.jp/s013/020/020/080/zyuumintouroku.html"
-    }
+    },
+    "confidence": "low"
+  },
+  "ikomagunhegurimachi": {
+    "hasData": true,
+    "office": "町役場 住民生活課窓口。転入届・転出届・転居届・世帯変更届を1つの表にまとめた統合ページで案内。郵送による転出届のみ専用ページあり。",
+    "links": {
+      "out": "https://www.town.heguri.nara.jp/soshiki/8/1365.html",
+      "in": "https://www.town.heguri.nara.jp/soshiki/8/1365.html",
+      "mail": "https://www.town.heguri.nara.jp/soshiki/8/12700.html"
+    },
+    "confidence": "low"
+  },
+  "ikomagunikarugamachi": {
+    "hasData": true,
+    "office": "町役場 生活環境部住民課窓口（電話0745-74-1001）。転入届・転居届・転出届・世帯変更届を1つの表にまとめた統合ページのみで案内。",
+    "links": {
+      "out": "https://www.town.ikaruga.nara.jp/0000000180.html",
+      "in": "https://www.town.ikaruga.nara.jp/0000000180.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shikigunkawanishimachi": {
+    "hasData": true,
+    "office": "町役場 住民保険課窓口（電話0745-44-2611）。転入届・転出届・転居届・世帯変更を1ページにまとめた統合ページのみで案内。",
+    "links": {
+      "out": "https://www.town.nara-kawanishi.lg.jp/0000003554.html",
+      "in": "https://www.town.nara-kawanishi.lg.jp/0000003554.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shikigunmiyakemachi": {
+    "hasData": true,
+    "office": "町役場 住民福祉課窓口。転入・転出の手続きは「住所等異動届」という1つの統合ページで案内。転出のみマイナンバーカードによるオンライン提出・郵送に対応。",
+    "links": {
+      "out": "https://www.town.miyake.lg.jp/soshiki/10/1257.html",
+      "in": "https://www.town.miyake.lg.jp/soshiki/10/1257.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shikiguntawaramotomachi": {
+    "hasData": true,
+    "office": "町役場（開庁時間 午前9時〜午後4時30分）。「住民登録」ページに転入届・転出届をまとめた統合ページで案内。転出証明書の郵送請求は別ページで対応。",
+    "links": {
+      "out": "https://www.town.tawaramoto.nara.jp/kurashi/onestop/onestop/moving_in/15888.html",
+      "in": "https://www.town.tawaramoto.nara.jp/kurashi/onestop/onestop/moving_in/15888.html",
+      "mail": "https://www.town.tawaramoto.nara.jp/soshki/jumin/jumin/kurashi/koseki/juminhyou/touroku/816.html"
+    },
+    "confidence": "low"
+  },
+  "udagunmitsuemura": {
+    "hasData": true,
+    "office": "御杖村役場 住民生活課（〒633-1302 奈良県宇陀郡御杖村大字菅野368番地、TEL:0745-95-2001）。転入・転出届は同一ページに統合掲載。",
+    "links": {
+      "out": "https://www.vill.mitsue.nara.jp/kurashi/annai/juminseikatsuka/1/1/jyuminkiroku/3032.html",
+      "in": "https://www.vill.mitsue.nara.jp/kurashi/annai/juminseikatsuka/1/1/jyuminkiroku/3032.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitakatsuragigujoumakimachi": {
+    "hasData": true,
+    "office": "上牧町役場 住民保険課（〒639-0293 奈良県北葛城郡上牧町大字上牧3350番地）。転入届・転出届は同一の「戸籍・住民登録」ページ内に混在して掲載。",
+    "links": {
+      "out": "https://www.town.kanmaki.nara.jp/soshiki/site/795.html",
+      "in": "https://www.town.kanmaki.nara.jp/soshiki/site/795.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "yoshinogunyoshinochou": {
+    "hasData": true,
+    "office": "吉野町役場 町民税務課（〒639-3192 奈良県吉野郡吉野町大字上市80番地の1、TEL:0746-32-3081）。転出届は独立ページで確認できたが、転入届の専用ページは見つからず。",
+    "links": {
+      "out": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "yoshinogunooyodomachi": {
+    "hasData": true,
+    "office": "大淀町役場 住民福祉部人権住民保険課（住民）（〒638-8501 奈良県吉野郡大淀町桧垣本2090番地、TEL:0747-52-5538）。転入届・転出届は同一ページ内に混在して掲載（郵送転出のみ別ページ）。",
+    "links": {
+      "out": "https://www.town.oyodo.lg.jp/0000000413.html",
+      "in": "https://www.town.oyodo.lg.jp/0000000413.html",
+      "mail": "https://www.town.oyodo.lg.jp/contents_detail.php?frmId=1067"
+    },
+    "confidence": "low"
+  },
+  "yoshinogunkurotakimura": {
+    "hasData": true,
+    "office": "黒滝村役場 住民生活課（黒滝村大字寺戸77番地、TEL0747-62-2031）。転入届・転出届・転居届が同一ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.vill.kurotaki.nara.jp/kurasi/hikkosi_sumai_jumintouroku/",
+      "in": "https://www.vill.kurotaki.nara.jp/kurasi/hikkosi_sumai_jumintouroku/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "yoshinogunamakawamura": {
+    "hasData": true,
+    "office": "天川村役場 住民課（天川村大字沢谷60番地、TEL0747-63-0321）。転出届・転入届・転居届・世帯主変更届が同一ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.vill.tenkawa.nara.jp/office/life/notification/moving-procedures",
+      "in": "https://www.vill.tenkawa.nara.jp/office/life/notification/moving-procedures",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "yoshinogunnosegawamura": {
+    "hasData": true,
+    "office": "野迫川村役場 住民課（野迫川村大字北股84番地、TEL0747-37-2101／戸籍係0747-37-2102）。転出届・転入届の専用案内ページは確認できず、郵送用の転出証明書交付申請書等のダウンロードページのみ確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": "https://www.vill.nosegawa.nara.jp/top/soshiki/juumin/life/certificate/127.html"
+    },
+    "confidence": "low"
+  },
+  "yoshinoguntotsugawamura": {
+    "hasData": true,
+    "office": "十津川村役場 住民課（十津川村大字小原225-1、TEL0746-62-0900／0746-62-0911）。転入届・転居届・転出届・特例転出届が同一ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.vill.totsukawa.lg.jp/life/guidance/zyumintouroku/",
+      "in": "https://www.vill.totsukawa.lg.jp/life/guidance/zyumintouroku/",
+      "mail": "https://www.vill.totsukawa.lg.jp/life/guidance/zyumintouroku/"
+    },
+    "confidence": "low"
+  },
+  "yoshinogunshimokitayamamura": {
+    "hasData": true,
+    "office": "下北山村役場 住民課（下北山村寺垣内1002番地、TEL07468-6-0002）。転出届・転入届・転居届が「住民異動、戸籍届出、印鑑登録」という同一ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.vill.shimokitayama.nara.jp/kurashi/tetsuduki1.html",
+      "in": "https://www.vill.shimokitayama.nara.jp/kurashi/tetsuduki1.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "yoshinogunkawakamimura": {
+    "hasData": true,
+    "office": "川上村役場 住民福祉課 戸籍係（川上村大字迫1335番地の7、TEL0746-52-0111）。転入届・転出届・転居届が同一ページにまとめて掲載されている。郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.vill.kawakami.nara.jp/life/docs/2017013000048/",
+      "in": "https://www.vill.kawakami.nara.jp/life/docs/2017013000048/",
+      "mail": "https://www.vill.kawakami.nara.jp/life/docs/2017013000048/"
+    },
+    "confidence": "low"
+  },
+  "yoshinogunhigashiyoshinomura": {
+    "hasData": true,
+    "office": "東吉野村役場 住民福祉課（東吉野村大字小川99番地、TEL0746-42-0441）。転出届・転入届専用の案内ページは見当たらず、戸籍・住民票等の申請方法（郵送請求中心）ページのみ確認できた。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kimotsukigunminamioosumimachi": {
+    "hasData": true,
+    "office": "南大隅町役場（鹿児島県肝属郡南大隅町根占川北226）。転入届・転出届は同一の「届出・証明」ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.town.minamiosumi.lg.jp/chominhoken/kurashi/koseki/todokede.html",
+      "in": "https://www.town.minamiosumi.lg.jp/chominhoken/kurashi/koseki/todokede.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kumagegunchuushushimachi": {
+    "hasData": true,
+    "office": "中種子町役場（鹿児島県熊毛郡中種子町野間5186番地）。転入届・転出届は「住民登録の届出」ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://town.nakatane.kagoshima.jp/koseki/kurashi/koseki/jyuumintouroku/jyuuminntourokunotodokede.html",
+      "in": "https://town.nakatane.kagoshima.jp/koseki/kurashi/koseki/jyuumintouroku/jyuuminntourokunotodokede.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kumagegunminamitanemachi": {
+    "hasData": true,
+    "office": "南種子町役場 総務課戸籍住民係（鹿児島県熊毛郡南種子町中之上2793-1）。転出届は専用ページ（郵送・オンライン手続きの説明あり）、転入届は「引っ越しに関する各種手続」ページ内に他の届出とまとめて掲載。",
+    "links": {
+      "out": "https://town.minamitane.kagoshima.jp/life/koseki/tensyutsu.html",
+      "in": "https://town.minamitane.kagoshima.jp/life/lifestyle/residence.html",
+      "mail": "https://town.minamitane.kagoshima.jp/life/koseki/tensyutsu.html"
+    },
+    "confidence": "low"
+  },
+  "kumagegunyakushimamachi": {
+    "hasData": true,
+    "office": "屋久島町 町民課（本庁）。転入届・転出届は「住民登録届出」ページにまとめて掲載されている。",
+    "links": {
+      "out": "https://www.town.yakushima.kagoshima.jp/kurashi_tetsuzuki/koseki_juminhyo_inkantoroku/1771.html",
+      "in": "https://www.town.yakushima.kagoshima.jp/kurashi_tetsuzuki/koseki_juminhyo_inkantoroku/1771.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "ooshimaguntatsugoumachi": {
+    "hasData": true,
+    "office": "龍郷町役場 町民税務課（浦110番地）。「住民登録」ページに転入届・転出届・転居届・世帯変更届の期間や必要書類を1ページにまとめて掲載。",
+    "links": {
+      "out": "https://www.town.tatsugo.lg.jp/chouminzeimu/kurashi/tetsuzuki/jumintouroku.html",
+      "in": "https://www.town.tatsugo.lg.jp/chouminzeimu/kurashi/tetsuzuki/jumintouroku.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "ooshimagunkikaimachi": {
+    "hasData": true,
+    "office": "喜界町役場 住民課町民衛生チーム住基係（大字湾1746番地）。「引越しに関する手続き」ページに転居・転出・転入をまとめて掲載。マイナポータルでの転出届オンライン提出にも対応。",
+    "links": {
+      "out": "https://www.town.kikai.lg.jp/juki/kurashi/todokede/tetsuzuki/hikkoshi.html",
+      "in": "https://www.town.kikai.lg.jp/juki/kurashi/todokede/tetsuzuki/hikkoshi.html",
+      "mail": "https://www.town.kikai.lg.jp/jumin/kurashi/shinse/documents/tennsyutu.pdf"
+    },
+    "confidence": "low"
+  },
+  "ooshimagunnoriyukishimamachi": {
+    "hasData": true,
+    "office": "徳之島町役場 住民生活課戸籍住民係（亀津7203番地）。「転入・転出に関する手続き」ページに転入届・転出届・転居届をまとめて掲載。",
+    "links": {
+      "out": "https://www.tokunoshima-town.org/jyuminseikatsuka/kurashi/koseki/tennyushutsu.html",
+      "in": "https://www.tokunoshima-town.org/jyuminseikatsuka/kurashi/koseki/tennyushutsu.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "ooshimagunamagimachi": {
+    "hasData": true,
+    "office": "天城町役場（届出・証明担当）。「住民異動」ページは案内一覧のみで詳細な期間・必要書類の記載は薄い。マイナポータルでの転出届オンライン提出については別記事あり。",
+    "links": {
+      "out": "https://www.town.amagi.lg.jp/docs/2436.html",
+      "in": "https://www.town.amagi.lg.jp/kurashi/todokede/idou/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "ooshimagunisenmachi": {
+    "hasData": true,
+    "office": "伊仙町役場 くらし支援課（大字伊仙1842番地）。「転入・転出関係」ページは「引っ越しの際は、住所の異動手続きを忘れずに」という簡易な案内のみで、期間・必要書類の詳細記載なし。",
+    "links": {
+      "out": "https://www.town.isen.kagoshima.jp/kurasi/kurashi/tetsuzuki/tenshutsukanke.html",
+      "in": "https://www.town.isen.kagoshima.jp/kurasi/kurashi/tetsuzuki/tenshutsukanke.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "ooshimagunwadomarimachi": {
+    "hasData": true,
+    "office": "和泊町役場 町民支援課（和泊10）。「転入・転出・転居」ページに各届出の期間・必要書類をまとめて掲載。マイナポータルでの転出届オンライン提出や郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.town.wadomari.lg.jp/tyoumin/kurashi/koseki/jushoido/tennyu.html",
+      "in": "https://www.town.wadomari.lg.jp/tyoumin/kurashi/koseki/jushoido/tennyu.html",
+      "mail": "https://www.town.wadomari.lg.jp/documents/41/ten1.pdf"
+    },
+    "confidence": "low"
+  },
+  "ooshimagunyoronmachi": {
+    "hasData": true,
+    "office": "与論町役場 町民生活課。「住民移動の届けについて」ページに転入届・転出届・転居届・世帯変更届の期間や必要書類を1つの表にまとめて掲載。",
+    "links": {
+      "out": "https://www.yoron.jp/kiji0031896/index.html",
+      "in": "https://www.yoron.jp/kiji0031896/index.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitagunmagunshintoumura": {
+    "hasData": true,
+    "office": "榛東村役場 住民生活課 住民係。転出届・転入届とも「住民登録・印鑑登録」の同一ページで案内されている。",
+    "links": {
+      "out": "https://www.vill.shinto.gunma.jp/life/000010/000013/p000139.html",
+      "in": "https://www.vill.shinto.gunma.jp/life/000010/000013/p000139.html",
+      "mail": "https://www.vill.shinto.gunma.jp/life/000010/000013/p000724.html"
+    },
+    "confidence": "low"
+  },
+  "kitagunmagunyoshiokamachi": {
+    "hasData": true,
+    "office": "吉岡町役場 住民課。「住民異動等に関する届出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://town.yoshioka.gunma.jp/kurashi/todokede/jyumin.html",
+      "in": "https://town.yoshioka.gunma.jp/kurashi/todokede/jyumin.html",
+      "mail": "https://town.yoshioka.gunma.jp/kurashi/pdf/b6bfe7881c2d814f5ecf290b30536fe9_1.pdf"
+    },
+    "confidence": "low"
+  },
+  "tanogunkannamachi": {
+    "hasData": true,
+    "office": "神流町役場 住民生活課 住民係。「住民票」ページ内に転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.town.kanna.gunma.jp/soshiki/juminseikatsuka_kaikeishitsu/3/103.html",
+      "in": "https://www.town.kanna.gunma.jp/soshiki/juminseikatsuka_kaikeishitsu/3/103.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kanragunshimonitamachi": {
+    "hasData": true,
+    "office": "下仁田町役場 住民税務課 住民係。「住民異動の届出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.town.shimonita.lg.jp/juumin-zeimu/m02/m01/m01/06.html",
+      "in": "https://www.town.shimonita.lg.jp/juumin-zeimu/m02/m01/m01/06.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kanragunkanramachi": {
+    "hasData": true,
+    "office": "甘楽町役場 住民課 住民係。「戸籍・住民異動に関する届出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.town.kanra.lg.jp/jyuumin/jyuumin/todoke/02.html",
+      "in": "https://www.town.kanra.lg.jp/jyuumin/jyuumin/todoke/02.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "azumagunchuuyukijoumachi": {
+    "hasData": true,
+    "office": "中之条町役場 住民課 住民戸籍係。「住民登録・戸籍の届出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.town.nakanojo.gunma.jp/soshiki/5/1202.html",
+      "in": "https://www.town.nakanojo.gunma.jp/soshiki/5/1202.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "azumaguntsumagoimura": {
+    "hasData": true,
+    "office": "嬬恋村役場 住民課。「住所・戸籍の届け出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.vill.tsumagoi.gunma.jp/www/contents/1000000000017/index.html",
+      "in": "https://www.vill.tsumagoi.gunma.jp/www/contents/1000000000017/index.html",
+      "mail": "https://www.vill.tsumagoi.gunma.jp/www/contents/1000000000021/simple/yuusou_tenshutu_sinnseisho.pdf"
+    },
+    "confidence": "low"
+  },
+  "azumagunkusatsumachi": {
+    "hasData": true,
+    "office": "草津町役場 住民課。「異動に関する届出」ページに転出届・転入届の説明が併記されている。",
+    "links": {
+      "out": "https://www.town.kusatsu.gunma.jp/www/contents/1490264370723/index.html",
+      "in": "https://www.town.kusatsu.gunma.jp/www/contents/1490264370723/index.html",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }

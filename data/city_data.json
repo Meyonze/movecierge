@@ -4466,7 +4466,8 @@
       "out": "https://www.town.higashiagatsuma.gunma.jp/www/contents/1204041141523/index.html",
       "in": "https://www.town.higashiagatsuma.gunma.jp/www/contents/1204040924435/index.html",
       "mail": null
-    }
+    },
+    "confidence": "high"
   },
   "tonegunshouwamura": {
     "hasData": true,
@@ -4475,7 +4476,8 @@
       "out": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1226-1440-22.html",
       "in": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1221-1108-22.html",
       "mail": "https://www.vill.showa.gunma.jp/kurashi/kurashi/todokede/2023-1226-1440-22.html"
-    }
+    },
+    "confidence": "high"
   },
   "sawaguntamamuramachi": {
     "hasData": true,
@@ -4484,7 +4486,8 @@
       "out": "https://www.town.tamamura.lg.jp/docs/2019052700385/",
       "in": "https://www.town.tamamura.lg.jp/docs/2019052800115/",
       "mail": "https://www.town.tamamura.lg.jp/docs/2019052700385/"
-    }
+    },
+    "confidence": "high"
   },
   "ouragunitakuramachi": {
     "hasData": true,
@@ -4493,6 +4496,197 @@
       "out": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225152205.html",
       "in": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225151424.html",
       "mail": "https://www.town.itakura.gunma.jp/cont/s008000/d008010/20121225153345.html"
-    }
+    },
+    "confidence": "high"
+  },
+  "yamabekouriyamasoemura": {
+    "hasData": true,
+    "office": "村役場 住民福祉課窓口（平日8:30〜17:15）。転出届・転入届それぞれ専用ページで案内されている。",
+    "links": {
+      "out": "https://www.vill.yamazoe.nara.jp/life/kurashi_guide/todokede/juminhyo/tensyutsu",
+      "in": "https://www.vill.yamazoe.nara.jp/life/kurashi_guide/todokede/juminhyo/tennyu",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ikomagunmisatomachi": {
+    "hasData": true,
+    "office": "町役場 住民課窓口。転出届・転入届それぞれ専用ページで案内。転出は郵送・マイナンバーカードによる特例転出にも対応。",
+    "links": {
+      "out": "https://www.town.sango.nara.jp/site/lifestage/2109.html",
+      "in": "https://www.town.sango.nara.jp/site/lifestage/2108.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ikomagunandomachi": {
+    "hasData": true,
+    "office": "町役場 住民課［1階］窓口（電話0743-57-1511）。転出届・転入届それぞれ専用ページで案内。転出は郵送でも対応可。",
+    "links": {
+      "out": "https://www.town.ando.nara.jp/0000000652.html",
+      "in": "https://www.town.ando.nara.jp/0000000650.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "udagunsojimura": {
+    "hasData": true,
+    "office": "村役場 住民生活課窓口（電話0745-94-2102）。転出届・転入届それぞれ専用ページで案内。転出は郵送でも対応可（PDF案内あり）。",
+    "links": {
+      "out": "https://www.vill.soni.nara.jp/info/119",
+      "in": "https://www.vill.soni.nara.jp/info/120",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "takaichiguntakatorimachi": {
+    "hasData": true,
+    "office": "高取町役場 住民課（〒635-0154 奈良県高市郡高取町観覚寺990番地1、TEL:0744-52-3334）。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.town.takatori.nara.jp/contents_detail.php?frmId=14",
+      "in": "https://www.town.takatori.nara.jp/contents_detail.php?frmId=12",
+      "mail": "https://www.town.takatori.nara.jp/contents_detail.php?frmId=14"
+    },
+    "confidence": "high"
+  },
+  "takaichigunasukamura": {
+    "hasData": true,
+    "office": "明日香村役場 くらし窓口課（〒634-0142 奈良県高市郡明日香村大字橘21番地、TEL:0744-54-2001／窓口 0744-54-2282）。",
+    "links": {
+      "out": "https://www.asukamura.jp/kurashi_koseki_jumin_tensyutsu.html",
+      "in": "https://www.asukamura.jp/kurashi_koseki_jumin_tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitakatsuragigunouteramachi": {
+    "hasData": true,
+    "office": "王寺町役場 住民課（〒636-8511 奈良県北葛城郡王寺町王寺2-1-23 王寺町役場1階、TEL:0745-73-2001）。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.town.oji.nara.jp/kakuka/jyuminfukushibu/jyumin/gyomuannai/todokedesyoumeisyo/jyuminkihondaicyonotodokede/402.html",
+      "in": "https://www.town.oji.nara.jp/kakuka/jyuminfukushibu/jyumin/gyomuannai/todokedesyoumeisyo/jyuminkihondaicyonotodokede/405.html",
+      "mail": "https://www.town.oji.nara.jp/kakuka/jyuminfukushibu/jyumin/gyomuannai/kakusyutodokedesyomei/jyuminkihondaicyonotodokede/401.html"
+    },
+    "confidence": "high"
+  },
+  "kitakatsuragigunkouryoumachi": {
+    "hasData": true,
+    "office": "広陵町役場 住民環境部住民課[庁舎1階]（〒635-8515 奈良県北葛城郡広陵町大字南郷583番地1、TEL:0745-55-1001）。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.town.koryo.nara.jp/0000002488.html",
+      "in": "https://www.town.koryo.nara.jp/0000002486.html",
+      "mail": "https://www.town.koryo.nara.jp/0000002488.html"
+    },
+    "confidence": "high"
+  },
+  "kitakatsuragigunkawaichou": {
+    "hasData": true,
+    "office": "河合町役場 住民福祉課（〒636-8501 奈良県北葛城郡河合町池部1丁目1番1号、TEL:0745-57-0200）。転出届・転入届はそれぞれ独立したページで案内。",
+    "links": {
+      "out": "https://www.town.kawai.nara.jp/kakuka/fukushi/2/5/5/1013.html",
+      "in": "https://www.town.kawai.nara.jp/kakuka/fukushi/2/5/5/1012.html",
+      "mail": "https://www.town.kawai.nara.jp/kakuka/fukushi/2/5/5/1013.html"
+    },
+    "confidence": "high"
+  },
+  "yoshinogunshimoichimachi": {
+    "hasData": true,
+    "office": "下市町役場 本庁舎住民保険課（下市町大字下市1960番地、TEL0747-52-0001）。転出届・転入届はそれぞれ専用ページで案内。郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.town.shimoichi.lg.jp/0000000325.html",
+      "in": "https://www.town.shimoichi.lg.jp/0000000324.html",
+      "mail": "https://www.town.shimoichi.lg.jp/0000000325.html"
+    },
+    "confidence": "high"
+  },
+  "yoshinogujoukitayamamura": {
+    "hasData": true,
+    "office": "上北山村役場 住民課（上北山村大字河合330番地、TEL07468-3-0223）。転入届・転出届はそれぞれ独立したページで案内されている。",
+    "links": {
+      "out": "https://www.vill.kamikitayama.nara.jp/kurashi_tetsuduki/koseki_juuminnhyou_innkanntouroku/juuminnhyou/766.html",
+      "in": "https://www.vill.kamikitayama.nara.jp/kurashi_tetsuduki/koseki_juuminnhyou_innkanntouroku/juuminnhyou/765.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kimotsukigunkimotsukimachi": {
+    "hasData": true,
+    "office": "肝付町役場 住民課（本庁）／内之浦総合支所 町民生活課／岸良出張所。転入届・転出届それぞれ専用ページあり。",
+    "links": {
+      "out": "https://kimotsuki-town.jp/soshiki/juminka/1/2/3/1146.html",
+      "in": "https://kimotsuki-town.jp/soshiki/juminka/1/2/3/1130.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunyamatomura": {
+    "hasData": true,
+    "office": "大和村役場 住民税務課（鹿児島県大島郡大和村大和浜100番地）。転入届・転出届はそれぞれ専用ページがあり、オンライン転出届のページも別途ある。",
+    "links": {
+      "out": "https://www.vill.yamato.lg.jp/jumin/kurashi/todokede/kakushu/tenshutsu.html",
+      "in": "https://www.vill.yamato.lg.jp/jumin/kurashi/todokede/kakushu/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunukenmura": {
+    "hasData": true,
+    "office": "宇検村役場 住民税務課住基係（鹿児島県大島郡宇検村湯湾915）。転入届・転出届はそれぞれ専用ページがあり、郵送による転出届の専用ページも別途ある。",
+    "links": {
+      "out": "https://www.uken.net/juki/kurashi/todokede/jumintoroku/tenshutsutodoke.html",
+      "in": "https://www.uken.net/juki/kurashi/todokede/jumintoroku/tennyutodoke.html",
+      "mail": "https://www.uken.net/juki/kurashi/todokede/jumintoroku/tensyutu.html"
+    },
+    "confidence": "high"
+  },
+  "ooshimagunsetouchimachi": {
+    "hasData": true,
+    "office": "瀬戸内町 町民生活課戸籍住民係（鹿児島県大島郡瀬戸内町古仁屋船津23）。転入・転出それぞれ専用ページがある（郵送での転出届は来庁困難な場合のみ個別対応、専用URLなし）。",
+    "links": {
+      "out": "https://www.town.setouchi.lg.jp/jidouboshi/cho/kurashi/koseki/hikkoshi/tenshutsu.html",
+      "in": "https://www.town.setouchi.lg.jp/jidouboshi/cho/kurashi/koseki/hikkoshi/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunchimeimachi": {
+    "hasData": true,
+    "office": "知名町役場 町民課（大字知名1100番地）。転入届・転出届が別ページで案内されており、郵送による転出届（転出証明書交付申請書）のページも別途用意されている。",
+    "links": {
+      "out": "https://www.town.china.lg.jp/kurashi/juminhyo-koseki/2/1443.html",
+      "in": "https://www.town.china.lg.jp/kurashi/juminhyo-koseki/2/1438.html",
+      "mail": "https://www.town.china.lg.jp/kurashi/juminhyo-koseki/2/1441.html"
+    },
+    "confidence": "high"
+  },
+  "tanogujounomura": {
+    "hasData": true,
+    "office": "上野村役場 総務課 戸籍係。転出届・転入届それぞれ専用ページで案内されている。",
+    "links": {
+      "out": "https://uenomura.jp/admin/life/koseki/idou/tensyutsu.html",
+      "in": "https://uenomura.jp/admin/life/koseki/idou/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "azumagunchounoharamachi": {
+    "hasData": true,
+    "office": "長野原町役場 住民生活課 住民係。転出届・転入届それぞれ専用ページで案内されている。",
+    "links": {
+      "out": "https://www.town.naganohara.gunma.jp/life/?content=289",
+      "in": "https://www.town.naganohara.gunma.jp/life/?content=287",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "azumagunkouzanmura": {
+    "hasData": true,
+    "office": "高山村役場 住民課。転出届・転入届それぞれ専用ページで案内されている。",
+    "links": {
+      "out": "https://vill.takayama.gunma.jp/04juumin/koseki-todoke/ido-tensyutsu.html",
+      "in": "https://vill.takayama.gunma.jp/04juumin/koseki-todoke/ido-tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
