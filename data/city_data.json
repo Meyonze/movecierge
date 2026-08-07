@@ -5630,5 +5630,255 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "shimamakigunshimamakimura": {
+    "hasData": true,
+    "office": "島牧村役場 住民課住民係（島牧郡島牧村）。国道229号沿いの村役場本庁舎で転入・転出手続きを受け付け。",
+    "links": {
+      "out": "https://www.vill.shimamaki.lg.jp/category/detail.php?category=life&content=13",
+      "in": "https://www.vill.shimamaki.lg.jp/category/detail.php?category=life&content=13",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "isoyagunrankoshimachi": {
+    "hasData": true,
+    "office": "蘭越町役場（磯谷郡蘭越町）。役場窓口で転入・転出・転居の届出を受け付け、本人確認書類の持参が必要。",
+    "links": {
+      "out": "https://www.town.rankoshi.hokkaido.jp/administration/life/detail.html?content=93",
+      "in": "https://www.town.rankoshi.hokkaido.jp/administration/life/detail.html?content=93",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abutagunnisekomachi": {
+    "hasData": true,
+    "office": "ニセコ町役場（虻田郡ニセコ町字富士見55番地）。窓口で転入届、郵送でも転出手続きが可能。",
+    "links": {
+      "out": "https://www.town.niseko.lg.jp/information/2812/",
+      "in": null,
+      "mail": "https://www.town.niseko.lg.jp/information/2812/"
+    },
+    "confidence": "high"
+  },
+  "abutagunmakkarimura": {
+    "hasData": true,
+    "office": "真狩村役場 住民課戸籍年金係（虻田郡真狩村字真狩118番地）。",
+    "links": {
+      "out": "https://www.vill.makkari.lg.jp/kurashi/tetsuzuki_shomei/jumin_h_ido/",
+      "in": "https://www.vill.makkari.lg.jp/kurashi/tetsuzuki_shomei/jumin_h_ido/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abutagunrusutsumura": {
+    "hasData": true,
+    "office": "留寿都村役場（虻田郡留寿都村字留寿都175）。窓口で転入・転出の届出を受け付け、転入は14日以内。",
+    "links": {
+      "out": "https://www.vill.rusutsu.lg.jp/hotnews/detail/00000114.html",
+      "in": "https://www.vill.rusutsu.lg.jp/hotnews/detail/00000113.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abutagunkimobetsuchou": {
+    "hasData": true,
+    "office": "喜茂別町役場（虻田郡喜茂別町）。くらし・手続きページで転入・転出の手続きを案内。",
+    "links": {
+      "out": "https://www.town.kimobetsu.hokkaido.jp/life/detail.php?content=10",
+      "in": "https://www.town.kimobetsu.hokkaido.jp/life/detail.php?content=10",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abutagunkutchanmachi": {
+    "hasData": true,
+    "office": "倶知安町役場（虻田郡倶知安町北1条東3丁目3番地）。届出・証明ページで転入・転居届の様式を案内。",
+    "links": {
+      "out": "https://www.town.kutchan.hokkaido.jp/Living_Information/todokede-shoumei/juuminhyou/juumin_yusouseikyuu/",
+      "in": "https://www.town.kutchan.hokkaido.jp/Living_Information/todokede-shoumei/juuminhyou/jumin_todokede/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwanaigunkyouwamachi": {
+    "hasData": true,
+    "office": "共和町役場 住民生活課住民係（岩内郡共和町南幌似38-2）。転入は異動から14日以内に届出。",
+    "links": {
+      "out": "https://www.town.kyowa.hokkaido.jp/life/?content=32",
+      "in": "https://www.town.kyowa.hokkaido.jp/life/?content=32",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwanaiguniwanaimachi": {
+    "hasData": true,
+    "office": "岩内町役場（岩内郡岩内町）。住民票・転入・転出・転居ページで各届出を案内。",
+    "links": {
+      "out": "https://www.town.iwanai.hokkaido.jp/%E8%BB%A2%E5%85%A5%E3%83%BB%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%B1%85/4147/",
+      "in": "https://www.town.iwanai.hokkaido.jp/%E8%BB%A2%E5%85%A5%E3%83%BB%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%B1%85/%E8%BB%A2%E5%85%A5%E5%B1%8A%EF%BC%88%E4%BB%96%E3%81%AE%E5%B8%82%E5%8C%BA%E7%94%BA%E6%9D%91%E3%81%8B%E3%82%89%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%A8%E3%81%8D%EF%BC%89/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "furuugunhakumura": {
+    "hasData": true,
+    "office": "泊村役場（古宇郡泊村）。引越し・住まいページで転入・転出届を案内。",
+    "links": {
+      "out": "https://www.vill.tomari.hokkaido.jp/docs/4214.html?cat=/kurashi/hikkoshi/",
+      "in": "https://www.vill.tomari.hokkaido.jp/kurashi/hikkoshi/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "furuugunkamoenaimura": {
+    "hasData": true,
+    "office": "神恵内村役場 住民課（古宇郡神恵内村大字神恵内81-20）。住民異動（転入・転出等）の手続きを郵送でも受付。",
+    "links": {
+      "out": "https://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00000109.html",
+      "in": "https://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00000109.html",
+      "mail": "https://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00000109.html"
+    },
+    "confidence": "high"
+  },
+  "shakotangunshakotanmachi": {
+    "hasData": true,
+    "office": "積丹町役場 住民福祉課（積丹郡積丹町）。住民登録の手続きページで転入・転出を案内。",
+    "links": {
+      "out": "https://www.town.shakotan.lg.jp/contents/content0006.html",
+      "in": "https://www.town.shakotan.lg.jp/contents/content0006.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "furubiragunfurubiramachi": {
+    "hasData": true,
+    "office": "古平町役場 町民課戸籍年金係（古平郡古平町）。窓口のほか郵送での届出にも対応。",
+    "links": {
+      "out": "https://www.town.furubira.lg.jp/life/detail.php?id=154",
+      "in": "https://www.town.furubira.lg.jp/life/detail.php?id=153",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoichigunnikimachi": {
+    "hasData": true,
+    "office": "仁木町役場 住民課（余市郡仁木町）。窓口に来られない場合は郵送での届出も可能。",
+    "links": {
+      "out": "https://www.town.niki.hokkaido.jp/section/jyuminka/irv9760000000pe1.html",
+      "in": "https://www.town.niki.hokkaido.jp/section/jyuminka/irv9760000000pe1.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoichigunyoichimachi": {
+    "hasData": true,
+    "office": "余市町役場 戸籍住民係（余市郡余市町朝日町26番地）。住民登録・戸籍・印鑑登録ページで案内。",
+    "links": {
+      "out": "https://www.town.yoichi.hokkaido.jp/kurashi/kurashinojouhou/koseki-juuminhyou-inkan/kosekijuumininkan.html",
+      "in": "https://www.town.yoichi.hokkaido.jp/kurashi/kurashinojouhou/koseki-juuminhyou-inkan/kosekijuumininkan.html",
+      "mail": "https://www.town.yoichi.hokkaido.jp/kurashi/kurashinojouhou/koseki-juuminhyou-inkan/yuusouseikyuu.html"
+    },
+    "confidence": "high"
+  },
+  "yoichigunakaigawamura": {
+    "hasData": true,
+    "office": "赤井川村役場（余市郡赤井川村）。住民登録に関する手続きページで転入・転出を案内。",
+    "links": {
+      "out": "https://www.akaigawa.com/kurashi/kurashi-top/index30.html",
+      "in": "https://www.akaigawa.com/kurashi/kurashi-top/index30.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigunnanporomachi": {
+    "hasData": true,
+    "office": "南幌町役場 住民課（空知郡南幌町）。届出と証明ページからマイナポータル連携のオンライン転出にも対応。",
+    "links": {
+      "out": "https://www.town.nanporo.hokkaido.jp/life/notification/",
+      "in": "https://www.town.nanporo.hokkaido.jp/life/notification/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigunnaiemachi": {
+    "hasData": true,
+    "office": "奈井江町役場（空知郡奈井江町）。届出・証明書ページの住民登録欄で転入手続きを案内。",
+    "links": {
+      "out": "https://www.town.naie.hokkaido.jp/kurashi/todokede/jumintoroku/",
+      "in": "https://www.town.naie.hokkaido.jp/kurashi/todokede/jumintoroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigujousunagawachou": {
+    "hasData": true,
+    "office": "上砂川町役場 住民課戸籍年金係（空知郡上砂川町）。マイナンバーカード持参での窓口手続きを案内。",
+    "links": {
+      "out": "https://town.kamisunagawa.hokkaido.jp/soshiki/jumin/koseki_nenkin/koseki_juminhyonado/todokede/246.html",
+      "in": "https://town.kamisunagawa.hokkaido.jp/soshiki/jumin/koseki_nenkin/koseki_juminhyonado/todokede/245.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yuubarigunyunimachi": {
+    "hasData": true,
+    "office": "由仁町役場 住民課（夕張郡由仁町）。転入は本人または同一世帯者が窓口で手続き、代理人は委任状が必要。",
+    "links": {
+      "out": "https://www.town.yuni.lg.jp/kurashi/jyutaku-hikkoshi/tenshutsu-todoke",
+      "in": "https://www.town.yuni.lg.jp/kurashi/jyutaku-hikkoshi/tennyu-todoke",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yuubarigunchounumamachi": {
+    "hasData": true,
+    "office": "長沼町役場 税務住民課町民生活係（夕張郡長沼町中央北1丁目1番1号）。",
+    "links": {
+      "out": "https://www.maoi-net.jp/kurashi/koseki_juminhyo_shomei/jumintoroku/tenshutsu.html",
+      "in": "https://www.maoi-net.jp/kurashi/koseki_juminhyo_shomei/jumintoroku/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yuubarigunkuriyamamachi": {
+    "hasData": true,
+    "office": "栗山町役場 住民健康課住民グループ（夕張郡栗山町、新庁舎1階1番窓口）。マイナンバーカードでのオンライン転出にも対応。",
+    "links": {
+      "out": "https://www.town.kuriyama.hokkaido.jp/soshiki/36/876.html",
+      "in": "https://www.town.kuriyama.hokkaido.jp/soshiki/36/875.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kabatogunurausumachi": {
+    "hasData": true,
+    "office": "浦臼町役場（樺戸郡浦臼町）。くらしページの引越し欄で転入・転出手続きを案内。",
+    "links": {
+      "out": "https://www.town.urausu.hokkaido.jp/kurashi/catetemp2_etc/hikkoshi.html",
+      "in": "https://www.town.urausu.hokkaido.jp/kurashi/catetemp2_etc/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kabatogunshintotsukawamachi": {
+    "hasData": true,
+    "office": "新十津川町役場（樺戸郡新十津川町）。お知らせページに転入届・転出届・転居届の案内あり。",
+    "links": {
+      "out": "https://www.town.shintotsukawa.lg.jp/hotnews/detail/00000066.html",
+      "in": "https://www.town.shintotsukawa.lg.jp/hotnews/detail/00000065.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunmoseushimachi": {
+    "hasData": true,
+    "office": "妹背牛町役場（雨竜郡妹背牛町）。戸籍ページで転入・転出の住民登録手続きを案内。",
+    "links": {
+      "out": "https://www.town.moseushi.hokkaido.jp/kurashi/koseki/index.html",
+      "in": "https://www.town.moseushi.hokkaido.jp/kurashi/koseki/index.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
