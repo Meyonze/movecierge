@@ -4750,5 +4750,305 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "oomutashi": {
+    "hasData": true,
+    "office": "大牟田市役所市民課（本庁舎1階）。転出届は郵送・オンライン可、転入届は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.omuta.lg.jp/list01222.html",
+      "in": "https://www.city.omuta.lg.jp/list01222.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kurumeshi": {
+    "hasData": true,
+    "office": "久留米市役所市民課（城南町15番地3）。転出はマイナポータルでオンライン申請可、転入は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
+      "in": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
+      "mail": "https://www.city.kurume.fukuoka.jp/1500soshiki/9024shiminka/3020shinsei/2007-1215-1248-432.html"
+    },
+    "confidence": "high"
+  },
+  "tagawashi": {
+    "hasData": true,
+    "office": "田川市役所市民課。転入・転出・転居の来庁日時をスマートフォンやパソコンから事前予約できる。",
+    "links": {
+      "out": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
+      "in": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yanagawashi": {
+    "hasData": true,
+    "office": "柳川市役所市民課。転入・転居の届出は住み始めてから14日以内、マイナンバーカードがあればマイナポータルでの転出手続きも可能。",
+    "links": {
+      "out": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
+      "in": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chikugoshi": {
+    "hasData": true,
+    "office": "筑後市役所市民課。転入は住み始めた日から14日以内に転出証明書を添えて届出、マイナンバーカードがあれば「ぴったりサービス」も利用可。",
+    "links": {
+      "out": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
+      "in": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ookawashi": {
+    "hasData": true,
+    "office": "大川市役所市民課（大字酒見256番地1）。転出届は概ね1か月前から受付、転入・転居は引越し後に窓口へ。",
+    "links": {
+      "out": "https://www.city.okawa.lg.jp/060/010/index.html",
+      "in": "https://www.city.okawa.lg.jp/060/010/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "buzenshi": {
+    "hasData": true,
+    "office": "豊前市役所市民課（吉木955番地）。引越しワンストップサービスでマイナポータルから転出届のオンライン申請が可能、転入は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.buzen.lg.jp/koseki-jumin/todokede/hikkoshi.html",
+      "in": "https://www.city.buzen.lg.jp/koseki-jumin/todokede/hikkoshi.html",
+      "mail": "https://www.city.buzen.lg.jp/koseki-jumin/yuusoutennsyutu.html"
+    },
+    "confidence": "high"
+  },
+  "ogoorishi": {
+    "hasData": true,
+    "office": "小郡市役所市民課。転出届は移動日の14日前から、転入届は住み始めてから14日以内に届出が必要。",
+    "links": {
+      "out": "https://www.city.ogori.fukuoka.jp/197/199/667",
+      "in": "https://www.city.ogori.fukuoka.jp/197/199/667",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chikushinoshi": {
+    "hasData": true,
+    "office": "筑紫野市役所市民課（石崎1-1-1）。転出届はマイナポータルでオンライン申請可、転入・転居は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
+      "in": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
+      "mail": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3928.html"
+    },
+    "confidence": "high"
+  },
+  "oonojoushi": {
+    "hasData": true,
+    "office": "大野城市役所1階総合窓口センターまたは地域行政センター。転出は郵送・オンライン可、転入はマイナンバーカード持参で窓口へ。",
+    "links": {
+      "out": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html",
+      "in": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "munakatashi": {
+    "hasData": true,
+    "office": "宗像市役所市民課。転出はマイナンバーカードでオンライン申請可、転入は転出証明書を持参して窓口へ。",
+    "links": {
+      "out": "https://www.city.munakata.lg.jp/kiji0031015/index.html",
+      "in": "https://www.city.munakata.lg.jp/kiji0031015/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kogashi_fuku": {
+    "hasData": true,
+    "office": "古賀市役所市民国保課。電子証明書付きマイナンバーカードがあればマイナポータルで転出届のオンライン提出が可能、転入は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/055.php",
+      "in": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/055.php",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "fukutsushi": {
+    "hasData": true,
+    "office": "福津市役所市民課。転出はマイナンバーカードがあればオンライン申請可、転入・転居は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
+      "in": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ukihashi": {
+    "hasData": true,
+    "office": "うきは市役所市民課（吉井町新治316）。転出届は概ね1か月前から受付、転居届は転居後14日以内。",
+    "links": {
+      "out": "https://www.city.ukiha.fukuoka.jp/list00138.html",
+      "in": "https://www.city.ukiha.fukuoka.jp/list00138.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asakurashi": {
+    "hasData": true,
+    "office": "朝倉市役所市民課。マイナポータルを通じて転出届・転入（転居）予約のオンライン申請が可能、転入手続きは窓口で本人確認のうえ実施。",
+    "links": {
+      "out": "https://www.city.asakura.lg.jp/soshiki/13/1673.html",
+      "in": "https://www.city.asakura.lg.jp/soshiki/13/1673.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "miyamashi": {
+    "hasData": true,
+    "office": "みやま市役所市民課、山川支所・高田支所の市民サービス係。マイナポータルからオンラインで転出届・転入（転居）予約が可能。",
+    "links": {
+      "out": "https://www.city.miyama.lg.jp/s018/kurashi/010/100/20200109033000.html",
+      "in": "https://www.city.miyama.lg.jp/s018/kurashi/010/100/20200109033000.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "itoshimashi": {
+    "hasData": true,
+    "office": "糸島市役所庁舎1階4番異動窓口。転出はマイナンバーカードでオンライン申請可、転入は住み始めてから14日以内に窓口へ。",
+    "links": {
+      "out": "https://www.city.itoshima.lg.jp/li/kurashi/020/020/",
+      "in": "https://www.city.itoshima.lg.jp/li/kurashi/020/020/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasuyagunumimachi": {
+    "hasData": true,
+    "office": "宇美町役場住民課戸籍住民係（宇美5-1-1本館1F）。転入は転入日から14日以内に前住所地発行の転出証明書を添えて届出。",
+    "links": {
+      "out": "https://www.town.umi.lg.jp/soshiki/5/hikkosi.html",
+      "in": "https://www.town.umi.lg.jp/soshiki/5/hikkosi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasuyagunsasagurimachi": {
+    "hasData": true,
+    "office": "篠栗町役場住民課（中央一丁目1番1号）。住民票に関する届出（転入・転出・転居）を取り扱う。",
+    "links": {
+      "out": "https://www.town.sasaguri.fukuoka.jp/soshiki/jumin/2/juminhyou-koseki/1372.html",
+      "in": "https://www.town.sasaguri.fukuoka.jp/soshiki/jumin/2/juminhyou-koseki/1372.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasuyagunshimemachi": {
+    "hasData": true,
+    "office": "志免町役場住民課窓口係（志免中央一丁目1番1号、庁舎1階）。転出はオンライン手続き可能で原則来庁不要、転入は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.town.shime.lg.jp/soshiki/4/madoguchi-tensyutu.html",
+      "in": "https://www.town.shime.lg.jp/soshiki/4/madoguchi-tennyuu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasuyagunsuemachi": {
+    "hasData": true,
+    "office": "須恵町役場住民課（大字須恵771番地）。転出届は郵送・マイナポータルでのオンライン提出可、転入・転居は郵送不可で窓口来庁が必要。",
+    "links": {
+      "out": "https://www.town.sue.fukuoka.jp/life_scene/hikkoshi/tennyu_tensyutsu/index.html",
+      "in": "https://www.town.sue.fukuoka.jp/life_scene/hikkoshi/tennyu_tensyutsu/index.html",
+      "mail": "https://www.town.sue.fukuoka.jp/material/files/group/20/6783.pdf"
+    },
+    "confidence": "high"
+  },
+  "kasuyagunshinguumachi": {
+    "hasData": true,
+    "office": "新宮町役場住民課（緑ケ浜一丁目1-1）。転出は郵送・マイナポータルでのオンライン申請可、転入は引越しから14日以内に窓口へ。",
+    "links": {
+      "out": "https://www.town.shingu.fukuoka.jp/soshiki/juumin/9/5/1207.html",
+      "in": "https://www.town.shingu.fukuoka.jp/soshiki/juumin/9/5/1206.html",
+      "mail": "https://www.town.shingu.fukuoka.jp/soshiki/juumin/9/5/1207.html"
+    },
+    "confidence": "high"
+  },
+  "kasuyagunhisayamamachi": {
+    "hasData": true,
+    "office": "久山町役場町民生活課（大字久原3632番地）。転出はマイナポータルでオンライン申請可能、転入は窓口来庁が必要（予約はオンライン可）。",
+    "links": {
+      "out": "https://www.town.hisayama.fukuoka.jp/gyosei/kurashi_menu/hikkoshi_sumai/tennyu_tenshutu_tenkyo/index.html",
+      "in": "https://www.town.hisayama.fukuoka.jp/gyosei/kurashi_menu/hikkoshi_sumai/tennyu_tenshutu_tenkyo/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasuyagunkasuyamachi": {
+    "hasData": true,
+    "office": "粕屋町役場。転出はマイナンバーカードがあればオンライン申請で来庁不要、転入は転出証明書等を持参し窓口で手続き。",
+    "links": {
+      "out": "https://www.town.kasuya.fukuoka.jp/s015/010/020/010/050/20191120170217.html",
+      "in": "https://www.town.kasuya.fukuoka.jp/s015/010/020/010/030/20191120171421.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ongagunashiyamachi": {
+    "hasData": true,
+    "office": "芦屋町役場住民課。転出届は引越し予定日の14日前から受付、郵送も可能。マイナポータルから転出届・転入（転居）予約もできる。",
+    "links": {
+      "out": "https://www.town.ashiya.lg.jp/soshiki/11/2291.html",
+      "in": "https://www.town.ashiya.lg.jp/life/1/1/5/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ongagunmizumakimachi": {
+    "hasData": true,
+    "office": "水巻町役場くらし・手続き窓口。水巻町から転出するときの手続きページで転出届・必要書類を案内。",
+    "links": {
+      "out": "https://www.town.mizumaki.lg.jp/kurashi/020/210/080/20200110065000.html",
+      "in": "https://www.town.mizumaki.lg.jp/kurashi/020/210/080/20200110065000.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ongagunokagakichou": {
+    "hasData": true,
+    "office": "岡垣町役場住民環境課（野間1丁目1-1）。マイナポータルで転出手続き可能（新住所居住開始30日前～10日後）、転入は窓口へ。",
+    "links": {
+      "out": "https://www.town.okagaki.lg.jp/s009/010/030/20230810170350.html",
+      "in": "https://www.town.okagaki.lg.jp/s009/010/020/020/201502050004.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ongagunongamachi": {
+    "hasData": true,
+    "office": "遠賀町役場住民課（大字今古賀513番地）。転入・転出・転居の住民異動届を取り扱う。",
+    "links": {
+      "out": "https://www.town.onga.lg.jp/soshiki/9/1268.html",
+      "in": "https://www.town.onga.lg.jp/soshiki/9/1268.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kurategunkotakechou": {
+    "hasData": true,
+    "office": "小竹町役場（大字勝野3167番地1）。引越しをしたときの住民異動手続き（転入・転出・転居）を案内。",
+    "links": {
+      "out": "https://town.kotake.lg.jp/hpkiji/pub/detail.aspx?c_id=3&id=1135&class_set_id=3&class_id=305",
+      "in": "https://town.kotake.lg.jp/hpkiji/pub/detail.aspx?c_id=3&id=1135&class_set_id=3&class_id=305",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kurategunkuratemachi": {
+    "hasData": true,
+    "office": "鞍手町役場。転出届は概ね1か月前から受付、オンラインによる転出届・転入（転居）予約も可能。",
+    "links": {
+      "out": "https://www.town.kurate.lg.jp/koseki/jusho_henko.html",
+      "in": "https://www.town.kurate.lg.jp/koseki/jusho_henko.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
