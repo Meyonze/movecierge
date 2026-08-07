@@ -5340,5 +5340,295 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kasukabeshi": {
+    "hasData": true,
+    "office": "春日部市役所 市民課（本庁舎）で転入届・転出届を受付。マイナンバーカードをお持ちの場合は住所変更の同時手続きが必要です。",
+    "links": {
+      "out": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
+      "in": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hanyuushi": {
+    "hasData": true,
+    "office": "羽生市役所で転入届・転出届を受付。転出届は令和5年2月からマイナポータルによるオンライン申請にも対応しています。",
+    "links": {
+      "out": "https://www.city.hanyu.lg.jp/docs/2012070900133/",
+      "in": "https://www.city.hanyu.lg.jp/docs/2014040100956/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kounosushi": {
+    "hasData": true,
+    "office": "鴻巣市役所本庁市民課、吹上支所・川里支所で転入届・転出届を受付。転出届は郵送・引越しワンストップサービスにも対応。",
+    "links": {
+      "out": "https://www.city.kounosu.saitama.jp/page/27050.html",
+      "in": "https://www.city.kounosu.saitama.jp/page/27050.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ageoshi": {
+    "hasData": true,
+    "office": "上尾市役所市民課・市内各支所出張所で転入届・転出届を受付。転出届はオンライン申請・郵送にも対応しています。",
+    "links": {
+      "out": "https://www.city.ageo.lg.jp/page/414927.html",
+      "in": "https://www.city.ageo.lg.jp/faq/soshiki/page/zyuuminnhyoufaq11.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "irumashi": {
+    "hasData": true,
+    "office": "入間市役所市民課で転入届・転出届を受付。転出届はマイナポータルでオンライン申請可能ですが、転入届は窓口のみです。",
+    "links": {
+      "out": "https://www.city.iruma.saitama.jp/soshiki/shiminka/todokede_shomei/4/85.html",
+      "in": "https://www.city.iruma.saitama.jp/soshiki/shiminka/todokede_shomei/4/85.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "okegawashi": {
+    "hasData": true,
+    "office": "桶川市役所で転入届・転出届を受付。転出届はマイナポータルによるオンライン申請・郵送提出にも対応しています。",
+    "links": {
+      "out": "https://www.city.okegawa.lg.jp/soshiki/soumubu/shimin/todoke_shoumei/hikkoshi/1477.html",
+      "in": "https://www.city.okegawa.lg.jp/soshiki/soumubu/shimin/todoke_shoumei/hikkoshi/1477.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kukishi": {
+    "hasData": true,
+    "office": "久喜市役所市民課（総合窓口）・各総合支所市民係で転入届・転出届を受付。転入届は郵送不可、転出届は郵送・オンライン可。",
+    "links": {
+      "out": "https://www.city.kuki.lg.jp/kurashi/koseki/jumin_todokede/1007377.html",
+      "in": "https://www.city.kuki.lg.jp/kurashi/koseki/jumin_todokede/1007377.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitamotoshi": {
+    "hasData": true,
+    "office": "北本市役所市民課で転入届・転出届を受付。転出届はマイナンバーカードでオンライン申請可能、転入届は窓口のみです。",
+    "links": {
+      "out": "https://www.city.kitamoto.lg.jp/soshiki/shiminkeizai/shimin/gyomu/g2/1419238934705.html",
+      "in": "https://www.city.kitamoto.lg.jp/soshiki/shiminkeizai/shimin/gyomu/g2/1419238934705.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "fujimishi": {
+    "hasData": true,
+    "office": "富士見市役所・各出張所で転入届・転出届を受付。転出届は郵送やマイナポータルでのオンライン申請にも対応しています。",
+    "links": {
+      "out": "https://www.city.fujimi.saitama.jp/kurashi_tetsuzuki/02todokede/jusho_koseki/2010-0528-0952-130.html",
+      "in": "https://www.city.fujimi.saitama.jp/kurashi_tetsuzuki/02todokede/jusho_koseki/2010-0528-0952-130.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "satteshi": {
+    "hasData": true,
+    "office": "幸手市役所市民課で転入届・転出届を受付。転出届はやむを得ない場合の郵送提出、マイナポータル申請にも対応しています。",
+    "links": {
+      "out": "https://www.city.satte.lg.jp/soshiki/shimin/1/773.html",
+      "in": "https://www.city.satte.lg.jp/soshiki/shimin/1/773.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshikawashi": {
+    "hasData": true,
+    "office": "吉川市役所市民課・市内3市民サービスセンターで転入届・転出届を受付。転出届のみ郵送での届出が可能です。",
+    "links": {
+      "out": "https://www.city.yoshikawa.saitama.jp/index.cfm/23,689,118,664,html",
+      "in": "https://www.city.yoshikawa.saitama.jp/index.cfm/23,689,118,664,html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shiraokashi": {
+    "hasData": true,
+    "office": "白岡市役所市民課住民担当で転入届・転出届を受付。マイナンバーカードによるオンライン転出届（来庁不要）にも対応。",
+    "links": {
+      "out": "https://www.city.shiraoka.lg.jp/soshiki/soumubu/shiminka/2/6/753.html",
+      "in": "https://www.city.shiraoka.lg.jp/soshiki/soumubu/shiminka/2/6/753.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitaadachiguninamachi": {
+    "hasData": true,
+    "office": "伊奈町役場住民課で転入届・転出届を受付。転出届はマイナポータルによるオンライン申請にも対応しています。",
+    "links": {
+      "out": "https://www.town.saitama-ina.lg.jp/0000000169.html",
+      "in": "https://www.town.saitama-ina.lg.jp/0000000169.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "irumagunmiyoshimachi": {
+    "hasData": true,
+    "office": "三芳町役場住民課住民担当で転入届・転出届を受付。転出届は郵送・マイナポータルによるオンライン申請にも対応。",
+    "links": {
+      "out": "https://www.town.saitama-miyoshi.lg.jp/life/koseki/juumin_toroku.html",
+      "in": "https://www.town.saitama-miyoshi.lg.jp/life/koseki/juumin_toroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "irumagunmoroyamamachi": {
+    "hasData": true,
+    "office": "毛呂山町役場1階住民課戸籍住民係で転入届・転出届を受付。転出届は郵送可能、タブレット端末での申請も導入済み。",
+    "links": {
+      "out": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/juuminka/kosekijuumin/koseki_juminhyo_inkantoroku/jumintouroku/10056.html",
+      "in": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/juuminka/kosekijuumin/koseki_juminhyo_inkantoroku/jumintouroku/10056.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "irumagunogosemachi": {
+    "hasData": true,
+    "office": "越生町役場町民課で転入届・転出届を受付。前住所地の窓口に行けない場合は転出届を郵送で提出できます。",
+    "links": {
+      "out": "https://www.town.ogose.saitama.jp/kamei/chomin/jumin/gyomuannai/koseki/jyumintouroku/1450770357952.html",
+      "in": "https://www.town.ogose.saitama.jp/kamei/chomin/jumin/gyomuannai/koseki/jyumintouroku/1450770363419.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikigunnamerikawamachi": {
+    "hasData": true,
+    "office": "滑川町役場町民保険課で転入届・転出届を受付。転出届は郵送・マイナポータルによるオンライン申請にも対応。",
+    "links": {
+      "out": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/chominhokenka/koseki_juminhyo_inkantoroku/1140.html",
+      "in": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/chominhokenka/koseki_juminhyo_inkantoroku/1140.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikigunarashiyamamachi": {
+    "hasData": true,
+    "office": "嵐山町役場戸籍住民担当で転入届・転出届を受付。転出届は窓口・スマートフォン・郵送のいずれでも手続き可能です。",
+    "links": {
+      "out": "https://www.town.ranzan.saitama.jp/0000000169.html",
+      "in": "https://www.town.ranzan.saitama.jp/0000000169.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikigunkawashimamachi": {
+    "hasData": true,
+    "office": "川島町役場で転入届・転出届を受付。マイナンバーカード等をお持ちの場合、転入届の特例（転出証明書省略）が使えます。",
+    "links": {
+      "out": "https://www.town.kawajima.saitama.jp/1628.htm",
+      "in": "https://www.town.kawajima.saitama.jp/1626.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikigunyoshimimachi": {
+    "hasData": true,
+    "office": "吉見町役場町民健康課で転入届・転出届を受付。転出届は郵送での提出にも対応しています。",
+    "links": {
+      "out": "https://www.town.yoshimi.saitama.jp/soshiki/choumin_kenko/koseki/jumintouroku/2428.html",
+      "in": "https://www.town.yoshimi.saitama.jp/soshiki/choumin_kenko/koseki/jumintouroku/2427.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikigunhatoyamachou": {
+    "hasData": true,
+    "office": "鳩山町役場で転入届・転出届を受付。転出届は引っ越し予定日の前後14日以内に届出が可能です。",
+    "links": {
+      "out": "https://www.town.hatoyama.saitama.jp/kurashi/koseki_touroku_shoumei/address_change.html",
+      "in": "https://www.town.hatoyama.saitama.jp/kurashi/koseki_touroku_shoumei/address_change.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hikiguntokigawamachi": {
+    "hasData": true,
+    "office": "ときがわ町役場で転入届・転出届を受付。転出届の提出後に交付される転出証明書を転入先へ提出します。",
+    "links": {
+      "out": "https://www.town.tokigawa.lg.jp/info/443",
+      "in": "https://www.town.tokigawa.lg.jp/forms/info/info.aspx?info_id=11552",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chichibugunyokosemachi": {
+    "hasData": true,
+    "office": "横瀬町役場で転入届・転出届を受付。申請書は町公式ホームページからダウンロードして事前記入も可能です。",
+    "links": {
+      "out": "https://www.town.yokoze.saitama.jp/kurashi/jyuminhyo-koseki/210",
+      "in": "https://www.town.yokoze.saitama.jp/kurashi/jyuminhyo-koseki/210",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chichibugunminanomachi": {
+    "hasData": true,
+    "office": "皆野町役場町民生活課戸籍住民担当で転入届・転出届を受付。代理人が届け出る場合は委任状が必要です。",
+    "links": {
+      "out": "https://www.town.minano.saitama.jp/section/seikatu/230/",
+      "in": "https://www.town.minano.saitama.jp/section/seikatu/207/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chichibugunchoutoromachi": {
+    "hasData": true,
+    "office": "長瀞町役場で転入届・転出届を受付。転出届は引っ越し前まで、転入届は住み始めてから14日以内に届出。",
+    "links": {
+      "out": "https://www.town.nagatoro.saitama.jp/procedures/tensyutsu/",
+      "in": "https://www.town.nagatoro.saitama.jp/procedures/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chichibugunoganomachi": {
+    "hasData": true,
+    "office": "小鹿野町役場で転入届・転出届を受付。住民登録・外国人登録のページで手続き方法を案内しています。",
+    "links": {
+      "out": "https://www.town.ogano.lg.jp/kurashi-tetsuzuki/todokede-syoumei-sinsei/jyumintouroku-gaikokujintouroku/",
+      "in": "https://www.town.ogano.lg.jp/kurashi-tetsuzuki/todokede-syoumei-sinsei/jyumintouroku-gaikokujintouroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chichibugunhigashichichibumura": {
+    "hasData": true,
+    "office": "東秩父村役場で転入届・転出届を受付。村公式サイトの「引越し・住まい」欄に転入・転出それぞれの案内があります。",
+    "links": {
+      "out": "https://www.vill.higashichichibu.saitama.jp/life/1/5/13/",
+      "in": "https://www.vill.higashichichibu.saitama.jp/life/1/5/12/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kodamagunmisatomachi": {
+    "hasData": true,
+    "office": "美里町役場で転入届・転出届を受付。マイナンバーカード利用の特例転出・転入に対応、転入届のオンライン申請は不可。",
+    "links": {
+      "out": "https://www.town.saitama-misato.lg.jp/0000000017.html",
+      "in": "https://www.town.saitama-misato.lg.jp/0000000012.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kodamagunkamikawamachi": {
+    "hasData": true,
+    "office": "神川町役場で転入届・転出届を受付。オンラインでの転出届・転居届にも対応しています。",
+    "links": {
+      "out": "https://www.town.kamikawa.saitama.jp/kurashi_tetsuduki/todokede_shomei/1142.html",
+      "in": "https://www.town.kamikawa.saitama.jp/kurashi_tetsuduki/todokede_shomei/1142.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

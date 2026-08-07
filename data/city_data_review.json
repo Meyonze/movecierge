@@ -3476,5 +3476,15 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "hikigunogawachou": {
+    "hasData": true,
+    "office": "小川町役場町民課で転入届・転出届を受付。転出届は郵送提出に対応（町公式サイトで確認、転入届の専用ページは未確認）。",
+    "links": {
+      "out": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/6/5/1369.html",
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
