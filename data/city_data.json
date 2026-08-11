@@ -7370,5 +7370,265 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kamikawaguntoumamachi": {
+    "hasData": true,
+    "office": "当麻町役場（北海道上川郡当麻町）の住民担当窓口で転入・転出・転居の届出を受け付けている。",
+    "links": {
+      "out": "https://town.tohma.hokkaido.jp/living/01/01",
+      "in": "https://town.tohma.hokkaido.jp/living/01/01",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunpippumachi": {
+    "hasData": true,
+    "office": "比布町役場（北海道上川郡比布町）税務住民課で住民登録に関する転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.pippu.hokkaido.jp/cms/section/jyuuminn/p1rhin000000110f.html",
+      "in": "https://www.town.pippu.hokkaido.jp/cms/section/jyuuminn/p1rhin000000110f.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunaibetsumachi": {
+    "hasData": true,
+    "office": "愛別町役場（北海道上川郡愛別町）で住民登録・転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.aibetsu.hokkaido.jp/01/01/02/782",
+      "in": "https://www.town.aibetsu.hokkaido.jp/01/01/02/782",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagujoukawamachi": {
+    "hasData": true,
+    "office": "上川町役場（北海道上川郡上川町）税務住民課で転入・転出・転居などの住民異動登録を受け付けている。",
+    "links": {
+      "out": "https://www.town.hokkaido-kamikawa.lg.jp/section/d57c9r0000004wmg.html",
+      "in": "https://www.town.hokkaido-kamikawa.lg.jp/section/d57c9r0000004wmg.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunhigashikawamachi": {
+    "hasData": true,
+    "office": "東川町役場（北海道上川郡東川町）で住民登録に関する転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://higashikawa-town.jp/portal/kurashi/panel/107",
+      "in": "https://higashikawa-town.jp/portal/kurashi/panel/107",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunbieimachi": {
+    "hasData": true,
+    "office": "美瑛町役場（北海道上川郡美瑛町）住民生活課で住民登録に関する転入届・転出届を受け付けている。",
+    "links": {
+      "out": "https://town.biei.hokkaido.jp/life/notification/residentcard.html",
+      "in": "https://town.biei.hokkaido.jp/life/notification/residentcard.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigujoufuranomachi": {
+    "hasData": true,
+    "office": "上富良野町役場（北海道空知郡上富良野町）町民生活課で転出届・転居届などの住民登録手続きができる。",
+    "links": {
+      "out": "https://www.town.kamifurano.hokkaido.jp/index.php?id=3504",
+      "in": null,
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigunchuufuranomachi": {
+    "hasData": true,
+    "office": "中富良野町役場（北海道空知郡中富良野町）で転入届・転出届などの住民登録手続きができる。",
+    "links": {
+      "out": "https://www.town.nakafurano.lg.jp/hotnews/detail/00000077.html",
+      "in": "https://www.town.nakafurano.lg.jp/hotnews/detail/00000077.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sorachigunminamifuranomachi": {
+    "hasData": true,
+    "office": "南富良野町役場（北海道空知郡南富良野町）で転入届・転出届の住民登録手続きができる。",
+    "links": {
+      "out": "https://www.town.minamifurano.hokkaido.jp/kurashi-info/%E4%BD%8F%E6%B0%91%E7%A5%A8/%E8%BB%A2%E5%87%BA%E5%B1%8A/",
+      "in": "https://www.town.minamifurano.hokkaido.jp/kurashi-info/%E4%BD%8F%E6%B0%91%E7%A5%A8/%E8%BB%A2%E5%85%A5%E5%B1%8A/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yuufutsugunshimukappumura": {
+    "hasData": true,
+    "office": "占冠村役場（北海道勇払郡占冠村）住民課で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.vill.shimukappu.lg.jp/shimukappu/section/jyumin/nmudtq0000003qvi.html",
+      "in": "https://www.vill.shimukappu.lg.jp/shimukappu/section/jyumin/nmudtq0000003qvi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunwassamumachi": {
+    "hasData": true,
+    "office": "和寒町役場（北海道上川郡和寒町）住民課で住民票に関する転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.wassamu.hokkaido.jp/residents/customer/resident-card/",
+      "in": "https://www.town.wassamu.hokkaido.jp/residents/customer/resident-card/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunkenbuchimachi": {
+    "hasData": true,
+    "office": "剣淵町役場（北海道上川郡剣淵町）で引越しワンストップサービスを含む転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.kembuchi.hokkaido.jp/hikkoshi/",
+      "in": "https://www.town.kembuchi.hokkaido.jp/hikkoshi/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunshimokawamachi": {
+    "hasData": true,
+    "office": "下川町役場（北海道上川郡下川町）で他市町村への引越し（転出届）・他市町村からの引越し（転入届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.shimokawa.hokkaido.jp/section/2020/01/post-170.html",
+      "in": "https://www.town.shimokawa.hokkaido.jp/section/2020/01/post-169.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawagunbifukamachi": {
+    "hasData": true,
+    "office": "美深町役場（北海道中川郡美深町）で住民登録（転入・転出・転居）の手続きができる。",
+    "links": {
+      "out": "https://www.town.bifuka.hokkaido.jp/cms/section/jyuuminn/nuv41p000000jeb2.html",
+      "in": "https://www.town.bifuka.hokkaido.jp/cms/section/jyuuminn/nuv41p000000jeb2.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawagunotoineppumura": {
+    "hasData": true,
+    "office": "音威子府村役場（北海道中川郡音威子府村）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.vill.otoineppu.hokkaido.jp/kakuka/juuminseikatsu/tensyutsu.html",
+      "in": "https://www.vill.otoineppu.hokkaido.jp/kakuka/juuminseikatsu/tennyuutetsuduki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawagunchuukawamachi": {
+    "hasData": true,
+    "office": "中川町役場（北海道中川郡中川町）住民課で住民登録（転入届、転出届、転居届、世帯変更届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.nakagawa.hokkaido.jp/section/shiawasesuishin/b02d3l0000000riy.html",
+      "in": "https://www.town.nakagawa.hokkaido.jp/section/shiawasesuishin/b02d3l0000000riy.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunhorokanaimachi": {
+    "hasData": true,
+    "office": "幌加内町役場（北海道雨竜郡幌加内町）で転入・転出などの手続き・登録ができる。",
+    "links": {
+      "out": "https://www.town.horokanai.hokkaido.jp/kurasu/testuduki-zei-hojo/tetsuduki-touroku",
+      "in": "https://www.town.horokanai.hokkaido.jp/kurasu/testuduki-zei-hojo/tetsuduki-touroku",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "mashikegunmashikemachi": {
+    "hasData": true,
+    "office": "増毛町役場（北海道増毛郡増毛町）町民課で住民異動の届出（転入届・転出届・転居届）ができる。",
+    "links": {
+      "out": "https://www.town.mashike.hokkaido.jp/division/chomin/koseki/juminido/index.html",
+      "in": "https://www.town.mashike.hokkaido.jp/division/chomin/koseki/juminido/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "rumoigunkodairamachi": {
+    "hasData": true,
+    "office": "小平町役場（北海道留萌郡小平町）で転入・転出・転居の手続きができる。",
+    "links": {
+      "out": "https://www.town.obira.hokkaido.jp/hotnews/detail/00000115.html",
+      "in": "https://www.town.obira.hokkaido.jp/hotnews/detail/00000115.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tomamaegunhahoromachi": {
+    "hasData": true,
+    "office": "羽幌町役場（北海道苫前郡羽幌町）で転入届・転出届の手続きができる。総合窓口制を導入。",
+    "links": {
+      "out": "https://www.town.haboro.lg.jp/kurashi/madoguchi/jyuminhyou/tensyutsu.html",
+      "in": "https://www.town.haboro.lg.jp/kurashi/madoguchi/jyuminhyou/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tomamaegunshosanbetsumura": {
+    "hasData": true,
+    "office": "初山別村役場（北海道苫前郡初山別村）住民課で転入・転出などの届出ができる。",
+    "links": {
+      "out": "https://www.vill.shosanbetsu.lg.jp/kurashi/todokede/todokede.html",
+      "in": "https://www.vill.shosanbetsu.lg.jp/kurashi/todokede/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "teshiogunenbetsumachi": {
+    "hasData": true,
+    "office": "遠別町役場（北海道天塩郡遠別町）住民課住民係で転入・転出・転居などの届出ができる。",
+    "links": {
+      "out": "https://www.town.embetsu.hokkaido.jp/docs/4170.html",
+      "in": "https://www.town.embetsu.hokkaido.jp/docs/4170.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "souyagunsarufutsumura": {
+    "hasData": true,
+    "office": "猿払村役場（北海道宗谷郡猿払村）住民課生活環境係で住民基本台帳関係（転入・転出・転居）の届出ができる。",
+    "links": {
+      "out": "https://www.vill.sarufutsu.hokkaido.jp/hotnews/detail/00000177.html",
+      "in": "https://www.vill.sarufutsu.hokkaido.jp/hotnews/detail/00000177.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "teshioguntoyotomichou": {
+    "hasData": true,
+    "office": "豊富町役場（北海道天塩郡豊富町）町民課戸籍住民係で住民登録に関する転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.toyotomi.hokkaido.jp/section/chominka/a7cug60000000s4x.html",
+      "in": "https://www.town.toyotomi.hokkaido.jp/section/chominka/a7cug60000000s4x.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "rebungunrebunmachi": {
+    "hasData": true,
+    "office": "礼文町役場（北海道礼文郡礼文町）町民課で転入・転出などの届出ができる。",
+    "links": {
+      "out": "https://www.town.rebun.hokkaido.jp/hotnews/group_sp/3.html",
+      "in": "https://www.town.rebun.hokkaido.jp/hotnews/group_sp/3.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "teshiogunteshiomachi": {
+    "hasData": true,
+    "office": "天塩町役場（北海道天塩郡天塩町）で住民登録（転入届・転出届・転居届・世帯変更届）の手続きができる。",
+    "links": {
+      "out": "https://www.teshiotown.hokkaido.jp/?page_id=381",
+      "in": "https://www.teshiotown.hokkaido.jp/?page_id=381",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
