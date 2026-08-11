@@ -3607,5 +3607,45 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "tomamaeguntomamaemachi": {
+    "hasData": false,
+    "office": "苫前町役場（北海道苫前郡苫前町）住民生活課が転入・転出届を扱うが、公式サイト（town.tomamae.lg.jp）にライブ接続できずURLを検証できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "esashigunhamatonbetsumachi": {
+    "hasData": false,
+    "office": "浜頓別町役場（北海道枝幸郡浜頓別町）で転入・転出の手続きができるが、公式サイト（town.hamatonbetsu.hokkaido.jp）にライブ接続できずURLを検証できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "esashigunchuutonbetsumachi": {
+    "hasData": false,
+    "office": "中頓別町役場（北海道枝幸郡中頓別町）総務課住民グループで転入・転出の手続きができるが、公式サイト内に転入届・転出届の該当ページを特定・検証できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "esashigunesashimachi": {
+    "hasData": false,
+    "office": "枝幸町役場（北海道枝幸郡枝幸町）で転入・転出の手続きができるが、公式サイト（town.esashi.hokkaido.jp）に接続できずURLを検証できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
