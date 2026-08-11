@@ -363,10 +363,11 @@
   },
   "ichiharashi": {
     "hasData": true,
-    "office": "市民課（第1庁舎1階）のほか各支所でも関連手続きが可能（電話0436-22-1111）。市公式サイトはJS描画のため本文は添付PDF案内で内容を確認した。",
+    "office": "市原市役所市民課総合窓口で転入・転出の届出を受付（電話0436-22-1111）。",
     "links": {
-      "out": "https://www.city.ichihara.chiba.jp/article?articleId=635a451ff38a7311e61a30f3",
-      "in": "https://www.city.ichihara.chiba.jp/article?articleId=6685fa80bd6dd82535299ef3"
+      "out": null,
+      "in": null,
+      "mail": null
     },
     "confidence": "low"
   },

@@ -7090,5 +7090,285 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kashiwa": {
+    "hasData": true,
+    "office": "柏市役所市民課（本庁舎）、沼南支所、各出張所、柏駅前行政サービスセンターで転入・転出届を受付。",
+    "links": {
+      "out": "https://www.city.kashiwa.lg.jp/todokede/juusho/tenshutsu/index.html",
+      "in": "https://www.city.kashiwa.lg.jp/shimin/todokede/juusho/tennyuu/dosetai.html",
+      "mail": "https://www.city.kashiwa.lg.jp/shimin/todokede/juusho/tensyutuyubin.html"
+    },
+    "confidence": "high"
+  },
+  "kisarazushi": {
+    "hasData": true,
+    "office": "木更津市役所市民課（朝日庁舎）、富来田出張所（富来田公民館）で転入・転出の届出を受付。",
+    "links": {
+      "out": "https://www.city.kisarazu.lg.jp/soshiki/shimin/shimin/1/1150.html",
+      "in": "https://www.city.kisarazu.lg.jp/soshiki/shimin/shimin/1/1150.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nodashi": {
+    "hasData": true,
+    "office": "野田市役所市民課で転入・転出の届出を受付。マイナポータルからのオンライン転出届・転入予約も可能。",
+    "links": {
+      "out": "https://www.city.noda.chiba.jp/kurashi/soudan/todokede/1000268.html",
+      "in": "https://www.city.noda.chiba.jp/kurashi/soudan/todokede/1000265.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sakurashi_chib": {
+    "hasData": true,
+    "office": "佐倉市役所市民課、各出張所・派出所（西志津市民サービスセンターを除く）で転入・転出・転居の届出を受付。",
+    "links": {
+      "out": "https://www.city.sakura.lg.jp/soshiki/shiminka/1/4675.html",
+      "in": "https://www.city.sakura.lg.jp/soshiki/shiminka/1/4675.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "asahishi": {
+    "hasData": true,
+    "office": "旭市役所市民生活課（本庁舎1階）で転入・転出の届出を受付。転出届はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.asahi.lg.jp/site/shinsei-navi/13287.html",
+      "in": "https://www.city.asahi.lg.jp/site/shinsei-navi/13287.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamaketanishi": {
+    "hasData": true,
+    "office": "鎌ケ谷市役所市民課記録管理係（市庁舎1階）で転入・転出・転居の届出を受付。",
+    "links": {
+      "out": "https://www.city.kamagaya.chiba.jp/kurashi-tetsuzuki/todokede/tetsuzuki/tensyutsu.html",
+      "in": "https://www.city.kamagaya.chiba.jp/kurashi/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kimitsushi": {
+    "hasData": true,
+    "office": "君津市役所市民課市民記録係で転入・転出・転居の届出を受付。転出届はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.kimitsu.lg.jp/life/3/38/28/",
+      "in": "https://www.city.kimitsu.lg.jp/life/3/38/28/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futtsushi": {
+    "hasData": true,
+    "office": "富津市役所市民課で転入・転出の届出を受付。転出届はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.futtsu.lg.jp/0000004285.html",
+      "in": "https://www.city.futtsu.lg.jp/0000004285.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sodegaurashi": {
+    "hasData": true,
+    "office": "袖ケ浦市役所市民課で転入・転出・転居の届出を受付（かんたん窓口システム導入済み）。",
+    "links": {
+      "out": "https://www.city.sodegaura.lg.jp/soshiki/shimin/tetuduki.html",
+      "in": "https://www.city.sodegaura.lg.jp/soshiki/shimin/tetuduki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yachimatashi": {
+    "hasData": true,
+    "office": "八街市役所市民課で転入・転出・転居の届出を受付。転出届は郵送でも可能。",
+    "links": {
+      "out": "https://www.city.yachimata.lg.jp/life/1/1/4/",
+      "in": "https://www.city.yachimata.lg.jp/life/1/1/4/",
+      "mail": "https://www.city.yachimata.lg.jp/soshiki/9/1315.html"
+    },
+    "confidence": "high"
+  },
+  "inzaishi": {
+    "hasData": true,
+    "office": "印西市役所市民課（本庁）、市民サービス課（支所）、出張所で転入・転出の届出を受付。",
+    "links": {
+      "out": "https://www.city.inzai.lg.jp/0000008651.html",
+      "in": "https://www.city.inzai.lg.jp/0000008651.html",
+      "mail": "https://www.city.inzai.lg.jp/0000001384.html"
+    },
+    "confidence": "high"
+  },
+  "minamibousoushi": {
+    "hasData": true,
+    "office": "南房総市役所市民課で転入・転出・転居の届出を受付。転出届はマイナポータルからのオンライン提出も可能（転入・転居は窓口必須）。",
+    "links": {
+      "out": "https://www.city.minamiboso.chiba.jp/0000000597.html",
+      "in": "https://www.city.minamiboso.chiba.jp/0000000597.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "isumishi": {
+    "hasData": true,
+    "office": "いすみ市大原庁舎市民課市民班、夷隅庁舎地域市民班、岬庁舎地域市民班で転入・転出・転居の届出を受付。",
+    "links": {
+      "out": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1041.html",
+      "in": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1041.html",
+      "mail": "https://www.city.isumi.lg.jp/soshikikarasagasu/shiminka/shiminhan/1/1/2/1043.html"
+    },
+    "confidence": "high"
+  },
+  "inbagunsakekurikaesiimachi": {
+    "hasData": true,
+    "office": "酒々井町役場税務住民課（住民関係）で転入・転出・転居の届出を受付。マイナンバーカード保有者はオンラインで転出届の提出が可能（転入・転居は窓口必須）。",
+    "links": {
+      "out": "https://www.town.shisui.chiba.jp/docs/2026010800018/",
+      "in": null,
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "inbagunsakaemachi": {
+    "hasData": true,
+    "office": "栄町役場町民課で転入・転出・転居の届出を受付（〒270-1592 印旛郡栄町安食台1丁目2番）。",
+    "links": {
+      "out": "https://www.town.sakae.chiba.jp/kurashi/tetsuzuki/page000017.html",
+      "in": "https://www.town.sakae.chiba.jp/kurashi/tetsuzuki/page000017.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "katorigunkanzakimachi": {
+    "hasData": true,
+    "office": "神崎町役場町民生活課住民係で転入・転出・転居の届出を受付（電話0478-72-2113）。",
+    "links": {
+      "out": "https://www.town.kozaki.chiba.jp/kurashi/todokede/shomei/kihondaicho.html",
+      "in": "https://www.town.kozaki.chiba.jp/kurashi/todokede/shomei/kihondaicho.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "katoriguntakomachi": {
+    "hasData": true,
+    "office": "多古町役場住民課住民係で転入・転出・転居の届出を受付（電話0479-76-5401）。",
+    "links": {
+      "out": "https://www.town.tako.chiba.jp/docs/2023090600057/",
+      "in": "https://www.town.tako.chiba.jp/docs/2023090600057/",
+      "mail": "https://www.town.tako.chiba.jp/docs/2018011700299/"
+    },
+    "confidence": "high"
+  },
+  "katoriguntounoshoumachi": {
+    "hasData": true,
+    "office": "東庄町役場町民課で転入・転出の届出を受付。転出届は郵送での提出も可能。",
+    "links": {
+      "out": "https://www.town.tohnosho.chiba.jp/soshiki/chominka/chomin_kakari/gyomu/todokede_shomei/juminhyo/349.html",
+      "in": "https://www.town.tohnosho.chiba.jp/soshiki/chominka/chomin_kakari/gyomu/todokede_shomei/juminhyo/349.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sanbugunkujuukurimachi": {
+    "hasData": true,
+    "office": "九十九里町役場住民課住民係で転入・転出・転居の届出を受付（電話0475-70-3151）。",
+    "links": {
+      "out": "https://www.town.kujukuri.chiba.jp/0000000090.html",
+      "in": "https://www.town.kujukuri.chiba.jp/0000000089.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sanbugunyokoshibahikarimachi": {
+    "hasData": true,
+    "office": "横芝光町役場住民課で転入・転出・転居の届出を受付（電話0479-84-1211）。転出届は郵送でも可能。",
+    "links": {
+      "out": "https://www.town.yokoshibahikari.chiba.jp/soshiki/7/15988.html",
+      "in": "https://www.town.yokoshibahikari.chiba.jp/soshiki/7/15988.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunichinomiyachou": {
+    "hasData": true,
+    "office": "一宮町役場住民課（役場1階）で転入・転出の届出を受付。転出届はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.ichinomiya.chiba.jp/kurashi/tetuzuki/tennyusyutu/tensyutu.html",
+      "in": "https://www.town.ichinomiya.chiba.jp/kurashi/tetuzuki/tennyusyutu/tenkyo.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunmutsuzawamachi": {
+    "hasData": true,
+    "office": "睦沢町役場税務住民課で転入・転出の届出を受付（電話0475-44-2503）。",
+    "links": {
+      "out": "https://www.town.mutsuzawa.chiba.jp/kurashi/todokede/tensyutu.html",
+      "in": "https://www.town.mutsuzawa.chiba.jp/kurashi/todokede/kihondaichou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunchounamamura": {
+    "hasData": true,
+    "office": "長生村役場住民課で転入・転出の届出を受付（電話0475-32-2115）。",
+    "links": {
+      "out": "https://www.vill.chosei.chiba.jp/0000000186.html",
+      "in": "https://www.vill.chosei.chiba.jp/0000000186.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunshirakomachi": {
+    "hasData": true,
+    "office": "白子町役場住民課戸籍住民係で転入・転出の届出を受付（電話0475-33-2112）。",
+    "links": {
+      "out": "https://www.town.shirako.lg.jp/0000000027.html",
+      "in": "https://www.town.shirako.lg.jp/0000000022.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunchougaramachi": {
+    "hasData": true,
+    "office": "長柄町役場税務住民課で転入・転居・転出の届出を受付（電話0475-35-2111）。",
+    "links": {
+      "out": "https://www.town.nagara.chiba.jp/soshiki/3/92.html",
+      "in": "https://www.town.nagara.chiba.jp/soshiki/3/92.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chouseigunchouminamimachi": {
+    "hasData": true,
+    "office": "長南町役場税務住民課戸籍年金係で転入・転出の届出を受付（電話0475-46-2118）。",
+    "links": {
+      "out": "https://www.town.chonan.chiba.jp/kurashi/jumin/121/",
+      "in": "https://www.town.chonan.chiba.jp/kurashi/jumin/121/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "isumigunonjukumachi": {
+    "hasData": true,
+    "office": "御宿町役場で転入・転出の届出を受付。引越しワンストップサービスにも対応。",
+    "links": {
+      "out": "https://www.town.onjuku.chiba.jp/sub1/3/juuki.html",
+      "in": "https://www.town.onjuku.chiba.jp/sub1/3/juuki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "awagunkyonanmachi": {
+    "hasData": true,
+    "office": "鋸南町役場で戸籍・住民票等の届出（転入届等）を受付。",
+    "links": {
+      "out": "https://www.town.kyonan.chiba.jp/soshiki/3/1429.html",
+      "in": "https://www.town.kyonan.chiba.jp/soshiki/3/1429.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
