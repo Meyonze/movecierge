@@ -6270,5 +6270,235 @@
       "mail": "https://www.city.okaya.lg.jp/soshikikarasagasu/shiminseikatsuka/205/5018.html"
     },
     "confidence": "high"
+  },
+  "dateshi": {
+    "hasData": true,
+    "office": "北海道伊達市の転入・転出・転居の届け出は市民部市民課市民係（伊達市鹿島町20-1）で受け付けています。",
+    "links": {
+      "out": "https://www.city.date.hokkaido.jp/hotnews/detail/00000642.html",
+      "in": "https://www.city.date.hokkaido.jp/hotnews/detail/00000642.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hokutoshi": {
+    "hasData": true,
+    "office": "北海道北斗市への転入・転出の届け出は市民課で受け付けており、転入は14日以内に窓口での手続きが必要です。",
+    "links": {
+      "out": "https://www.city.hokuto.hokkaido.jp/docs/1204.html",
+      "in": "https://www.city.hokuto.hokkaido.jp/docs/1204.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikariguntoubetsumachi": {
+    "hasData": true,
+    "office": "石狩郡当別町の住民登録手続きは住民環境部住民課戸籍年金係（当別町白樺町58番地9）で受け付けています。",
+    "links": {
+      "out": "https://www.town.tobetsu.hokkaido.jp/soshiki/zyumin/227.html",
+      "in": "https://www.town.tobetsu.hokkaido.jp/soshiki/zyumin/2583.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikarigunshinshinotsumura": {
+    "hasData": true,
+    "office": "石狩郡新篠津村の転入・転出手続きは住民生活課戸籍年金係（新篠津村47線北13号）で受け付けています。",
+    "links": {
+      "out": "https://www.vill.shinshinotsu.hokkaido.jp/hotnews/detail/00000038.html",
+      "in": "https://www.vill.shinshinotsu.hokkaido.jp/hotnews/category/11.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "matsumaegunmatsumaemachi": {
+    "hasData": true,
+    "office": "松前郡松前町の住所変更（転入・転出）の届け出は町民課市民窓口係（松前町字福山248番地1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.matsumae.hokkaido.jp/hotnews/detail/00000106.html",
+      "in": "https://www.town.matsumae.hokkaido.jp/hotnews/detail/00000106.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "matsumaegunfukushimamachi": {
+    "hasData": true,
+    "office": "松前郡福島町の転入・転出の住民登録手続きは役場町民課または吉岡支所で受け付けています。",
+    "links": {
+      "out": "https://www.town.fukushima.hokkaido.jp/kurasi/todokede/%E5%90%84%E7%A8%AE%E5%B1%8A%E5%87%BA/",
+      "in": "https://www.town.fukushima.hokkaido.jp/kurasi/todokede/%E5%90%84%E7%A8%AE%E5%B1%8A%E5%87%BA/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiisogunshiriuchimachi": {
+    "hasData": true,
+    "office": "上磯郡知内町の転入・転出の届け出は生活福祉課戸籍住民係（知内町字重内21-1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.shiriuchi.hokkaido.jp/group/group_70.html",
+      "in": "https://www.town.shiriuchi.hokkaido.jp/group/group_70.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiisogunkikonaimachi": {
+    "hasData": true,
+    "office": "上磯郡木古内町の住民登録（転入・転出）の届け出は町民課住民グループ（木古内町字本町218番地）で受け付けています。",
+    "links": {
+      "out": "https://www.town.kikonai.hokkaido.jp/kurashi/tetsuzuki/koseki/jumintoroku.html",
+      "in": "https://www.town.kikonai.hokkaido.jp/kurashi/tetsuzuki/koseki/jumintoroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamedagunnanaemachi": {
+    "hasData": true,
+    "office": "亀田郡七飯町では引っ越しの際、転出届を提出し転出証明書を受け取ったうえで、転入先の役場で転入届を行います。",
+    "links": {
+      "out": "https://www.town.nanae.hokkaido.jp/hotnews/detail/00004924.html",
+      "in": "https://www.town.nanae.hokkaido.jp/hotnews/detail/00004924.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kayabegunshikabemachi": {
+    "hasData": true,
+    "office": "茅部郡鹿部町の住民登録に関する届け出（転入・転出）は民生課戸籍係（鹿部町鹿部252-1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.shikabe.lg.jp/soshiki/minsei/gyomu/10/831.html",
+      "in": "https://www.town.shikabe.lg.jp/soshiki/minsei/gyomu/10/831.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kayabegunmorichou": {
+    "hasData": true,
+    "office": "茅部郡森町の引越しに必要な届け出（転入・転出）は住民生活課（森町字御幸町144-1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.hokkaido-mori.lg.jp/seikatsunobamen/hikkoshi/2/index.html",
+      "in": "https://www.town.hokkaido-mori.lg.jp/seikatsunobamen/hikkoshi/2/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futamigunyakumomachi": {
+    "hasData": true,
+    "office": "二海郡八雲町の引越し（転出・転入）の届け出は役場（八雲町住初町138番地）で受け付けています。",
+    "links": {
+      "out": "https://www.town.yakumo.lg.jp/soshiki/jyuumin/hikkoshi-tenshutu.html",
+      "in": "https://www.town.yakumo.lg.jp/soshiki/jyuumin/hikkoshi-tenshutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamakoshigunchoumanbumachi": {
+    "hasData": true,
+    "office": "山越郡長万部町の引越し（転入・転居）の届け出は役場（長万部町字長万部453-1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.oshamambe.lg.jp/life/1/1/7/",
+      "in": "https://www.town.oshamambe.lg.jp/life/1/1/7/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hiyamagunesashimachi": {
+    "hasData": true,
+    "office": "檜山郡江差町の転出・転入の届け出は町民福祉課住民おもてなし係（江差町字中歌町193番地1）で受け付けています。",
+    "links": {
+      "out": "https://www.hokkaido-esashi.jp/modules/lifeinfo/content0104.html",
+      "in": "https://www.hokkaido-esashi.jp/modules/lifeinfo/content0105.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hiyamagujounokunimachi": {
+    "hasData": true,
+    "office": "檜山郡上ノ国町の転入・転出の届け出は住民課戸籍保険グループ（上ノ国町字大留99番地）で受け付けています。",
+    "links": {
+      "out": "https://www.town.kaminokuni.lg.jp/hotnews/lifeevent_sp/5.html",
+      "in": "https://www.town.kaminokuni.lg.jp/hotnews/lifeevent_sp/5.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishigunotobechou": {
+    "hasData": true,
+    "office": "爾志郡乙部町の戸籍の届出・住民登録（転入・転出）は町民課（乙部町字緑町223番地）で受け付けています。",
+    "links": {
+      "out": "https://www.town.otobe.lg.jp/section/choumin/e0taal00000008tf.html",
+      "in": "https://www.town.otobe.lg.jp/section/choumin/e0taal00000008tf.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "okushirigunokushirimachi": {
+    "hasData": true,
+    "office": "奥尻郡奥尻町の住民登録（転入・転出・転居）は住民課戸籍係（奥尻町字奥尻） で受け付けています。",
+    "links": {
+      "out": "https://www.town.okushiri.lg.jp/hotnews/detail/00001307.html",
+      "in": "https://www.town.okushiri.lg.jp/hotnews/detail/00001307.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kudougunsetanamachi": {
+    "hasData": true,
+    "office": "久遠郡せたな町の住民登録（転入・転出）は町民児童課戸籍年金係または各総合支所住民係で受け付けています。",
+    "links": {
+      "out": "https://www.town.setana.lg.jp/kurashi/koseki/post_98.html",
+      "in": "https://www.town.setana.lg.jp/kurashi/koseki/post_98.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunchippubetsumachi": {
+    "hasData": true,
+    "office": "雨竜郡秩父別町の住民登録（転入出等）の届け出は住民課戸籍係（秩父別町）で受け付けています。",
+    "links": {
+      "out": "https://www.town.chippubetsu.hokkaido.jp/category/detail.html?category=life&content=174",
+      "in": "https://www.town.chippubetsu.hokkaido.jp/category/detail.html?category=life&content=174",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunuryuumachi": {
+    "hasData": true,
+    "office": "雨竜郡雨竜町の住民票の変更届出（転入・転出）は役場（雨竜町）で受け付けています。",
+    "links": {
+      "out": "https://www.town.uryu.hokkaido.jp/docs/jumin-todokede.html",
+      "in": "https://www.town.uryu.hokkaido.jp/docs/jumin-todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunhokuryuumachi": {
+    "hasData": true,
+    "office": "雨竜郡北竜町の戸籍・住民票関連の届け出（転入・転出）は役場（北竜町字和11番地1）で受け付けています。",
+    "links": {
+      "out": "https://www.town.hokuryu.hokkaido.jp/purpose/koseki-juminhyo/",
+      "in": "https://www.town.hokuryu.hokkaido.jp/purpose/koseki-juminhyo/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "uryuugunnumatamachi": {
+    "hasData": true,
+    "office": "雨竜郡沼田町の住民登録（転入・転出）の届け出は役場住民係（沼田町）で受け付けています。",
+    "links": {
+      "out": "https://www.town.numata.hokkaido.jp/section/jyuumin/ujj7s3000000044k.html",
+      "in": "https://www.town.numata.hokkaido.jp/section/jyuumin/ujj7s3000000044k.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunhigashikaguramachi": {
+    "hasData": true,
+    "office": "上川郡東神楽町の転入・転居・転出の届け出は東神楽町役場くらしの窓口課（東神楽町南1条西1丁目3番2号）で受け付けています。",
+    "links": {
+      "out": "https://www.town.higashikagura.lg.jp/docs/96.html",
+      "in": "https://www.town.higashikagura.lg.jp/docs/96.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
