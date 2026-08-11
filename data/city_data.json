@@ -6800,5 +6800,295 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kanoyashi": {
+    "hasData": true,
+    "office": "鹿屋市役所市民課（本庁）または各支所窓口で転入届・転出届を受け付け。マイナンバーカードによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.kanoya.lg.jp/kouhou/kurashi/tochi/sonota/hikkoshi.html",
+      "in": "https://www.city.kanoya.lg.jp/kouhou/kurashi/tochi/sonota/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shussuishi": {
+    "hasData": true,
+    "office": "出水市役所市民課で転入届・転出届を受け付け。マイナンバーカードによる特例転入・オンライン転出、郵送転出にも対応。",
+    "links": {
+      "out": "https://www.city.kagoshima-izumi.lg.jp/page/page_03348.html",
+      "in": "https://www.city.kagoshima-izumi.lg.jp/page/page_03348.html",
+      "mail": "https://www.city.kagoshima-izumi.lg.jp/page/page_03934.html"
+    },
+    "confidence": "high"
+  },
+  "ibusukishi": {
+    "hasData": true,
+    "office": "指宿市役所市民課、または山川・開聞の市民福祉課窓口で転入届・転出届を受け付け。郵送による転出届にも対応。",
+    "links": {
+      "out": "https://www.city.ibusuki.lg.jp/main/faq/hikkoshi/",
+      "in": "https://www.city.ibusuki.lg.jp/main/faq/hikkoshi/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishinoomoteshi": {
+    "hasData": true,
+    "office": "種子島・西之表市役所市民生活課市民係窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.city.nishinoomote.lg.jp/admin/mokuteki/hikkoshi/index.html",
+      "in": "https://www.city.nishinoomote.lg.jp/admin/mokuteki/hikkoshi/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "satsumasendaishi": {
+    "hasData": true,
+    "office": "薩摩川内市役所本庁または各支所の窓口で転入届・転出届を受け付け。マイナンバーカードによる特例転出、転出証明書の郵送請求にも対応。",
+    "links": {
+      "out": "https://www.city.satsumasendai.lg.jp/kurashi_tetsuzuki/todokede_shomei/1/index.html",
+      "in": "https://www.city.satsumasendai.lg.jp/kurashi_tetsuzuki/todokede_shomei/1/index.html",
+      "mail": "https://www.city.satsumasendai.lg.jp/soshiki/1027/1/1/3/11223.html"
+    },
+    "confidence": "high"
+  },
+  "sooichi": {
+    "hasData": true,
+    "office": "曽於市役所市民生活課で転入届・転出届を受け付け。マイナンバーカードによる引っ越しワンストップサービス（マイナポータル転出届）にも対応。",
+    "links": {
+      "out": "https://www.city.soo.kagoshima.jp/kurashi/todokedesyomei/todokede/jyuminhyotodoke.html",
+      "in": "https://www.city.soo.kagoshima.jp/kurashi/todokedesyomei/todokede/jyuminhyotodoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kirishimashi": {
+    "hasData": true,
+    "office": "霧島市役所市民課窓口で転入届・転出届を受け付け。マイナポータルによる転出のオンライン届出にも対応。",
+    "links": {
+      "out": "https://www.city-kirishima.jp/simin/kurashi/koseki/tetsuzuki/jushohenko.html",
+      "in": "https://www.city-kirishima.jp/simin/kurashi/koseki/tetsuzuki/jushohenko.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ichikikushikinoshi": {
+    "hasData": true,
+    "office": "いちき串木野市役所串木野庁舎市民生活課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届・転入予約にも対応。",
+    "links": {
+      "out": "https://www.city.ichikikushikino.lg.jp/hikkoshi.html",
+      "in": "https://www.city.ichikikushikino.lg.jp/hikkoshi.html",
+      "mail": "https://www.city.ichikikushikino.lg.jp/densan1/kurashi/documents/yusoutenshutu.pdf"
+    },
+    "confidence": "high"
+  },
+  "minamisatsumashi": {
+    "hasData": true,
+    "office": "南さつま市役所本庁市民環境課または各支所市民課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.minamisatsuma.lg.jp/living/tetsuzuki/hikkoshi/e027745.html",
+      "in": "https://www.city.minamisatsuma.lg.jp/living/tetsuzuki/hikkoshi/e016543.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibushishi": {
+    "hasData": true,
+    "office": "志布志市役所窓口で転入届・転出届を受け付け。マイナポータルによるオンライン転出届、郵送による転出証明書請求にも対応。",
+    "links": {
+      "out": "https://www.city.shibushi.lg.jp/soshiki/6/24329.html",
+      "in": "https://www.city.shibushi.lg.jp/soshiki/6/16831.html",
+      "mail": "https://www.city.shibushi.lg.jp/soshiki/6/12844.html"
+    },
+    "confidence": "high"
+  },
+  "amamishi": {
+    "hasData": true,
+    "office": "奄美市役所市民課窓口で転入届・転出届を受け付け。転出はマイナポータルによるオンライン届出も可能だが、転入・転居は窓口来庁が必須。",
+    "links": {
+      "out": "https://www.city.amami.lg.jp/shimin/hikkoshioss.html",
+      "in": "https://www.city.amami.lg.jp/shimin/machi/koseki/hikkoshi/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikyuushuushi": {
+    "hasData": true,
+    "office": "南九州市役所各庁舎の市民生活課窓口で転入届・転出届を受け付け。事前にインターネットで住民異動届情報を入力できる。",
+    "links": {
+      "out": "https://www.city.minamikyushu.lg.jp/soshikikarasagasu/shiminseikatsuka/shimin/1/369.html",
+      "in": "https://www.city.minamikyushu.lg.jp/soshikikarasagasu/shiminseikatsuka/shimin/1/369.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "isashi": {
+    "hasData": true,
+    "office": "伊佐市大口庁舎市民課または菱刈庁舎地域総務課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.city.isa.kagoshima.jp/life/madoguchi/%E6%88%B8%E7%B1%8D%E3%82%84%E4%BD%8F%E6%B0%91%E7%A5%A8%E3%81%AA%E3%81%A9%E3%81%AE%E5%B1%8A%E5%87%BA%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/",
+      "in": "https://www.city.isa.kagoshima.jp/life/madoguchi/%E6%88%B8%E7%B1%8D%E3%82%84%E4%BD%8F%E6%B0%91%E7%A5%A8%E3%81%AA%E3%81%A9%E3%81%AE%E5%B1%8A%E5%87%BA%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "airashi": {
+    "hasData": true,
+    "office": "姶良市役所本庁市民課または各支所窓口で転入届・転出届を受け付け。オンライン転出届・転入等の事前来庁通知サービスにも対応。",
+    "links": {
+      "out": "https://www.city.aira.lg.jp/iju/todoke/index.html",
+      "in": "https://www.city.aira.lg.jp/iju/todoke/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kakoshimagunmishimamura": {
+    "hasData": true,
+    "office": "三島村役場民生課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届・転入来庁予定登録にも対応。",
+    "links": {
+      "out": "https://mishimamura.com/toumin/syoumei/%E8%BB%A2%E5%85%A5%E3%83%BB%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%B1%85%E3%81%AE%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "in": "https://mishimamura.com/toumin/syoumei/%E8%BB%A2%E5%85%A5%E3%83%BB%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%B1%85%E3%81%AE%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kakoshimagunjuushimamura": {
+    "hasData": true,
+    "office": "十島村役場窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.tokara.jp/life/tennyu/",
+      "in": "https://www.tokara.jp/life/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "satsumagunsatsumamachi": {
+    "hasData": true,
+    "office": "さつま町役場窓口で転入届・転出届を受け付け。マイナポータルによる引越しワンストップサービス、郵便による転出届提出にも対応。",
+    "links": {
+      "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/6733.html",
+      "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
+      "mail": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/juminhyo_koseki/1403.html"
+    },
+    "confidence": "high"
+  },
+  "shussuigunchoushimamachi": {
+    "hasData": true,
+    "office": "長島町役場窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.nagashima.lg.jp/livelihood/li0006/",
+      "in": "https://www.town.nagashima.lg.jp/livelihood/li0006/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "airagunyuusuimachi": {
+    "hasData": true,
+    "office": "湧水町役場栗野庁舎または吉松庁舎の住民税務課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
+      "in": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "soogunoosakimachi": {
+    "hasData": true,
+    "office": "大崎町役場町民課窓口で転入届・転出届を受け付け。マイナポータルによる引越しワンストップサービス（オンライン転出届）にも対応。",
+    "links": {
+      "out": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/hikkosionestop.html",
+      "in": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/jyuuminhyoutyuui.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kimotsukigunhigashikushiramachi": {
+    "hasData": true,
+    "office": "東串良町役場住民課で転入届・転出届を受け付け。郵送による転出届にも対応。",
+    "links": {
+      "out": "https://www.higashikushira.com/docs/2019042300021/",
+      "in": "https://www.higashikushira.com/docs/2019042300021/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kimotsukigunminamioosumimachi": {
+    "hasData": true,
+    "office": "南大隅町役場窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.minamiosumi.lg.jp/chominhoken/kurashi/koseki/todokede.html",
+      "in": "https://www.town.minamiosumi.lg.jp/chominhoken/kurashi/koseki/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kumagegunchuushushimachi": {
+    "hasData": true,
+    "office": "種子島・中種子町役場町民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://town.nakatane.kagoshima.jp/koseki/todokede-tetuduki.html",
+      "in": "https://town.nakatane.kagoshima.jp/koseki/todokede-tetuduki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kumagegunyakushimamachi": {
+    "hasData": true,
+    "office": "屋久島町役場町民課・地域住民課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届、郵送転出届にも対応。",
+    "links": {
+      "out": "https://www.town.yakushima.kagoshima.jp/kurashinobamen/hikkoshi/3043.html",
+      "in": "https://www.town.yakushima.kagoshima.jp/kurashinobamen/hikkoshi/3043.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimaguntatsugoumachi": {
+    "hasData": true,
+    "office": "龍郷町役場町民税務課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.tatsugo.lg.jp/chouminzeimu/kurashi/tetsuzuki/jumintouroku.html",
+      "in": "https://www.town.tatsugo.lg.jp/chouminzeimu/kurashi/tetsuzuki/jumintouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunkikaimachi": {
+    "hasData": true,
+    "office": "喜界町役場町民税務課（町民衛生チーム）で転入届・転出届を受け付け。転出証明書の郵送交付申請にも対応。",
+    "links": {
+      "out": "https://www.town.kikai.lg.jp/juki/kurashi/todokede/tetsuzuki/hikkoshi.html",
+      "in": "https://www.town.kikai.lg.jp/juki/kurashi/todokede/tetsuzuki/hikkoshi.html",
+      "mail": "https://www.town.kikai.lg.jp/jumin/kurashi/shinse/documents/tennsyutu.pdf"
+    },
+    "confidence": "high"
+  },
+  "ooshimagunnoriyukishimamachi": {
+    "hasData": true,
+    "office": "徳之島町役場住民生活課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.tokunoshima-town.org/jyuminseikatsuka/kurashi/koseki/tennyushutsu.html",
+      "in": "https://www.tokunoshima-town.org/jyuminseikatsuka/kurashi/koseki/tennyushutsu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunamagimachi": {
+    "hasData": true,
+    "office": "天城町役場くらしと税務課で転入届・転出届を受け付け。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.amagi.lg.jp/docs/2436.html",
+      "in": "https://www.town.amagi.lg.jp/kurashi/todokede/idou/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimagunisenmachi": {
+    "hasData": true,
+    "office": "伊仙町役場窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.isen.kagoshima.jp/kurasi/kurashi/tetsuzuki/juminhyokanke.html",
+      "in": "https://www.town.isen.kagoshima.jp/kurasi/kurashi/tetsuzuki/juminhyokanke.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
