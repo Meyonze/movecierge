@@ -6140,5 +6140,135 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "rumoishi": {
+    "hasData": true,
+    "office": "留萌市役所市民課（留萌市大町2丁目）で転入届・転出届を受け付け。転出はマイナポータルでオンライン申請も可能。",
+    "links": {
+      "out": "https://www.e-rumoi.jp/shimin/shi_00001.html",
+      "in": "https://www.e-rumoi.jp/shimin/shi_00001.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tomakomaishi": {
+    "hasData": true,
+    "office": "苫小牧市役所市民生活部窓口サービス課（住所異動担当）で転入届・転出届を受け付け。郵送やオンラインでの転出届にも対応。",
+    "links": {
+      "out": "https://www.city.tomakomai.hokkaido.jp/lifeevent/tennyu.html",
+      "in": "https://www.city.tomakomai.hokkaido.jp/lifeevent/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashibetsushi": {
+    "hasData": true,
+    "office": "芦別市役所市民課（住民登録担当）で転入届・転出届を受け付け。転出届はマイナポータルからオンラインでも提出可能。",
+    "links": {
+      "out": "https://www.city.ashibetsu.hokkaido.jp/docs/4919.html",
+      "in": "https://www.city.ashibetsu.hokkaido.jp/docs/4919.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ebetsushi": {
+    "hasData": true,
+    "office": "江別市役所本庁舎1階・戸籍住民課住民記録係で転入届・転出届を受け付け。転出届は郵送可だが転入届は郵送不可、来庁必須。",
+    "links": {
+      "out": "https://www.city.ebetsu.hokkaido.jp/soshiki/shimin/115.html",
+      "in": "https://www.city.ebetsu.hokkaido.jp/soshiki/shimin/115.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akabirashi": {
+    "hasData": true,
+    "office": "赤平市役所で転入届・転出届を受け付け。転出はマイナポータルを利用したオンライン届出・転入予約に対応。",
+    "links": {
+      "out": "https://www.city.akabira.hokkaido.jp/docs/2013021400054.html",
+      "in": "https://www.city.akabira.hokkaido.jp/docs/2013021400054.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibetsushi": {
+    "hasData": true,
+    "office": "士別市役所市民課戸籍住民係（1番窓口）または支所で転入届・転出届を受け付け。転出はマイナポータルでオンライン提出可能。",
+    "links": {
+      "out": "https://www.city.shibetsu.lg.jp/soshikikarasagasu/shiminka/kosekijuminkakari/1302.html",
+      "in": "https://www.city.shibetsu.lg.jp/soshikikarasagasu/shiminka/kosekijuminkakari/1302.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "mikasashi": {
+    "hasData": true,
+    "office": "三笠市役所市民生活課で住民異動届（転入・転居・転出）を受け付け。転入は引越し日から14日以内の届出が必要。",
+    "links": {
+      "out": "https://www.city.mikasa.hokkaido.jp/hotnews/detail/00001145.html",
+      "in": "https://www.city.mikasa.hokkaido.jp/hotnews/detail/00001145.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitoseshi": {
+    "hasData": true,
+    "office": "千歳市役所市民環境部で転入届・転出届を受け付け。転入・転出とも住み始めてから14日以内の届出が必要。",
+    "links": {
+      "out": "https://www.city.chitose.lg.jp/c10/1002545/1002556/1002559/1005048.html",
+      "in": "https://www.city.chitose.lg.jp/c10/1002545/1002556/1002559/1005048.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sunagawashi": {
+    "hasData": true,
+    "office": "砂川市役所市民生活課戸籍年金係（4番窓口）で住民異動届（転入・転出）を受け付け。転出届は郵送でも手続き可能。",
+    "links": {
+      "out": "https://www.city.sunagawa.hokkaido.jp/seikatsu_kurashi/koseki/juuminhyou.html",
+      "in": "https://www.city.sunagawa.hokkaido.jp/seikatsu_kurashi/koseki/juuminhyou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "eniwashi": {
+    "hasData": true,
+    "office": "恵庭市役所市民課で転入届・転出届を受け付け。転出はマイナポータルからのオンライン届出にも対応。",
+    "links": {
+      "out": "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/seikatsukankyoubu/shiminka/juminhyo_koseki_jukyohyoji/8/1527.html",
+      "in": "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/seikatsukankyoubu/shiminka/juminhyo_koseki_jukyohyoji/8/1527.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nagano": {
+    "hasData": true,
+    "office": "長野市役所市民窓口課（本庁舎）または長野市内各支所で手続き。転出はマイナポータル経由でオンライン申請可。",
+    "links": {
+      "out": "https://www.city.nagano.nagano.jp/n085500/contents/p000229.html",
+      "in": "https://www.city.nagano.nagano.jp/n085500/contents/p000226.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "matsumotoshi": {
+    "hasData": true,
+    "office": "松本市役所東庁舎1階 市民課で手続き。転出はマイナンバーカードでオンライン申請可。",
+    "links": {
+      "out": "https://www.city.matsumoto.nagano.jp/site/benricho/84209.html",
+      "in": "https://www.city.matsumoto.nagano.jp/site/benricho/3357.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "okayashi": {
+    "hasData": true,
+    "office": "岡谷市役所市民生活課で手続き。転出届は郵送でも可能。",
+    "links": {
+      "out": "https://www.city.okaya.lg.jp/soshikikarasagasu/shiminseikatsuka/205/6432.html",
+      "in": "https://www.city.okaya.lg.jp/soshikikarasagasu/shiminseikatsuka/205/6432.html",
+      "mail": "https://www.city.okaya.lg.jp/soshikikarasagasu/shiminseikatsuka/205/5018.html"
+    },
+    "confidence": "high"
   }
 }
