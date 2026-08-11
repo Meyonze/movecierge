@@ -6500,5 +6500,305 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "aizuwakamatsushi": {
+    "hasData": true,
+    "office": "会津若松市役所市民課、または各支所で転入届・転出届の手続きができる。マイナンバーカード保有者はオンライン転出も可能。",
+    "links": {
+      "out": "https://www.city.aizuwakamatsu.fukushima.jp/category/bunya/hikkoshi/tenkyo_all/",
+      "in": "https://www.city.aizuwakamatsu.fukushima.jp/category/bunya/hikkoshi/tenkyo_all/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwakishi": {
+    "hasData": true,
+    "office": "いわき市役所市民課、各支所・市民サービスセンターで転入届・転出届の手続きができる。オンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.iwaki.lg.jp/www/genre/1445400129448/index.html",
+      "in": "https://www.city.iwaki.lg.jp/www/genre/1445400129448/index.html",
+      "mail": "https://www.city.iwaki.lg.jp/www/contents/1001000003088/"
+    },
+    "confidence": "high"
+  },
+  "shirakawashi": {
+    "hasData": true,
+    "office": "白河市役所本庁舎市民課、各庁舎地域振興課、各行政センターで転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.city.shirakawa.fukushima.jp/page/page000017.html",
+      "in": "https://www.city.shirakawa.fukushima.jp/page/page000017.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sukagawashi": {
+    "hasData": true,
+    "office": "須賀川市役所で転入届・転出届の手続きができる。転入は窓口のみ、転出は郵送も可能。",
+    "links": {
+      "out": "https://www.city.sukagawa.fukushima.jp/faq/1006377/1007351/1007356.html",
+      "in": "https://www.city.sukagawa.fukushima.jp/faq/1006377/1007351/1007356.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "soumashi": {
+    "hasData": true,
+    "office": "相馬市役所市民課で転入届・転出届の手続きができる。マイナンバーカード保有者は郵送での転出届も可能。",
+    "links": {
+      "out": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
+      "in": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
+      "mail": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1237.html"
+    },
+    "confidence": "high"
+  },
+  "nihonmatsushi": {
+    "hasData": true,
+    "office": "二本松市役所で転入届・転出届の手続きができる。マイナポータルからのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/todokede_syomei/page001532.html",
+      "in": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/todokede_syomei/page001532.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamurashi": {
+    "hasData": true,
+    "office": "田村市役所市民窓口係で転入届・転出届の手続きができる。マイナンバーカード保有者はオンライン転出も可能。",
+    "links": {
+      "out": "https://www.city.tamura.lg.jp/soshiki/6/shimin-madoguti-idou.html",
+      "in": "https://www.city.tamura.lg.jp/soshiki/6/shimin-madoguti-idou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "dateshi_fuku": {
+    "hasData": true,
+    "office": "伊達市役所市民課、各総合支所で転入届・転出届の手続きができる。オンライン転出届（引越しワンストップサービス）にも対応。",
+    "links": {
+      "out": "https://www.city.fukushima-date.lg.jp/soshiki/10/10.html",
+      "in": "https://www.city.fukushima-date.lg.jp/soshiki/10/202.html",
+      "mail": "https://www.city.fukushima-date.lg.jp/soshiki/10/210.html"
+    },
+    "confidence": "high"
+  },
+  "motomiyashi": {
+    "hasData": true,
+    "office": "本宮市役所市民課で転入届・転出届の手続きができる。マイナンバーカード保有者はオンライン転出（ぴったりサービス）も可能。",
+    "links": {
+      "out": "https://www.city.motomiya.lg.jp/soshiki/9/jyuuminidou.html",
+      "in": "https://www.city.motomiya.lg.jp/soshiki/9/jyuuminidou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "dategunkuwaorimachi": {
+    "hasData": true,
+    "office": "桑折町役場税務住民課で転入届・転出届・転居届・世帯変更届の手続きができる。",
+    "links": {
+      "out": "https://www.town.koori.fukushima.jp/soshiki/2/2404.html",
+      "in": "https://www.town.koori.fukushima.jp/soshiki/2/2404.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "dategunkunimimachi": {
+    "hasData": true,
+    "office": "国見町役場住民防災課戸籍係で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.kunimi.fukushima.jp/soshiki/4/136.html",
+      "in": "https://www.town.kunimi.fukushima.jp/soshiki/4/136.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "dategunkawamatamachi": {
+    "hasData": true,
+    "office": "川俣町役場町民係で住民異動に関する届出（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.kawamata.lg.jp/site/kurashi-tetsuzuki/juuminidou.html",
+      "in": "https://www.town.kawamata.lg.jp/site/kurashi-tetsuzuki/juuminidou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "adachigunootamamura": {
+    "hasData": true,
+    "office": "大玉村役場住民生活部住民健康保険課で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.vill.otama.fukushima.jp/kurashi/todokede_syoumei/jyumin_toroku/tensyutu/",
+      "in": "https://www.vill.otama.fukushima.jp/kurashi/todokede_syoumei/jyumin_toroku/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwasegunkagamiishimachi": {
+    "hasData": true,
+    "office": "鏡石町役場税務町民課で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.kagamiishi.fukushima.jp/kurashi/kurashi_tetuzuki/tetuzuki/009245.html",
+      "in": "https://www.town.kagamiishi.fukushima.jp/kurashi/kurashi_tetuzuki/tetuzuki/009245.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwasegunteneimura": {
+    "hasData": true,
+    "office": "天栄村役場住民福祉課、または湯本支所で転入届・転出届の手続きができる。転出届は郵送も可能。",
+    "links": {
+      "out": "https://www.vill.tenei.fukushima.jp/soshiki/3/tenshutsu-todoke.html",
+      "in": "https://www.vill.tenei.fukushima.jp/soshiki/3/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamiaizugunshimogoumachi": {
+    "hasData": true,
+    "office": "下郷町役場町民課戸籍保険係で住所の届出（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.shimogo.fukushima.jp/organization/choumin/1/1/747.html",
+      "in": "https://www.town.shimogo.fukushima.jp/organization/choumin/1/1/747.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamiaizugunhiekimura": {
+    "hasData": true,
+    "office": "檜枝岐村役場住民課で住民登録（住民基本台帳）の届出（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.vill.hinoemata.lg.jp/jyumin/syomei/000019.html",
+      "in": "https://www.vill.hinoemata.lg.jp/jyumin/syomei/000019.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamiaizuguntadamimachi": {
+    "hasData": true,
+    "office": "只見町役場町民課で各種住民異動届（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.tadami.lg.jp/lifeguide/cat01/cat1/000042.html",
+      "in": "https://www.town.tadami.lg.jp/lifeguide/cat01/cat1/000042.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamiaizugunminamiaizumachi": {
+    "hasData": true,
+    "office": "南会津町役場住民生活課戸籍住民係で転入届・転出届の手続きができる。マイナンバーカード保有者はオンライン手続きも可能。",
+    "links": {
+      "out": "https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/juminseikatsuka/jumintoroku_inkantoroku_mynumbernado/4/535.html",
+      "in": "https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/juminseikatsuka/jumintoroku_inkantoroku_mynumbernado/4/534.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamagunkitashiobaramura": {
+    "hasData": true,
+    "office": "北塩原村役場住民税務課で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.vill.kitashiobara.fukushima.jp/soshiki/juminzeimu/1440.html",
+      "in": "https://www.vill.kitashiobara.fukushima.jp/soshiki/juminzeimu/1438.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamagunnishiaizumachi": {
+    "hasData": true,
+    "office": "西会津町役場町民税務課町民生活係で住民登録（転入届・転出届・転居届・世帯変更届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.nishiaizu.fukushima.jp/soshiki/3/694.html",
+      "in": "https://www.town.nishiaizu.fukushima.jp/soshiki/3/694.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamagunbandaichou": {
+    "hasData": true,
+    "office": "磐梯町役場で転出・転入の届出・手続きができる。",
+    "links": {
+      "out": "https://www.town.bandai.fukushima.jp/site/todokede/list82.html",
+      "in": "https://www.town.bandai.fukushima.jp/site/todokede/list82.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yamaguninawashiromachi": {
+    "hasData": true,
+    "office": "猪苗代町役場町民生活課で住民異動に関する届出（転入届・転出届）の手続きができる。オンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.inawashiro.fukushima.jp/soshiki/4/1672.html",
+      "in": "https://www.town.inawashiro.fukushima.jp/soshiki/4/1672.html",
+      "mail": "https://www.town.inawashiro.fukushima.jp/soshiki/4/1663.html"
+    },
+    "confidence": "high"
+  },
+  "kawanumagunkaitsusakashitamachi": {
+    "hasData": true,
+    "office": "会津坂下町役場戸籍環境班で転入届・転出届・転居届の手続きができる。",
+    "links": {
+      "out": "https://www.town.aizubange.fukushima.jp/life/1/3/7/",
+      "in": "https://www.town.aizubange.fukushima.jp/soshiki/27/14.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawanumagunyukawamura": {
+    "hasData": true,
+    "office": "湯川村役場住民福祉課で転入届・転出届の手続きができる。転出届は郵送も可能。",
+    "links": {
+      "out": "https://www.vill.yugawa.fukushima.jp/site/kurashi-top/ten-syutsu-todoke.html",
+      "in": "https://www.vill.yugawa.fukushima.jp/site/kurashi-top/ten-nyu-todoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawanumagunyanaizuchou": {
+    "hasData": true,
+    "office": "柳津町役場で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.yanaizu.fukushima.jp/docs/2026043000027",
+      "in": "https://www.town.yanaizu.fukushima.jp/docs/2026043000027",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oonumagunmishimamachi": {
+    "hasData": true,
+    "office": "三島町役場町民課町民係で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.mishima.fukushima.jp/soshiki/choumin/141.html",
+      "in": "https://www.town.mishima.fukushima.jp/soshiki/choumin/141.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oonumagunkanayamachou": {
+    "hasData": true,
+    "office": "金山町役場住民係で住所変更等の届出（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.town.kaneyama.fukushima.jp/soshiki/55/jusho-henkou.html",
+      "in": "https://www.town.kaneyama.fukushima.jp/soshiki/55/jusho-henkou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oonumagunshouwamura": {
+    "hasData": true,
+    "office": "昭和村役場窓口業務で戸籍・住民登録に関する届出（転入届・転出届）の手続きができる。",
+    "links": {
+      "out": "https://www.vill.showa.fukushima.jp/procedure/59/",
+      "in": "https://www.vill.showa.fukushima.jp/procedure/59/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oonumagunkaitsumisatomachi": {
+    "hasData": true,
+    "office": "会津美里町役場町民税務課住民戸籍係で転入届・転出届の手続きができる。オンライン転出届・転入予約にも対応。",
+    "links": {
+      "out": "https://www.town.aizumisato.fukushima.jp/soshiki/1009/2/1/1086.html",
+      "in": "https://www.town.aizumisato.fukushima.jp/soshiki/1009/2/1/1085.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
