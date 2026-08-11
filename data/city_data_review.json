@@ -3178,12 +3178,12 @@
     "confidence": "low"
   },
   "kumagegunminamitanemachi": {
-    "hasData": true,
-    "office": "南種子町役場 総務課戸籍住民係（鹿児島県熊毛郡南種子町中之上2793-1）。転出届は専用ページ（郵送・オンライン手続きの説明あり）、転入届は「引っ越しに関する各種手続」ページ内に他の届出とまとめて掲載。",
+    "hasData": false,
+    "office": "南種子町役場で転入届・転出届の届出を受け付け（詳細窓口は要確認）。",
     "links": {
-      "out": "https://town.minamitane.kagoshima.jp/life/koseki/tensyutsu.html",
-      "in": "https://town.minamitane.kagoshima.jp/life/lifestyle/residence.html",
-      "mail": "https://town.minamitane.kagoshima.jp/life/koseki/tensyutsu.html"
+      "out": null,
+      "in": null,
+      "mail": null
     },
     "confidence": "low"
   },
