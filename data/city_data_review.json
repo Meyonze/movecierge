@@ -3647,5 +3647,35 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "minamisakugunminamiaikimura": {
+    "hasData": true,
+    "office": "南相木村役場総務課で転出届・転入届を受け付け（長野県南佐久郡南相木村）。公式サイト上で個別の手続きページを確認できず、電話・窓口での確認を推奨。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "minamisakugunkitaaikimura": {
+    "hasData": true,
+    "office": "北相木村役場住民福祉課で転出届・転入届を受け付け（長野県南佐久郡北相木村2744）。公式サイトへのアクセス検証ができず、電話・窓口での確認を推奨。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kamiinagunmiyatamura": {
+    "hasData": true,
+    "office": "宮田村役場で転入届・転出届を受け付け。公式サイトがJavaScript動作のシングルページアプリケーションのため個別ページのURLを検証できず、電話・窓口での確認を推奨。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
