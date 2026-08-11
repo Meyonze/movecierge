@@ -7630,5 +7630,275 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "iidashi": {
+    "hasData": true,
+    "office": "飯田市役所市民課（または各自治振興センター）で転出届・転入届を受け付け。マイナポータルでの電子申請にも対応。",
+    "links": {
+      "out": "https://www.city.iida.lg.jp/soshiki/5/tensyutu.html",
+      "in": "https://www.city.iida.lg.jp/soshiki/5/tennyuu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "suzakashi": {
+    "hasData": true,
+    "office": "須坂市役所市民環境部市民課で転出届・転入届・転居届を受け付け。マイナポータルでのオンライン転出届・転入予約にも対応。",
+    "links": {
+      "out": "https://www.city.suzaka.nagano.jp/soshiki/3010/1/173.html",
+      "in": "https://www.city.suzaka.nagano.jp/soshiki/3010/1/173.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "komoroshi": {
+    "hasData": true,
+    "office": "小諸市役所市民課で転出届・転入届を受け付け。郵送やGrafferスマート申請によるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.komoro.lg.jp/soshikikarasagasu/shiminseikatsubu/shiminka/1/2/6/14098.html",
+      "in": "https://www.city.komoro.lg.jp/soshikikarasagasu/shiminseikatsubu/shiminka/1/2/6/1881.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "inashi": {
+    "hasData": true,
+    "office": "伊那市役所市民課（1階）または高遠町・長谷の総合支所、各支所で転出届・転入届を受け付け。転出届は郵送申請も可能。",
+    "links": {
+      "out": "https://www.inacity.jp/kurashi/todokede_shomei/jumin_ido/tensyutu.html",
+      "in": "https://www.inacity.jp/kurashi/todokede_shomei/jumin_ido/tennyutodoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iiyamashi": {
+    "hasData": true,
+    "office": "飯山市役所市民環境課市民係で転出届・転入届を受け付け。マイナンバーカードによるマイナポータルでの転出届にも対応。",
+    "links": {
+      "out": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm",
+      "in": "https://www.city.iiyama.nagano.jp/soshiki/shiminkankyou/shimin/jyuushosetai/tennyuushutsu.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chinoshi": {
+    "hasData": true,
+    "office": "茅野市役所市民課で転出届・転入届を受け付け。マイナポータルでのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.chino.lg.jp/soshiki/shimin/662.html",
+      "in": "https://www.city.chino.lg.jp/soshiki/shimin/662.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sakushi": {
+    "hasData": true,
+    "office": "佐久市役所本庁市民課、または臼田・浅科・望月の各支所で転出届・転入届を受け付け。",
+    "links": {
+      "out": "https://www.city.saku.nagano.jp/kurashi/shinsei_todokede/hikkoshi/tenshutu.html",
+      "in": "https://www.city.saku.nagano.jp/kurashi/shinsei_todokede/hikkoshi/tennyuu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chikumashi": {
+    "hasData": true,
+    "office": "千曲市役所市民課で住民異動届（転入届・転出届）を受け付け。オンラインまたは郵送による転出手続きにも対応。",
+    "links": {
+      "out": "https://www.city.chikuma.lg.jp/soshiki/shimin/todokede_shomei/3/4723.html",
+      "in": "https://www.city.chikuma.lg.jp/soshiki/shimin/todokede_shomei/3/4723.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "toumishi": {
+    "hasData": true,
+    "office": "東御市役所で住民異動届（転入届・転出届）を受け付け。マイナポータルによる引越しワンストップサービスにも対応。",
+    "links": {
+      "out": "https://www.city.tomi.nagano.jp/category/zyuuminn/130041.html",
+      "in": "https://www.city.tomi.nagano.jp/category/zyuuminn/130041.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamisakugunshoukaimachi": {
+    "hasData": true,
+    "office": "小海町役場総務課窓口係で転入届・転出届を受け付け。あらかじめ届出できなかった場合は郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.koumi-town.jp/office2/archives/todokede/kon-na-tokiha-todokede-wo.html",
+      "in": "https://www.koumi-town.jp/office2/archives/todokede/kon-na-tokiha-todokede-wo.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamisakugunkawakamimura": {
+    "hasData": true,
+    "office": "川上村役場で転出届・転入届を受け付け（長野県南佐久郡川上村大字大深山525）。",
+    "links": {
+      "out": "https://www.vill.kawakami.nagano.jp/www/contents/1542613901582/index.html",
+      "in": "https://www.vill.kawakami.nagano.jp/www/contents/1540856806336/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamisakugunnanmokumura": {
+    "hasData": true,
+    "office": "南牧村役場戸籍係で転出届・転入届を受け付け。マイナポータルでのオンライン転出届・郵送による転出届にも対応。",
+    "links": {
+      "out": "https://www.minamimakimura.jp/main/gov/jumin/koseki/541/%E5%90%84%E7%A8%AE%E5%B1%8A%E5%87%BA%EF%BC%88%E4%BD%8F%E6%B0%91%E7%99%BB%E9%8C%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%EF%BC%89.html",
+      "in": "https://www.minamimakimura.jp/main/gov/jumin/koseki/541/%E5%90%84%E7%A8%AE%E5%B1%8A%E5%87%BA%EF%BC%88%E4%BD%8F%E6%B0%91%E7%99%BB%E9%8C%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%EF%BC%89.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamisakugunsakuhomachi": {
+    "hasData": true,
+    "office": "佐久穂町役場住民税務課で転出届・転入届を受け付け。オンライン（マイナポータル）や郵送による転出届にも対応。",
+    "links": {
+      "out": "https://www.town.sakuho.nagano.jp/kurashi_tetsuzuki/koseki/juminhyo_koseki/juminzeimu_7831.html",
+      "in": "https://www.town.sakuho.nagano.jp/kurashi_tetsuzuki/koseki/juminhyo_koseki/juminzeimu_7832.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitasakugunkaruizawamachi": {
+    "hasData": true,
+    "office": "軽井沢町役場住民課で住民票の異動届（転入・転出・転居・世帯変更）を受け付け。",
+    "links": {
+      "out": "https://www.town.karuizawa.lg.jp/page/1127.html",
+      "in": "https://www.town.karuizawa.lg.jp/page/1127.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitasakugunmiyotamachi": {
+    "hasData": true,
+    "office": "御代田町役場住民課（住民係・4番窓口）で転出届・転入届を受け付け。オンラインによる転出手続きにも対応。",
+    "links": {
+      "out": "https://www.town.miyota.nagano.jp/category/tennyuu/162601.html",
+      "in": "https://www.town.miyota.nagano.jp/category/tennyuu/2053.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitasakugunritsukamachi": {
+    "hasData": true,
+    "office": "立科町役場町民課住民係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.tateshina.nagano.jp/soshiki/chomin/jyuumin/235.html",
+      "in": "https://www.town.tateshina.nagano.jp/soshiki/chomin/jyuumin/235.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chiisagatagunaokimura": {
+    "hasData": true,
+    "office": "青木村役場住民課で転出届・転入届を受け付け。",
+    "links": {
+      "out": "https://www.vill.aoki.nagano.jp/zyuuminnka/tensyutu.html",
+      "in": "https://www.vill.aoki.nagano.jp/zyuuminnka/tensyutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chiisagatagunchouwamachi": {
+    "hasData": true,
+    "office": "長和町役場住民生活課窓口係で住民登録に関する届出（転入届・転出届）を受け付け。マイナンバーカードによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.nagawa.nagano.jp/soshiki/juminseikatsuka/madoguchikakari/1/5/5/267.html",
+      "in": "https://www.town.nagawa.nagano.jp/soshiki/juminseikatsuka/madoguchikakari/1/5/5/267.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "suwagunshimosuwamachi": {
+    "hasData": true,
+    "office": "下諏訪町役場1階住民環境課総合窓口で転出届・転入届を受け付け。マイナポータルによる転出届・転入予約にも対応。",
+    "links": {
+      "out": "https://www.town.shimosuwa.lg.jp/www/contents/1001000000595/index.html",
+      "in": "https://www.town.shimosuwa.lg.jp/www/contents/1001000000596/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "suwagunfujimichou": {
+    "hasData": true,
+    "office": "富士見町役場1階住民福祉課住民係（1番窓口）で転入・転居・転出の届出を受け付け。郵送による転出証明書交付にも対応。",
+    "links": {
+      "out": "https://www.town.fujimi.lg.jp/page/ju01-move1.html",
+      "in": "https://www.town.fujimi.lg.jp/page/ju01-move1.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "suwagunharamura": {
+    "hasData": true,
+    "office": "原村役場住民財務課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.hara.lg.jp/docs/572.html",
+      "in": "https://www.vill.hara.lg.jp/docs/574.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiinaguntatsunochou": {
+    "hasData": true,
+    "office": "辰野町役場住民税務課住民係で転入届・転出届を受け付け。マイナポータルを通じたオンライン転出届・転入予約にも対応。",
+    "links": {
+      "out": "https://www.town.tatsuno.lg.jp/gyosei/soshiki/juminzeimuka/kurashi_tetsuzuki/7/2/1051.html",
+      "in": "https://www.town.tatsuno.lg.jp/gyosei/soshiki/juminzeimuka/kurashi_tetsuzuki/7/2/1051.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiinagunminowamachi": {
+    "hasData": true,
+    "office": "箕輪町役場住民税務課で住民異動の届出（転入届・転出届）を受け付け。マイナポータルでのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.minowa.lg.jp/soshiki/jyumin_zeimu/gyomu/4/5/292.html",
+      "in": "https://www.town.minowa.lg.jp/soshiki/jyumin_zeimu/gyomu/4/5/292.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiinaguniijimamachi": {
+    "hasData": true,
+    "office": "飯島町役場住民税務課住民係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.iijima.lg.jp/soshikiichiran/juminzeimuka/juminkakari/jyuumintouroku/626.html",
+      "in": "https://www.town.iijima.lg.jp/soshikiichiran/juminzeimuka/juminkakari/jyuumintouroku/179.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiinagunminamiminowamura": {
+    "hasData": true,
+    "office": "南箕輪村役場住民環境課住民係で転入・転出時の手続きを受け付け。マイナポータルでの転出手続きにも対応。",
+    "links": {
+      "out": "https://www.vill.minamiminowa.lg.jp/soshiki/jyumin/jyusyohenkou.html",
+      "in": "https://www.vill.minamiminowa.lg.jp/soshiki/jyumin/jyusyohenkou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiinagunchuukawamura": {
+    "hasData": true,
+    "office": "中川村役場で転入届・転出届などの手続きを受け付け（長野県上伊那郡中川村大草4045-1）。",
+    "links": {
+      "out": "https://www.vill.nakagawa.nagano.jp/soshiki/zeimu/3167.html",
+      "in": "https://www.vill.nakagawa.nagano.jp/soshiki/zeimu/3167.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunmatsukawachou": {
+    "hasData": true,
+    "office": "松川町役場住民税務課住民係で住民登録（転入届・転出届）を受け付け。",
+    "links": {
+      "out": "https://www.town.matsukawa.lg.jp/kurashi_tetsuzuki/todokede_shomei_toroku/koseki_jumintoroku/2016.html",
+      "in": "https://www.town.matsukawa.lg.jp/kurashi_tetsuzuki/todokede_shomei_toroku/koseki_jumintoroku/2016.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
