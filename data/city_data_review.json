@@ -3489,27 +3489,27 @@
   },
   "suttsugunsuttsumachi": {
     "hasData": true,
-    "office": "寿都町役場 町民課住民係（寿都郡寿都町）。町民課窓口で転入・転出届を受け付け。",
+    "office": "寿都郡寿都町の転入・転出の届け出は町民課住民係（寿都町字新栄町）で受け付けています。",
     "links": {
-      "out": "http://www.town.suttu.lg.jp/life/detail.php?id=18",
-      "in": "http://www.town.suttu.lg.jp/life/detail.php?id=3",
+      "out": null,
+      "in": null,
       "mail": null
     },
     "confidence": "low"
   },
   "suttsugunkuromatsunaimachi": {
     "hasData": true,
-    "office": "黒松内町役場 住民課（寿都郡黒松内町）。役場本庁舎1階窓口で転入・転出の住民異動届を受け付け。",
+    "office": "寿都郡黒松内町の住民登録（転入・転出）の届け出は住民課（黒松内町字黒松内302番地1）で受け付けています。",
     "links": {
-      "out": "http://www.kuromatsunai.com/townlife/koseki/file002/",
-      "in": "http://www.kuromatsunai.com/townlife/koseki/file002/",
+      "out": null,
+      "in": null,
       "mail": null
     },
     "confidence": "low"
   },
   "abutagunkyougokumachi": {
     "hasData": true,
-    "office": "京極町役場（虻田郡京極町）。郵送は転出届のみ可能で、転入・転居の届出は窓口での手続きが必須。",
+    "office": "虻田郡京極町の転入・転出の届け出は住民福祉課住民係（京極町）で受け付けています。",
     "links": {
       "out": null,
       "in": null,
@@ -3519,10 +3519,10 @@
   },
   "kabatoguntsukigatamachi": {
     "hasData": true,
-    "office": "月形町役場（樺戸郡月形町）。くらし・手続きページの各種届出欄で転入・転出を案内。",
+    "office": "樺戸郡月形町の住所に関する届け出（転入・転出・転居）は月形町役場（月形町1219番地）で受け付けています。",
     "links": {
-      "out": "https://www.town.tsukigata.hokkaido.jp/life/1/1/1/",
-      "in": "https://www.town.tsukigata.hokkaido.jp/life/1/1/1/",
+      "out": null,
+      "in": null,
       "mail": null
     },
     "confidence": "low"
@@ -3573,6 +3573,36 @@
     "links": {
       "out": "https://www.vill.sai.lg.jp/category/division/resident-life/",
       "in": "https://www.vill.sai.lg.jp/category/division/resident-life/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "hiyamagunassabumachi": {
+    "hasData": true,
+    "office": "檜山郡厚沢部町の転入・転出の届け出は住民税務課（厚沢部町新町207番地）で受け付けています。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "setanagunimaganemachi": {
+    "hasData": true,
+    "office": "瀬棚郡今金町の転入・転出の届け出は今金町役場税務住民課戸籍年金グループ（今金町字今金48番地の1）で受け付けています。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kamikawaguntakasumachi": {
+    "hasData": true,
+    "office": "上川郡鷹栖町の住民異動に関する届け出（転入・転出）は町民課お客さま窓口係（鷹栖町南1条3丁目5番1号）で受け付けています。",
+    "links": {
+      "out": null,
+      "in": null,
       "mail": null
     },
     "confidence": "low"
