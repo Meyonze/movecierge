@@ -7900,5 +7900,255 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "hiyamagunassabumachi": {
+    "hasData": true,
+    "office": "厚沢部町役場 住民税務課（北海道檜山郡厚沢部町新町207番地）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.assabu.lg.jp/life/1/1/",
+      "in": "https://www.town.assabu.lg.jp/life/1/1/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abutagunkyougokumachi": {
+    "hasData": true,
+    "office": "京極町役場 住民係で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town-kyogoku.jp/page/1333.html",
+      "in": "https://www.town-kyogoku.jp/page/1333.html",
+      "mail": "https://www.town-kyogoku.jp/page/4639.html"
+    },
+    "confidence": "high"
+  },
+  "kabatoguntsukigatamachi": {
+    "hasData": true,
+    "office": "月形町役場 住民課で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.tsukigata.hokkaido.jp/page/1472.html",
+      "in": "https://www.town.tsukigata.hokkaido.jp/page/1472.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawaguntakasumachi": {
+    "hasData": true,
+    "office": "鷹栖町役場 住民係（北海道上川郡鷹栖町南1条3丁目5番地）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.takasu.hokkaido.jp/page/1451.html",
+      "in": "https://www.town.takasu.hokkaido.jp/page/1451.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "esashigunchuutonbetsumachi": {
+    "hasData": true,
+    "office": "中頓別町役場 総務課 住民グループ（電話 01634-8-7660）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.nakatombetsu.hokkaido.jp/bunya/11081",
+      "in": "https://www.town.nakatombetsu.hokkaido.jp/bunya/11081",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "esashigunesashimachi": {
+    "hasData": true,
+    "office": "枝幸町役場 町民生活課（ウトロ支所でも一部対応）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.esashi.jp/life/family_register/jumin.html",
+      "in": "https://www.esashi.jp/life/family_register/jumin.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "rishirigunrishirimachi": {
+    "hasData": true,
+    "office": "利尻町役場 住民課で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://rishiri-town.jp/%E3%81%8F%E3%82%89%E3%81%97%E3%83%BB%E5%90%84%E7%A8%AE%E6%89%8B%E7%B6%9A%E3%81%8D/%E6%88%B8%E7%B1%8D%E5%B1%8A%E5%87%BA%E3%83%BB%E4%BD%8F%E6%B0%91%E7%95%B0%E5%8B%95%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/%E4%BD%8F%E6%B0%91%E7%99%BB%E9%8C%B2%E9%96%A2%E4%BF%82/",
+      "in": "https://rishiri-town.jp/%E3%81%8F%E3%82%89%E3%81%97%E3%83%BB%E5%90%84%E7%A8%AE%E6%89%8B%E7%B6%9A%E3%81%8D/%E6%88%B8%E7%B1%8D%E5%B1%8A%E5%87%BA%E3%83%BB%E4%BD%8F%E6%B0%91%E7%95%B0%E5%8B%95%E3%83%BB%E5%90%84%E7%A8%AE%E8%A8%BC%E6%98%8E%E6%9B%B8/%E4%BD%8F%E6%B0%91%E7%99%BB%E9%8C%B2%E9%96%A2%E4%BF%82/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "rishirigunrishirifujimachi": {
+    "hasData": true,
+    "office": "利尻富士町役場 住民課で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.rishirifuji.hokkaido.jp/rishirifuji/1231.htm",
+      "in": "https://www.town.rishirifuji.hokkaido.jp/rishirifuji/1231.htm",
+      "mail": "https://www.town.rishirifuji.hokkaido.jp/rishirifuji/1230.htm"
+    },
+    "confidence": "high"
+  },
+  "teshiogunhoronobemachi": {
+    "hasData": true,
+    "office": "幌延町役場 住民福祉課 住民グループで転入・転出の届出を受け付けている（マイナポータルでのオンライン届出も可）",
+    "links": {
+      "out": "https://www.town.horonobe.lg.jp/www4/section/jumin/le009f00000006v6.html",
+      "in": "https://www.town.horonobe.lg.jp/www4/section/jumin/le009f00000006v6.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abashirigunbihorochou": {
+    "hasData": true,
+    "office": "美幌町役場 戸籍保険課 戸籍年金グループ（北海道網走郡美幌町東2条北2丁目1-25）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.bihoro.hokkaido.jp/page/1207.html",
+      "in": "https://www.town.bihoro.hokkaido.jp/page/1206.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abashiriguntsubetsumachi": {
+    "hasData": true,
+    "office": "津別町役場 住民企画課で転入・転出・転居の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.tsubetsu.hokkaido.jp/mokutekibetsumenu/juminhyo_shomei/2200.html",
+      "in": "https://www.town.tsubetsu.hokkaido.jp/mokutekibetsumenu/juminhyo_shomei/2200.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sharigunsharimachi": {
+    "hasData": true,
+    "office": "斜里町役場 民生部 住民生活課 戸籍住民係（北海道斜里郡斜里町本町12番地、電話0152-26-8313）で転入・転出の届出を受け付けている（マイナンバーカード所有者はワンストップサービスも利用可）",
+    "links": {
+      "out": "https://www.town.shari.hokkaido.jp/kurashinojoho/tetsuzuki/tennyu/index.html",
+      "in": "https://www.town.shari.hokkaido.jp/kurashinojoho/tetsuzuki/tennyu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sharigunkiyosatomachi": {
+    "hasData": true,
+    "office": "清里町役場 町民課 町民生活グループ（北海道斜里郡清里町羽衣町13番地、電話0152-25-2157）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.kiyosato.hokkaido.jp/life/?content=786",
+      "in": "https://www.town.kiyosato.hokkaido.jp/life/?content=786",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sharigunkoshimizumachi": {
+    "hasData": true,
+    "office": "小清水町役場 住民生活窓口で転入・転出の届出を受け付けている（マイナポータルでのオンライン転出届にも対応）",
+    "links": {
+      "out": "https://www.town.koshimizu.hokkaido.jp/hotnews/detail/00008850.html",
+      "in": "https://www.town.koshimizu.hokkaido.jp/hotnews/detail/00008850.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tokorogunkunneppuchou": {
+    "hasData": true,
+    "office": "訓子府町役場 町民課（電話0157-47-2203）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.kunneppu.hokkaido.jp/life/tyomin/tennsyutu.html",
+      "in": "https://www.town.kunneppu.hokkaido.jp/life/tyomin/tennnyuu.html",
+      "mail": "https://www.town.kunneppu.hokkaido.jp/life/tyomin/juminhyo_koseki/yuusou_tensyutu.html"
+    },
+    "confidence": "high"
+  },
+  "tokorogunokitochou": {
+    "hasData": true,
+    "office": "置戸町役場 町民生活課（電話0157-52-3315）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.oketo.hokkaido.jp/kurashi/todokede_shoumei/jyuminido/",
+      "in": "https://www.town.oketo.hokkaido.jp/kurashi/todokede_shoumei/jyuminido/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tokorogunsaromamachi": {
+    "hasData": true,
+    "office": "佐呂間町役場（本庁・若佐支所・浜佐呂間出張所、北海道常呂郡佐呂間町字永代町3番地の1、電話01587-2-1211）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.saroma.hokkaido.jp/machi/todokede/tensyutsu.html",
+      "in": "https://www.town.saroma.hokkaido.jp/machi/todokede/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "monbetsugunenkarumachi": {
+    "hasData": true,
+    "office": "遠軽町役場 民生部住民生活課住民担当（電話0158-42-4812、総合支所でも対応）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://engaru.jp/life/page.php?id=5",
+      "in": "https://engaru.jp/life/page.php?id=550",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "monbetsugunyuubetsumachi": {
+    "hasData": true,
+    "office": "湧別町役場（中湧別出張所ゆめきちTOMでも一部対応）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.yubetsu.lg.jp/administration/life/detail.html?content=95",
+      "in": "https://www.town.yubetsu.lg.jp/administration/life/detail.html?content=95",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "monbetsuguntakigamimachi": {
+    "hasData": true,
+    "office": "滝上町役場 住民生活課 戸籍係（北海道紋別郡滝上町字滝ノ上市街地4条通2丁目1番地、電話0158-29-2111）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://town.takinoue.hokkaido.jp/kurashi/jumintetsuzuki/tenshutsu.html",
+      "in": "https://www.town.takinoue.hokkaido.jp/kurashi/jumintetsuzuki/tennyu.html",
+      "mail": "https://town.takinoue.hokkaido.jp/kurashi/jumintetsuzuki/yusodeseikyu.html"
+    },
+    "confidence": "high"
+  },
+  "monbetsugunokoppechou": {
+    "hasData": true,
+    "office": "興部町役場 住民課（電話0158-82-2164）で転入・転出の届出を受け付けている（マイナポータルでのオンライン転出届にも対応）",
+    "links": {
+      "out": "https://www.town.okoppe.lg.jp/cms/section/juumin/npk8cg00000002im.html",
+      "in": "https://www.town.okoppe.lg.jp/cms/section/juumin/npk8cg0000000299.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "monbetsugunnishiokoppemura": {
+    "hasData": true,
+    "office": "西興部村役場 住民生活課で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.vill.nishiokoppe.lg.jp/section/juuminseikatu/feeuub0000002235.html",
+      "in": "https://www.vill.nishiokoppe.lg.jp/kurashi/category/life/oucsq30000002bru.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "monbetsugunoumuchou": {
+    "hasData": true,
+    "office": "雄武町役場 住民生活課（北海道紋別郡雄武町本町、電話0158-84-2121）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.oumu.hokkaido.jp/kurashi_tetsuzuki/todokede_shomei/index.html",
+      "in": "https://www.town.oumu.hokkaido.jp/soshiki/juminseikatsuka/todokede_shomei/594.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "abashirigunoozoramachi": {
+    "hasData": true,
+    "office": "大空町役場 福祉部門（北海道網走郡大空町女満別西3条4丁目1-1、電話0152-77-8082）で転入・転出の届出を受け付けている（郵送での転出届にも対応）",
+    "links": {
+      "out": "https://www.town.ozora.hokkaido.jp/soshiki/1015/14/312.html",
+      "in": "https://www.town.ozora.hokkaido.jp/soshiki/1015/14/34.html",
+      "mail": "https://www.town.ozora.hokkaido.jp/soshiki/1015/14/312.html"
+    },
+    "confidence": "high"
+  },
+  "abutaguntoyouramachi": {
+    "hasData": true,
+    "office": "豊浦町役場 町民課町民係（北海道虻田郡豊浦町船見町10、電話0142-83-1406/1407）で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.toyoura.hokkaido.jp/hotnews/lifeevent/1.html",
+      "in": "https://www.town.toyoura.hokkaido.jp/hotnews/lifeevent/1.html",
+      "mail": "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00000197.html"
+    },
+    "confidence": "high"
   }
 }
