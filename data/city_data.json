@@ -11480,5 +11480,195 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kashiharashi": {
+    "hasData": true,
+    "office": "橿原市役所 市民窓口課（奈良県橿原市内膳町1-1-60）で転入・転出届を受け付け。転出はマイナポータルでオンライン可、転入は窓口必須。",
+    "links": {
+      "out": "https://www.city.kashihara.nara.jp/soshiki/1030/gyomu/4/1/index.html",
+      "in": "https://www.city.kashihara.nara.jp/soshiki/1030/gyomu/4/1/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sakuraishi": {
+    "hasData": true,
+    "office": "桜井市役所 市民生活部市民課（奈良県桜井市）で転入・転出届を受け付け。マイナポータルでの転出オンライン届出・転入予約に対応。",
+    "links": {
+      "out": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/kosekizyuminnotetuduki/1394505660297.html",
+      "in": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/kosekizyuminnotetuduki/1394505660297.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "goshoshi": {
+    "hasData": true,
+    "office": "御所市役所 市民課（電話0745-62-3001）で住所変更（転入・転居・転出）の届出を受け付け。郵便での転出届にも対応。",
+    "links": {
+      "out": "https://www.city.gose.nara.jp/0000000469.html",
+      "in": "https://www.city.gose.nara.jp/0000000469.html",
+      "mail": "https://www.city.gose.nara.jp/0000000459.html"
+    },
+    "confidence": "high"
+  },
+  "katsuragishi": {
+    "hasData": true,
+    "office": "葛城市役所 総合窓口課（奈良県葛城市）で転入・転出届を受け付け。転出届は郵送でも対応可能。",
+    "links": {
+      "out": "https://www.city.katsuragi.nara.jp/soshiki/sougoumadoguchi/8/1782.html",
+      "in": "https://www.city.katsuragi.nara.jp/soshiki/sougoumadoguchi/1/1599.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "udashi": {
+    "hasData": true,
+    "office": "宇陀市役所 市民課（奈良県宇陀市）で転入・転出届を受け付け。令和5年2月からマイナポータルでの転出オンライン届出に対応。",
+    "links": {
+      "out": "https://www.city.uda.lg.jp/site/shinsei/2764.html",
+      "in": "https://www.city.uda.lg.jp/site/shinsei/2764.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ikomagunhegurimachi": {
+    "hasData": true,
+    "office": "平群町役場 住民生活課（電話0745-45-1439）で転入・転出届を受け付け。転出届は郵送・マイナポータルでのオンライン届出にも対応。",
+    "links": {
+      "out": "https://www.town.heguri.nara.jp/soshiki/8/1365.html",
+      "in": "https://www.town.heguri.nara.jp/soshiki/8/1365.html",
+      "mail": "https://www.town.heguri.nara.jp/soshiki/8/12700.html"
+    },
+    "confidence": "high"
+  },
+  "ikomagunikarugamachi": {
+    "hasData": true,
+    "office": "斑鳩町役場 住民課（奈良県斑鳩町法隆寺西3-7-12、電話0745-74-1001）で住民異動（転入・転居・転出）の届出を受け付け。",
+    "links": {
+      "out": "https://www.town.ikaruga.nara.jp/0000000180.html",
+      "in": "https://www.town.ikaruga.nara.jp/0000000180.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shikigunkawanishimachi": {
+    "hasData": true,
+    "office": "川西町役場（奈良県磯城郡川西町）で住民登録（転入・転出）の届出を受け付け。マイナンバーカード等の本人確認書類が必要。",
+    "links": {
+      "out": "https://www.town.nara-kawanishi.lg.jp/0000003554.html",
+      "in": "https://www.town.nara-kawanishi.lg.jp/0000003554.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shikigunmiyakemachi": {
+    "hasData": true,
+    "office": "三宅町役場 住民福祉課（電話0745-44-3073）で住所等異動届（転入・転出）を受け付け。転出届は郵送可、転入届は窓口必須。",
+    "links": {
+      "out": "https://www.town.miyake.lg.jp/soshiki/10/1257.html",
+      "in": "https://www.town.miyake.lg.jp/soshiki/10/1257.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shikiguntawaramotomachi": {
+    "hasData": true,
+    "office": "田原本町役場 総合窓口課（奈良県磯城郡田原本町）で転出・転入・転居届を受け付け。引越しワンストップサービス利用時も窓口手続きが必要。",
+    "links": {
+      "out": "https://www.town.tawaramoto.nara.jp/kurashi/onestop/onestop/moving_in/index.html",
+      "in": "https://www.town.tawaramoto.nara.jp/kurashi/onestop/onestop/moving_in/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "udagunmitsuemura": {
+    "hasData": true,
+    "office": "御杖村役場 住民生活課（奈良県宇陀郡御杖村菅野368、電話0745-95-2001）で住所の届出（転入・転出）を受け付け。郵送での届出にも対応。",
+    "links": {
+      "out": "https://www.vill.mitsue.nara.jp/kurashi/annai/juminseikatsuka/1/1/jyuminkiroku/3032.html",
+      "in": "https://www.vill.mitsue.nara.jp/kurashi/annai/juminseikatsuka/1/1/jyuminkiroku/3032.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitakatsuragigujoumakimachi": {
+    "hasData": true,
+    "office": "上牧町役場 戸籍・住民登録担当（奈良県北葛城郡上牧町）で転入・転出届を受け付け。令和5年2月からマイナポータルでの転出オンライン届出に対応。",
+    "links": {
+      "out": "https://www.town.kanmaki.nara.jp/soshiki/site/795.html",
+      "in": "https://www.town.kanmaki.nara.jp/soshiki/site/795.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshinogunyoshinochou": {
+    "hasData": true,
+    "office": "吉野町役場 町民税務課（奈良県吉野郡吉野町大字上市80-1、電話0746-32-3081）で転入届・転出届を受け付け。マイナンバーカードによる特例転出に対応。",
+    "links": {
+      "out": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
+      "in": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshinogunooyodomachi": {
+    "hasData": true,
+    "office": "大淀町役場 人権住民保険課（〒638-8501 奈良県吉野郡大淀町大字桧垣本2090）で転居・転入・転出時の手続きを受け付け。マイナポータルでの転出オンライン届出、郵送届出にも対応。",
+    "links": {
+      "out": "https://www.town.oyodo.lg.jp/contents_detail.php?co=cat&frmId=124&frmCd=6-20-1-0-0",
+      "in": "https://www.town.oyodo.lg.jp/contents_detail.php?co=cat&frmId=124&frmCd=6-20-1-0-0",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshinogunkurotakimura": {
+    "hasData": true,
+    "office": "黒滝村役場 住民生活課（〒638-0292 奈良県吉野郡黒滝村大字寺戸77、電話0747-62-2031）で引越し・住民登録（転入・転出）の届出を受け付け。",
+    "links": {
+      "out": "https://www.vill.kurotaki.nara.jp/kurasi/hikkosi_sumai_jumintouroku/",
+      "in": "https://www.vill.kurotaki.nara.jp/kurasi/hikkosi_sumai_jumintouroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshinogunamakawamura": {
+    "hasData": true,
+    "office": "天川村役場 住民生活係（〒638-0392 奈良県吉野郡天川村沢谷60）で転出・転入・転居等の届出を受け付け。転出届は郵送でも対応可能。",
+    "links": {
+      "out": "https://www.vill.tenkawa.nara.jp/office/life/notification/moving-procedures",
+      "in": "https://www.vill.tenkawa.nara.jp/office/life/notification/moving-procedures",
+      "mail": "https://www.vill.tenkawa.nara.jp/office/moving-notification-mail"
+    },
+    "confidence": "high"
+  },
+  "yoshinoguntotsugawamura": {
+    "hasData": true,
+    "office": "十津川村役場 住民課（〒637-1333 奈良県吉野郡十津川村大字小原225-1）で窓口・手続き（住民登録、転入・転出）を受け付け。マイナンバーカードによる特例転出に対応。",
+    "links": {
+      "out": "https://www.vill.totsukawa.lg.jp/life/guidance/zyumintouroku/",
+      "in": "https://www.vill.totsukawa.lg.jp/life/guidance/zyumintouroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yoshinogunshimokitayamamura": {
+    "hasData": true,
+    "office": "下北山村役場 住民課（電話07468-6-0001）で住民異動（転入・転出）、戸籍届出、印鑑登録を受け付け。転出証明書の郵便請求にも対応。",
+    "links": {
+      "out": "https://www.vill.shimokitayama.nara.jp/kurashi/tetsuduki1.html",
+      "in": "https://www.vill.shimokitayama.nara.jp/kurashi/tetsuduki1.html",
+      "mail": "https://www.vill.shimokitayama.nara.jp/kurashi/post_20.html"
+    },
+    "confidence": "high"
+  },
+  "yoshinogunkawakamimura": {
+    "hasData": true,
+    "office": "川上村役場 住民福祉課 戸籍係（〒639-3594 奈良県吉野郡川上村大字迫1335-7）で住民異動の届出（転入・転出）を受け付け。郵便による届出にも対応。",
+    "links": {
+      "out": "https://www.vill.kawakami.nara.jp/life/docs/2017013000048/",
+      "in": "https://www.vill.kawakami.nara.jp/life/docs/2017013000048/",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
