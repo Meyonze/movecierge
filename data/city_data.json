@@ -13250,5 +13250,175 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "tochigishi": {
+    "hasData": true,
+    "office": "栃木市役所本庁舎2階の市民生活課市民係、または大平・藤岡・都賀・西方・岩舟の各総合支所で転入・転出・転居の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.tochigi.lg.jp/soshiki/19/60906.html",
+      "in": "https://www.city.tochigi.lg.jp/life/1/2/10/",
+      "mail": "https://www.city.tochigi.lg.jp/soshiki/19/60906.html"
+    },
+    "confidence": "high"
+  },
+  "sanoshi": {
+    "hasData": true,
+    "office": "佐野市役所市民課、または葛生行政センターで転入届・転出届・転居届・世帯変更届を受け付けている。転出はマイナポータルからオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.sano.lg.jp/soshikiichiran/shimin/shiminka/gyomuannai/1/21390.html",
+      "in": "https://www.city.sano.lg.jp/soshikiichiran/shimin/shiminka/gyomuannai/1/4197.html",
+      "mail": "https://www.city.sano.lg.jp/soshikiichiran/shimin/shiminka/gyomuannai/1/21390.html"
+    },
+    "confidence": "high"
+  },
+  "oyamashi": {
+    "hasData": true,
+    "office": "小山市役所で転入・転出・世帯変更の届出を受け付けている。マイナンバーカード利用や郵送での転出届にも対応。",
+    "links": {
+      "out": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003517.html",
+      "in": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003542.html",
+      "mail": "https://www.city.oyama.tochigi.jp/kurashi/sumai-hikkoshi/hikkoshi/page003517.html"
+    },
+    "confidence": "high"
+  },
+  "ootawarashi": {
+    "hasData": true,
+    "office": "大田原市役所本庁舎2階の市民課市民係で住民異動届（転入・転出・世帯変更）を受け付けている。転出はマイナポータルでのオンライン届出も可能。",
+    "links": {
+      "out": "https://www.city.ohtawara.tochigi.jp/docs/2023020900028/",
+      "in": "https://www.city.ohtawara.tochigi.jp/docs/2013082773098/",
+      "mail": "https://www.city.ohtawara.tochigi.jp/docs/2023020900028/"
+    },
+    "confidence": "high"
+  },
+  "yaitashi": {
+    "hasData": true,
+    "office": "矢板市役所市民課で転入・転出・転居の届出を受け付けている。転出はマイナポータルからオンラインでも提出可能。",
+    "links": {
+      "out": "https://www.city.yaita.tochigi.jp/soshiki/simin/tennsyutsu-online.html",
+      "in": "https://www.city.yaita.tochigi.jp/soshiki/simin/tennyutensyutu.html",
+      "mail": "https://www.city.yaita.tochigi.jp/soshiki/simin/tennsyutsu-online.html"
+    },
+    "confidence": "high"
+  },
+  "nasukarasuyamashi": {
+    "hasData": true,
+    "office": "那須烏山市役所市民課、または南那須支所で住民異動届（転入・転出）を受け付けている。転出はマイナポータルからオンライン提出も可能。",
+    "links": {
+      "out": "https://www.city.nasukarasuyama.lg.jp/kurashi/notification-certificate/resident-registration/page003897.html",
+      "in": "https://www.city.nasukarasuyama.lg.jp/kurashi/notification-certificate/resident-registration/page000599.html",
+      "mail": "https://www.city.nasukarasuyama.lg.jp/kurashi/notification-certificate/resident-registration/page003897.html"
+    },
+    "confidence": "high"
+  },
+  "kawauchigujoumikawamachi": {
+    "hasData": true,
+    "office": "上三川町役場住民課で転入届・転出届・転居届を受け付けている。転出は郵送やマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.kaminokawa.lg.jp/0046/info-0000000346-0.html",
+      "in": "https://www.town.kaminokawa.lg.jp/0046/info-0000000345-0.html",
+      "mail": "https://www.town.kaminokawa.lg.jp/0046/info-0000000346-0.html"
+    },
+    "confidence": "high"
+  },
+  "hagagunmashikochou": {
+    "hasData": true,
+    "office": "益子町役場で転入届・転出届の届出を受け付けている。",
+    "links": {
+      "out": "https://www.town.mashiko.lg.jp/page/page000350.html",
+      "in": "https://www.town.mashiko.lg.jp/page/page000349.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hagagunmotegimachi": {
+    "hasData": true,
+    "office": "茂木町役場住民課で転入届・転出届・転居届・世帯主変更届を受け付けている（申請書は「住所等異動申請書」）。転出は郵送での手続きも可能。",
+    "links": {
+      "out": "https://www.town.motegi.tochigi.jp/motegi/download.php",
+      "in": "https://www.town.motegi.tochigi.jp/motegi/download.php",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hagagunichikaimachi": {
+    "hasData": true,
+    "office": "市貝町役場町民くらし課戸籍住民係で住民異動（転入・転出・転居・世帯主変更等）の届出を受け付けている。",
+    "links": {
+      "out": "https://www.town.ichikai.tochigi.jp/info/15",
+      "in": "https://www.town.ichikai.tochigi.jp/info/15",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hagagunhagamachi": {
+    "hasData": true,
+    "office": "芳賀町役場で転入届・転出届の届出を受け付けている。転出はマイナポータルからのオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.tochigi-haga.lg.jp/kurashi/kurashi/todokede/juushohenkou/20240131tensyutu2.html",
+      "in": "https://www.town.tochigi-haga.lg.jp/kurashi/kurashi/todokede/juushohenkou/tennyuu.html",
+      "mail": "https://www.town.tochigi-haga.lg.jp/kurashi/kurashi/todokede/juushohenkou/20240131tensyutu2.html"
+    },
+    "confidence": "high"
+  },
+  "shimotsugagunmibumachi": {
+    "hasData": true,
+    "office": "壬生町役場住民課、または稲葉出張所・南犬飼出張所で住民異動届（転入・転出・転居）を受け付けている。転出はマイナポータルからオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.mibu.tochigi.jp/docs/2023020200012/",
+      "in": "https://www.town.mibu.tochigi.jp/docs/2014111900157/",
+      "mail": "https://www.town.mibu.tochigi.jp/docs/2023020200012/"
+    },
+    "confidence": "high"
+  },
+  "shimotsugagunnogimachi": {
+    "hasData": true,
+    "office": "野木町役場で住所異動（転入届・転出届・転居届）の手続きを受け付けている。転出はマイナポータルからオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.nogi.lg.jp/kurashi/jyuminhyou/koseki_jyusyo/page000087.html",
+      "in": "https://www.town.nogi.lg.jp/kurashi/jyuminhyou/koseki_jyusyo/page000087.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shioyagunshioyamachi": {
+    "hasData": true,
+    "office": "塩谷町役場住民福祉課で転入届・転出届・転居届を受け付けている。",
+    "links": {
+      "out": "https://www.town.shioya.tochigi.jp/info/8",
+      "in": "https://www.town.shioya.tochigi.jp/info/7",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shioyaguntakanezawamachi": {
+    "hasData": true,
+    "office": "高根沢町役場住民課で転入・転出の届出を受け付けている。",
+    "links": {
+      "out": "https://www.town.takanezawa.tochigi.jp/life/tetsuzuki/juminhyo/hikkoshi/tenshutsu.html",
+      "in": "https://www.town.takanezawa.tochigi.jp/life/tetsuzuki/juminhyo/hikkoshi/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nasugunnasumachi": {
+    "hasData": true,
+    "office": "那須町役場住民生活課で住民異動届（転入・転出）を受け付けている。転出はマイナポータルからオンライン提出も可能。",
+    "links": {
+      "out": "https://www.town.nasu.lg.jp/0052/info-0000003954-1.html",
+      "in": "https://www.town.nasu.lg.jp/0052/genre2-1-001.html",
+      "mail": "https://www.town.nasu.lg.jp/0052/info-0000003954-1.html"
+    },
+    "confidence": "high"
+  },
+  "nasugunnakagawamachi": {
+    "hasData": true,
+    "office": "那珂川町役場（栃木県那須郡）住民課戸籍住民係で転居届・転入届・転出届・世帯変更届を受け付けている。",
+    "links": {
+      "out": "https://www.town.tochigi-nakagawa.lg.jp/0043/info-0000000011-0.html",
+      "in": "https://www.town.tochigi-nakagawa.lg.jp/0043/info-0000000011-0.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
