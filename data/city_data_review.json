@@ -4147,5 +4147,15 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "kanragunnanmokumura": {
+    "hasData": true,
+    "office": "南牧村役場（住民税務課住民税務係）で転入届・転出届を受け付け。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
