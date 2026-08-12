@@ -9640,5 +9640,255 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "nishishirakawagunsaigoumura": {
+    "hasData": true,
+    "office": "西郷村役場住民生活課の窓口で転入・転出の届出を受け付けている（転出のみ郵送可）",
+    "links": {
+      "out": "https://www.vill.nishigo.fukushima.jp/soshiki/juminseikatsuka/koseki_juminhyo_inkantoroku/jyuminhyo/1890.html",
+      "in": "https://www.vill.nishigo.fukushima.jp/soshiki/juminseikatsuka/koseki_juminhyo_inkantoroku/jyuminhyo/1902.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishishirakawagunizumisakimura": {
+    "hasData": true,
+    "office": "泉崎村役場で転入・転出の住所変更届を受け付けている",
+    "links": {
+      "out": "https://www.vill.izumizaki.fukushima.jp/kurashi-tetsuduki/todokede-shomei/juminhyo/page000019.html",
+      "in": "https://www.vill.izumizaki.fukushima.jp/kurashi-tetsuduki/todokede-shomei/juminhyo/page000019.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishishirakawagunchuushimamura": {
+    "hasData": true,
+    "office": "中島村役場住民生活課戸籍国保係で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.vill-nakajima.jp/page/page000010.html",
+      "in": "https://www.vill-nakajima.jp/page/page000010.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishishirakawagunyabukimachi": {
+    "hasData": true,
+    "office": "矢吹町役場総合窓口課で転入・転出・転居の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.yabuki.fukushima.jp/page/page000416.html",
+      "in": "https://www.town.yabuki.fukushima.jp/page/page000416.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashishirakawaguntanakuramachi": {
+    "hasData": true,
+    "office": "棚倉町役場で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.tanagura.fukushima.jp/jumin/todokede-toroku-shomei/koseki/kosekinikansurukoto/page000108.html",
+      "in": "https://www.town.tanagura.fukushima.jp/jumin/todokede-toroku-shomei/koseki/kosekinikansurukoto/page000108.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashishirakawagunyamatsurimachi": {
+    "hasData": true,
+    "office": "矢祭町役場で転入・転出の届出を受け付けている（東白川郡矢祭町大字東舘）",
+    "links": {
+      "out": "https://www.town.yamatsuri.fukushima.jp/page/dir000035.html",
+      "in": "https://www.town.yamatsuri.fukushima.jp/page/dir000035.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashishirakawagunhanawamachi": {
+    "hasData": true,
+    "office": "塙町役場で転入・転出の届出を受け付けている（転出は郵送・マイナポータルも可）",
+    "links": {
+      "out": "https://www.town.hanawa.fukushima.jp/page/page002240.html",
+      "in": "https://www.town.hanawa.fukushima.jp/page/page002240.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashishirakawagunsamekawamura": {
+    "hasData": true,
+    "office": "鮫川村役場で転入・転出の住民登録の届出を受け付けている",
+    "links": {
+      "out": "https://www.vill.samegawa.fukushima.jp/page/page001707.html",
+      "in": "https://www.vill.samegawa.fukushima.jp/page/page001707.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikawagunishikawachou": {
+    "hasData": true,
+    "office": "石川町役場町民課で転入・転出の届出を受け付けている（マイナポータルからのオンライン転出届も可）",
+    "links": {
+      "out": "https://www.town.ishikawa.fukushima.jp/admin/ishikawa/info/005820.html",
+      "in": "https://www.town.ishikawa.fukushima.jp/admin/ishikawa/info/005820.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikawaguntamagawamura": {
+    "hasData": true,
+    "office": "玉川村役場住民税務課住民係で転入・転出の届出を受け付けている（転出は郵送可）",
+    "links": {
+      "out": "https://www.vill.tamakawa.fukushima.jp/guide/resi/000095.html",
+      "in": "https://www.vill.tamakawa.fukushima.jp/guide/resi/000095.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikawagunhiratamura": {
+    "hasData": true,
+    "office": "平田村役場住民係で転入・転出・転居・世帯変更の届出を受け付けている",
+    "links": {
+      "out": "https://www.vill.hirata.fukushima.jp/soshiki/4/108.html",
+      "in": "https://www.vill.hirata.fukushima.jp/soshiki/4/108.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikawagunasakawamachi": {
+    "hasData": true,
+    "office": "浅川町役場で住所等の届出（転入・転出）を受け付けている",
+    "links": {
+      "out": "https://www.town.asakawa.fukushima.jp/certificate/000049.html",
+      "in": "https://www.town.asakawa.fukushima.jp/certificate/000049.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishikawagunfurudonomachi": {
+    "hasData": true,
+    "office": "古殿町役場税務住民課窓口で転入・転出・転居の届出を受け付けている（郵送も可）",
+    "links": {
+      "out": "https://www.town.furudono.fukushima.jp/kurashi/todokede-shoumeisho/todokede/tennyuutou/tennsyutu",
+      "in": "https://www.town.furudono.fukushima.jp/kurashi/todokede-shoumeisho/todokede/tennyuutou/tennsyutu",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamuragunmiharumachi": {
+    "hasData": true,
+    "office": "三春町役場住民課住民係で転入・転出の届出を受け付けている（マイナポータルでの転出届も可）",
+    "links": {
+      "out": "https://www.town.miharu.fukushima.jp/soshiki/4/06-0201idoutetsuzuki.html",
+      "in": "https://www.town.miharu.fukushima.jp/soshiki/4/06-0201idoutetsuzuki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tamuragunonochou": {
+    "hasData": true,
+    "office": "小野町役場町民生活課窓口で住民異動（転入・転出・転居）の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.ono.fukushima.jp/soshiki/5/todokede-jyuumin.html",
+      "in": "https://www.town.ono.fukushima.jp/soshiki/5/todokede-jyuumin.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunkouyamachi": {
+    "hasData": true,
+    "office": "広野町役場町民税務課で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.town.hirono.fukushima.jp/kurashi/koseki/1001760/1001842.html",
+      "in": "https://www.town.hirono.fukushima.jp/kurashi/koseki/1001760/1001841.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunnarahamachi": {
+    "hasData": true,
+    "office": "楢葉町役場町民税務課で転入・転出の届出を受け付けている（転出は窓口・郵送とも可）",
+    "links": {
+      "out": "https://www.town.naraha.lg.jp/life/006956.html",
+      "in": "https://www.town.naraha.lg.jp/life/006957.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabaguntomiokamachi": {
+    "hasData": true,
+    "office": "富岡町役場住民課住民係（本庁舎・各支所）で転出証明書の交付等を受け付けている",
+    "links": {
+      "out": "https://www.tomioka-town.jp/soshiki/jumin/1185.html",
+      "in": "https://www.tomioka-town.jp/soshiki/jumin/1185.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunkawauchimura": {
+    "hasData": true,
+    "office": "川内村役場で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.kawauchimura.jp/kurashi/shomei/page000155.html",
+      "in": "https://www.kawauchimura.jp/kurashi/shomei/page000155.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunookumamachi": {
+    "hasData": true,
+    "office": "大熊町役場住民課（会津若松出張所・いわき出張所・中通り連絡事務所でも可）で転入・転出の届出を受け付けている。転出は郵送・マイナポータルも可",
+    "links": {
+      "out": "https://www.town.okuma.fukushima.jp/soshiki/juminzeimu/28950.html",
+      "in": "https://www.town.okuma.fukushima.jp/soshiki/juminzeimu/1507.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunfutabachou": {
+    "hasData": true,
+    "office": "双葉町役場で転入・転出の届出を受け付けている（転出は郵送も可）",
+    "links": {
+      "out": "https://www.town.fukushima-futaba.lg.jp/10428.htm",
+      "in": "https://www.town.fukushima-futaba.lg.jp/10427.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunnamiemachi": {
+    "hasData": true,
+    "office": "浪江町役場住民課住民係（本庁舎・津島支所・二本松出張所・福島出張所・いわき出張所）で住民異動の届出を受け付けている（郵送も可）",
+    "links": {
+      "out": "https://www.town.namie.fukushima.jp/soshiki/3/244.html",
+      "in": "https://www.town.namie.fukushima.jp/soshiki/3/244.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "futabagunkatsuraomura": {
+    "hasData": true,
+    "office": "葛尾村役場で住民異動（転入・転出）の届出を受け付けている（帰還困難区域への転入は制限あり、転出は郵送も可）",
+    "links": {
+      "out": "https://www.katsurao.org/soshiki/2/76.html",
+      "in": "https://www.katsurao.org/soshiki/2/76.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "soumagunshinchimachi": {
+    "hasData": true,
+    "office": "新地町役場住民課住民登録係で転入・転出の届出を受け付けている（転出は郵送も可）",
+    "links": {
+      "out": "https://www.shinchi-town.jp/soshiki/6/yuubintensyutu.html",
+      "in": "https://www.shinchi-town.jp/soshiki/6/yuubintensyutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "soumaguniitatemura": {
+    "hasData": true,
+    "office": "飯舘村役場住民課住民係で転入・転出の届出を受け付けている",
+    "links": {
+      "out": "https://www.vill.iitate.fukushima.jp/soshiki/2/27.html",
+      "in": "https://www.vill.iitate.fukushima.jp/soshiki/2/30.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
