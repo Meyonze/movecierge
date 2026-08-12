@@ -10880,5 +10880,225 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kishiwadashi": {
+    "hasData": true,
+    "office": "岸和田市役所新館1階 市民健康部市民課住民担当（岸和田市岸城町7番1号）",
+    "links": {
+      "out": "https://www.city.kishiwada.lg.jp/page/21-one.html",
+      "in": "https://www.city.kishiwada.lg.jp/page/21-one.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ikedashi": {
+    "hasData": true,
+    "office": "池田市役所1階 総合窓口課（池田市城南1丁目1番1号）",
+    "links": {
+      "out": "https://www.city.ikeda.osaka.jp/kurashi_tetsuduki/todokede/hikkoshi/index.html",
+      "in": "https://www.city.ikeda.osaka.jp/kurashi_tetsuduki/todokede/hikkoshi/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "moriguchishi": {
+    "hasData": true,
+    "office": "守口市役所2階北エリア 市民生活部総合窓口課（守口市京阪本通2-5-5）",
+    "links": {
+      "out": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shiminseikatsubu/sogomadoguchika/kosekijumintorokupasupoto/juki/2090.html",
+      "in": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shiminseikatsubu/sogomadoguchika/kosekijumintorokupasupoto/juki/2090.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hirakatashi": {
+    "hasData": true,
+    "office": "枚方市役所本館1階市民課、または津田・香里ケ丘・北部の各支所、枚方市駅市民窓口センター（予約制）",
+    "links": {
+      "out": "https://faq.hirakata-call.jp/faq/detail.aspx?id=714",
+      "in": "https://www.city.hirakata.osaka.jp/0000000425.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "izumisanoshi": {
+    "hasData": true,
+    "office": "泉佐野市役所 市民課（住所変更窓口）",
+    "links": {
+      "out": "https://www.city.izumisano.lg.jp/kakuka/somu/shimin/menu/jusyohenko.html",
+      "in": "https://www.city.izumisano.lg.jp/mokuteki/hikkoshi/tennyu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tondabayashishi": {
+    "hasData": true,
+    "office": "富田林市役所 市民課（住民異動窓口）",
+    "links": {
+      "out": "https://www.city.tondabayashi.lg.jp/soshiki/15/2063.html",
+      "in": "https://www.city.tondabayashi.lg.jp/soshiki/15/2063.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawachinaganoshi": {
+    "hasData": true,
+    "office": "河内長野市役所 市民窓口課（河内長野市原町1丁目1番1号）",
+    "links": {
+      "out": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html",
+      "in": "https://www.city.kawachinagano.lg.jp/soshiki/6/2803.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "matsubarashi": {
+    "hasData": true,
+    "office": "松原市役所 窓口課（住民登録窓口）",
+    "links": {
+      "out": "https://www.city.matsubara.lg.jp/docs/page4177.html",
+      "in": "https://www.city.matsubara.lg.jp/docs/page4177.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "izumishi": {
+    "hasData": true,
+    "office": "和泉市役所 市民室、またはシティプラザ出張所（和泉市府中町二丁目7番5号）",
+    "links": {
+      "out": "https://www.city.osaka-izumi.lg.jp/kurasitetu/jumintouroku_koseki/1316506899204.html",
+      "in": "https://www.city.osaka-izumi.lg.jp/kurasitetu/jumintouroku_koseki/1316506899204.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kashiwabarashi": {
+    "hasData": true,
+    "office": "柏原市役所本庁1階 市民課、または国分出張所（柏原市安堂町1-55）",
+    "links": {
+      "out": "https://www.city.kashiwara.lg.jp/category/bunya/kurashi_tetsuzuki/todokede/more@docs_4@c_articles.p3.html",
+      "in": "https://www.city.kashiwara.lg.jp/category/bunya/kurashi_tetsuzuki/todokede/more@docs_4@c_articles.p3.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sennanshi": {
+    "hasData": true,
+    "office": "泉南市役所 市民課",
+    "links": {
+      "out": "https://www.city.sennan.lg.jp/kakuka/shiminseikatu/shimin/shimin/touroku/1455945381234.html",
+      "in": "https://www.city.sennan.lg.jp/kakuka/shiminseikatu/shimin/shimin/touroku/1455945381234.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shijounawateshi": {
+    "hasData": true,
+    "office": "四條畷市役所 市民課（住民異動窓口）",
+    "links": {
+      "out": "https://www.city.shijonawate.lg.jp/shinsei/80282.html",
+      "in": "https://www.city.shijonawate.lg.jp/site/shinsei-navi/list43-184.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "mishimagunshimamotomachi": {
+    "hasData": true,
+    "office": "島本町役場 住民課（郵送での転出届対応、引越しワンストップサービスあり）",
+    "links": {
+      "out": "https://www.town.shimamoto.lg.jp/soshiki/13/2170.html",
+      "in": "https://www.town.shimamoto.lg.jp/soshiki/13/2170.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "toyonoguntoyonomachi": {
+    "hasData": true,
+    "office": "豊能町役場本庁舎1階（豊能郡豊能町余野414番地の1）",
+    "links": {
+      "out": "https://www.town.toyono.osaka.jp/kurashi/todokede/juuminkihondaichou/page000007.html",
+      "in": "https://www.town.toyono.osaka.jp/kurashi/todokede/juuminkihondaichou/page000007.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "toyonogunnosemachi": {
+    "hasData": true,
+    "office": "能勢町役場 住民課（住民票・戸籍関係窓口）",
+    "links": {
+      "out": "https://www.town.nose.osaka.jp/soshiki/jyuuminka/jumin/jumin/idou/835.html",
+      "in": "https://www.town.nose.osaka.jp/soshiki/jyuuminka/jumin/jumin/idou/835.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "senbokuguntadaokamachi": {
+    "hasData": true,
+    "office": "忠岡町役場 住民人権課（忠岡町忠岡東1-34-1）",
+    "links": {
+      "out": "https://www.town.tadaoka.osaka.jp/soshiki/jumin_jinken/2/7/705.html",
+      "in": "https://www.town.tadaoka.osaka.jp/soshiki/jumin_jinken/2/7/704.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sennangunkumatorimachi": {
+    "hasData": true,
+    "office": "熊取町役場 住民課（泉南郡熊取町）",
+    "links": {
+      "out": "https://www.town.kumatori.lg.jp/soshiki/jumin/gyomu/koseki_juminhyo/juminhyo/juumintouroku/2577.html",
+      "in": "https://www.town.kumatori.lg.jp/soshiki/jumin/gyomu/koseki_juminhyo/juminhyo/juumintouroku/2578.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sennanguntajirimachi": {
+    "hasData": true,
+    "office": "田尻町役場 住民課（泉南郡田尻町嘉祥寺375-1）",
+    "links": {
+      "out": "https://www.town.tajiri.osaka.jp/kakukanojoho/jumimbu/juminka/6/4/926.html",
+      "in": "https://www.town.tajiri.osaka.jp/kakukanojoho/jumimbu/juminka/6/4/923.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sennangunmisakichou": {
+    "hasData": true,
+    "office": "岬町役場 住民課（泉南郡岬町）",
+    "links": {
+      "out": "https://www.town.misaki.osaka.jp/soshiki/shiawase/jumin/touroku/884.html",
+      "in": "https://www.town.misaki.osaka.jp/soshiki/shiawase/jumin/touroku/886.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikawachiguntaishimachi": {
+    "hasData": true,
+    "office": "大阪府南河内郡太子町役場 住民窓口（太子町、兵庫県太子町とは別自治体につき要注意）",
+    "links": {
+      "out": "https://www.town.taishi.osaka.jp/mokuteki/jutaku/tennyu_tensyutu/index.html",
+      "in": "https://www.town.taishi.osaka.jp/mokuteki/jutaku/tennyu_tensyutu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikawachigunkananmachi": {
+    "hasData": true,
+    "office": "河南町役場 すこやか生活部住民生活課住民窓口係（南河内郡河南町大字白木1359番地の6）",
+    "links": {
+      "out": "https://www.town.kanan.osaka.jp/kurashi_navi/tennyu_tenshutsu/index.html",
+      "in": "https://www.town.kanan.osaka.jp/kurashi_navi/tennyu_tenshutsu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikawachigunchihayaakasakamura": {
+    "hasData": true,
+    "office": "千早赤阪村役場 健康福祉部住民課（南河内郡千早赤阪村大字水分180）",
+    "links": {
+      "out": "https://www.vill.chihayaakasaka.osaka.jp/bamen/tennyu/index.html",
+      "in": "https://www.vill.chihayaakasaka.osaka.jp/bamen/tennyu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
