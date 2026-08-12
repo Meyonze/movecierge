@@ -9110,5 +9110,285 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "sendai": {
+    "hasData": true,
+    "office": "仙台市はお住まいになる区の区役所戸籍住民課（青葉区・宮城野区・若林区・太白区・泉区）、宮城総合支所税務住民課、秋保総合支所総務課が窓口。",
+    "links": {
+      "out": "https://www.city.sendai.jp/kosekijumin/kurashi/tetsuzuki/koseki/koseki/oss.html",
+      "in": "https://www.city.sendai.jp/kosekijumin/kurashi/tetsuzuki/koseki/koseki/oss.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ishinomakishi": {
+    "hasData": true,
+    "office": "石巻市役所市民課、または各支所・総合支所の市民福祉課が窓口。",
+    "links": {
+      "out": "https://www.city.ishinomaki.lg.jp/cont/10304000/1089/1089.html",
+      "in": "https://www.city.ishinomaki.lg.jp/cont/10304000/1089/1089.html",
+      "mail": "https://www.city.ishinomaki.lg.jp/cont/10304000/3890/20130328115948.html"
+    },
+    "confidence": "high"
+  },
+  "shiroishishi": {
+    "hasData": true,
+    "office": "白石市役所1階市民課が窓口（宮城県白石市大手町1番1号）。",
+    "links": {
+      "out": "https://www.city.shiroishi.miyagi.jp/soshiki/20/1187.html",
+      "in": "https://www.city.shiroishi.miyagi.jp/soshiki/20/1187.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "natorishi": {
+    "hasData": true,
+    "office": "名取市役所1階市民課が窓口。",
+    "links": {
+      "out": "https://www.city.natori.miyagi.jp/page/4864.html",
+      "in": "https://www.city.natori.miyagi.jp/page/4864.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwanumashi": {
+    "hasData": true,
+    "office": "岩沼市役所2階市民・税務課（戸籍住民係）が窓口。",
+    "links": {
+      "out": "https://www.city.iwanuma.miyagi.jp/kurashi/koseki/jukiido/jusho-todoke.html",
+      "in": "https://www.city.iwanuma.miyagi.jp/kurashi/koseki/jukiido/jusho-todoke.html",
+      "mail": "https://www.city.iwanuma.miyagi.jp/kurashi/koseki/jukiido/yuso-todoke.html"
+    },
+    "confidence": "high"
+  },
+  "kuriharashi": {
+    "hasData": true,
+    "office": "栗原市役所市民課（築館総合支所1階）、または各総合支所市民サービス課が窓口。",
+    "links": {
+      "out": "https://www.kuriharacity.jp/li/050/150/index.html",
+      "in": "https://www.kuriharacity.jp/li/050/150/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimatsushimashi": {
+    "hasData": true,
+    "office": "東松島市役所は矢本庁舎または鳴瀬庁舎の市民生活課が窓口。",
+    "links": {
+      "out": "https://www.city.higashimatsushima.miyagi.jp/kurashi/tetsuduki-sodan/juminhyo-koseki/jusyohenko-koseki/tennyu-tensyutu.html",
+      "in": "https://www.city.higashimatsushima.miyagi.jp/kurashi/tetsuduki-sodan/juminhyo-koseki/jusyohenko-koseki/tennyu-tensyutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kattagunzaouchou": {
+    "hasData": true,
+    "office": "蔵王町役場町民税務課住民係が窓口。",
+    "links": {
+      "out": "https://www.town.zao.miyagi.jp/kurashi_guide/seikatsu_kankyo/jumin/tokureitensyutu.html",
+      "in": "https://www.town.zao.miyagi.jp/kurashi_guide/seikatsu_kankyo/jumin/tokureitensyutu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kattagunshichigashukumachi": {
+    "hasData": true,
+    "office": "七ヶ宿町役場町民税務課町民係が窓口。",
+    "links": {
+      "out": "https://town.shichikashuku.miyagi.jp/life/move.html",
+      "in": "https://town.shichikashuku.miyagi.jp/life/move.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibatagunoogawaramachi": {
+    "hasData": true,
+    "office": "大河原町役場町民生活課が窓口。",
+    "links": {
+      "out": "https://www.town.ogawara.miyagi.jp/7269.htm",
+      "in": "https://www.town.ogawara.miyagi.jp/7269.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibatagunsontamachi": {
+    "hasData": true,
+    "office": "村田町役場町民生活課が窓口。",
+    "links": {
+      "out": "https://www.town.murata.miyagi.jp/life/sumai.html",
+      "in": "https://www.town.murata.miyagi.jp/life/sumai.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibatagunshibatamachi": {
+    "hasData": true,
+    "office": "柴田町役場町民環境課が窓口。",
+    "links": {
+      "out": "https://www.town.shibata.miyagi.jp/index.cfm/75,26648,126,356,html",
+      "in": "https://www.town.shibata.miyagi.jp/index.cfm/75,26648,126,356,html",
+      "mail": "https://www.town.shibata.miyagi.jp/index.cfm/75,59807,126,356,html"
+    },
+    "confidence": "high"
+  },
+  "shibatagunkawasakichou": {
+    "hasData": true,
+    "office": "川崎町役場町民生活課が窓口。",
+    "links": {
+      "out": "https://www.town.kawasaki.miyagi.jp/soshiki/chomin/230.html",
+      "in": "https://www.town.kawasaki.miyagi.jp/soshiki/chomin/230.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "igugunmarumorimachi": {
+    "hasData": true,
+    "office": "丸森町役場町民税務課住民班が窓口。",
+    "links": {
+      "out": "https://www.town.marumori.miyagi.jp/life/detail.php?content=497",
+      "in": "https://www.town.marumori.miyagi.jp/life/detail.php?content=495",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kourigunkourimachi": {
+    "hasData": true,
+    "office": "亘理町役場総合窓口（町民生活課）が窓口。",
+    "links": {
+      "out": "https://www.town.watari.miyagi.jp/life/detail.php?content=94",
+      "in": "https://www.town.watari.miyagi.jp/life/detail.php?content=94",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kourikouriyamamotomachi": {
+    "hasData": true,
+    "office": "山元町役場町民生活課窓口係が窓口。",
+    "links": {
+      "out": "https://www.town.yamamoto.miyagi.jp/soshiki/9/9.html",
+      "in": "https://www.town.yamamoto.miyagi.jp/soshiki/9/9.html",
+      "mail": "https://www.town.yamamoto.miyagi.jp/soshiki/9/9.html"
+    },
+    "confidence": "high"
+  },
+  "miyagigunmatsushimamachi": {
+    "hasData": true,
+    "office": "松島町役場町民福祉課町民サービス係が窓口。",
+    "links": {
+      "out": "https://www.town.miyagi-matsushima.lg.jp/page/1514.html",
+      "in": "https://www.town.miyagi-matsushima.lg.jp/page/1516.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "miyagigunshichigahamamachi": {
+    "hasData": true,
+    "office": "七ヶ浜町役場町民生活課戸籍住民係が窓口。",
+    "links": {
+      "out": "https://www.shichigahama.com/benricho/todokede/kurashi1-020-9588.html",
+      "in": "https://www.shichigahama.com/benricho/todokede/kurashi1-020-9588.html",
+      "mail": "https://www.shichigahama.com/benricho/todokede/kurashi1-010-8368.html"
+    },
+    "confidence": "high"
+  },
+  "miyagigunrifumachi": {
+    "hasData": true,
+    "office": "利府町役場町民課戸籍住民係が窓口。",
+    "links": {
+      "out": "https://www.town.rifu.miyagi.jp/gyosei/soshikikarasagasu/tyoumin/koseki/1/686.html",
+      "in": "https://www.town.rifu.miyagi.jp/gyosei/soshikikarasagasu/tyoumin/koseki/1/686.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kurokawagunyamatochou": {
+    "hasData": true,
+    "office": "大和町役場町民生活課窓口サービス係が窓口。",
+    "links": {
+      "out": "https://www.town.taiwa.miyagi.jp/soshiki/chominseikatsu/madoguchisabisu/646.html",
+      "in": "https://www.town.taiwa.miyagi.jp/soshiki/chominseikatsu/madoguchisabisu/645.html",
+      "mail": "https://www.town.taiwa.miyagi.jp/soshiki/chominseikatsu/madoguchisabisu/647.html"
+    },
+    "confidence": "high"
+  },
+  "kurokawagunoosatomachi": {
+    "hasData": true,
+    "office": "大郷町役場町民課が窓口。",
+    "links": {
+      "out": "https://www.town.miyagi-osato.lg.jp/soshiki/chomin/tensyutsu.html",
+      "in": "https://www.town.miyagi-osato.lg.jp/soshiki/chomin/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kurokawagunoohiramura": {
+    "hasData": true,
+    "office": "大衡村役場住民生活課住民係が窓口。",
+    "links": {
+      "out": "https://www.village.ohira.miyagi.jp/1/6/8/index.html",
+      "in": "https://www.village.ohira.miyagi.jp/1/6/8/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamigunshikamamachi": {
+    "hasData": true,
+    "office": "色麻町役場町民生活課が窓口。",
+    "links": {
+      "out": "https://www.town.shikama.miyagi.jp/soshiki/chomin_seikatsu/7/4/391.html",
+      "in": "https://www.town.shikama.miyagi.jp/soshiki/chomin_seikatsu/7/4/390.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamigunkamimachi": {
+    "hasData": true,
+    "office": "加美町役場町民課が窓口。",
+    "links": {
+      "out": "https://www.town.kami.miyagi.jp/soshikikarasagasu/chominka/koseki_juminhyo_inkantoroku_kakushushomei/3/916.html",
+      "in": "https://www.town.kami.miyagi.jp/soshikikarasagasu/chominka/koseki_juminhyo_inkantoroku_kakushushomei/3/916.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "toodagunwakuyamachi": {
+    "hasData": true,
+    "office": "涌谷町役場町民生活課総合窓口班が窓口。",
+    "links": {
+      "out": "https://www.town.wakuya.miyagi.jp/kurashi/koseki/tenshutsu.html",
+      "in": "https://www.town.wakuya.miyagi.jp/kurashi/koseki/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "toodagunmisatomachi": {
+    "hasData": true,
+    "office": "美里町役場（本庁舎）町民生活課、または南郷庁舎町民窓口室が窓口。",
+    "links": {
+      "out": "https://www.town.misato.miyagi.jp/02todokede/2015-0310-0957-32.html",
+      "in": "https://www.town.misato.miyagi.jp/02todokede/2015-0310-0957-32.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oshikagunjokawamachi": {
+    "hasData": true,
+    "office": "女川町役場町民生活課住民登録係が窓口。",
+    "links": {
+      "out": "https://www.town.onagawa.miyagi.jp/04_02_01_04_01.html",
+      "in": "https://www.town.onagawa.miyagi.jp/04_02_01_04_02.html",
+      "mail": "https://www.town.onagawa.miyagi.jp/04_02_01_04_01a.html"
+    },
+    "confidence": "high"
+  },
+  "motoyoshigunminamisanrikumachi": {
+    "hasData": true,
+    "office": "南三陸町役場町民税務課戸籍住民係が窓口。",
+    "links": {
+      "out": "https://www.town.minamisanriku.miyagi.jp/life-info/sumai-hikkoshi/index.html",
+      "in": "https://www.town.minamisanriku.miyagi.jp/life-info/sumai-hikkoshi/index.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
