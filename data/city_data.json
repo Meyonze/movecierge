@@ -10470,5 +10470,215 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "shimoinagunurugimura": {
+    "hasData": true,
+    "office": "売木村役場の窓口で転入届・転出届を受け付け。マイナンバーカードによる特例転出届にも対応。",
+    "links": {
+      "out": "https://www.urugi.jp/top/administration_living/living_procedures/certificate/regident_card/",
+      "in": "https://www.urugi.jp/top/administration_living/living_procedures/certificate/regident_card/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinaguntenryuumura": {
+    "hasData": true,
+    "office": "天龍村役場の窓口で転入届・転出届を受け付け。マイナポータルを使った転出届オンライン提出にも対応。",
+    "links": {
+      "out": "https://www.vill-tenryu.jp/notice/administrative/gyouseitetudukionline/",
+      "in": "https://www.vill-tenryu.jp/notice/administrative/gyouseitetudukionline/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunyasuokamura": {
+    "hasData": true,
+    "office": "泰阜村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.yasuoka.nagano.jp/docs/66485.html",
+      "in": "https://www.vill.yasuoka.nagano.jp/docs/66485.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunkyoubokumura": {
+    "hasData": true,
+    "office": "喬木村役場の窓口で転入届・転出届を受け付け。マイナポータルを使ったオンライン届出にも対応。",
+    "links": {
+      "out": "https://www.vill.takagi.lg.jp/doc/2023111600028/",
+      "in": "https://www.vill.takagi.lg.jp/doc/2023111600028/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinaguntoyookamura": {
+    "hasData": true,
+    "office": "豊丘村役場 税務会計課窓口係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.nagano-toyooka.lg.jp/07todokee/01address/",
+      "in": "https://www.vill.nagano-toyooka.lg.jp/07todokee/01address/01tennyuu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunooshikamura": {
+    "hasData": true,
+    "office": "大鹿村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.ooshika.nagano.jp/jumin_toroku/",
+      "in": "https://www.vill.ooshika.nagano.jp/jumin_toroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kisogunminamigisomachi": {
+    "hasData": true,
+    "office": "南木曽町役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.nagiso.nagano.jp/0000000135.html",
+      "in": "https://www.town.nagiso.nagano.jp/0000000133.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kisogunkisomura": {
+    "hasData": true,
+    "office": "木祖村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.kiso.nagano.jp/lifescene/hikkoshi/index.html",
+      "in": "https://www.vill.kiso.nagano.jp/lifescene/hikkoshi/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashichikumagunomimura": {
+    "hasData": true,
+    "office": "麻績村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.omi.nagano.jp/lifescene/tennyu_tenshutsu/index.html",
+      "in": "https://www.vill.omi.nagano.jp/lifescene/tennyu_tenshutsu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashichikumagunikusakamura": {
+    "hasData": true,
+    "office": "生坂村役場 住民課の窓口で転入届・転出届を受け付け。各種証明書のデジタル申請にも対応。",
+    "links": {
+      "out": "https://www.village.ikusaka.nagano.jp/gyousei/juuminka/digital.html",
+      "in": "https://www.village.ikusaka.nagano.jp/gyousei/juuminka/digital.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashichikumakouriyamakatachimura": {
+    "hasData": true,
+    "office": "山形村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.yamagata.nagano.jp/docs/1892.html",
+      "in": "https://www.vill.yamagata.nagano.jp/docs/1892.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashichikumagunasahimura": {
+    "hasData": true,
+    "office": "朝日村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.asahi.nagano.jp/official/lifescenekarasagasu/hikkoshi_sumai/index.html",
+      "in": "https://www.vill.asahi.nagano.jp/official/lifescenekarasagasu/hikkoshi_sumai/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashichikumagunchikuhokumura": {
+    "hasData": true,
+    "office": "筑北村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.chikuhoku.lg.jp/docs/289.html",
+      "in": "https://www.vill.chikuhoku.lg.jp/docs/289.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitaazumikooriiketamachi": {
+    "hasData": true,
+    "office": "池田町役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.ikedamachi.net/0000000121.html",
+      "in": "https://www.ikedamachi.net/0000000117.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitaazumigunmatsukawamura": {
+    "hasData": true,
+    "office": "松川村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.matsukawa.nagano.jp/life/?content=99",
+      "in": "https://www.vill.matsukawa.nagano.jp/life/?content=99",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitaazumigunhakubamura": {
+    "hasData": true,
+    "office": "白馬村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.hakuba.lg.jp/gyosei/kurashi_tetsuzuki/todokede_shomei/jukinet/2061.html",
+      "in": "https://www.vill.hakuba.lg.jp/gyosei/kurashi_tetsuzuki/todokede_shomei/jukinet/2061.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitaazumigunkotanimura": {
+    "hasData": true,
+    "office": "小谷村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.otari.nagano.jp/kurashi-tetsuzuki/koseki-juminhyo-inkantoroku/3/1092.html",
+      "in": "https://www.vill.otari.nagano.jp/kurashi-tetsuzuki/koseki-juminhyo-inkantoroku/3/1092.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hanishinagunsakakimachi": {
+    "hasData": true,
+    "office": "坂城町役場の窓口で転入届・転出届を受け付け。個人番号カードによる転出届の特例にも対応。",
+    "links": {
+      "out": "https://www.town.sakaki.nagano.jp/page/2213.html",
+      "in": "https://www.town.sakaki.nagano.jp/page/2213.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamitakaigunobusemachi": {
+    "hasData": true,
+    "office": "小布施町役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.obuse.nagano.jp/life/resident/residents/",
+      "in": "https://www.town.obuse.nagano.jp/life/resident/residents/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamitakaigunkouzanmura": {
+    "hasData": true,
+    "office": "高山村役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.takayama.nagano.jp/docs/7861020.html",
+      "in": "https://www.vill.takayama.nagano.jp/docs/7861020.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimotakaikouriyamanouchimachi": {
+    "hasData": true,
+    "office": "山ノ内町役場の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.yamanouchi.nagano.jp/soshiki/juminkankyo/gyomu/todokede_shomei/572.html",
+      "in": "https://www.town.yamanouchi.nagano.jp/soshiki/juminkankyo/gyomu/todokede_shomei/572.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
