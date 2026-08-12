@@ -3490,7 +3490,7 @@
   },
   "suttsugunsuttsumachi": {
     "hasData": true,
-    "office": "寿都郡寿都町の転入・転出の届け出は町民課住民係（寿都町字新栄町）で受け付けています。",
+    "office": "寿都町役場 町民課 住民係で転入・転出の届出を受け付けている",
     "links": {
       "out": null,
       "in": null,
@@ -3500,7 +3500,7 @@
   },
   "suttsugunkuromatsunaimachi": {
     "hasData": true,
-    "office": "寿都郡黒松内町の住民登録（転入・転出）の届け出は住民課（黒松内町字黒松内302番地1）で受け付けています。",
+    "office": "黒松内町役場 住民課（北海道寿都郡黒松内町字黒松内302-1）で転入・転出の届出を受け付けている",
     "links": {
       "out": null,
       "in": null,
@@ -3590,11 +3590,11 @@
   },
   "setanagunimaganemachi": {
     "hasData": true,
-    "office": "瀬棚郡今金町の転入・転出の届け出は今金町役場税務住民課戸籍年金グループ（今金町字今金48番地の1）で受け付けています。",
+    "office": "今金町役場 税務住民課 戸籍年金グループ（北海道瀬棚郡今金町字今金48番地の1）で転入・転出の届出を受け付けている",
     "links": {
-      "out": null,
+      "out": "https://www.town.imakane.lg.jp/gyousei/gyousei_info/post_2727.html",
       "in": null,
-      "mail": null
+      "mail": "https://www.town.imakane.lg.jp/gyousei/gyousei_info/post_2727.html"
     },
     "confidence": "low"
   },
@@ -3609,8 +3609,8 @@
     "confidence": "low"
   },
   "tomamaeguntomamaemachi": {
-    "hasData": false,
-    "office": "苫前町役場（北海道苫前郡苫前町）住民生活課が転入・転出届を扱うが、公式サイト（town.tomamae.lg.jp）にライブ接続できずURLを検証できなかった。",
+    "hasData": true,
+    "office": "苫前町役場 住民生活課で転入・転出の届出を受け付けている",
     "links": {
       "out": null,
       "in": null,
@@ -3619,8 +3619,8 @@
     "confidence": "low"
   },
   "esashigunhamatonbetsumachi": {
-    "hasData": false,
-    "office": "浜頓別町役場（北海道枝幸郡浜頓別町）で転入・転出の手続きができるが、公式サイト（town.hamatonbetsu.hokkaido.jp）にライブ接続できずURLを検証できなかった。",
+    "hasData": true,
+    "office": "浜頓別町役場 住民登録窓口で転入・転出の届出を受け付けている",
     "links": {
       "out": null,
       "in": null,
