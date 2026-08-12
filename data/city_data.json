@@ -8150,5 +8150,295 @@
       "mail": "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00000197.html"
     },
     "confidence": "high"
+  },
+  "toyohashishi": {
+    "hasData": true,
+    "office": "豊橋市役所市民課（豊橋市今橋町1番地）で転入届・転出届を受け付け。オンラインでの転出届・転入予約も可能。",
+    "links": {
+      "out": "https://www.city.toyohashi.lg.jp/8814.htm",
+      "in": "https://www.city.toyohashi.lg.jp/8814.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "handashi": {
+    "hasData": true,
+    "office": "半田市役所市民課（半田市東洋町2丁目1番地）で転入届・転出届を受け付け。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/index.html",
+      "in": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/index.html",
+      "mail": "https://www.city.handa.lg.jp/kurashi/koseki/1001642/1001644.html"
+    },
+    "confidence": "high"
+  },
+  "kasugaishi": {
+    "hasData": true,
+    "office": "春日井市役所戸籍住民課で転入届・転出届を受け付け。転出届は郵送・オンライン（マイナポータル）も可。",
+    "links": {
+      "out": "https://www.city.kasugai.lg.jp/kurashi/todoke/1001889/index.html",
+      "in": "https://www.city.kasugai.lg.jp/kurashi/todoke/1001889/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tsushimashi": {
+    "hasData": true,
+    "office": "津島市役所市民課（津島市立込町2丁目21番地）で転入届・転出届を受け付け。オンラインでの来庁予約サービスあり。",
+    "links": {
+      "out": "https://www.city.tsushima.lg.jp/kurashi/todokedetou/jyuuminkirokukoseki/jukikosekitodokede/juminkiroku/jyuumintouroku.html",
+      "in": "https://www.city.tsushima.lg.jp/kurashi/todokedetou/jyuuminkirokukoseki/jukikosekitodokede/juminkiroku/jyuumintouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shinjoushi_aich": {
+    "hasData": true,
+    "office": "新城市役所市民課（愛知県新城市）で転入届・転出届を受け付け。窓口手続きが基本。",
+    "links": {
+      "out": "https://www.city.shinshiro.lg.jp/kurashi/koseki/jyuumin/index.html",
+      "in": "https://www.city.shinshiro.lg.jp/kurashi/koseki/jyuumin/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitashi": {
+    "hasData": true,
+    "office": "知多市役所市民窓口課届出窓口（知多市緑町1）で転入届・転出届を受け付け。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.city.chita.lg.jp/docs/2014010900371/",
+      "in": "https://www.city.chita.lg.jp/docs/2014010900371/",
+      "mail": "https://www.city.chita.lg.jp/docs/2014010900609/"
+    },
+    "confidence": "high"
+  },
+  "chiryuushi": {
+    "hasData": true,
+    "office": "知立市役所市民課戸籍住民係（知立市広見3丁目1番地）で転入届・転出届を受け付け。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.city.chiryu.aichi.jp/kurashi/scene/1/1451813572065.html",
+      "in": "https://www.city.chiryu.aichi.jp/kurashi/scene/1/1451813572065.html",
+      "mail": "https://www.city.chiryu.aichi.jp/kurashi/koseki/hennkou/1454556004559.html"
+    },
+    "confidence": "high"
+  },
+  "owariasahishi": {
+    "hasData": true,
+    "office": "尾張旭市役所市民課（尾張旭市東大道町原田2600-1）で転入届・転出届を受け付け。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.city.owariasahi.lg.jp/page/18251.html",
+      "in": "https://www.city.owariasahi.lg.jp/page/18251.html",
+      "mail": "https://www.city.owariasahi.lg.jp/page/2968.html"
+    },
+    "confidence": "high"
+  },
+  "takahamashi": {
+    "hasData": true,
+    "office": "高浜市役所市民窓口グループで転入届・転出届を受け付け。転出届は郵送も可。",
+    "links": {
+      "out": "https://www.city.takahama.lg.jp/soshiki/shimin/2480.html",
+      "in": "https://www.city.takahama.lg.jp/soshiki/shimin/2480.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwakurashi": {
+    "hasData": true,
+    "office": "岩倉市役所で転入届・転出届を受け付け。引越しワンストップサービスによるオンライン手続きも可。",
+    "links": {
+      "out": "https://www.city.iwakura.aichi.jp/0000000207.html",
+      "in": "https://www.city.iwakura.aichi.jp/0000000207.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nisshinshi": {
+    "hasData": true,
+    "office": "日進市役所市民課で住民異動届（転入届・転出届・転居届）を受け付け。転出はオンライン手続きも可。",
+    "links": {
+      "out": "https://www.city.nisshin.lg.jp/department/fukushi/shimin/4/3/2/todokede/5348.html",
+      "in": "https://www.city.nisshin.lg.jp/department/fukushi/shimin/4/3/2/todokede/5348.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kiyosushi": {
+    "hasData": true,
+    "office": "清須市役所市民課で転入届・転出届を受け付け。転出届はオンライン（マイナポータル）・郵送も可、転入届は窓口のみ。",
+    "links": {
+      "out": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokede_toroku_shomei/koseki_jumin_toroku.html",
+      "in": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokede_toroku_shomei/koseki_jumin_toroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nagakuteshi": {
+    "hasData": true,
+    "office": "長久手市役所市民課で転入・転出・転居の届出を受け付け。転出はオンライン手続きも可。",
+    "links": {
+      "out": "https://www.city.nagakute.lg.jp/soshiki/somubu/shiminka/1/1/juminhyo/2178.html",
+      "in": "https://www.city.nagakute.lg.jp/soshiki/somubu/shiminka/1/1/juminhyo/2178.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "aichiguntougoumachi": {
+    "hasData": true,
+    "office": "東郷町役場1階住民課（愛知郡東郷町）で転入届・転出届を受け付け。転出届は郵便での手続きも可。",
+    "links": {
+      "out": "https://www.town.aichi-togo.lg.jp/soshikikarasagasu/juminka/gyomuannai/5/3/4206.html",
+      "in": "https://www.town.aichi-togo.lg.jp/soshikikarasagasu/juminka/gyomuannai/5/3/4928.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishikasugaiguntoyoyamamachi": {
+    "hasData": true,
+    "office": "豊山町役場（西春日井郡豊山町）で住所変更に関する届出（転入届・転出届など）を受け付け。",
+    "links": {
+      "out": "https://www.town.toyoyama.lg.jp/kurashi/todokede/1000686/index.html",
+      "in": "https://www.town.toyoyama.lg.jp/kurashi/todokede/1000686/1000689.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tanbagunooguchimachi": {
+    "hasData": true,
+    "office": "大口町役場で住所変更等（転入届・転出届）の手続きを受け付け。",
+    "links": {
+      "out": "https://www.town.oguchi.lg.jp/2452.htm",
+      "in": "https://www.town.oguchi.lg.jp/2452.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tanbagunfusoumachi": {
+    "hasData": true,
+    "office": "扶桑町役場（丹羽郡扶桑町高雄天道330）健康福祉部戸籍保険住民登録グループで転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.fuso.lg.jp/kurashi/1001528/1001529/1001543.html",
+      "in": "https://www.town.fuso.lg.jp/kurashi/1001528/1001529/1001542.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kaifugundaijimachi": {
+    "hasData": true,
+    "office": "大治町役場（海部郡大治町馬島1-1）で転入届・転出届を受け付け。オンライン来庁予約サービスあり。",
+    "links": {
+      "out": "https://www.town.oharu.aichi.jp/1267.htm",
+      "in": "https://www.town.oharu.aichi.jp/1266.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kaifugunkaniemachi": {
+    "hasData": true,
+    "office": "蟹江町役場住民課（海部郡蟹江町学戸三丁目1番地）で転入届・転出届を受け付け。転出届は郵送・オンラインも可。",
+    "links": {
+      "out": "https://www.town.kanie.aichi.jp/soshiki/7/jyushohenko2.html",
+      "in": "https://www.town.kanie.aichi.jp/soshiki/7/jyushohenko1.html",
+      "mail": "https://www.town.kanie.aichi.jp/soshiki/7/henko4.html"
+    },
+    "confidence": "high"
+  },
+  "kaifuguntobishimamura": {
+    "hasData": true,
+    "office": "飛島村役場民生部住民課（海部郡飛島村竹之郷三丁目1番地）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.tobishima.aichi.jp/kurashi/todoke/1001575/1001578.html",
+      "in": "https://www.vill.tobishima.aichi.jp/kurashi/todoke/1001575/1001577.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitagunaguimachi": {
+    "hasData": true,
+    "office": "阿久比町役場民生部住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.agui.lg.jp/0000000265.html",
+      "in": "https://www.town.agui.lg.jp/0000000264.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitagunhigashiuramachi": {
+    "hasData": true,
+    "office": "東浦町役場住民課住民係（知多郡東浦町大字緒川字政所20番地）で住民異動届（転入・転出）を受け付け。転出届は郵送も可。",
+    "links": {
+      "out": "https://www.town.aichi-higashiura.lg.jp/soshiki/jumin/jumin/gyomu/todokede/1452566737585.html",
+      "in": "https://www.town.aichi-higashiura.lg.jp/soshiki/jumin/jumin/gyomu/todokede/1452566739678.html",
+      "mail": "https://www.town.aichi-higashiura.lg.jp/soshiki/jumin/jumin/gyomu/todokede/1452566737585.html"
+    },
+    "confidence": "high"
+  },
+  "chitagunminamichitamachi": {
+    "hasData": true,
+    "office": "南知多町役場住民課（知多郡南知多町豊浜字カイガケ坪18）で住所の異動届（転入・転出）を受け付け。オンライン・郵送（転出のみ）も可。",
+    "links": {
+      "out": "https://www.town.minamichita.lg.jp/kurashi/todokede/1000792.html",
+      "in": "https://www.town.minamichita.lg.jp/kurashi/todokede/1000792.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitagunmihamamachi": {
+    "hasData": true,
+    "office": "美浜町役場（知多郡美浜町河和）で転入・転出の届出を受け付け。引越しワンストップサービス（オンライン）も利用可。",
+    "links": {
+      "out": "https://www.town.aichi-mihama.lg.jp/by-purpose/tennyu-tensyutsu/index.html",
+      "in": "https://www.town.aichi-mihama.lg.jp/by-purpose/tennyu-tensyutsu/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "chitaguntaketoyomachi": {
+    "hasData": true,
+    "office": "武豊町役場住民窓口課（知多郡武豊町字長尾山2番地）で転入・転出・転居の届出を受け付け。転出はオンライン手続きも可。",
+    "links": {
+      "out": "https://www.town.taketoyo.lg.jp/kurashi/1001501/1003185/1003085.html",
+      "in": "https://www.town.taketoyo.lg.jp/kurashi/1001501/1003185/1003087.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nukatagunkoudachou": {
+    "hasData": true,
+    "office": "幸田町役場住民課住民窓口グループ（額田郡幸田町大字菱池字元林1番地1）で転入届・転出届を受け付け。転出はオンライン・郵送も可。",
+    "links": {
+      "out": "https://www.town.kota.lg.jp/soshiki/28/409.html",
+      "in": "https://www.town.kota.lg.jp/soshiki/28/411.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitashitaragunshitaramachi": {
+    "hasData": true,
+    "office": "設楽町役場町民課（北設楽郡設楽町田口字辻前14番地）または津具総合支所で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shitara.lg.jp/soshiki/3/1137.html",
+      "in": "https://www.town.shitara.lg.jp/soshiki/3/1137.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitashitaraguntoueimachi": {
+    "hasData": true,
+    "office": "東栄町役場（北設楽郡東栄町）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.toei.aichi.jp/1378.htm",
+      "in": "https://www.town.toei.aichi.jp/1378.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitashitaraguntoyonemura": {
+    "hasData": true,
+    "office": "豊根村役場住民課（北設楽郡豊根村下黒川字蕨平2）で戸籍・住民票に関する届出（転入・転出）を受け付け。",
+    "links": {
+      "out": "https://www.vill.toyone.aichi.jp/kurashi/todokede/289.html",
+      "in": "https://www.vill.toyone.aichi.jp/kurashi/todokede/289.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
