@@ -4107,5 +4107,45 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "kunigamigunginozamura": {
+    "hasData": true,
+    "office": "宜野座村役場 住民生活課で転入届・転出届の手続きができる（沖縄県国頭郡宜野座村字宜野座）。",
+    "links": {
+      "out": "https://www.vill.ginoza.okinawa.jp/kurashi/koseki-shomei/577.html",
+      "in": "https://www.vill.ginoza.okinawa.jp/kurashi/koseki-shomei/577.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimashiriguntonakimura": {
+    "hasData": true,
+    "office": "渡名喜村役場で転入届・転出届の手続きができる（沖縄県島尻郡渡名喜村）。詳細はサイトのJS/httpの制約で本文検証ができず、目視確認を推奨。",
+    "links": {
+      "out": "http://www.vill.tonaki.okinawa.jp/detail.jsp?id=57518&menuid=12291&funcid=1",
+      "in": "http://www.vill.tonaki.okinawa.jp/detail.jsp?id=57518&menuid=12291&funcid=1",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimashirigunminamidaitoumura": {
+    "hasData": true,
+    "office": "南大東村役場 福祉民生課で転入届・転出届の手続きができる（沖縄県島尻郡南大東村）。ページがJS描画のため本文キーワード検証はできていない。",
+    "links": {
+      "out": "https://www.vill.minamidaito.okinawa.jp/page/799.html",
+      "in": "https://www.vill.minamidaito.okinawa.jp/page/799.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "miyakoguntaramamura": {
+    "hasData": true,
+    "office": "多良間村役場 住民福祉課で転入届・転出届の手続きができる（沖縄県宮古郡多良間村）。村サイトに転入・転出専用ページが見当たらず、届出・証明書の総合ページを掲載。",
+    "links": {
+      "out": "https://www.vill.tarama.okinawa.jp/kurashi/todokede_syoumei/",
+      "in": "https://www.vill.tarama.okinawa.jp/kurashi/todokede_syoumei/",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
