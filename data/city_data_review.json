@@ -4037,5 +4037,75 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "akiguntouyoumachi": {
+    "hasData": true,
+    "office": "高知県安芸郡東洋町役場 住民課（サイトが egress ブロックのため URL 未検証）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "akigunnaharimachi": {
+    "hasData": true,
+    "office": "高知県安芸郡奈半利町役場 住民福祉課",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "akigunumajimura": {
+    "hasData": true,
+    "office": "高知県安芸郡馬路村役場 総務課（サイトが egress ブロックのため URL 未検証）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "takaokagunochimachi": {
+    "hasData": true,
+    "office": "高知県高岡郡越知町役場 住民課（サイトが egress ブロックのため URL 未検証）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "takaokagunyusuharamachi": {
+    "hasData": true,
+    "office": "高知県高岡郡檮原町役場 総務課住民係（サイトが egress ブロックのため URL 未検証）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "hatagunmiharamura": {
+    "hasData": true,
+    "office": "高知県幡多郡三原村役場 住民課",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "takaguntakamachi": {
+    "hasData": false,
+    "office": "多可町役場住民課で転入・転出の届出ができる（公式サイトのTLS証明書エラーによりURLの生存確認ができなかったため確認不可）。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
