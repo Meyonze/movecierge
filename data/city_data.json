@@ -12310,5 +12310,175 @@
       "mail": "https://www.city.kosai.shizuoka.jp/soshikiichiran/shiminka/gyomuannai/6/3/2152.html"
     },
     "confidence": "high"
+  },
+  "oumeshi": {
+    "hasData": true,
+    "office": "青梅市役所市民部市民課住民記録係（東京都青梅市東青梅1丁目11番地の1）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.city.ome.tokyo.jp/soshiki/13/419.html",
+      "in": "https://www.city.ome.tokyo.jp/soshiki/13/419.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "koganeishi": {
+    "hasData": true,
+    "office": "小金井市役所市民課住民記録係で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.city.koganei.lg.jp/kurashi/410/zyumininkankoseki/413/tennyu-todoke.html",
+      "in": "https://www.city.koganei.lg.jp/kurashi/410/zyumininkankoseki/413/tennyu-todoke.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurayamashi": {
+    "hasData": true,
+    "office": "東村山市役所市民課（東京都東村山市本町1丁目2番地3）で転入届・転出届を受け付けている。地域サービス窓口でも一部対応可",
+    "links": {
+      "out": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
+      "in": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunitachishi": {
+    "hasData": true,
+    "office": "国立市役所市民課で転入届・転出届を受け付けている。転入は窓口来庁が必須",
+    "links": {
+      "out": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div06/Sec02/gyomu/0190/1461065826848.html",
+      "in": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div06/Sec02/gyomu/0190/1461065826848.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "fussashi": {
+    "hasData": true,
+    "office": "福生市役所市民部総合窓口課（1階）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.city.fussa.tokyo.jp/life/resident/res1/1001790.html",
+      "in": "https://www.city.fussa.tokyo.jp/life/resident/res1/1001790.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiyamatoshi": {
+    "hasData": true,
+    "office": "東大和市役所市民課で転入届・転出届を受け付けている。転入は郵送不可で窓口来庁が必須",
+    "links": {
+      "out": "https://www.city.higashiyamato.lg.jp/lifemenu/1007225.html",
+      "in": "https://www.city.higashiyamato.lg.jp/lifemenu/1007225.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hamurashi": {
+    "hasData": true,
+    "office": "羽村市役所市民生活課で転入届・転出届を受け付けている。転出は郵送でも可能",
+    "links": {
+      "out": "https://www.city.hamura.tokyo.jp/0000006473.html",
+      "in": "https://www.city.hamura.tokyo.jp/0000006473.html",
+      "mail": "https://www.city.hamura.tokyo.jp/0000002974.html"
+    },
+    "confidence": "high"
+  },
+  "nishitamagunmizuhomachi": {
+    "hasData": true,
+    "office": "瑞穂町役場（東京都西多摩郡瑞穂町大字箱根ケ崎2335番地）住民課で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.town.mizuho.tokyo.jp/kurashi/001/005/p005104.html",
+      "in": "https://www.town.mizuho.tokyo.jp/kurashi/001/005/p005104.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishitamagunhinodemachi": {
+    "hasData": true,
+    "office": "日の出町役場町民課窓口サービス係（東京都西多摩郡日の出町大字平井2780番地）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.town.hinode.tokyo.jp/0000001520.html",
+      "in": "https://www.town.hinode.tokyo.jp/0000001519.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishitamagunhibaramura": {
+    "hasData": true,
+    "office": "檜原村役場（東京都西多摩郡檜原村467-1）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.vill.hinohara.tokyo.jp/0000000258.html",
+      "in": "https://www.vill.hinohara.tokyo.jp/0000000257.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishitamagunokutamamachi": {
+    "hasData": true,
+    "office": "奥多摩町役場住民課総合窓口係（東京都奥多摩町氷川215-6）で転入届・転出届を受け付けている。古里出張所でも転入可",
+    "links": {
+      "out": "https://www.town.okutama.tokyo.jp/1/juminka/todokede_shomei/4/1042.html",
+      "in": "https://www.town.okutama.tokyo.jp/1/juminka/todokede_shomei/4/1043.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ooshimamachi": {
+    "hasData": true,
+    "office": "大島町役場（東京都大島町元町1-1-14）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.town.oshima.tokyo.jp/soshiki/jumin/todokede.html",
+      "in": "https://www.town.oshima.tokyo.jp/soshiki/jumin/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "niijimamura": {
+    "hasData": true,
+    "office": "新島村役場で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.niijima.com/kurashi/todokede/tenshutsu.html",
+      "in": "https://www.niijima.com/kurashi/todokede/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kouzushimamura": {
+    "hasData": true,
+    "office": "神津島村役場福祉課福祉係住基担当（東京都神津島村904番地）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.vill.kouzushima.tokyo.jp/2011-0930/",
+      "in": "https://www.vill.kouzushima.tokyo.jp/2011-0930-3/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "miyakemura": {
+    "hasData": true,
+    "office": "三宅村役場（東京都三宅島三宅村阿古497番地）で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.vill.miyake.tokyo.jp/kurashi/todokede_syoumei/koseki_juumin/juumintouroku.html",
+      "in": "https://www.vill.miyake.tokyo.jp/kurashi/todokede_syoumei/koseki_juumin/juumintouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hachijoumachi": {
+    "hasData": true,
+    "office": "八丈町役場住民係で転入届・転出届を受け付けている",
+    "links": {
+      "out": "https://www.town.hachijo.tokyo.jp/kurashi/jumin-koseki/ido/",
+      "in": "https://www.town.hachijo.tokyo.jp/kurashi/jumin-koseki/ido/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ogasawaramura": {
+    "hasData": true,
+    "office": "小笠原村役場村民課住民係（東京都小笠原村父島字西町）、母島支所庶務係で転入届・転出届を受け付けている。転出は郵送も可",
+    "links": {
+      "out": "https://www.vill.ogasawara.tokyo.jp/sonmin/tennyuu/",
+      "in": "https://www.vill.ogasawara.tokyo.jp/sonmin/tennyuu/",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
