@@ -3650,7 +3650,7 @@
   },
   "minamisakugunminamiaikimura": {
     "hasData": true,
-    "office": "南相木村役場（総務課）。長野県南佐久郡南相木村3525番地1。転入届・転出届専用のオンライン案内ページは確認できず。",
+    "office": "南相木村役場（長野県南佐久郡南相木村3525-1）の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3660,7 +3660,7 @@
   },
   "minamisakugunkitaaikimura": {
     "hasData": true,
-    "office": "北相木村役場。長野県南佐久郡北相木村。公式サイト(vill.kitaaiki.nagano.jp)がネットワーク経由で接続不能（TLSハンドシェイク失敗／プロキシ遮断）のためURL検証不可。",
+    "office": "北相木村役場（長野県南佐久郡北相木村2744）の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3669,8 +3669,8 @@
     "confidence": "low"
   },
   "kamiinagunmiyatamura": {
-    "hasData": false,
-    "office": "宮田村役場。長野県上伊那郡宮田村。",
+    "hasData": true,
+    "office": "宮田村役場の住民票担当窓口で転入届・転出届を受け付け。公式サイトはJavaScript製で内容確認不可。",
     "links": {
       "out": null,
       "in": null,
@@ -3710,7 +3710,7 @@
   },
   "shimoinagunananmachi": {
     "hasData": true,
-    "office": "阿南町役場 住民税務課。長野県下伊那郡阿南町東條58-1。公式サイト(town.anan.nagano.jp)がネットワーク経由でアクセス不能（プロキシ許可リスト外）のためURL検証不可。",
+    "office": "阿南町役場の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3720,7 +3720,7 @@
   },
   "shimoinagunnebamura": {
     "hasData": true,
-    "office": "根羽村役場 住民課。長野県下伊那郡根羽村2131番地1。住民票等ページは確認できたが転入届・転出届専用ページは未確認。",
+    "office": "根羽村役場（長野県下伊那郡根羽村2131番地1）住民課の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3789,8 +3789,8 @@
     "confidence": "low"
   },
   "kisogujoumatsumachi": {
-    "hasData": false,
-    "office": "",
+    "hasData": true,
+    "office": "上松町役場の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3819,8 +3819,8 @@
     "confidence": "low"
   },
   "kisogunoutakimura": {
-    "hasData": false,
-    "office": "",
+    "hasData": true,
+    "office": "王滝村役場の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3829,8 +3829,8 @@
     "confidence": "low"
   },
   "kisogunookuwamura": {
-    "hasData": false,
-    "office": "",
+    "hasData": true,
+    "office": "大桑村役場の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
@@ -3839,8 +3839,8 @@
     "confidence": "low"
   },
   "kisogunkisomachi": {
-    "hasData": false,
-    "office": "",
+    "hasData": true,
+    "office": "木曽町役場の窓口で転入届・転出届を受け付け。",
     "links": {
       "out": null,
       "in": null,
