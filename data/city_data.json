@@ -13130,5 +13130,125 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "koyuguntakanabemachi": {
+    "hasData": true,
+    "office": "高鍋町役場 町民生活課（戸籍住民・年金係）で転入届・転出届の手続きが可能",
+    "links": {
+      "out": "https://www.town.takanabe.lg.jp/lifeevent/hikoshi/1747.html",
+      "in": "https://www.town.takanabe.lg.jp/lifeevent/hikoshi/1747.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "koyugunshintomimachi": {
+    "hasData": true,
+    "office": "新富町役場 町民課で転入届・転出届を受付。マイナンバーカードがあれば転出届はオンライン申請も可能",
+    "links": {
+      "out": "https://www.town.shintomi.lg.jp/life_scene/sumai_hikkoshi/2684.html",
+      "in": "https://www.town.shintomi.lg.jp/life_scene/sumai_hikkoshi/2684.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "koyugunnishimeramura": {
+    "hasData": true,
+    "office": "西米良村役場（住民課）で転入届・転出届の手続きが可能",
+    "links": {
+      "out": "https://www.vill.nishimera.lg.jp/village/a-00-villagelife/a-03/10000633",
+      "in": "https://www.vill.nishimera.lg.jp/village/a-00-villagelife/10000088",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "koyugunkishiromachi": {
+    "hasData": true,
+    "office": "木城町役場 町民課 戸籍住民係で転入届・転出届（住民異動届）の手続きが可能",
+    "links": {
+      "out": "https://www.town.kijo.lg.jp/sosikikarasagasu/tyouminka/7/jyuminidou/770.html",
+      "in": "https://www.town.kijo.lg.jp/sosikikarasagasu/tyouminka/7/jyuminidou/770.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "koyugunkawaminamimachi": {
+    "hasData": true,
+    "office": "川南町役場 町民健康課 住民係で転入届・転出届（住民異動届）の申請書を確認・提出可能",
+    "links": {
+      "out": "https://www.town.kawaminami.miyazaki.jp/soshiki/6/1261.html",
+      "in": "https://www.town.kawaminami.miyazaki.jp/soshiki/6/1261.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiusukigunkadogawamachi": {
+    "hasData": true,
+    "office": "門川町役場で転入届・転出届（住所変更）の手続きが可能",
+    "links": {
+      "out": "https://www.town.kadogawa.lg.jp/live/moving/page001256.html",
+      "in": "https://www.town.kadogawa.lg.jp/live/moving/page001256.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiusukigunmorotsukamura": {
+    "hasData": true,
+    "office": "諸塚村役場 住民生活課で転入・転出・転居の手続きが可能",
+    "links": {
+      "out": "https://www.vill.morotsuka.miyazaki.jp/soshiki/1003/3/294.html",
+      "in": "https://www.vill.morotsuka.miyazaki.jp/soshiki/1003/3/294.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiusukigunshiibamura": {
+    "hasData": true,
+    "office": "椎葉村役場 税務住民課で転入届・転出届・転居届の手続きが可能",
+    "links": {
+      "out": "https://www.vill.shiiba.miyazaki.jp/tax/apply/moveout.php",
+      "in": "https://www.vill.shiiba.miyazaki.jp/tax/apply/movein.php",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiusukigunmisatomachi": {
+    "hasData": true,
+    "office": "美郷町役場で転入・転出の手続きが可能",
+    "links": {
+      "out": "https://www.town.miyazaki-misato.lg.jp/kiji003109/index.html",
+      "in": "https://www.town.miyazaki-misato.lg.jp/kiji003109/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiusukiguntakachihomachi": {
+    "hasData": true,
+    "office": "高千穂町役場 町民生活課 町民係で転入届・転出届の手続きが可能",
+    "links": {
+      "out": "https://www.town-takachiho.jp/top/soshiki/chominsekatsu/2/4/430.html",
+      "in": "https://www.town-takachiho.jp/top/soshiki/chominsekatsu/2/4/428.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiusukigunhinokagemachi": {
+    "hasData": true,
+    "office": "日之影町役場で住民票・戸籍に関する転入届・転出届の手続きが可能",
+    "links": {
+      "out": "https://www.town.hinokage.lg.jp/categories/seikatsuguide/juminhyou/",
+      "in": "https://www.town.hinokage.lg.jp/categories/seikatsuguide/juminhyou/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiusukigungokesemachi": {
+    "hasData": true,
+    "office": "五ヶ瀬町役場 町民課 住民グループで転入届・転出届の手続きが可能",
+    "links": {
+      "out": "https://www.town.gokase.miyazaki.jp/kakuka/choumin/jyuminhyokoseki/118.html",
+      "in": "https://www.town.gokase.miyazaki.jp/kakuka/choumin/jyuminhyokoseki/757.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
