@@ -4217,5 +4217,25 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "iwafunegunsekigawamura": {
+    "hasData": true,
+    "office": "関川村役場 住民環境課（新潟県岩船郡関川村大字下関912、TEL 0254-64-1471）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "iwafunegunawashimauramura": {
+    "hasData": true,
+    "office": "粟島浦村役場（新潟県岩船郡粟島浦村、TEL 0254-55-2111）",
+    "links": {
+      "out": "https://www.vill.awashimaura.lg.jp/information/process/",
+      "in": "https://www.vill.awashimaura.lg.jp/information/process/",
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
