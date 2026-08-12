@@ -4157,5 +4157,25 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "mikurashimamura": {
+    "hasData": true,
+    "office": "御蔵島村役場（東京都御蔵島村字入かねが沢、TEL 04994-8-2121）で転入届・転出届を受け付けている",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "aokeshimamura": {
+    "hasData": true,
+    "office": "青ヶ島村役場（東京都青ヶ島村無番地）で転入届・転出届を受け付けている",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
