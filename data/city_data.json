@@ -9390,5 +9390,255 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "minokamoshi": {
+    "hasData": true,
+    "office": "美濃加茂市役所市民課（本庁舎1階）または連絡所で手続き。平日8時45分〜16時45分。",
+    "links": {
+      "out": "https://www.city.minokamo.lg.jp/soshiki/23/2371.html",
+      "in": "https://www.city.minokamo.lg.jp/soshiki/23/2371.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tokishi": {
+    "hasData": true,
+    "office": "土岐市役所市民生活部市民課住民係で手続き。転出届はマイナポータルでのオンライン届出も可能。",
+    "links": {
+      "out": "https://www.city.toki.lg.jp/kurashi/koseki/1004655/1003955.html",
+      "in": "https://www.city.toki.lg.jp/kurashi/koseki/1004655/1003955.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kanishi": {
+    "hasData": true,
+    "office": "可児市役所市民課で戸籍・住民登録の届出。転出届はマイナポータルでのオンライン届出も可能。",
+    "links": {
+      "out": "https://www.city.kani.lg.jp/4606.htm",
+      "in": "https://www.city.kani.lg.jp/4606.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "motosushi": {
+    "hasData": true,
+    "office": "本巣市役所市民課で住民登録（転入・転出・転居）の届出。転入は住み始めた日から14日以内。",
+    "links": {
+      "out": "https://www.city.motosu.lg.jp/0000000076.html",
+      "in": "https://www.city.motosu.lg.jp/0000000076.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "haneshimagunginanmachi": {
+    "hasData": true,
+    "office": "岐南町役場で転入届・転出届の手続き。岐阜県羽島郡岐南町八剣7-107。",
+    "links": {
+      "out": "https://www.town.ginan.lg.jp/1237.htm",
+      "in": "https://www.town.ginan.lg.jp/1238.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "haneshimagunkasamatsumachi": {
+    "hasData": true,
+    "office": "笠松町役場住民課で転入・転出届の手続き。転入は住み始めた日から14日以内。",
+    "links": {
+      "out": "https://www.town.kasamatsu.gifu.jp/docs/2013012300059/",
+      "in": "https://www.town.kasamatsu.gifu.jp/docs/2013012300042/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yourougunyouroumachi": {
+    "hasData": true,
+    "office": "養老町役場で転入・転出届の手続き。岐阜県養老郡養老町高田798。",
+    "links": {
+      "out": "https://www.town.yoro.gifu.jp/docs/2016020300059/",
+      "in": "https://www.town.yoro.gifu.jp/docs/2016020300042/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "fuwaguntaruimachi": {
+    "hasData": true,
+    "office": "垂井町役場住民課戸籍係で転入・転出・転居の届出。郵送での転出届も可能。",
+    "links": {
+      "out": "https://www.town.tarui.lg.jp/page/1736.html",
+      "in": "https://www.town.tarui.lg.jp/page/1736.html",
+      "mail": "https://www.town.tarui.lg.jp/page/1867.html"
+    },
+    "confidence": "high"
+  },
+  "fuwagunsekigaharamachi": {
+    "hasData": true,
+    "office": "関ケ原町役場で転入・転出届の各種届出手続き。",
+    "links": {
+      "out": "https://www.town.sekigahara.gifu.jp/2634.htm",
+      "in": "https://www.town.sekigahara.gifu.jp/2634.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "anpachigunkoubechou": {
+    "hasData": true,
+    "office": "神戸町役場住民保険課住民係で転入・転出届の手続き。転出届はマイナポータルでのオンライン届出も可能。",
+    "links": {
+      "out": "https://www.town.godo.gifu.jp/life/to_sho_shin/to_sho_shin08.html",
+      "in": "https://www.town.godo.gifu.jp/life/to_sho_shin/to_sho_shin09.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "anpachigunwanouchimachi": {
+    "hasData": true,
+    "office": "輪之内町役場住民環境課で転入・転出届の手続き。郵送での転出届も可能。",
+    "links": {
+      "out": "https://town.wanouchi.gifu.jp/portal/life-process/report/resident-card/post0017635/",
+      "in": "https://town.wanouchi.gifu.jp/portal/life-process/report/resident-card/post0017710/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "anpachigunanpachimachi": {
+    "hasData": true,
+    "office": "安八町役場住民環境課窓口で転入・転出届の手続き。岐阜県安八郡安八町氷取161番地。",
+    "links": {
+      "out": "https://www.town.anpachi.lg.jp/0000000505.html",
+      "in": "https://www.town.anpachi.lg.jp/0000000512.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ibigunibigawamachi": {
+    "hasData": true,
+    "office": "揖斐川町役場住民生活課で転入・転出届の手続き。窓口での正確な住所の届出が必要。",
+    "links": {
+      "out": "https://www.town.ibigawa.lg.jp/page/1921.html",
+      "in": "https://www.town.ibigawa.lg.jp/page/1921.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ibigunoonomachi": {
+    "hasData": true,
+    "office": "大野町役場で住民登録（転入・転出・転居）の届出。",
+    "links": {
+      "out": "https://www.town-ono.jp/0000000021.html",
+      "in": "https://www.town-ono.jp/0000000021.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ibikooriiketamachi": {
+    "hasData": true,
+    "office": "池田町役場で住民異動に関する手続き（転入・転出・住所変更等）。岐阜県揖斐郡池田町。",
+    "links": {
+      "out": "https://www.town.gifu-ikeda.lg.jp/0000000296.html",
+      "in": "https://www.town.gifu-ikeda.lg.jp/0000000296.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "motosugunkitagatamachi": {
+    "hasData": true,
+    "office": "北方町役場住民保険課で転入届・転出届の手続き。岐阜県本巣郡北方町長屋1-1。",
+    "links": {
+      "out": "https://www.town.kitagata.gifu.jp/soshiki/juminhoken/1/3_1/529.html",
+      "in": "https://www.town.kitagata.gifu.jp/soshiki/juminhoken/1/3_1/525.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunsakahogimachi": {
+    "hasData": true,
+    "office": "坂祝町役場税務課窓口で転入・転出届の手続き。転入は住み始めた日から14日以内、転出は郵送も可能。",
+    "links": {
+      "out": "https://www.town.sakahogi.gifu.jp/life/category01/cate01_09.html",
+      "in": "https://www.town.sakahogi.gifu.jp/life/category01/cate01_07.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamoguntomikamachi": {
+    "hasData": true,
+    "office": "富加町役場住民課窓口で転入・転出届の手続き。転入は住み始めてから14日以内。",
+    "links": {
+      "out": "https://www.town.tomika.gifu.jp/docs/9373.html",
+      "in": "https://www.town.tomika.gifu.jp/docs/9373.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunkawabemachi": {
+    "hasData": true,
+    "office": "川辺町役場で住民異動届（転入・転出・転居）の手続き。",
+    "links": {
+      "out": "https://www.kawabe-gifu.jp/?page_id=1061",
+      "in": "https://www.kawabe-gifu.jp/?page_id=1061",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunhichisoumachi": {
+    "hasData": true,
+    "office": "七宗町役場住民係で転入届・転出届の手続き。転入は住み始めた日から14日以内。",
+    "links": {
+      "out": "https://www.hichiso.jp/top/life/todoke/resident/out/",
+      "in": "https://www.hichiso.jp/top/life/todoke/resident/come/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunyaotsumachi": {
+    "hasData": true,
+    "office": "八百津町役場で転入届・転出届の手続き。転入は移動から14日以内に届出。",
+    "links": {
+      "out": "https://www.town.yaotsu.lg.jp/1261.htm",
+      "in": "https://www.town.yaotsu.lg.jp/1262.htm",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunshirakawamachi": {
+    "hasData": true,
+    "office": "白川町役場住民係（岐阜県加茂郡白川町河岐715、白川町役場本館1階）で転入・転出届の手続き。",
+    "links": {
+      "out": "https://www.town.shirakawa.lg.jp/kurashi/todokede/1001689/1001691.html",
+      "in": "https://www.town.shirakawa.lg.jp/kurashi/todokede/1001689/1001690.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamogunhigashishirakawamura": {
+    "hasData": true,
+    "office": "東白川村役場（岐阜県加茂郡東白川村神土548）で転入届・転出届の手続き。",
+    "links": {
+      "out": "https://www.vill.higashishirakawa.gifu.jp/kurashi/madoguchi/tenshutsu/",
+      "in": "https://www.vill.higashishirakawa.gifu.jp/kurashi/madoguchi/tenshutsu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kanigunmitakemachi": {
+    "hasData": true,
+    "office": "御嵩町役場住民環境課で転入・転出・転居等の届出。郵送での転出手続きも可能。",
+    "links": {
+      "out": "https://www.town.mitake.lg.jp/portal/life-process/post0044070/",
+      "in": "https://www.town.mitake.lg.jp/portal/life-process/post0044070/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oonogunshirakawamura": {
+    "hasData": true,
+    "office": "白川村役場（岐阜県大野郡白川村、白川郷）で転入届・転出届の手続き。転出は郵送でも可能。",
+    "links": {
+      "out": "https://www.vill.shirakawa.lg.jp/1138.htm",
+      "in": "https://www.vill.shirakawa.lg.jp/1139.htm",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
