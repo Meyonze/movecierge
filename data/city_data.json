@@ -10680,5 +10680,205 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "oushuushi": {
+    "hasData": true,
+    "office": "奥州市役所（水沢区大鐘町）または各総合支所の市民課窓口。マイナポータルでの転出届オンライン提出、郵送での転出届提出にも対応。",
+    "links": {
+      "out": "https://www.city.oshu.iwate.jp/soshiki/5/1050/5/4740.html",
+      "in": "https://www.city.oshu.iwate.jp/soshiki/5/1050/5/4740.html",
+      "mail": "https://www.city.oshu.iwate.jp/soshiki/5/1050/5/3/2548.html"
+    },
+    "confidence": "high"
+  },
+  "iwategunshizukuishimachi": {
+    "hasData": true,
+    "office": "雫石町役場町民課の窓口で転入届・転出届を受け付け。転出届は郵送でも手続き可能。",
+    "links": {
+      "out": "https://www.town.shizukuishi.iwate.jp/docs/2014112000047/",
+      "in": "https://www.town.shizukuishi.iwate.jp/docs/2014111900010/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwategunkuzumakimachi": {
+    "hasData": true,
+    "office": "葛巻町役場1階窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.kuzumaki.lg.jp/docs/2015110700052/",
+      "in": "https://www.town.kuzumaki.lg.jp/docs/2015110700045/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwateguniwatemachi": {
+    "hasData": true,
+    "office": "岩手町役場町民課・戸籍住民係で転入届・転出届を受け付け。マイナポータルでの転出届オンライン提出にも対応。",
+    "links": {
+      "out": "https://town.iwate.iwate.jp/town/life/tenshutsutodoke/",
+      "in": "https://town.iwate.iwate.jp/town/life/tennyutodok/",
+      "mail": "https://town.iwate.iwate.jp/town/life/online-tenshutsu-mainapotaru/"
+    },
+    "confidence": "high"
+  },
+  "shiwagunshiwamachi": {
+    "hasData": true,
+    "office": "紫波町役場町民課住民係・戸籍係（紫波中央駅前）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shiwa.iwate.jp/kurashi/koseki1/koseki2/1396.html",
+      "in": "https://www.town.shiwa.iwate.jp/kurashi/koseki1/koseki2/1396.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shiwagunyahabamachi": {
+    "hasData": true,
+    "office": "矢巾町役場町民環境課の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.yahaba.iwate.jp/soshiki/jyumin/kurashi/2021082700013/",
+      "in": "https://www.town.yahaba.iwate.jp/soshiki/jyumin/kurashi/2021082700013/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "wagagunnishiwagamachi": {
+    "hasData": true,
+    "office": "西和賀町沢内庁舎町民課または湯田庁舎税務課で転入届・転出届を受け付け。転出届は郵送でも手続き可能。",
+    "links": {
+      "out": "https://www.town.nishiwaga.lg.jp/soshikikarasagasu/chominka/2/1/3/3/881.html",
+      "in": "https://www.town.nishiwaga.lg.jp/soshikikarasagasu/chominka/2/1/3/3/881.html",
+      "mail": "https://www.town.nishiwaga.lg.jp/soshikikarasagasu/chominka/2/1/3/3/883.html"
+    },
+    "confidence": "high"
+  },
+  "isawagunkinkesakimachi": {
+    "hasData": true,
+    "office": "金ケ崎町役場（西根南町）1階町民課住民係で転入届・転出届を受け付け。転出届はオンライン・郵送での手続きにも対応。",
+    "links": {
+      "out": "https://www.town.kanegasaki.iwate.jp/docs/2017072100048/",
+      "in": "https://www.town.kanegasaki.iwate.jp/docs/2017072100048/",
+      "mail": "https://www.town.kanegasaki.iwate.jp/docs/2017092900109/"
+    },
+    "confidence": "high"
+  },
+  "nishiiwaigunhiraizumimachi": {
+    "hasData": true,
+    "office": "平泉町役場の窓口で転入届・転出届を受け付け。転出届は郵送・マイナポータルでのオンライン提出にも対応。",
+    "links": {
+      "out": "https://www.town.hiraizumi.iwate.jp/index.cfm/21,757,95,143,html",
+      "in": "https://www.town.hiraizumi.iwate.jp/index.cfm/21,757,95,143,html",
+      "mail": "https://www.town.hiraizumi.iwate.jp/index.cfm/21,736,93,127,html"
+    },
+    "confidence": "high"
+  },
+  "kesengunsumitamachi": {
+    "hasData": true,
+    "office": "住田町役場（世田米字川向）の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.sumita.iwate.jp/lifeevent/hikkoshi.html",
+      "in": "https://www.town.sumita.iwate.jp/lifeevent/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamiheigunootsuchimachi": {
+    "hasData": true,
+    "office": "大槌町役場町民課の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.otsuchi.iwate.jp/gyosei/docs/374953.html",
+      "in": "https://www.town.otsuchi.iwate.jp/gyosei/docs/374953.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoheikouriyamatamachi": {
+    "hasData": true,
+    "office": "山田町役場の窓口で住民登録（転入届・転出届）を受け付け。",
+    "links": {
+      "out": "https://www.town.yamada.iwate.jp/docs/72.html",
+      "in": "https://www.town.yamada.iwate.jp/docs/72.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoheiguniwaizumimachi": {
+    "hasData": true,
+    "office": "岩泉町役場町民課戸籍住民係または各支所で転入届・転出届を受け付け。転出届はマイナポータルでのオンライン提出にも対応。",
+    "links": {
+      "out": "https://www.town.iwaizumi.lg.jp/docs/2021030900021/",
+      "in": "https://www.town.iwaizumi.lg.jp/docs/2021030900021/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoheiguntanohatamura": {
+    "hasData": true,
+    "office": "田野畑村役場の窓口で転入届・転出届（住民登録）を受け付け。",
+    "links": {
+      "out": "https://www.vill.tanohata.iwate.jp/lifeevent/hikkoshi.html",
+      "in": "https://www.vill.tanohata.iwate.jp/lifeevent/hikkoshi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoheigunfudaimura": {
+    "hasData": true,
+    "office": "普代村役場の窓口で転入届・転出届（住民登録）を受け付け。",
+    "links": {
+      "out": "https://www.vill.fudai.iwate.jp/seikatsu/jyumin/",
+      "in": "https://www.vill.fudai.iwate.jp/seikatsu/jyumin/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunohegunkarumaimachi": {
+    "hasData": true,
+    "office": "軽米町役場町民生活課の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.karumai.iwate.jp/article/kurashitetsuduki/notification/cat901/",
+      "in": "https://www.town.karumai.iwate.jp/article/kurashitetsuduki/notification/cat901/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunohegunnodamura": {
+    "hasData": true,
+    "office": "野田村役場住民生活課の窓口で転入届・転出届を受け付け。転出届は郵送・マイナンバーカードによる特例手続きにも対応。",
+    "links": {
+      "out": "https://www.vill.noda.iwate.jp/soshiki/juminseikatsuka/juminseikatsuhan/todokede_shomei/371.html",
+      "in": "https://www.vill.noda.iwate.jp/soshiki/juminseikatsuka/juminseikatsuhan/todokede_shomei/371.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunohegunkunohemura": {
+    "hasData": true,
+    "office": "九戸村役場税務住民課国保住民係の窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.kunohe.iwate.jp/docs/474.html",
+      "in": "https://www.vill.kunohe.iwate.jp/docs/474.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunohegunhironomachi": {
+    "hasData": true,
+    "office": "洋野町役場（種市）町民生活課の窓口で転入届・転出届を受け付け。転出届は郵送でも手続き可能。",
+    "links": {
+      "out": "https://www.town.hirono.iwate.jp/doc/2006102700044/",
+      "in": "https://www.town.hirono.iwate.jp/doc/2006102700044/",
+      "mail": "https://www.town.hirono.iwate.jp/doc/2016032800059/"
+    },
+    "confidence": "high"
+  },
+  "ninohegunichinohemachi": {
+    "hasData": true,
+    "office": "一戸町役場総務部町民課総合窓口係で転入届・転出届を受け付け。転出証明書は郵便請求も可能。",
+    "links": {
+      "out": "https://www.town.ichinohe.iwate.jp/lifescenekarasagasu/hikkoshi/3/index.html",
+      "in": "https://www.town.ichinohe.iwate.jp/lifescenekarasagasu/hikkoshi/3/index.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
