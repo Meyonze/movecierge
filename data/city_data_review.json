@@ -4207,5 +4207,15 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "koyuguntonoumachi": {
+    "hasData": true,
+    "office": "都農町役場（住民担当窓口）で転入届・転出届の手続きが可能。公式サイトがリニューアルされ個別ページはライブ検証できず",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
