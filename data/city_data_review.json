@@ -3677,5 +3677,25 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "abutaguntouyakomachi": {
+    "hasData": false,
+    "office": "洞爺湖町役場（町民福祉課）。転入・転出の届出窓口があるが、公式サイトのTLS接続エラーによりURLをライブ検証できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "sarugunhidakamachi": {
+    "hasData": false,
+    "office": "日高町役場（住民生活課、本庁：門別地域／日高総合支所：日高地域）。転入・転出の届出窓口はあるが、専用ページをライブ検証で十分に確認できなかった。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
