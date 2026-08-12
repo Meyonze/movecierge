@@ -3490,20 +3490,20 @@
   },
   "suttsugunsuttsumachi": {
     "hasData": true,
-    "office": "寿都町役場 町民課住民係の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "寿都町役場（住民課）で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "http://www.town.suttu.lg.jp/life/detail.php?id=18",
+      "in": "http://www.town.suttu.lg.jp/life/detail.php?id=3",
       "mail": null
     },
     "confidence": "low"
   },
   "suttsugunkuromatsunaimachi": {
     "hasData": true,
-    "office": "黒松内町役場 住民課の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "黒松内町役場（住民課）で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "http://www.kuromatsunai.com/townlife/koseki/file002/",
+      "in": "http://www.kuromatsunai.com/townlife/koseki/file002/",
       "mail": null
     },
     "confidence": "low"
@@ -3610,9 +3610,9 @@
   },
   "tomamaeguntomamaemachi": {
     "hasData": true,
-    "office": "苫前町役場 住民生活課の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "苫前町役場（住民生活課）で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
+      "out": "http://www.town.tomamae.lg.jp/section/chomin/lg6iib0000000gdc.html",
       "in": null,
       "mail": null
     },
@@ -3620,10 +3620,10 @@
   },
   "esashigunhamatonbetsumachi": {
     "hasData": true,
-    "office": "浜頓別町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "浜頓別町役場で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "http://www.town.hamatonbetsu.hokkaido.jp/town/detail.php?content=344",
+      "in": "http://www.town.hamatonbetsu.hokkaido.jp/town/detail.php?content=344",
       "mail": null
     },
     "confidence": "low"
@@ -3680,30 +3680,30 @@
   },
   "abutaguntouyakomachi": {
     "hasData": true,
-    "office": "洞爺湖町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "洞爺湖町役場で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "http://www.town.toyako.hokkaido.jp/town_guide/moving/mov001/",
+      "in": "http://www.town.toyako.hokkaido.jp/town_guide/moving/mov001/",
       "mail": null
     },
     "confidence": "low"
   },
   "sarugunhidakamachi": {
     "hasData": true,
-    "office": "北海道日高町役場 住民課の窓口で転入・転出の届出を受け付けている（証明書手数料ページのみ確認、転入出専用ページ未確定のため低確信）",
+    "office": "日高町役場（沙流郡）で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "https://www.town.hidaka.hokkaido.jp/life/?content=735",
+      "in": "https://www.town.hidaka.hokkaido.jp/life/?content=735",
       "mail": null
     },
     "confidence": "low"
   },
   "samanigunsamanimachi": {
     "hasData": true,
-    "office": "様似町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "office": "様似町役場で転入届・転出届の手続きができる。",
     "links": {
-      "out": null,
-      "in": null,
+      "out": "http://www.samani.jp/konnatoki/index7.html",
+      "in": "http://www.samani.jp/konnatoki/index7.html",
       "mail": null
     },
     "confidence": "low"
@@ -3934,6 +3934,46 @@
     "links": {
       "out": null,
       "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "nakagawaguntoyokoromachi": {
+    "hasData": true,
+    "office": "豊頃町役場（住民課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.toyokoro.jp/soshiki/3/",
+      "in": "https://www.toyokoro.jp/soshiki/3/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kushirogunkushiromachi": {
+    "hasData": true,
+    "office": "釧路町役場（住民課戸籍住民係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "http://www.town.kushiro.lg.jp/living-guide/10201/00001/110642150311.html",
+      "in": "http://www.town.kushiro.lg.jp/living-guide/10201/00001/160503150315.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kawakamigunteshikutsuchou": {
+    "hasData": true,
+    "office": "弟子屈町役場（環境生活課総合サービス室町民係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.teshikaga.hokkaido.jp/kurashi/kurashi_tetsuzuki/juminhyo_koseki_inkantoroku/1038.html",
+      "in": "https://www.town.teshikaga.hokkaido.jp/kurashi/kurashi_tetsuzuki/juminhyo_koseki_inkantoroku/1038.html",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shibetsugunshibetsumachi": {
+    "hasData": true,
+    "office": "標津町役場（住民生活課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
+      "in": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
       "mail": null
     },
     "confidence": "low"

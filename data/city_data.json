@@ -9890,5 +9890,175 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "setanagunimaganemachi": {
+    "hasData": true,
+    "office": "今金町役場（住民課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.imakane.lg.jp/gyousei/kurashi/todoke/post_66.html",
+      "in": "https://www.town.imakane.lg.jp/gyousei/kurashi/todoke/post_66.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hirooguntaijumachi": {
+    "hasData": true,
+    "office": "大樹町役場（住民課窓口係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.taiki.hokkaido.jp/soshiki/juminka/1/2/4/781.html",
+      "in": "https://www.town.taiki.hokkaido.jp/seikatsunobamen/sumai-hikkoshi/1/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hiroogunhiroomachi": {
+    "hasData": true,
+    "office": "広尾町役場（住民課住民係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.hiroo.lg.jp/kurashi/testuduki/juushohenkou/",
+      "in": "https://www.town.hiroo.lg.jp/kurashi/testuduki/juushohenkou/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawagunmakubetsumachi": {
+    "hasData": true,
+    "office": "幕別町役場（住民課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.makubetsu.lg.jp/kurashi/kosekijumin/juminhyo/517.html",
+      "in": "https://www.town.makubetsu.lg.jp/kurashi/kosekijumin/juminhyo/515.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawakooriiketamachi": {
+    "hasData": true,
+    "office": "池田町役場（町民課戸籍年金係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.hokkaido-ikeda.lg.jp/kurashi/koseki/hikkoshi/415.html",
+      "in": "https://www.town.hokkaido-ikeda.lg.jp/kurashi/koseki/hikkoshi/416.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagawakoorimotobetsumachi": {
+    "hasData": true,
+    "office": "本別町役場（住民課）で転入届・転出届・転居届の手続きができる。",
+    "links": {
+      "out": "https://www.town.honbetsu.hokkaido.jp/web/procedure/datails/post_4.html",
+      "in": "https://www.town.honbetsu.hokkaido.jp/web/procedure/datails/post_4.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashorogunashoromachi": {
+    "hasData": true,
+    "office": "足寄町役場で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.ashoro.hokkaido.jp/kurashi/kurashi-tetsuzuki/sumai/page_29.html",
+      "in": "https://www.town.ashoro.hokkaido.jp/kurashi/kurashi-tetsuzuki/sumai/page_23.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashorogunrikubetsumachi": {
+    "hasData": true,
+    "office": "陸別町役場（住民生活課）で転入届・転出届・転居届の手続きができる。",
+    "links": {
+      "out": "https://www.rikubetsu.jp/kurashi/todokede_shoumeisho/jumin/jumin_touroku/",
+      "in": "https://www.rikubetsu.jp/kurashi/todokede_shoumeisho/jumin/jumin_touroku/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tokachigunurahoromachi": {
+    "hasData": true,
+    "office": "浦幌町役場（町民課住民年金係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.urahoro.jp/life/?content=1180",
+      "in": "https://www.urahoro.jp/life/?content=824",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akkeshigunakkeshimachi": {
+    "hasData": true,
+    "office": "厚岸町役場（町民課窓口サービス係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.akkeshi-town.jp/kurashi/sumai/hikkosi/",
+      "in": "https://www.akkeshi-town.jp/kurashi/sumai/hikkosi/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akkeshigunhamanakamachi": {
+    "hasData": true,
+    "office": "浜中町役場（戸籍住民課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.townhamanaka.jp/kurashi_kankyou/todoke/2017-0329-1721-12.html",
+      "in": "https://www.townhamanaka.jp/kurashi_kankyou/todoke/2017-0329-2338-12.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawakamigunshibechamachi": {
+    "hasData": true,
+    "office": "標茶町役場で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://town.shibecha.hokkaido.jp/kurashi/sougou/todokede_shoumei_tetsuduki/tennyuu_tenshutsu/tenshutsutodoke.html",
+      "in": "https://town.shibecha.hokkaido.jp/kurashi/sougou/todokede_shoumei_tetsuduki/tennyuu_tenshutsu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akanguntsuruimura": {
+    "hasData": true,
+    "office": "鶴居村役場（住民生活課窓口サービス係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.vill.tsurui.lg.jp/soshikikarasagasu/juminseikatsuka/madoguchiservicegakari/4/1199.html",
+      "in": "https://www.vill.tsurui.lg.jp/soshikikarasagasu/juminseikatsuka/madoguchiservicegakari/4/1199.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shiranukagunshironukachou": {
+    "hasData": true,
+    "office": "白糠町役場（保健福祉部町民サービス課住民係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.town.shiranuka.lg.jp/section/hoken/qvum4j0000000z9c.html",
+      "in": "https://www.town.shiranuka.lg.jp/section/hoken/qvum4j0000000rlc.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "notsukegunbekkaimachi": {
+    "hasData": true,
+    "office": "別海町役場で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://betsukai.jp/kurashi/tetsuzuki/address/tensyutu/",
+      "in": "https://betsukai.jp/kurashi/tetsuzuki/address/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shibetsugunchuushibetsumachi": {
+    "hasData": true,
+    "office": "中標津町役場（住民保険課戸籍住民係）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.nakashibetsu.jp/kurashi/todokede/hikkoshi/",
+      "in": "https://www.nakashibetsu.jp/kurashi/todokede/hikkoshi/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "menashigunrausumachi": {
+    "hasData": true,
+    "office": "羅臼町役場（町民環境課）で転入届・転出届の手続きができる。",
+    "links": {
+      "out": "https://www.rausu-town.jp/pages/dekigoto/42",
+      "in": "https://www.rausu-town.jp/pages/dekinav/6",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
