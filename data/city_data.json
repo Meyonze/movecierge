@@ -13420,5 +13420,345 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kamakurashi": {
+    "hasData": true,
+    "office": "鎌倉市役所市民課（鎌倉市御成町18-10）で転入・転出・転居の届出を受け付け。転出はマイナポータルまたは郵送も可、転入は窓口のみ。",
+    "links": {
+      "out": "https://www.city.kamakura.kanagawa.jp/qa/juuminhyou/index_tennyuu.html",
+      "in": "https://www.city.kamakura.kanagawa.jp/qa/juuminhyou/index_tennyuu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "zushishi": {
+    "hasData": true,
+    "office": "逗子市役所市民課で住民異動（転入・転出・転居）の届出を受け付け。転出はマイナポータルからのオンライン申請も可能。",
+    "links": {
+      "out": "https://www.city.zushi.kanagawa.jp/kurashi/koseki/1001768/1001774.html",
+      "in": "https://www.city.zushi.kanagawa.jp/kurashi/koseki/1001768/1001774.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hatanoshi": {
+    "hasData": true,
+    "office": "秦野市役所戸籍住民課で転入届・転出届を受け付け。転出は郵送・マイナポータルも可、転入は窓口来庁が必要。",
+    "links": {
+      "out": "https://www.city.hadano.kanagawa.jp/kurashi-tetsuzuki/todokede-shomei/5/7026.html",
+      "in": "https://www.city.hadano.kanagawa.jp/kurashi-tetsuzuki/todokede-shomei/5/7026.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "miuragunhayamachou": {
+    "hasData": true,
+    "office": "葉山町役場町民課で転入届・転出届を受け付け。転出は郵送での届出も可能。",
+    "links": {
+      "out": "https://www.town.hayama.lg.jp/soshiki/choumin/8/todokede/1/1512.html",
+      "in": "https://www.town.hayama.lg.jp/soshiki/choumin/8/todokede/1/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kouzagunsamukawamachi": {
+    "hasData": true,
+    "office": "寒川町役場町民課で転入届・転出届を受け付け。転出は郵送での届出も可能。",
+    "links": {
+      "out": "https://www.town.samukawa.kanagawa.jp/soshiki/chomin/chominmadoguchi/madoguchi/info/juuminidou/1362645740015.html",
+      "in": "https://www.town.samukawa.kanagawa.jp/soshiki/chomin/chominmadoguchi/madoguchi/info/juuminidou/1362646982801.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagunooisomachi": {
+    "hasData": true,
+    "office": "大磯町役場町民福祉部町民課で転入届・転出届を受け付け。転出はマイナンバーカード利用でオンライン申請も可能。",
+    "links": {
+      "out": "https://www.town.oiso.kanagawa.jp/soshiki/chomin/chomin/tanto/jyuumin/tensyutsu.html",
+      "in": "https://www.town.oiso.kanagawa.jp/soshiki/chomin/chomin/tanto/jyuumin/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakagunninomiyamachi": {
+    "hasData": true,
+    "office": "二宮町役場町民課で転入届・転出届を受け付け。転出証明書は郵送請求も可能。",
+    "links": {
+      "out": "https://www.town.ninomiya.kanagawa.jp/0000001089.html",
+      "in": "https://www.town.ninomiya.kanagawa.jp/0000001089.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashigarakamigunchuuimachi": {
+    "hasData": true,
+    "office": "中井町役場税務町民課窓口班で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.nakai.kanagawa.jp/soshiki/zeimuchominkamadoguchihokenhan/koseki_jumin_inkantorokuto/1/554.html",
+      "in": "https://www.town.nakai.kanagawa.jp/soshiki/zeimuchominkamadoguchihokenhan/koseki_jumin_inkantorokuto/1/554.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ashigarakamigunooichou": {
+    "hasData": true,
+    "office": "大井町役場町民課で転入届・転出届を受け付け。転出はマイナポータル・e-kanagawaでのオンライン申請も可能。",
+    "links": {
+      "out": "https://www.town.oi.kanagawa.jp/soshiki/5/tenshutu.html",
+      "in": "https://www.town.oi.kanagawa.jp/soshiki/5/tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "wataraigunminamiisemachi": {
+    "hasData": true,
+    "office": "南伊勢町役場 税務住民課（南勢庁舎）または南島庁舎総合窓口。転入は住所を移した日から14日以内。",
+    "links": {
+      "out": "https://www.town.minamiise.lg.jp/admin/shoshiki/zeimujumin/todokede/jumintouroku/5605.html",
+      "in": "https://www.town.minamiise.lg.jp/admin/shoshiki/zeimujumin/todokede/jumintouroku/636.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitamurogunkihokumachi": {
+    "hasData": true,
+    "office": "紀北町役場 住民課住民係。転入は住所を移した日から14日以内、転出は移転日の14日前から当日までに届出。",
+    "links": {
+      "out": "https://www.town.mie-kihoku.lg.jp/kakuka/jumin/juuminkakari/todokedeshomei/jumintoroku/3159.html",
+      "in": "https://www.town.mie-kihoku.lg.jp/kakuka/jumin/juuminkakari/todokedeshomei/jumintoroku/3159.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamimurogunmihamamachi": {
+    "hasData": true,
+    "office": "御浜町役場 住民課 戸籍住民係（三重県南牟婁郡御浜町大字阿田和6120番地1）で住所変更の届出を受付。",
+    "links": {
+      "out": "https://www.town.mihama.mie.jp/soshikikarasagasu/juminka/kurashinojoho/1/194.html",
+      "in": "https://www.town.mihama.mie.jp/soshikikarasagasu/juminka/kurashinojoho/1/194.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamimurogunkihoumachi": {
+    "hasData": true,
+    "office": "紀宝町役場 生活環境課住民係。転出は移転日の14日前から当日まで、転入は住所を移した日から14日以内に届出。",
+    "links": {
+      "out": "https://www.town.kiho.lg.jp/life/procedure/register/moving_out_notification/",
+      "in": "https://www.town.kiho.lg.jp/life/procedure/register/moving_in_notification/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "fujiyoshidashi": {
+    "hasData": true,
+    "office": "富士吉田市役所1階 市民課。転出は移転日の14日前から届出可能、転入は住所を移した日から14日以内。",
+    "links": {
+      "out": "https://www.city.fujiyoshida.yamanashi.jp/page/1693.html",
+      "in": "https://www.city.fujiyoshida.yamanashi.jp/page/1693.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nirasakishi": {
+    "hasData": true,
+    "office": "韮崎市役所 市民生活課 戸籍住民担当。転出届は引越し前14日以内、転入時は前住所地発行の転出証明書が必要。",
+    "links": {
+      "out": "https://www.city.nirasaki.lg.jp/soshikiichiran/shiminseikatsuka/kosekijumintanto/1/6/1485.html",
+      "in": "https://www.city.nirasaki.lg.jp/soshikiichiran/shiminseikatsuka/kosekijumintanto/1/6/1485.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiyatsushirogunshikawamisatomachi": {
+    "hasData": true,
+    "office": "市川三郷町役場（山梨県西八代郡市川三郷町市川大門1790-3）で住所変更に伴う届出を受付。",
+    "links": {
+      "out": "https://www.town.ichikawamisato.yamanashi.jp/20life/04registration/jyusho.html",
+      "in": "https://www.town.ichikawamisato.yamanashi.jp/20life/04registration/jyusho.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikomagunhayakawamachi": {
+    "hasData": true,
+    "office": "早川町役場 町民課（本庁舎1階、山梨県南巨摩郡早川町高住758）で住民基本台帳に関する届出を受付。",
+    "links": {
+      "out": "https://www.town.hayakawa.yamanashi.jp/people/register/report.html",
+      "in": "https://www.town.hayakawa.yamanashi.jp/people/register/report.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikomagunminobumachi": {
+    "hasData": true,
+    "office": "身延町役場 町民課、または身延・下部の各支所住民サービス係。転入は住所を定めた日から14日以内に届出。",
+    "links": {
+      "out": "https://www.town.minobu.lg.jp/page/2009.html",
+      "in": "https://www.town.minobu.lg.jp/page/2008.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikomagunnanbumachi": {
+    "hasData": true,
+    "office": "南部町役場 本庁舎住民課（山梨県南巨摩郡南部町福士28505-2）または南部町分庁舎住民課。",
+    "links": {
+      "out": "https://www.town.nanbu.yamanashi.jp/kakuka/juumin/todokede.html",
+      "in": "https://www.town.nanbu.yamanashi.jp/kakuka/juumin/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikomagunfujigawamachi": {
+    "hasData": true,
+    "office": "富士川町役場（山梨県南巨摩郡富士川町鰍沢1134）で住所変更に伴う届出を受付。転入は移動日から14日以内。",
+    "links": {
+      "out": "https://www.town.fujikawa.yamanashi.jp/docs/2023080700071/",
+      "in": "https://www.town.fujikawa.yamanashi.jp/docs/2023080700071/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakakomagunshouwachou": {
+    "hasData": true,
+    "office": "昭和町役場（山梨県中巨摩郡昭和町押越542-2）町民窓口課。マイナンバーカード保有者はマイナポータルで転出届オンライン提出可。※福島県・群馬県の昭和村とは別自治体。",
+    "links": {
+      "out": "https://www.town.showa.yamanashi.jp/soshiki/5/1565.html",
+      "in": "https://www.town.showa.yamanashi.jp/soshiki/5/1956.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sagaragunwazukamachi": {
+    "hasData": true,
+    "office": "和束町役場 税住民課（京都府相楽郡和束町）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.town.wazuka.lg.jp/kakukanogoannai/zeijuminka/juminhyo_koseki/1277.html",
+      "in": "https://www.town.wazuka.lg.jp/kakukanogoannai/zeijuminka/juminhyo_koseki/1277.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sagaragunseikamachi": {
+    "hasData": true,
+    "office": "精華町役場 住民福祉部（京都府相楽郡精華町）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.town.seika.kyoto.jp/kurashi/todokede/7/index.html",
+      "in": "https://www.town.seika.kyoto.jp/kurashi/todokede/7/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sagaragunminamiyamashiromura": {
+    "hasData": true,
+    "office": "南山城村役場 税住民福祉課 住民係（京都府相楽郡南山城村）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.vill.minamiyamashiro.lg.jp/0000000478.html",
+      "in": "https://www.vill.minamiyamashiro.lg.jp/0000000477.html",
+      "mail": "https://www.vill.minamiyamashiro.lg.jp/0000002519.html"
+    },
+    "confidence": "high"
+  },
+  "funaigunkyoutanbamachi": {
+    "hasData": true,
+    "office": "京丹波町役場 住民課 戸籍住民係（京都府船井郡京丹波町）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.town.kyotamba.kyoto.jp/kurashi_tetsuzuki/koseki_juminhyo_inkantoroku/juminidotodoke/index.html",
+      "in": "https://www.town.kyotamba.kyoto.jp/kurashi_tetsuzuki/koseki_juminhyo_inkantoroku/juminidotodoke/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yosaguninechou": {
+    "hasData": true,
+    "office": "伊根町役場 住民生活課 住民環境係（京都府与謝郡伊根町）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.town.ine.kyoto.jp/soshiki/jumin/3/3/219.html",
+      "in": "https://www.town.ine.kyoto.jp/soshiki/jumin/3/3/219.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yosagunyosanomachi": {
+    "hasData": true,
+    "office": "与謝野町役場 加悦庁舎 住民税務課（京都府与謝郡与謝野町）で転入・転出の届け出を受け付けています。",
+    "links": {
+      "out": "https://www.town.yosano.lg.jp/life/registration/citizen-card/entry_695/",
+      "in": "https://www.town.yosano.lg.jp/life/registration/citizen-card/565/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishikanbaragunyahikomura": {
+    "hasData": true,
+    "office": "弥彦村役場 住民福祉部住民福祉課住民医療係（新潟県西蒲原郡弥彦村）",
+    "links": {
+      "out": "https://www.vill.yahiko.niigata.jp/life/procedure/removal/",
+      "in": "https://www.vill.yahiko.niigata.jp/life/procedure/removal/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamikanbaraguntagamimachi": {
+    "hasData": true,
+    "office": "田上町役場 住民課（新潟県南蒲原郡田上町）",
+    "links": {
+      "out": "https://www.town.tagami.niigata.jp/docs/8911.html",
+      "in": "https://www.town.tagami.niigata.jp/docs/8911.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashikanbaragunagamachi": {
+    "hasData": true,
+    "office": "阿賀町役場 町民生活課（新潟県東蒲原郡阿賀町津川580）",
+    "links": {
+      "out": "https://www.town.aga.niigata.jp/agamachi_soshiki/chomin_seikatsu/koseki_juminhyo_inkantoroku/228.html",
+      "in": "https://www.town.aga.niigata.jp/agamachi_soshiki/chomin_seikatsu/koseki_juminhyo_inkantoroku/228.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "mishimagunizumozakimachi": {
+    "hasData": true,
+    "office": "出雲崎町役場 住民生活班（新潟県三島郡出雲崎町）",
+    "links": {
+      "out": "https://www.town.izumozaki.niigata.jp/kurashi/todokede/",
+      "in": "https://www.town.izumozaki.niigata.jp/kurashi/sumai/tenyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "minamiuonumagunyuzawamachi": {
+    "hasData": true,
+    "office": "湯沢町役場 町民課町民窓口係（新潟県南魚沼郡湯沢町、庁舎東館1階）",
+    "links": {
+      "out": "https://www.town.yuzawa.lg.jp/soshikikarasagasu/zeimuchomimbu/chominka/6/3/1527.html",
+      "in": "https://www.town.yuzawa.lg.jp/soshikikarasagasu/zeimuchomimbu/chominka/6/3/1528.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakauonumaguntsunanmachi": {
+    "hasData": true,
+    "office": "津南町役場 税務町民課町民班4番窓口（新潟県中魚沼郡津南町大字下船渡戊585）",
+    "links": {
+      "out": "https://www.town.tsunan.niigata.jp/soshiki/zeimuchomin/chogai-tenshutsu.html",
+      "in": "https://www.town.tsunan.niigata.jp/soshiki/zeimuchomin/chogai-tennyu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kariwagunkariwamura": {
+    "hasData": true,
+    "office": "刈羽村役場 住民生活課（新潟県刈羽郡刈羽村）",
+    "links": {
+      "out": "https://www.vill.kariwa.niigata.jp/www/service/detail.jsp?id=4727",
+      "in": "https://www.vill.kariwa.niigata.jp/www/service/detail.jsp?id=4728",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
