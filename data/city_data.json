@@ -10060,5 +10060,205 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "higashimurayamakouriyamahenmachi": {
+    "hasData": true,
+    "office": "山辺町役場1階 町民生活課 住民係（または役場支所）",
+    "links": {
+      "out": "https://www.town.yamanobe.yamagata.jp/soshiki/7/jyuminidou.html",
+      "in": "https://www.town.yamanobe.yamagata.jp/soshiki/7/jyuminidou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurayamagunchuuyamachou": {
+    "hasData": true,
+    "office": "中山町役場 住民税務課 住民グループ（戸籍・国民年金担当）山形県東村山郡中山町大字長崎120番地",
+    "links": {
+      "out": "https://www.town.nakayama.yamagata.jp/soshiki/jumin_zeimu/jumin/252.html",
+      "in": "https://www.town.nakayama.yamagata.jp/soshiki/jumin_zeimu/jumin/252.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurayamagunkahokumachi": {
+    "hasData": true,
+    "office": "河北町役場 税務町民課 町民係",
+    "links": {
+      "out": "https://www.town.kahoku.yamagata.jp/soshiki/zei/chomin/3258/484.html",
+      "in": "https://www.town.kahoku.yamagata.jp/soshiki/zei/chomin/3258/484.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurayamagunnishigawachou": {
+    "hasData": true,
+    "office": "西川町役場 町民税務課",
+    "links": {
+      "out": "https://www.town.nishikawa.yamagata.jp/soshiki/chomin/1171.html",
+      "in": "https://www.town.nishikawa.yamagata.jp/soshiki/chomin/1172.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurayamagunasahimachi": {
+    "hasData": true,
+    "office": "朝日町役場 税務町民課 住民生活係（〒990-1442 山形県西村山郡朝日町大宮1115）",
+    "links": {
+      "out": "https://www.town.asahi.yamagata.jp/portal/lifemenu/moving/3/5158.html",
+      "in": "https://www.town.asahi.yamagata.jp/portal/lifemenu/moving/3/5158.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurayamagunooechou": {
+    "hasData": true,
+    "office": "大江町役場 税務町民課（〒990-1101 山形県西村山郡大江町大字左沢882-1）",
+    "links": {
+      "out": "https://www.town.oe.yamagata.jp/life/registration/todokedekannkei/juuminntouroku_kakusyutodokede/1383",
+      "in": "https://www.town.oe.yamagata.jp/life/registration/todokedekannkei/juuminntouroku_kakusyutodokede/1381",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kitamurayamagunooishidamachi": {
+    "hasData": true,
+    "office": "大石田町役場 町民税務課 住民グループ（〒999-4112 山形県北村山郡大石田町緑町1番地）",
+    "links": {
+      "out": "https://www.town.oishida.yamagata.jp/life/kosekijuumin/jyumin20160601145452.html",
+      "in": "https://www.town.oishida.yamagata.jp/life/kosekijuumin/jyumin20160601145452.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunkanayamachou": {
+    "hasData": true,
+    "office": "金山町役場 町民税務課",
+    "links": {
+      "out": "https://www.town.kaneyama.yamagata.jp/kurashi/kurashi_tetsuzuki/todokedeshomei/1403.html",
+      "in": "https://www.town.kaneyama.yamagata.jp/kurashi/kurashi_tetsuzuki/todokedeshomei/1402.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunsaijoumachi": {
+    "hasData": true,
+    "office": "最上町役場 町民税務課（住民票の届出窓口）",
+    "links": {
+      "out": "https://town.mogami.lg.jp/life/01tetsuzuki/02tetsuzuki.php",
+      "in": "https://town.mogami.lg.jp/life/01tetsuzuki/02tetsuzuki.php",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunfunagatamachi": {
+    "hasData": true,
+    "office": "舟形町役場 住民税務課 住民係（〒999-4601 山形県最上郡舟形町舟形263番地）",
+    "links": {
+      "out": "https://www.town.funagata.yamagata.jp/s011/kurashi/070/030/210/20200116043000.html",
+      "in": "https://www.town.funagata.yamagata.jp/s011/kurashi/070/030/220/20200116042000.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunmamurogawamachi": {
+    "hasData": true,
+    "office": "真室川町役場 町民課（〒999-5312 山形県最上郡真室川町大字新町124番4）",
+    "links": {
+      "out": "https://www.town.mamurogawa.yamagata.jp/soshiki/chomin/1/3/1/531.html",
+      "in": "https://www.town.mamurogawa.yamagata.jp/soshiki/chomin/1/3/1/531.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunookuramura": {
+    "hasData": true,
+    "office": "大蔵村役場 住民税務課 住民係（〒996-0212 山形県最上郡大蔵村大字清水2528）",
+    "links": {
+      "out": "https://www.vill.ohkura.yamagata.jp/soshikikarasagasu/juminzeimuka/gyomuannai/8/2/583.html",
+      "in": "https://www.vill.ohkura.yamagata.jp/soshikikarasagasu/juminzeimuka/gyomuannai/8/2/583.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijougunsakekawamura": {
+    "hasData": true,
+    "office": "鮭川村役場 住民税務課 住民生活係（〒999-5292 山形県最上郡鮭川村大字佐渡2003番の7）",
+    "links": {
+      "out": "https://www.vill.sakegawa.yamagata.jp/seikatsu/koseki-syoumei/272",
+      "in": "https://www.vill.sakegawa.yamagata.jp/seikatsu/koseki-syoumei/272",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "saijouguntozawamura": {
+    "hasData": true,
+    "office": "戸沢村役場（住民異動届窓口）",
+    "links": {
+      "out": "https://www.vill.tozawa.yamagata.jp/life/todokede/tennyu_tenshutsu/",
+      "in": "https://www.vill.tozawa.yamagata.jp/life/todokede/tennyu_tenshutsu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiokitamaguntakahatamachi": {
+    "hasData": true,
+    "office": "高畠町役場 町民課 住民年金係（〒992-0392 山形県東置賜郡高畠町大字高畠436）",
+    "links": {
+      "out": "https://www.town.takahata.yamagata.jp/soshiki/5/1146.html",
+      "in": "https://www.town.takahata.yamagata.jp/soshiki/5/1146.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashiokitamagunkawanishimachi": {
+    "hasData": true,
+    "office": "川西町役場（住民異動届窓口）",
+    "links": {
+      "out": "https://www.town.kawanishi.yamagata.jp/life/tennyu_tensyutsu.html",
+      "in": "https://www.town.kawanishi.yamagata.jp/life/tennyu_tensyutsu.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiokitamagunogunimachi": {
+    "hasData": true,
+    "office": "小国町役場 町民課 住民窓口担当（〒999-1363 山形県西置賜郡小国町大字小国小坂町2-70）",
+    "links": {
+      "out": "https://www.town.oguni.yamagata.jp/soshiki/choumin/1654.html",
+      "in": "https://www.town.oguni.yamagata.jp/soshiki/choumin/1655.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishiokitamaguniidemachi": {
+    "hasData": true,
+    "office": "飯豊町役場（住民異動届窓口）",
+    "links": {
+      "out": "https://www.town.iide.yamagata.jp/005/jyuuminnidou.html",
+      "in": "https://www.town.iide.yamagata.jp/005/jyuuminnidou.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashitagawagunmikawamachi": {
+    "hasData": true,
+    "office": "三川町役場 町民課 住民係（〒997-1301 山形県東田川郡三川町大字横山字西田85番地）",
+    "links": {
+      "out": "https://www.town.mikawa.yamagata.jp/kurashi/todokede/jumin.html",
+      "in": "https://www.town.mikawa.yamagata.jp/kurashi/todokede/jumin.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akumigunyusamachi": {
+    "hasData": true,
+    "office": "遊佐町役場 町民課 町民係（〒999-8301 山形県飽海郡遊佐町遊佐字舞鶴202番地）",
+    "links": {
+      "out": "https://www.town.yuza.yamagata.jp/archive/contents-159",
+      "in": "https://www.town.yuza.yamagata.jp/archive/contents-158",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

@@ -1983,8 +1983,8 @@
     "confidence": "low"
   },
   "nanyoushi": {
-    "hasData": true,
-    "office": "南陽市役所（山形県南陽市）市民課で転入届・転出届の手続きを行います。転出届は郵送でも申請できます。",
+    "hasData": false,
+    "office": "南陽市役所（市民課）。公式サイトはネットワーク経由での到達確認ができず未検証のため、情報反映を保留",
     "links": {
       "out": null,
       "in": null,
@@ -3974,6 +3974,26 @@
     "links": {
       "out": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
       "in": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "nishiokitamagunshiratakamachi": {
+    "hasData": false,
+    "office": "白鷹町役場（町民課）。公式サイトへの到達確認ができず（接続エラー）未検証のため、情報反映を保留",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashitagawagunshounaimachi": {
+    "hasData": false,
+    "office": "庄内町役場（町民課）。公式サイトへの到達確認ができず（接続エラー）未検証のため、情報反映を保留",
+    "links": {
+      "out": null,
+      "in": null,
       "mail": null
     },
     "confidence": "low"
