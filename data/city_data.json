@@ -10260,5 +10260,215 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "goboushi": {
+    "hasData": true,
+    "office": "御坊市役所市民生活課（御坊市名田町野島）で転入届・転出届を受け付け。オンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
+      "in": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shinguushi": {
+    "hasData": true,
+    "office": "新宮市役所市民窓口課で転入届・転出届を受け付け。委任状による代理人手続きも可能。",
+    "links": {
+      "out": "https://www.city.shingu.lg.jp/info/1727",
+      "in": "https://www.city.shingu.lg.jp/info/1727",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kinokawashi": {
+    "hasData": true,
+    "office": "紀の川市役所市民部市民課で転入届・転出届を受け付け。マイナポータルでのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.city.kinokawa.lg.jp/019/todokede.html",
+      "in": "https://www.city.kinokawa.lg.jp/019/todokede.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "iwadeshi": {
+    "hasData": true,
+    "office": "岩出市役所市民課（岩出市西野）で転入届・転出届を受け付け。マイナポータルでのオンライン来庁予約も可能。",
+    "links": {
+      "out": "https://www.city.iwade.lg.jp/life/1/1/5/",
+      "in": "https://www.city.iwade.lg.jp/life/1/1/5/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kaisougunkiminomachi": {
+    "hasData": true,
+    "office": "紀美野町役場住民課（海草郡紀美野町動木）で転入届・転出届を受け付け。オンラインでの来庁予約にも対応。",
+    "links": {
+      "out": "https://www.town.kimino.wakayama.jp/sagasu/juminka/juminhyo_koseki_inkan/304.html",
+      "in": "https://www.town.kimino.wakayama.jp/sagasu/juminka/juminhyo_koseki_inkan/304.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "itogunkatsuragimachi": {
+    "hasData": true,
+    "office": "かつらぎ町役場住民福祉課住民係（伊都郡かつらぎ町大字丁ノ町）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.katsuragi.wakayama.jp/010/010/010/2023-0326-1319-26.html",
+      "in": "https://www.town.katsuragi.wakayama.jp/010/010/010/2023-0326-1319-26.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "itogunkudoyamamachi": {
+    "hasData": true,
+    "office": "九度山町役場住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.kudoyama.lg.jp/jumin/koseki/",
+      "in": "https://www.town.kudoyama.lg.jp/jumin/koseki/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "itoguntakanomachi": {
+    "hasData": true,
+    "office": "高野町役場（伊都郡高野町高野山）戸籍・住民票担当窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.koya.wakayama.jp/town/tetsuduki/documents/11107.html",
+      "in": "https://www.town.koya.wakayama.jp/town/tetsuduki/documents/11107.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "aridagunyuasamachi": {
+    "hasData": true,
+    "office": "湯浅町役場住民生活課（有田郡湯浅町青木）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.yuasa.wakayama.jp/soshiki/5/index-2.html",
+      "in": "https://www.town.yuasa.wakayama.jp/soshiki/5/index-2.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "aridagunaridagawamachi": {
+    "hasData": true,
+    "office": "有田川町役場住民課（有田郡有田川町大字下津野）で転入届・転出届を受け付け。マイナポータルでのオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.aridagawa.lg.jp/top/kakuka/kibi/6/1/1/3/740.html",
+      "in": "https://www.town.aridagawa.lg.jp/top/kakuka/kibi/6/1/1/3/740.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hidakaguninnamimachi": {
+    "hasData": true,
+    "office": "印南町役場住民福祉課（日高郡印南町）で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.wakayama-inami.lg.jp/0000000364.html",
+      "in": "https://www.town.wakayama-inami.lg.jp/contents_detail.php?co=kak&frmId=366",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hidakagunminabemachi": {
+    "hasData": true,
+    "office": "みなべ町役場住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.minabe.lg.jp/kurashi/01/02/2013091100267.html",
+      "in": "https://www.town.minabe.lg.jp/kurashi/01/02/2013091100267.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hidakagunhidakagawamachi": {
+    "hasData": true,
+    "office": "日高川町役場住民生活課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.hidakagawa.lg.jp/kurashi/koseki_jyuminhyo/jyuminhyo/index.html",
+      "in": "https://www.town.hidakagawa.lg.jp/kurashi/koseki_jyuminhyo/jyuminhyo/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurogunshirahamachou": {
+    "hasData": true,
+    "office": "白浜町役場住民保健課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shirahama.wakayama.jp/kurashi/koseki/jyumin/index.html",
+      "in": "https://www.town.shirahama.wakayama.jp/kurashi/koseki/jyumin/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurogujoutondachou": {
+    "hasData": true,
+    "office": "上富田町役場住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.kamitonda.lg.jp/soshiki/jyumin/koseki/2135.html",
+      "in": "https://www.town.kamitonda.lg.jp/soshiki/jyumin/koseki/2135.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nishimurogunsusamimachi": {
+    "hasData": true,
+    "office": "すさみ町役場住民生活課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.susami.lg.jp/kurashi/01/2015111900048.html",
+      "in": "https://www.town.susami.lg.jp/kurashi/01/2015111900048.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurogunnachikatsuuramachi": {
+    "hasData": true,
+    "office": "那智勝浦町役場住民福祉課で転入届・転出届を受け付け。住所（住民登録）の変更手続きページに詳細あり。",
+    "links": {
+      "out": "https://www.town.nachikatsuura.wakayama.jp/info/278",
+      "in": "https://www.town.nachikatsuura.wakayama.jp/info/278",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimuroguntaijimachi": {
+    "hasData": true,
+    "office": "太地町役場住民課で転入届・転出届を受け付け。引越し・住まいのページに手続き情報あり。",
+    "links": {
+      "out": "https://www.town.taiji.wakayama.jp/lifestage/sumai/index.html",
+      "in": "https://www.town.taiji.wakayama.jp/lifestage/sumai/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurogunkozagawamachi": {
+    "hasData": true,
+    "office": "古座川町役場住民課で転入届・転出届を受け付け。「転居・住宅」ページに手続き情報あり。",
+    "links": {
+      "out": "https://www.town.kozagawa.lg.jp/kurashi/sub017.html",
+      "in": "https://www.town.kozagawa.lg.jp/kurashi/sub017.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurogunkitayamamura": {
+    "hasData": true,
+    "office": "北山村役場住民福祉課で転入届・転出届を受け付け。様式一覧ページに関連書式あり。",
+    "links": {
+      "out": "https://www.vill.kitayama.wakayama.jp/jumin/youshiki.html",
+      "in": "https://www.vill.kitayama.wakayama.jp/jumin/youshiki.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashimurogunkushimotomachi": {
+    "hasData": true,
+    "office": "串本町役場住民課で転入届・転出届を受け付け。転入届・転出届それぞれ専用ページあり。",
+    "links": {
+      "out": "https://www.town.kushimoto.wakayama.jp/kurashi/syoumei/tensyutsu-todoke.html",
+      "in": "https://www.town.kushimoto.wakayama.jp/kurashi/syoumei/tennyu-todoke.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

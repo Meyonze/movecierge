@@ -3997,5 +3997,45 @@
       "mail": null
     },
     "confidence": "low"
+  },
+  "aridagunhirokawachou": {
+    "hasData": true,
+    "office": "広川町役場住民環境課（有田郡広川町）で転入届・転出届を受け付け。詳細は役場へ要確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "hidakagunmihamamachi": {
+    "hasData": true,
+    "office": "美浜町役場住民課（日高郡美浜町和田）で転入届・転出届を受け付け。詳細は役場へ要確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "hidakagunhidakamachi": {
+    "hasData": true,
+    "office": "日高町役場住民生活課（日高郡日高町大字高家）で転入届・転出届を受け付け。詳細は役場へ要確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "hidakagunyuramachi": {
+    "hasData": true,
+    "office": "由良町役場住民福祉課（日高郡由良町里）で転入届・転出届を受け付け。詳細は役場へ要確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
   }
 }
