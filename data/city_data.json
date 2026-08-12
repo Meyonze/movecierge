@@ -8830,5 +8830,285 @@
       "mail": "https://www.city.kami.lg.jp/soshiki/16/yusoutensyutu.html"
     },
     "confidence": "high"
+  },
+  "urakawagunurakawamachi": {
+    "hasData": true,
+    "office": "浦河町役場 町民課の窓口で転入届・転出届の手続きを行う",
+    "links": {
+      "out": "https://www.town.urakawa.hokkaido.jp/gyosei/life/?content=568",
+      "in": "https://www.town.urakawa.hokkaido.jp/gyosei/life/?content=562",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "horoizumigunerimomachi": {
+    "hasData": true,
+    "office": "えりも町役場 町民生活課の窓口で転入届・転出届の手続きを行う",
+    "links": {
+      "out": "https://www.town.erimo.lg.jp/section/choumin/u9c3nn0000000ghf.html",
+      "in": "https://www.town.erimo.lg.jp/section/choumin/u9c3nn0000000ghf.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hidakagunshinhidakamachi": {
+    "hasData": true,
+    "office": "新ひだか町役場（静内庁舎）生活環境課住民係、または三石支所地域振興課住民窓口で転入・転出・転居の手続きを行う",
+    "links": {
+      "out": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00006598.html",
+      "in": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00006598.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawahigashigunotoshinachou": {
+    "hasData": true,
+    "office": "音更町役場 町民課の窓口で転入・転出の住民登録手続きを行う",
+    "links": {
+      "out": "https://www.town.otofuke.hokkaido.jp/kurashi/koseki/juumintouroku-todoke-syoumei.html",
+      "in": "https://www.town.otofuke.hokkaido.jp/kurashi/koseki/juumintouroku-todoke-syoumei.html",
+      "mail": "https://www.town.otofuke.hokkaido.jp/kurashi/koseki/yuusou-tennsyutu-todoke.html"
+    },
+    "confidence": "high"
+  },
+  "kawahigashigunshihoromachi": {
+    "hasData": true,
+    "office": "士幌町役場 町民課住民年金係の窓口で転入・転出の住民異動届を行う",
+    "links": {
+      "out": "https://www.shihoro.jp/life/detail.php?content=21",
+      "in": "https://www.shihoro.jp/life/detail.php?content=21",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawahigashigujoushihoromachi": {
+    "hasData": true,
+    "office": "上士幌町役場の窓口で転入・転出・転居・世帯変更の届出を行う",
+    "links": {
+      "out": "https://www.kamishihoro.jp/page/00000008",
+      "in": "https://www.kamishihoro.jp/page/00000008",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kawahigashigunshikaoimachi": {
+    "hasData": true,
+    "office": "鹿追町役場 住民生活課の窓口で転入・転出・世帯変更などの手続きを行う",
+    "links": {
+      "out": "https://www.town.shikaoi.lg.jp/kurashi/todokede/tennyu/",
+      "in": "https://www.town.shikaoi.lg.jp/kurashi/todokede/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunshintokumachi": {
+    "hasData": true,
+    "office": "新得町役場 町民課窓口係（または屈足支所）で転入届・転出届の手続きを行う",
+    "links": {
+      "out": "https://www.shintoku-town.jp/kurashi-tetuduki/jyuuminhyou-koseki/jyuuminhyou/tensyutu/",
+      "in": "https://shintoku-town.jp/kurashi-tetuduki/jyuuminhyou-koseki/jyuuminhyou/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kamikawagunshimizuchou": {
+    "hasData": true,
+    "office": "十勝清水町役場の窓口で転入届・転出届の手続きを行う",
+    "links": {
+      "out": "https://www.town.shimizu.hokkaido.jp/life-event/04/details/post_15.html",
+      "in": "https://www.town.shimizu.hokkaido.jp/life-event/04/details/post_6.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasaigunmemuromachi": {
+    "hasData": true,
+    "office": "芽室町役場 住民税務課住民窓口係で転入・転出の住民登録の届出を行う",
+    "links": {
+      "out": "https://www.memuro.net/administration/soshiki/zeimu/touroku/jumintouroku.html",
+      "in": "https://www.memuro.net/administration/soshiki/zeimu/touroku/jumintouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasaigunchuusatsunaimura": {
+    "hasData": true,
+    "office": "中札内村役場の窓口で転入・転出などの住民登録の届出を行う",
+    "links": {
+      "out": "https://www.vill.nakasatsunai.hokkaido.jp/kurashi/todokede_syoumei/zyuminkihondaichou/",
+      "in": "https://www.vill.nakasatsunai.hokkaido.jp/kurashi/todokede_syoumei/zyuminkihondaichou/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kasaigunsarabetsumura": {
+    "hasData": true,
+    "office": "更別村役場の窓口で転入届・転出届の手続きを行う",
+    "links": {
+      "out": "https://www.sarabetsu.jp/kurashi/todokede/tenshutsu/",
+      "in": "https://www.sarabetsu.jp/kurashi/todokede/tennyu/",
+      "mail": "https://www.sarabetsu.jp/kurashi/todokede/jyumin/yusou/"
+    },
+    "confidence": "high"
+  },
+  "shimoinaguntakamorichou": {
+    "hasData": true,
+    "office": "高森町役場 健康福祉課 戸籍住民係。長野県下伊那郡高森町。",
+    "links": {
+      "out": "https://www.town.nagano-takamori.lg.jp/docs/12655.html",
+      "in": "https://www.town.nagano-takamori.lg.jp/docs/12654.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunachimura": {
+    "hasData": true,
+    "office": "阿智村役場。長野県下伊那郡阿智村駒場483番地。",
+    "links": {
+      "out": "https://www.vill.achi.lg.jp/soshiki/3/201603songaihiltukosi.html",
+      "in": "https://www.vill.achi.lg.jp/soshiki/3/20160319slnnkaihiltukosi.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunhiratanimura": {
+    "hasData": true,
+    "office": "平谷村役場。長野県下伊那郡平谷村354番地。",
+    "links": {
+      "out": "https://www.hirayamura.jp/pages/35/",
+      "in": "https://www.hirayamura.jp/pages/35/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimoinagunshimojoumura": {
+    "hasData": true,
+    "office": "下條村役場 住民係。長野県下伊那郡下條村睦沢8801-1。",
+    "links": {
+      "out": "https://www.vill-shimojo.jp/gyousei/kurashi/koseki/2009-0406-1321-9.html",
+      "in": "https://www.vill-shimojo.jp/gyousei/kurashi/koseki/2009-0406-1307-9.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "sakatashi": {
+    "hasData": true,
+    "office": "酒田市役所（山形県酒田市）市民課で転入・転出の手続きを行います。転出届は郵送・マイナポータルのオンライン申請にも対応しています。",
+    "links": {
+      "out": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/idou-tetsuduki.html",
+      "in": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/idou-tetsuduki.html",
+      "mail": "https://www.city.sakata.lg.jp/kurashi/todokede/jyusyohenko/yuso-tensyutu.html"
+    },
+    "confidence": "high"
+  },
+  "ueyamashi": {
+    "hasData": true,
+    "office": "上山市役所（山形県上山市）市民生活課で転出届・転入届・転居届の手続きを行います。転出は引っ越し予定日の14日前から届出可能です。",
+    "links": {
+      "out": "https://www.city.kaminoyama.yamagata.jp/soshiki/6/jumintouroku.html",
+      "in": "https://www.city.kaminoyama.yamagata.jp/soshiki/6/jumintouroku.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tendoushi": {
+    "hasData": true,
+    "office": "天童市役所（山形県天童市）市民課で転入・転出の手続きを行います。転出届はマイナポータルからのオンライン申請または郵送でも可能です。",
+    "links": {
+      "out": "https://www.city.tendo.yamagata.jp/lifeinfo/tetsuduki/todokedetounoannnai.html",
+      "in": "https://www.city.tendo.yamagata.jp/lifeinfo/tetsuduki/todokedetounoannnai.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "higashineshi": {
+    "hasData": true,
+    "office": "東根市役所（山形県東根市）市民課で転入・転出の手続きを行います。転出届はマイナポータルまたは郵送でも申請できます。",
+    "links": {
+      "out": "https://www.city.higashine.yamagata.jp/section_list/section007/124",
+      "in": "https://www.city.higashine.yamagata.jp/section_list/section007/124",
+      "mail": "https://www.city.higashine.yamagata.jp/section_list/section007/1006"
+    },
+    "confidence": "high"
+  },
+  "urasoeshi": {
+    "hasData": true,
+    "office": "浦添市役所 市民部市民課（浦添市安波茶一丁目1番1号 本庁1階）で転入届・転出届を受付。",
+    "links": {
+      "out": "https://www.city.urasoe.lg.jp/doc/609e7e243d59ae2434bfef4b/",
+      "in": "https://www.city.urasoe.lg.jp/faq/60d4896264667334e2f72554/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "itomanshi": {
+    "hasData": true,
+    "office": "糸満市役所 市民健康部市民課（糸満市潮崎町1丁目1番地 市役所1階）で転入届・転出届を受付。",
+    "links": {
+      "out": "https://www.city.itoman.lg.jp/soshiki/12/1506.html",
+      "in": "https://www.city.itoman.lg.jp/soshiki/12/1534.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "tomigusukushi": {
+    "hasData": true,
+    "office": "豊見城市役所 市民課で転入届・転出届・転居届を受付。",
+    "links": {
+      "out": "https://www.city.tomigusuku.lg.jp/soshiki/2/1010/gyomuannai/5/7/6681.html",
+      "in": "https://www.city.tomigusuku.lg.jp/soshiki/2/1010/gyomuannai/5/7/6681.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "oofunatoshi": {
+    "hasData": true,
+    "office": "大船渡市役所市民課で転入届・転出届の手続きができる（大船渡市）",
+    "links": {
+      "out": "https://www.city.ofunato.iwate.jp/soshiki/simin/7719.html",
+      "in": "https://www.city.ofunato.iwate.jp/soshiki/simin/7719.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ichinosekishi": {
+    "hasData": true,
+    "office": "一関市役所市民課で住民異動届（転入届・転出届）の手続きができる（一関市）",
+    "links": {
+      "out": "https://www.city.ichinoseki.iwate.jp/index.cfm/8,155152,82,html",
+      "in": "https://www.city.ichinoseki.iwate.jp/index.cfm/8,148958,82,html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "rikuzentakatashi": {
+    "hasData": true,
+    "office": "陸前高田市役所市民課で転入届・転出届の手続きができる（陸前高田市）",
+    "links": {
+      "out": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/4/2975.html",
+      "in": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/4/2975.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "ninoheshi": {
+    "hasData": true,
+    "office": "二戸市役所市民生活課で転入届・転出届の手続きができる（二戸市）",
+    "links": {
+      "out": "https://www.city.ninohe.lg.jp/info/80",
+      "in": "https://www.city.ninohe.lg.jp/info/80",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "hachimantaishi": {
+    "hasData": true,
+    "office": "八幡平市役所市民課・西根/安代総合支所・田山支所で転入届・転出届の手続きができる（八幡平市）",
+    "links": {
+      "out": "https://www.city.hachimantai.lg.jp/soshiki/shiminka/1675.html",
+      "in": "https://www.city.hachimantai.lg.jp/soshiki/shiminka/1675.html",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

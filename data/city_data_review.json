@@ -1984,11 +1984,11 @@
   },
   "nanyoushi": {
     "hasData": true,
-    "office": "南陽市役所市民課市民係で手続き。支所の記載はなし。当環境からは同ドメインへの直接アクセスがネットワーク制限で不可のため、2025年時点のWebアーカイブで内容を確認した。",
+    "office": "南陽市役所（山形県南陽市）市民課で転入届・転出届の手続きを行います。転出届は郵送でも申請できます。",
     "links": {
-      "out": "http://www.city.nanyo.yamagata.jp/siminkakari/160",
-      "in": "http://www.city.nanyo.yamagata.jp/hitukosisinsei/158",
-      "mail": "http://www.city.nanyo.yamagata.jp/hitukosisinsei/169"
+      "out": null,
+      "in": null,
+      "mail": null
     },
     "confidence": "low"
   },
@@ -3490,7 +3490,7 @@
   },
   "suttsugunsuttsumachi": {
     "hasData": true,
-    "office": "寿都町役場 町民課 住民係で転入・転出の届出を受け付けている",
+    "office": "寿都町役場 町民課住民係の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
       "out": null,
       "in": null,
@@ -3500,7 +3500,7 @@
   },
   "suttsugunkuromatsunaimachi": {
     "hasData": true,
-    "office": "黒松内町役場 住民課（北海道寿都郡黒松内町字黒松内302-1）で転入・転出の届出を受け付けている",
+    "office": "黒松内町役場 住民課の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
       "out": null,
       "in": null,
@@ -3590,11 +3590,11 @@
   },
   "setanagunimaganemachi": {
     "hasData": true,
-    "office": "今金町役場 税務住民課 戸籍年金グループ（北海道瀬棚郡今金町字今金48番地の1）で転入・転出の届出を受け付けている",
+    "office": "今金町役場（住民福祉課）の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
-      "out": "https://www.town.imakane.lg.jp/gyousei/gyousei_info/post_2727.html",
+      "out": null,
       "in": null,
-      "mail": "https://www.town.imakane.lg.jp/gyousei/gyousei_info/post_2727.html"
+      "mail": null
     },
     "confidence": "low"
   },
@@ -3610,7 +3610,7 @@
   },
   "tomamaeguntomamaemachi": {
     "hasData": true,
-    "office": "苫前町役場 住民生活課で転入・転出の届出を受け付けている",
+    "office": "苫前町役場 住民生活課の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
       "out": null,
       "in": null,
@@ -3620,7 +3620,7 @@
   },
   "esashigunhamatonbetsumachi": {
     "hasData": true,
-    "office": "浜頓別町役場 住民登録窓口で転入・転出の届出を受け付けている",
+    "office": "浜頓別町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
       "out": null,
       "in": null,
@@ -3650,7 +3650,7 @@
   },
   "minamisakugunminamiaikimura": {
     "hasData": true,
-    "office": "南相木村役場総務課で転出届・転入届を受け付け（長野県南佐久郡南相木村）。公式サイト上で個別の手続きページを確認できず、電話・窓口での確認を推奨。",
+    "office": "南相木村役場（総務課）。長野県南佐久郡南相木村3525番地1。転入届・転出届専用のオンライン案内ページは確認できず。",
     "links": {
       "out": null,
       "in": null,
@@ -3660,7 +3660,7 @@
   },
   "minamisakugunkitaaikimura": {
     "hasData": true,
-    "office": "北相木村役場住民福祉課で転出届・転入届を受け付け（長野県南佐久郡北相木村2744）。公式サイトへのアクセス検証ができず、電話・窓口での確認を推奨。",
+    "office": "北相木村役場。長野県南佐久郡北相木村。公式サイト(vill.kitaaiki.nagano.jp)がネットワーク経由で接続不能（TLSハンドシェイク失敗／プロキシ遮断）のためURL検証不可。",
     "links": {
       "out": null,
       "in": null,
@@ -3669,8 +3669,8 @@
     "confidence": "low"
   },
   "kamiinagunmiyatamura": {
-    "hasData": true,
-    "office": "宮田村役場で転入届・転出届を受け付け。公式サイトがJavaScript動作のシングルページアプリケーションのため個別ページのURLを検証できず、電話・窓口での確認を推奨。",
+    "hasData": false,
+    "office": "宮田村役場。長野県上伊那郡宮田村。",
     "links": {
       "out": null,
       "in": null,
@@ -3679,8 +3679,8 @@
     "confidence": "low"
   },
   "abutaguntouyakomachi": {
-    "hasData": false,
-    "office": "洞爺湖町役場（町民福祉課）。転入・転出の届出窓口があるが、公式サイトのTLS接続エラーによりURLをライブ検証できなかった。",
+    "hasData": true,
+    "office": "洞爺湖町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
     "links": {
       "out": null,
       "in": null,
@@ -3689,8 +3689,248 @@
     "confidence": "low"
   },
   "sarugunhidakamachi": {
+    "hasData": true,
+    "office": "北海道日高町役場 住民課の窓口で転入・転出の届出を受け付けている（証明書手数料ページのみ確認、転入出専用ページ未確定のため低確信）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "samanigunsamanimachi": {
+    "hasData": true,
+    "office": "様似町役場の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunananmachi": {
+    "hasData": true,
+    "office": "阿南町役場 住民税務課。長野県下伊那郡阿南町東條58-1。公式サイト(town.anan.nagano.jp)がネットワーク経由でアクセス不能（プロキシ許可リスト外）のためURL検証不可。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunnebamura": {
+    "hasData": true,
+    "office": "根羽村役場 住民課。長野県下伊那郡根羽村2131番地1。住民票等ページは確認できたが転入届・転出届専用ページは未確認。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunurugimura": {
     "hasData": false,
-    "office": "日高町役場（住民生活課、本庁：門別地域／日高総合支所：日高地域）。転入・転出の届出窓口はあるが、専用ページをライブ検証で十分に確認できなかった。",
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinaguntenryuumura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunyasuokamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunkyoubokumura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinaguntoyookamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "shimoinagunooshikamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogujoumatsumachi": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogunminamigisomachi": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogunkisomura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogunoutakimura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogunookuwamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kisogunkisomachi": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashichikumagunomimura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashichikumagunikusakamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashichikumakouriyamakatachimura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashichikumagunasahimura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "higashichikumagunchikuhokumura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitaazumikooriiketamachi": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitaazumigunmatsukawamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitaazumigunhakubamura": {
+    "hasData": false,
+    "office": "",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "kitaazumigunkotanimura": {
+    "hasData": false,
+    "office": "",
     "links": {
       "out": null,
       "in": null,
