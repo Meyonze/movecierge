@@ -4150,7 +4150,7 @@
   },
   "kanragunnanmokumura": {
     "hasData": true,
-    "office": "南牧村役場（住民税務課住民税務係）で転入届・転出届を受け付け。",
+    "office": "群馬県甘楽郡南牧村役場（長野県南牧村とは別の自治体）。転入・転出届の手続きは住民担当窓口で扱う。公式サイトの該当ページが自動アクセスをブロックしておりURL未検証のためconfidence lowとした。",
     "links": {
       "out": null,
       "in": null,
@@ -4171,6 +4171,36 @@
   "aokeshimamura": {
     "hasData": true,
     "office": "青ヶ島村役場（東京都青ヶ島村無番地）で転入届・転出届を受け付けている",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "itanogunitanomachi": {
+    "hasData": true,
+    "office": "板野町役場 住民課の窓口で、板野町の転入届・転出届の手続きができます（公式サイトはアクセス制限のためURL未検証）。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "akigunkumanomachi": {
+    "hasData": false,
+    "office": "熊野町役場税務住民課で転出届・転入届を受け付ける（未検証）。",
+    "links": {
+      "out": null,
+      "in": null,
+      "mail": null
+    },
+    "confidence": "low"
+  },
+  "asakuraguntouhoumura": {
+    "hasData": true,
+    "office": "福岡県朝倉郡東峰村役場 住民福祉課で、転入届・転出届などの住民異動手続きを行う。",
     "links": {
       "out": null,
       "in": null,
