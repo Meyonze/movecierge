@@ -3110,11 +3110,11 @@
   },
   "yoshinogunnosegawamura": {
     "hasData": true,
-    "office": "野迫川村役場 住民課（野迫川村大字北股84番地、TEL0747-37-2101／戸籍係0747-37-2102）。転出届・転入届の専用案内ページは確認できず、郵送用の転出証明書交付申請書等のダウンロードページのみ確認。",
+    "office": "野迫川村役場 住民課（〒648-0392 奈良県吉野郡野迫川村大字北股84、電話0747-37-2102）で戸籍・住民登録関連の届出（転入・転出等）を受け付け。",
     "links": {
-      "out": null,
+      "out": "https://www.vill.nosegawa.nara.jp/top/soshiki/juumin/life/certificate/127.html",
       "in": null,
-      "mail": "https://www.vill.nosegawa.nara.jp/top/soshiki/juumin/life/certificate/127.html"
+      "mail": null
     },
     "confidence": "low"
   },
@@ -3150,9 +3150,9 @@
   },
   "yoshinogunhigashiyoshinomura": {
     "hasData": true,
-    "office": "東吉野村役場 住民福祉課（東吉野村大字小川99番地、TEL0746-42-0441）。転出届・転入届専用の案内ページは見当たらず、戸籍・住民票等の申請方法（郵送請求中心）ページのみ確認できた。",
+    "office": "東吉野村役場（〒633-2492 奈良県吉野郡東吉野村大字小川99、電話0746-42-0441）で転入・転出等の届出を受け付け。マイナポータルでの転出オンライン届出案内あり。",
     "links": {
-      "out": null,
+      "out": "https://vill.higashiyoshino.nara.jp/life/dennshishinnsei/",
       "in": null,
       "mail": null
     },
