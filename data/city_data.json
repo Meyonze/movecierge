@@ -11670,5 +11670,195 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kunigamigunkunigamimura": {
+    "hasData": true,
+    "office": "国頭村役場 住民課で転入届・転出届の手続きができる（沖縄県国頭郡国頭村字辺土名）。転出届はオンライン申請にも対応。",
+    "links": {
+      "out": "https://www.vill.kunigami.okinawa.jp/movein/",
+      "in": "https://www.vill.kunigami.okinawa.jp/movein/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunigamigunoogimimura": {
+    "hasData": true,
+    "office": "大宜味村役場 住民福祉課で転入届・転出届の手続きができる（沖縄県国頭郡大宜味村）。マイナンバーカードによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.vill.ogimi.okinawa.jp/soshiki/jyuumin/gyomu/todokede_shomei/325.html",
+      "in": "https://www.vill.ogimi.okinawa.jp/soshiki/jyuumin/gyomu/todokede_shomei/325.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunigamigunhigashimura": {
+    "hasData": true,
+    "office": "東村役場 住民課で転入届・転出届の手続きができる（沖縄県国頭郡東村字平良）。転出届はマイナポータルによるオンライン申請・郵送にも対応。",
+    "links": {
+      "out": "https://www.vill.higashi.okinawa.jp/lifescene/hikkoshi/1245.html",
+      "in": "https://www.vill.higashi.okinawa.jp/lifescene/hikkoshi/1335.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunigamigunnakijinmura": {
+    "hasData": true,
+    "office": "今帰仁村役場 住民課 戸籍住民証明係で転入届・転出届の手続きができる（沖縄県国頭郡今帰仁村字仲宗根）。",
+    "links": {
+      "out": "https://www.nakijin.jp/pagtop/kakuka/juminka/3/1164.html",
+      "in": "https://www.nakijin.jp/pagtop/kakuka/juminka/3/1164.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kunigamigunkanatakemachi": {
+    "hasData": true,
+    "office": "金武町役場 住民生活課で転入届・転出届の手続きができる（沖縄県国頭郡金武町字金武）。",
+    "links": {
+      "out": "https://www.town.kin.okinawa.jp/soshiki/juminseikatsuka/6/4/1947.html",
+      "in": "https://www.town.kin.okinawa.jp/soshiki/juminseikatsuka/6/4/1947.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakazugunyomitanmura": {
+    "hasData": true,
+    "office": "読谷村役場 住民年金課で転入届・転出届の手続きができる（沖縄県中頭郡読谷村）。転出届は郵送でも受付。",
+    "links": {
+      "out": "https://www.vill.yomitan.okinawa.jp/kurashi/todokede_shomei/juminhyo/2613.html",
+      "in": "https://www.vill.yomitan.okinawa.jp/kurashi/todokede_shomei/juminhyo/2613.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakazugunkitanakagusukumura": {
+    "hasData": true,
+    "office": "北中城村役場 住民生活課で転入届・転出届の手続きができる（沖縄県中頭郡北中城村）。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.vill.kitanakagusuku.lg.jp/kakuka/jumin/nenkin/todokede/167.html",
+      "in": "https://www.vill.kitanakagusuku.lg.jp/kakuka/jumin/nenkin/todokede/167.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakazugunchuushiromura": {
+    "hasData": true,
+    "office": "中城村役場 住民生活課で転入届・転出届の手続きができる（沖縄県中頭郡中城村）。",
+    "links": {
+      "out": "https://www.vill.nakagusuku.okinawa.jp/kurashi/koseki/todokede/tennyu/",
+      "in": "https://www.vill.nakagusuku.okinawa.jp/kurashi/koseki/todokede/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "nakazugunnishiharamachi": {
+    "hasData": true,
+    "office": "西原町役場 町民課で転入届・転出届の手続きができる（沖縄県中頭郡西原町字与那城）。",
+    "links": {
+      "out": "https://www.town.nishihara.okinawa.jp/soshiki/6/1349.html",
+      "in": "https://www.town.nishihara.okinawa.jp/soshiki/6/1349.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunyonabarumachi": {
+    "hasData": true,
+    "office": "与那原町役場 住民課で転入届・転出届の手続きができる（沖縄県島尻郡与那原町）。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.yonabaru.okinawa.jp/soshiki/9/1719.html",
+      "in": "https://www.town.yonabaru.okinawa.jp/soshiki/9/1719.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunhaebaramachi": {
+    "hasData": true,
+    "office": "南風原町役場 住民環境課で転入届・転出届の手続きができる（沖縄県島尻郡南風原町）。マイナポータルによるオンライン申請にも対応。",
+    "links": {
+      "out": "https://www.town.haebaru.lg.jp/soshiki/7/3668.html",
+      "in": "https://www.town.haebaru.lg.jp/soshiki/7/3668.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunzamamimura": {
+    "hasData": true,
+    "office": "座間味村役場で転入届・転出届の手続きができる（沖縄県島尻郡座間味村）。",
+    "links": {
+      "out": "https://www.vill.zamami.okinawa.jp/kurashi/todokedeshoumei/idou/tenshutsu/",
+      "in": "https://www.vill.zamami.okinawa.jp/kurashi/todokedeshoumei/idou/tennyu/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunagunimura": {
+    "hasData": true,
+    "office": "粟国村役場 総務課 戸籍係で転入届・転出届の手続きができる（沖縄県島尻郡粟国村字東）。",
+    "links": {
+      "out": "https://www.vill.aguni.okinawa.jp/soshiki/somu/soumukajyouhou/koseki001/koseki_1/118.html",
+      "in": "https://www.vill.aguni.okinawa.jp/soshiki/somu/soumukajyouhou/koseki001/koseki_1/103.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunkitadaitoumura": {
+    "hasData": true,
+    "office": "北大東村役場 福祉衛生課で転入届・転出届の手続きができる（沖縄県島尻郡北大東村）。転出届は郵送にも対応。",
+    "links": {
+      "out": "https://vill.kitadaito.okinawa.jp/life_event/tennyu/",
+      "in": "https://vill.kitadaito.okinawa.jp/life_event/tennyu/jyuumin_touroku/index.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashiriguniheyamura": {
+    "hasData": true,
+    "office": "伊平屋村役場 住民課で転入届・転出届の手続きができる（沖縄県島尻郡伊平屋村字我喜屋）。転出証明書の郵送請求にも対応。",
+    "links": {
+      "out": "https://www.vill.iheya.okinawa.jp/soshiki/5/3318.html",
+      "in": "https://www.vill.iheya.okinawa.jp/soshiki/5/3318.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunizenamura": {
+    "hasData": true,
+    "office": "伊是名村役場で転入届・転出届の手続きができる（沖縄県島尻郡伊是名村）。",
+    "links": {
+      "out": "https://vill.izena.okinawa.jp/lifeevent/residence/1539834183/",
+      "in": "https://vill.izena.okinawa.jp/lifeevent/residence/1539833997/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunkumeshimamachi": {
+    "hasData": true,
+    "office": "久米島町役場で転入届・転出届の手続きができる（沖縄県島尻郡久米島町）。",
+    "links": {
+      "out": "https://www.town.kumejima.okinawa.jp/docs/2025060500015/",
+      "in": "https://www.town.kumejima.okinawa.jp/docs/2025060300028/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "shimashirigunyaesemachi": {
+    "hasData": true,
+    "office": "八重瀬町役場 住民環境課で転入届・転出届の手続きができる（沖縄県島尻郡八重瀬町）。事前申請システム・オンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.yaese.lg.jp/docs/2014030600183/",
+      "in": "https://www.town.yaese.lg.jp/docs/2014030600183/",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "yaeyamagunyonakunimachi": {
+    "hasData": true,
+    "office": "与那国町役場で転入届・転出届の手続きができる（沖縄県八重山郡与那国町）。マイナポータルによるオンライン転出届にも対応。",
+    "links": {
+      "out": "https://www.town.yonaguni.okinawa.jp/docs/2022060200020/",
+      "in": "https://www.town.yonaguni.okinawa.jp/docs/2022060200013/",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
