@@ -114,6 +114,11 @@
     margin:22px 0 14px;
   }
   .progress-note{font-size:11.5px;color:var(--ink-faint);margin:-6px 0 14px;}
+  .progress-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:-4px 0 16px;padding:8px 0;border-bottom:1px solid var(--line);font-size:11.5px;}
+  .progress-summary{font-weight:700;color:var(--accent-dark);}
+  .reset-progress{padding:0;border:0;background:none;color:var(--ink-soft);font:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer;}
+  .reset-progress:hover{color:var(--accent-dark);}
+  .reset-progress:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
 
   .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;}
   .block-title{font-size:14px;font-weight:700;margin:0 0 12px;display:flex;align-items:center;gap:8px;}
@@ -229,6 +234,10 @@
   <div id="resultsWrap" hidden>
     <div class="route-tag" id="routeTag"></div>
     <p class="progress-note">チェックした項目は、この端末のブラウザに保存されます。</p>
+    <div class="progress-controls">
+      <span class="progress-summary" id="progressSummary" aria-live="polite"></span>
+      <button class="reset-progress" id="resetProgress" type="button">この端末の進捗をすべてリセット</button>
+    </div>
     <div class="block out" id="outBlock"></div>
     <div class="block in" id="inBlock"></div>
   </div>
@@ -561,8 +570,21 @@
         else completedChecks.delete(checkId);
         saveCompletedChecks();
         setState();
+        updateProgressSummary();
       };
     });
+    updateProgressSummary();
+  }
+
+  function updateProgressSummary(){
+    const summary = document.getElementById('progressSummary');
+    if(!summary) return;
+    const visibleBoxes = [...document.querySelectorAll('.box')].filter(box => {
+      const row = box.closest('.row');
+      return row?.style.display !== 'none';
+    });
+    const completed = visibleBoxes.filter(box => box.classList.contains('done')).length;
+    summary.textContent = `進捗：${completed} / ${visibleBoxes.length}件 完了`;
   }
 
   function updateGenerateButton(){
@@ -604,6 +626,7 @@
     document.querySelectorAll('.row[data-flag]').forEach(row=>{
       row.style.display = flags.has(row.dataset.flag) ? '' : 'none';
     });
+    updateProgressSummary();
   }
 
   function init(){
@@ -643,6 +666,12 @@
     });
 
     document.getElementById('generateBtn').addEventListener('click', generate);
+    document.getElementById('resetProgress').addEventListener('click', ()=>{
+      if(!window.confirm('この端末に保存したすべての進捗をリセットします。よろしいですか？')) return;
+      completedChecks.clear();
+      saveCompletedChecks();
+      bindChecks();
+    });
 
     bindChecks();       // 常時表示の「あわせて必要になるもの」セクション用
     applyUniversalFilters();
