@@ -34,6 +34,12 @@ zenkoku_hikkoshi_research.py  # 全国の自治体データをClaude APIで自�
 node scripts/validate-data.mjs
 ```
 
+確認対象を自治体名・都道府県つきで取得したい場合は、JSON形式で出力できます。
+
+```bash
+node scripts/validate-data.mjs --json > data-quality-report.json
+```
+
 ## ローカルでの確認方法
 
 `data/city_data.json` を `fetch` で読み込む構成になっているため、`index.html` を直接ブラウザで開く（`file://`）とCORSの制限で読み込めません。簡易HTTPサーバーを立てて確認してください。
