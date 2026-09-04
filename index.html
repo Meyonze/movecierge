@@ -43,7 +43,6 @@
   .tagline{font-size:13px;color:var(--ink-soft);margin:0 0 14px;padding-bottom:14px;border-bottom:2px solid var(--ink);}
   .lead{font-size:13.5px;color:var(--ink-soft);margin:12px 0 0;max-width:54ch;}
   .coverage{font-size:11.5px;color:var(--ink-faint);margin:8px 0 0;line-height:1.7;}
-
   /* ---------- intake ---------- */
   .intake{margin-top:22px;border:1px solid var(--ink);background:#fff;padding:16px 14px 18px;}
   .field-label{font-size:12.5px;font-weight:700;color:var(--ink-soft);margin:0 0 6px;}
@@ -98,6 +97,7 @@
   }
   .generate-btn:hover{background:var(--accent-dark);}
   .generate-btn.stale{background:var(--ink);}
+  .generate-btn:disabled{background:var(--line);color:var(--ink-soft);cursor:not-allowed;}
   .generate-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
 
   .pre-generate{
@@ -185,23 +185,23 @@
 <body>
 <div class="page">
 
-  <span class="eyebrow">PROTOTYPE — 全国主要都市版</span>
+  <span class="eyebrow">PROTOTYPE — 全国版</span>
   <h1 class="logo">
     <span class="logo-mark" aria-hidden="true">転</span>
     <span class="logo-word">シェルジュ</span>
   </h1>
   <p class="tagline">引っ越し手続きチェックリスト</p>
   <p class="lead">旧住所・新住所の市区町村名を入力すると、あてはまる手続きだけに絞り込まれます。あてはまる条件も選べます。</p>
-  <p class="coverage" id="coverage"></p>
+  <p class="coverage" id="coverage" aria-live="polite">自治体データを読み込んでいます…</p>
 
   <div class="intake">
-    <p class="field-label">旧住所（引っ越し元）</p>
+    <label class="field-label" for="inputOut">旧住所（引っ越し元）</label>
     <div class="city-picker">
       <input type="text" class="city-input" id="inputOut" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
       <div class="suggestions" id="suggOut" hidden></div>
     </div>
 
-    <p class="field-label">新住所（引っ越し先）</p>
+    <label class="field-label" for="inputIn">新住所（引っ越し先）</label>
     <div class="city-picker">
       <input type="text" class="city-input" id="inputIn" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
       <div class="suggestions" id="suggIn" hidden></div>
@@ -209,15 +209,15 @@
 
     <p class="field-label">あてはまるものを選ぶ</p>
     <div class="attr-list" id="attrList">
-      <button class="check-field" data-flag="kokuho" type="button"><span class="sq-box"></span>国民健康保険に加入している（会社の健保ではない）</button>
-      <button class="check-field" data-flag="kaigo" type="button"><span class="sq-box"></span>要介護認定を受けている家族と同居している</button>
-      <button class="check-field" data-flag="kodomo" type="button"><span class="sq-box"></span>子どもがいる（児童手当・医療証の対象）</button>
+      <button class="check-field" data-flag="kokuho" type="button" aria-pressed="false"><span class="sq-box"></span>国民健康保険に加入している（会社の健保ではない）</button>
+      <button class="check-field" data-flag="kaigo" type="button" aria-pressed="false"><span class="sq-box"></span>要介護認定を受けている家族と同居している</button>
+      <button class="check-field" data-flag="kodomo" type="button" aria-pressed="false"><span class="sq-box"></span>子どもがいる（児童手当・医療証の対象）</button>
     </div>
 
-    <button type="button" class="more-toggle" id="moreAttrsToggle">＋ 他の条件も見る（車・ペットなど）</button>
+    <button type="button" class="more-toggle" id="moreAttrsToggle" aria-expanded="false" aria-controls="attrListExtra">＋ 他の条件も見る（車・ペットなど）</button>
     <div class="attr-list attr-list-extra" id="attrListExtra" hidden>
-      <button class="check-field" data-flag="kuruma" type="button"><span class="sq-box"></span>車を持っている（駐車場の場所が変わる）</button>
-      <button class="check-field" data-flag="inu" type="button"><span class="sq-box"></span>犬を飼っている</button>
+      <button class="check-field" data-flag="kuruma" type="button" aria-pressed="false"><span class="sq-box"></span>車を持っている（駐車場の場所が変わる）</button>
+      <button class="check-field" data-flag="inu" type="button" aria-pressed="false"><span class="sq-box"></span>犬を飼っている</button>
     </div>
 
     <button class="generate-btn" id="generateBtn" type="button">チェックリストを作成する</button>
@@ -339,244 +339,8 @@
 </div>
 
 <script>
-  // ---- 東京23区 ----
-  const TOKYO23 = [
-    ['chiyoda','千代田区','ちよだく','東京都'],['chuo','中央区','ちゅうおうく','東京都'],['minato','港区','みなとく','東京都'],
-    ['shinjuku','新宿区','しんじゅくく','東京都'],['bunkyo','文京区','ぶんきょうく','東京都'],['taito','台東区','たいとうく','東京都'],
-    ['sumida','墨田区','すみだく','東京都'],['koto','江東区','こうとうく','東京都'],['shinagawa','品川区','しながわく','東京都'],
-    ['meguro','目黒区','めぐろく','東京都'],['ota','大田区','おおたく','東京都'],['setagaya','世田谷区','せたがやく','東京都'],
-    ['shibuya','渋谷区','しぶやく','東京都'],['nakano','中野区','なかのく','東京都'],['suginami','杉並区','すぎなみく','東京都'],
-    ['toshima','豊島区','としまく','東京都'],['kita','北区','きたく','東京都'],['arakawa','荒川区','あらかわく','東京都'],
-    ['itabashi','板橋区','いたばしく','東京都'],['nerima','練馬区','ねりまく','東京都'],['adachi','足立区','あだちく','東京都'],
-    ['katsushika','葛飾区','かつしかく','東京都'],['edogawa','江戸川区','えどがわく','東京都']
-  ];
-  // ---- 政令指定都市（20） ----
-  const DESIGNATED = [
-    ['sapporo','札幌市','さっぽろし','北海道'],['sendai','仙台市','せんだいし','宮城県'],['saitama','さいたま市','さいたまし','埼玉県'],
-    ['chiba','千葉市','ちばし','千葉県'],['yokohama','横浜市','よこはまし','神奈川県'],['kawasaki','川崎市','かわさきし','神奈川県'],
-    ['sagamihara','相模原市','さがみはらし','神奈川県'],['niigata','新潟市','にいがたし','新潟県'],['shizuoka','静岡市','しずおかし','静岡県'],
-    ['hamamatsu','浜松市','はままつし','静岡県'],['nagoya','名古屋市','なごやし','愛知県'],['kyoto','京都市','きょうとし','京都府'],
-    ['osaka','大阪市','おおさかし','大阪府'],['sakai','堺市','さかいし','大阪府'],['kobe','神戸市','こうべし','兵庫県'],
-    ['okayama','岡山市','おかやまし','岡山県'],['hiroshima','広島市','ひろしまし','広島県'],['kitakyushu','北九州市','きたきゅうしゅうし','福岡県'],
-    ['fukuoka','福岡市','ふくおかし','福岡県'],['kumamoto','熊本市','くまもとし','熊本県']
-  ];
-  // ---- 県庁所在地（政令市と重複しない31） ----
-  const CAPITALS = [
-    ['aomori','青森市','あおもりし','青森県'],['morioka','盛岡市','もりおかし','岩手県'],['akita','秋田市','あきたし','秋田県'],
-    ['yamagata','山形市','やまがたし','山形県'],['fukushima','福島市','ふくしまし','福島県'],['mito','水戸市','みとし','茨城県'],
-    ['utsunomiya','宇都宮市','うつのみやし','栃木県'],['maebashi','前橋市','まえばしし','群馬県'],['toyama','富山市','とやまし','富山県'],
-    ['kanazawa','金沢市','かなざわし','石川県'],['fukui','福井市','ふくいし','福井県'],['kofu','甲府市','こうふし','山梨県'],
-    ['nagano','長野市','ながのし','長野県'],['gifu','岐阜市','ぎふし','岐阜県'],['tsu','津市','つし','三重県'],
-    ['otsu','大津市','おおつし','滋賀県'],['nara','奈良市','ならし','奈良県'],['wakayama','和歌山市','わかやまし','和歌山県'],
-    ['tottori','鳥取市','とっとりし','鳥取県'],['matsue','松江市','まつえし','島根県'],['yamaguchi','山口市','やまぐちし','山口県'],
-    ['tokushima','徳島市','とくしまし','徳島県'],['takamatsu','高松市','たかまつし','香川県'],['matsuyama','松山市','まつやまし','愛媛県'],
-    ['kochi','高知市','こうちし','高知県'],['saga','佐賀市','さがし','佐賀県'],['nagasaki','長崎市','ながさきし','長崎県'],
-    ['oita','大分市','おおいたし','大分県'],['miyazaki','宮崎市','みやざきし','宮崎県'],['kagoshima','鹿児島市','かごしまし','鹿児島県'],
-    ['naha','那覇市','なはし','沖縄県']
-  ];
-  // ---- 人口規模で次に優先度が高い主要都市（政令市・県庁所在地と重複しない20） ----
-  const MAJOR_CITIES = [
-    ['hachioji','八王子市','はちおうじし','東京都'],['kawaguchi','川口市','かわぐちし','埼玉県'],['funabashi','船橋市','ふなばしし','千葉県'],
-    ['himeji','姫路市','ひめじし','兵庫県'],['higashiosaka','東大阪市','ひがしおおさかし','大阪府'],['ichikawa','市川市','いちかわし','千葉県'],
-    ['matsudo','松戸市','まつどし','千葉県'],['nishinomiya','西宮市','にしのみやし','兵庫県'],['kurashiki','倉敷市','くらしきし','岡山県'],
-    ['amagasaki','尼崎市','あまがさきし','兵庫県'],['fukuyama','福山市','ふくやまし','広島県'],['fujisawa','藤沢市','ふじさわし','神奈川県'],
-    ['kashiwa','柏市','かしわし','千葉県'],['machida','町田市','まちだし','東京都'],['toyota','豊田市','とよたし','愛知県'],
-    ['toyonaka','豊中市','とよなかし','大阪府'],['yokosuka','横須賀市','よこすかし','神奈川県'],['okazaki','岡崎市','おかざきし','愛知県'],
-    ['suita','吹田市','すいたし','大阪府'],['ichinomiya','一宮市','いちのみやし','愛知県']
-  ];
-
-  const CITIES = [...TOKYO23, ...DESIGNATED, ...CAPITALS, ...MAJOR_CITIES].map(([id,name,yomi,pref])=>({id,name,yomi,pref}));
-
-  const CITY_DATA = {
-    kita:{hasData:true,office:'北区役所 戸籍住民課（〒114-8508 東京都北区王子本町1-2-11）。王子・赤羽・滝野川の各区民事務所でも転入出届に対応。月1回、区民事務所で日曜窓口あり（要事前確認）。',
-      links:{out:'https://www.city.kita.lg.jp/living/registration/1001564/1001567.html',in:'https://www.city.kita.lg.jp/living/registration/1001564/1001566.html',mail:'https://www.city.kita.lg.jp/living/registration/1001564/1001569.html'}},
-    chiyoda:{hasData:true,office:'千代田区役所総合窓口課（住民記録係）（〒102-8688 東京都千代田区九段南1-2-1）。区内6か所の出張所でも転入出手続きが可能。土日祝日・年末年始は閉庁。',
-      links:{out:'https://www.city.chiyoda.lg.jp/koho/kurashi/koseki/jumintoroku/tenshutsu.html',in:'https://www.city.chiyoda.lg.jp/koho/kurashi/koseki/jumintoroku/tennyu.html'}},
-    chuo:{hasData:true,office:'中央区役所本庁舎1階戸籍住民課（中央区築地1-1-1）。日本橋・月島・晴海の各特別出張所でも転入出手続き可能。水曜は19時まで延長、日曜開庁日あり。',
-      links:{out:'https://www.city.chuo.lg.jp/kurashi/touroku/juuminidou/tenshutsu/index.html',in:'https://www.city.chuo.lg.jp/kurashi/touroku/juuminidou/tennyuu/index.html',mail:'https://www.city.chuo.lg.jp/kurashi/touroku/juuminhyou/shoumeisho/yuubinseikyuu/index.html'}},
-    minato:{hasData:true,office:'港区は本庁舎（港区芝公園1-5-25）のほか、芝・麻布・赤坂・高輪・芝浦港南の各総合支所と台場分室で転入出手続きに対応。水曜は台場分室を除き19時まで延長。',
-      links:{out:'https://www.city.minato.tokyo.jp/shibamadosa/kurashi/todokede/hikkoshi/tenshutsu.html',in:'https://www.city.minato.tokyo.jp/shibamadosa/kurashi/todokede/hikkoshi/tennyu.html',mail:'https://www.city.minato.tokyo.jp/shibakoseki/kurashi/todokede/shomesho/yubin/'}},
-    shinjuku:{hasData:true,office:'新宿区役所本庁舎（新宿区歌舞伎町1-4-1）戸籍住民課と、区内10か所の特別出張所で転入出手続き可能。火曜は19時まで延長、第4日曜は本庁舎のみ開庁。特別出張所は土日休み。',
-      links:{out:'https://www.city.shinjuku.lg.jp/todokede/koseki03_000004_f.html',in:'https://www.city.shinjuku.lg.jp/todokede/koseki03_000003_f.html',mail:'https://www.city.shinjuku.lg.jp/content/000253161.pdf'}},
-    bunkyo:{hasData:true,office:'文京シビックセンター2階北側の区民部戸籍住民課住民記録係（文京区春日1-16-21）。地域活動センター内の区民サービスコーナーは転入出届の取り扱い不可。',
-      links:{out:'https://www.city.bunkyo.lg.jp/b013/p000265/index.html',in:'https://www.city.bunkyo.lg.jp/b013/p000261/index.html',mail:'https://www.city.bunkyo.lg.jp/b013/p000182.html'}},
-    taito:{hasData:true,office:'台東区役所本庁舎（台東区東上野4-5-6）のほか、区内の区民事務所・分室でも転入・転居・転出の手続きが可能。区民事務所は本庁舎同様、毎週水曜19時まで延長。',
-      links:{out:'https://www.city.taito.lg.jp/kurashi/todokede/jyuminhyo/hikkoshi/tenshutsumado.html',in:'https://www.city.taito.lg.jp/kurashi/todokede/jyuminhyo/tennyu.html',mail:'https://www.city.taito.lg.jp/benri/download/koseki/tenshutsu.html'}},
-    sumida:{hasData:true,office:'墨田区役所 窓口課 住民異動係（〒130-8640 東京都墨田区吾妻橋一丁目23番20号）。緑・文花・墨田二丁目・東向島の各出張所でも転入出届に対応。本庁舎は月2回（第2・4日曜）に一部窓口を開設（要事前確認）。',
-      links:{out:'https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/zyuumintouroku/418.html',in:'https://www.city.sumida.lg.jp/faq/kurashi/todokede_syoumei/zyuumintouroku/412.html',mail:'https://www.city.sumida.lg.jp/kurashi/todokede_syoumei/1yuusou.html'}},
-    koto:{hasData:true,office:'江東区役所 区民課住民記録係（〒135-8383 東京都江東区東陽4丁目11-28）本庁舎2階3番窓口。豊洲を除く7出張所と豊洲特別出張所でも転入出届に対応。豊洲特別出張所のみ月1回日曜窓口あり（要事前確認）。',
-      links:{out:'https://www.city.koto.lg.jp/060301/kurashi/jumin/idotodoke/5015.html',in:'https://www.city.koto.lg.jp/060301/kurashi/jumin/idotodoke/5014.html',mail:'https://www.city.koto.lg.jp/060303/kurashi/jumin/shome/juminhyo/5025.html'}},
-    shinagawa:{hasData:true,office:'品川区役所本庁舎3階戸籍住民課（〒140-8715 東京都品川区広町2-1-36）。品川第一・大崎第一・大井第一・荏原第一・荏原第四の各地域センターでも一部手続き可。荏原第一地域センターのみ第2・4日曜開庁（要事前確認）。',
-      links:{out:'https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zyuumin_inkan/procedure-zyuumin_inkan-zyuumin/procedure-zyuumin_inkan-zyuumin-todoke/20241031tensyutsu.html',in:'https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zyuumin_inkan/procedure-zyuumin_inkan-zyuumin/procedure-zyuumin_inkan-zyuumin-todoke/tennyu20241020.html',mail:'https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zyuumin_inkan/procedure-zyuumin_inkan-zyuumin/procedure-zyuumin_inkan-zyuumin-utushi/index.html'}},
-    meguro:{hasData:true,office:'目黒区総合庁舎1階戸籍住民課（〒153-8573 東京都目黒区上目黒二丁目19番15号）。区内4か所の地区サービス事務所でも転入出届に対応。原則第2日曜・第4土曜に休日窓口を開設(要事前確認)。',
-      links:{out:'https://www.city.meguro.tokyo.jp/kurashi/hikkoshi/tenshutsu/index.html',in:'https://www.city.meguro.tokyo.jp/kurashi/hikkoshi/tennyuu/index.html',mail:'https://www.city.meguro.tokyo.jp/kurashi/juuminhyou/shoumei/juminhyoyuso/index.html'}},
-    ota:{hasData:true,office:'大田区役所本庁舎1階戸籍住民窓口（〒144-8621 東京都大田区蒲田五丁目13番14号）。区内18か所の特別出張所でも転入出届に対応（特別出張所は土日休み）。本庁舎は月・木曜夜間窓口と日曜窓口あり（要事前確認）。',
-      links:{out:'https://www.city.ota.tokyo.jp/seikatsu/koseki_j/jyuminhyo/todokede/tenshutu.html',in:'https://www.city.ota.tokyo.jp/seikatsu/koseki_j/jyuminhyo/todokede/tennyu.html',mail:'https://www.city.ota.tokyo.jp/seikatsu/koseki_j/kosekijyuminyuso.html'}},
-    setagaya:{hasData:true,office:'世田谷区役所本庁舎（〒154-8504 東京都世田谷区世田谷四丁目21番27号）のほか、世田谷・北沢・玉川・砧・烏山の各総合支所くみん窓口、太子堂・経堂・用賀・二子玉川・烏山の各出張所、計10施設で転入出届に対応。転入届は郵送不可で窓口のみ。総合支所と太子堂出張所は一部土曜も開庁（要事前確認）、日曜は休み。',
-      links:{out:'https://www.city.setagaya.lg.jp/02233/90.html',in:'https://www.city.setagaya.lg.jp/02233/88.html',mail:'https://www.city.setagaya.lg.jp/02233/93.html'}},
-    shibuya:{hasData:true,office:'渋谷区役所2階 住民戸籍課（〒150-8010 渋谷区宇田川町1-1）。区内9出張所、渋谷ヒカリエ8階の区民サービスセンター（平日17〜19時・土曜9〜12時）の施設でも転入出届に対応。転入届の郵送受付は不可。',
-      links:{out:'https://www.city.shibuya.tokyo.jp/kurashi/jumin/ido/t_tenshutu.html',in:'https://www.city.shibuya.tokyo.jp/kurashi/jumin/ido/t_tennyu.html',mail:'https://www.city.shibuya.tokyo.jp/kurashi/jumin/utsushi/yuso_seikyu.html'}},
-    nakano:{hasData:true,office:'中野区役所2階 戸籍住民課（〒164-8501 中野区中野4-8-1）。南中野・東部・江古田・野方・鷺宮の各地域事務所の施設でも対応。毎週日曜9〜16時、本庁2階で日曜窓口あり（転出証明書は翌開庁日発行）。',
-      links:{out:'https://www.city.tokyo-nakano.lg.jp/kurashi/koseki/jyuminhyo/tensyutsu-kugaihe.html',in:'https://www.city.tokyo-nakano.lg.jp/kurashi/koseki/jyuminhyo/tennyu-kugaikara.html',mail:'https://www.city.tokyo-nakano.lg.jp/kurashi/koseki/yuusou/yuso-jyuminhyo.html'}},
-    suginami:{hasData:true,office:'杉並区役所東棟1階 区民課区民係（〒166-8570 杉並区阿佐谷南1-15-1）。区内の区民事務所の施設でも転入出届に対応。区民課は第1・3・5土曜、区民事務所は第2・4土曜も窓口開設（いずれも9〜17時）。',
-      links:{out:'https://www.city.suginami.tokyo.jp/kurashi/todokede/hikkoshi/tenshutsu/index.html',in:'https://www.city.suginami.tokyo.jp/kurashi/todokede/hikkoshi/tennyuu/index.html',mail:'https://www.city.suginami.tokyo.jp/s018/shinseisho/8728.html'}},
-    toshima:{hasData:true,office:'豊島区役所3階 総合窓口課（〒171-8422 豊島区南池袋2-45-1）。東部・西部区民事務所の施設でも転入出届に対応。土曜窓口あり（転入9〜15時・転出9〜17時）、日曜・祝日は休止。',
-      links:{out:'https://www.city.toshima.lg.jp/096/tetsuzuki/todokede/kiroku/000333.html',in:'https://www.city.toshima.lg.jp/096/tetsuzuki/todokede/kiroku/000320.html',mail:'https://www.city.toshima.lg.jp/095/tetsuzuki/todokede/kiroku-02/index.html'}},
-    arakawa:{hasData:true,office:'荒川区役所1階 戸籍住民課住民記録係5番窓口（〒116-8501 荒川区荒川2-2-3）。日暮里区民事務所など区内4施設でも対応。毎週水曜は住民記録係と南千住区民事務所の施設のみ19時まで、第2・4日曜9〜12時も開庁。',
-      links:{out:'https://www.city.arakawa.tokyo.jp/a010/todokede/koseki/tenshutsukugai.html',in:'https://www.city.arakawa.tokyo.jp/a010/todokede/koseki/tennyu.html',mail:'https://www.city.arakawa.tokyo.jp/todokede/koseki/yuusouseikyuu/index.html'}},
-    itabashi:{hasData:true,office:'板橋区役所1階 戸籍住民課（〒173-8501 板橋区板橋2-66-1）。区内6区民事務所の施設でも管轄区域なく転入出届に対応。転入は施設への来庁必須、転出は窓口・オンライン・郵送の3方法。',
-      links:{out:'https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/juminhyo/1055590/index.html',in:'https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/juminhyo/1001611.html',mail:'https://www.city.itabashi.tokyo.jp/tetsuduki/koseki/shomeisho/1001693.html'}},
-    nerima:{hasData:true,office:'練馬区役所 戸籍住民課（〒176-8501 東京都練馬区豊玉北6-12-1）。練馬・光が丘・石神井・大泉・関・早宮の6施設の区民事務所でも転入出届に対応。平日夜間（17時〜19時）と土曜（9時〜17時）は練馬区民事務所のみ受付。',
-      links:{out:'https://www.city.nerima.tokyo.jp/kurashi/koseki/kiroku/tenshutsu.html',in:'https://www.city.nerima.tokyo.jp/kurashi/koseki/kiroku/tennyu.html',mail:'https://www.city.nerima.tokyo.jp/kurashi/koseki/utsushi/yusokofu-honnin.html'}},
-    adachi:{hasData:true,office:'足立区役所 戸籍住民課（〒120-8510 東京都足立区中央本町1-17-1、南館1階）。区内16施設の区民事務所でも住所異動の届出に対応。区民事務所の受付時間は午前8時30分〜午後7時。',
-      links:{out:'https://www.city.adachi.tokyo.jp/koseki/kurashi/todokede/h-tenshutsu.html',in:'https://www.city.adachi.tokyo.jp/koseki/kurashi/todokede/h-tennyu.html',mail:'https://www.city.adachi.tokyo.jp/koseki/kurashi/todokede/zyuuminnhyou_yuusou.html'}},
-    katsushika:{hasData:true,office:'葛飾区役所 戸籍住民課住民記録係（〒124-8555 東京都葛飾区立石5-13-1、区役所2階217番窓口）。金町・亀有・新小岩・堀切・高砂・水元の6施設の区民事務所でも転入出届に対応。',
-      links:{out:'https://www.city.katsushika.lg.jp/kurashi/1000046/1001401/1001438.html',in:'https://www.city.katsushika.lg.jp/kurashi/1000046/1001401/1001438.html',mail:'https://www.city.katsushika.lg.jp/kurashi/1000046/1001401/1001429.html'}},
-    edogawa:{hasData:true,office:'江戸川区役所 区民課（〒132-8501 東京都江戸川区中央1-4-1）。小松川・葛西・小岩・東部・鹿骨の5施設でも同様の手続きに対応。区民課窓口は日時指定の事前予約制。',
-      links:{out:'https://www.city.edogawa.tokyo.jp/e038/kurashi/todoke/ido_todoke/tenshutsu.html',in:'https://www.city.edogawa.tokyo.jp/e038/kurashi/todoke/ido_todoke/tennyu.html',mail:'https://www.city.edogawa.tokyo.jp/e038/kurashi/todoke/juminhyo/seikyu.html'}},
-    osaka:{hasData:true,office:'大阪市は24区に分かれています。手続きは新住所を管轄する区役所で行います（市内区間の引越しは転出届不要、新しい区の区役所で転入届のみ）。',
-      links:{out:'https://www.city.osaka.lg.jp/shimin/page/0000369823.html',in:'https://www.city.osaka.lg.jp/shimin/page/0000369822.html'}},
-    yokohama:{hasData:true,office:'横浜市は18区に分かれています。転入・転出とも、必ず新しい住所地の区役所窓口で手続きします（市外への転出は郵送・オンラインも可）。',
-      links:{out:'https://www.city.yokohama.lg.jp/kurashi/koseki-zei-hoken/todokede/koseki-juminhyo/todokede-touroku/jyumin/tensyutu_shigai/',in:'https://www.city.yokohama.lg.jp/life/hikkoshi.html'}},
-    nagoya:{hasData:true,office:'名古屋市は16区に分かれています。転入届は新しい区の区役所市民課・支所区民生活課の窓口のみ。転出届は郵送・オンラインにも対応。',
-      links:{out:'https://www.city.nagoya.jp/kurashi/todokede/1007833/1007834/1007835.html',in:'https://www.city.nagoya.jp/lifescene/sumai/1034689/1017954.html'}},
-    sapporo:{hasData:true,office:'札幌市は10区に分かれています。転入届は新しい区の区役所戸籍住民課（北区は篠路出張所、南区は定山渓出張所でも可）。',
-      links:{out:'https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category104.html',in:'https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category104.html'}},
-    fukuoka:{hasData:true,office:'福岡市は7区に分かれています。転入届・転居届は新住所地を管轄する区役所・出張所のみ。転出届はオンライン・郵送にも対応。',
-      links:{out:'https://www.city.fukuoka.lg.jp/shimin/kusei/life/tenshutsutodoke.html',in:'https://www.city.fukuoka.lg.jp/shimin/kusei/qa/FAQ13192.html'}},
-    kyoto:{hasData:true,office:'京都市は11区に分かれています。転入届はオンライン不可で窓口のみ。転出届は窓口・郵送・オンライン（マイナンバーカード）に対応。',
-      links:{out:'https://www.city.kyoto.lg.jp/bunshi/page/0000145229.html',in:'https://www.city.kyoto.lg.jp/menu1/category/2-6-0-0-0-0-0-0-0-0.html'}},
-    kobe:{hasData:true,office:'神戸市は9区に分かれています（一部区は支所・出張所でも対応可）。転入は新住所地の区役所窓口のみ。転出はオンライン・郵送も可。',
-      links:{out:'https://www.city.kobe.lg.jp/a53715/kurashi/registration/moving/02_tenshutsu.html',in:'https://www.city.kobe.lg.jp/a53715/kurashi/registration/moving/01_tennyu.html'}},
-    saitama:{hasData:true,office:'さいたま市は10区に分かれています。転入届は各区区民課・支所の窓口のみ。転出届はオンライン・郵送にも対応。',
-      links:{out:'https://www.city.saitama.lg.jp/007/004/001/p001393.html',in:'https://www.city.saitama.lg.jp/007/004/001/index.html'}},
-    kawasaki:{hasData:true,office:'川崎市は7区に分かれています。転入は区役所区民課の窓口のみ。転出は「引越しワンストップサービス」または郵送にも対応。',
-      links:{out:'https://www.city.kawasaki.jp/250/page/0000037075.html',in:'https://www.city.kawasaki.jp/250/page/0000037068.html'}},
-    chiba:{hasData:true,office:'千葉市は6区に分かれています。転入・転出とも新旧住所を管轄する区役所が窓口です（転出はオンラインにも対応）。',
-      links:{out:'https://www.city.chiba.jp/kurashi/shomesho/tennyu/index.html',in:'https://www.city.chiba.jp/kurashi/shomesho/tennyu/index.html'}},
-    hiroshima:{hasData:true,office:'広島市は8区に分かれています。転入届は区役所・出張所の窓口のみ。転出届は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.hiroshima.lg.jp/living/koseki/1003055/1025560/1003293.html',in:'https://www.city.hiroshima.lg.jp/living/koseki/1003055/1025560/1003292.html'}},
-    sendai:{hasData:true,office:'仙台市は5区に分かれています。転入・転出とも区役所戸籍住民課が窓口です。市外へ転出する場合、印鑑登録は自動的に失効するため新住所地で登録し直します。',
-      links:{out:'https://www.city.sendai.jp/system/shise/navi.html',in:'https://www.city.sendai.jp/system/shise/navi.html'}},
-    sagamihara:{hasData:true,office:'相模原市は緑区・中央区・南区の3区に分かれています。転入・転出とも住民登録のある区の区役所区民課が窓口です（まちづくりセンター等でも一部対応可）。',
-      links:{out:'https://www.city.sagamihara.kanagawa.jp/kurashi/1026448/tetsuzuki/1026453/1005978.html',in:'https://www.city.sagamihara.kanagawa.jp/kurashi/1026448/tetsuzuki/1026453/1005976.html'}},
-    niigata:{hasData:true,office:'新潟市は8区に分かれています。転入届は各区役所区民生活課・出張所が窓口です（連絡所は証明書交付が翌日以降になる場合あり）。',
-      links:{out:'https://www.city.niigata.lg.jp/life_event/hikkoshi/index.html',in:'https://www.city.niigata.lg.jp/kurashi/todokede/kosekinado/jyuminhyo/tennyu.html'}},
-    shizuoka:{hasData:true,office:'静岡市は葵区・駿河区・清水区の3区に分かれています。転入・転出とも区役所窓口が対応します（転出はオンライン・郵送も可）。',
-      links:{out:'https://www.city.shizuoka.lg.jp/s8436/s013648.html',in:'https://www.city.shizuoka.lg.jp/p018690.html'}},
-    hamamatsu:{hasData:true,office:'浜松市は中央区・浜名区・天竜区の3区に分かれています。転入・転出とも、住んでいる区にかかわらずいずれの区役所でも手続き可能です。',
-      links:{out:'https://www.city.hamamatsu.shizuoka.jp/siminkj/sinsei/jyumin/tensyutsu.html',in:'https://www.city.hamamatsu.shizuoka.jp/siminkj/sinsei/jyumin/tennyu.html'}},
-    sakai:{hasData:true,office:'堺市は7区に分かれています。転入は新住所の区役所、転出・転居は現住所の区役所が窓口です。',
-      links:{out:'https://www.city.sakai.lg.jp/kurashi/todokede/tenkyo/tennyushutsushosai.html',in:'https://www.city.sakai.lg.jp/kurashi/todokede/tenkyo/tennyushutsushosai.html'}},
-    okayama:{hasData:true,office:'岡山市は北区・中区・東区・南区の4区に分かれています。転入・転出とも区役所市民保険年金課が窓口です（転出は郵送・オンラインにも対応）。',
-      links:{out:'https://www.city.okayama.jp/kurashi/0000008779.html',in:'https://www.city.okayama.jp/kurashi/0000008759.html'}},
-    kitakyushu:{hasData:true,office:'北九州市は7区に分かれています。転入は新住所の区役所が窓口、転出はオンライン・郵送にも対応しています。',
-      links:{out:'https://www.city.kitakyushu.lg.jp/contents/14900273.html',in:'https://www.city.kitakyushu.lg.jp/contents/14900051.html'}},
-    kumamoto:{hasData:true,office:'熊本市は中央区・東区・西区・南区・北区の5区に分かれています。転入・転出とも区役所区民課が窓口です（転出はオンライン・郵送にも対応）。',
-      links:{out:'https://www.city.kumamoto.jp/kiji00361606/index.html',in:'https://www.city.kumamoto.jp/kiji003347/index.html'}},
-    kanazawa:{hasData:true,office:'金沢市は区制がなく、市民課または各市民センターが窓口です。転入届は郵送不可で窓口のみ、転出届は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www4.city.kanazawa.lg.jp/soshikikarasagasu/shiminka/gyomuannai/5/4/1/6164.html',in:'https://www4.city.kanazawa.lg.jp/soshikikarasagasu/shiminka/yokuarushitsumon/2632.html',mail:'https://www4.city.kanazawa.lg.jp/soshikikarasagasu/shiminka/shinseishodownload/8098.html'}},
-    nagano:{hasData:true,office:'長野市は区制がなく、市役所市民窓口課または市内各支所が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.nagano.nagano.jp/n085500/contents/p000229.html',in:'https://www.city.nagano.nagano.jp/n085500/contents/p000227.html',mail:'https://www.city.nagano.nagano.jp/n085500/contents/p000230.html'}},
-    gifu:{hasData:true,office:'岐阜市は区制がなく、市民課または各事務所が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.gifu.lg.jp/kurashi/koseki/1001749/1001752.html',in:'https://www.city.gifu.lg.jp/tetsuzuki/hikkoshi/index.html',mail:'https://www.city.gifu.lg.jp/kurashi/koseki/1001749/1004139.html'}},
-    nara:{hasData:true,office:'奈良市は区制がなく、市民課または西部・北部・東部の各出張所、都祁・月ヶ瀬行政センターが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.nara.lg.jp/soshiki/17/10165.html',in:'https://www.city.nara.lg.jp/soshiki/17/10165.html',mail:'https://www.city.nara.lg.jp/soshiki/17/8946.html'}},
-    matsuyama:{hasData:true,office:'松山市は区制がなく、市民課または北条・中島支所、各出張所が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.matsuyama.ehime.jp/kurashi/tetsuzuki/jyuuminnidou/tennsyutsu.html',in:'https://www.city.matsuyama.ehime.jp/kurashi/tetsuzuki/jyuuminnidou/index.html',mail:'https://www.city.matsuyama.ehime.jp/kurashi/download/shimin/shiminnbu/tenshutsu_sinseisho.html'}},
-    kagoshima:{hasData:true,office:'鹿児島市は区制がなく、本庁市民課または各支所の市民課・総務市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.kagoshima.lg.jp/shimin/shiminbunka/shimin/kurashi/koseki/hikkoshi/tetsuzuki/tensyutsutodoke.html',in:'https://www.city.kagoshima.lg.jp/shimin/shiminbunka/shimin/kurashi/koseki/hikkoshi/tetsuzuki/tennyuutodoke.html',mail:'https://www.city.kagoshima.lg.jp/shimin/shiminbunka/shimin/kurashi/koseki/hikkoshi/sekyu.html'}},
-    naha:{hasData:true,office:'那覇市は区制がなく、本庁ハイサイ市民課が窓口です（外国人住民は本庁のみ）。転出はオンラインにも対応、窓口は時期により事前予約制。',
-      links:{out:'https://www.city.naha.okinawa.jp/kurasitetuduki/todoke/idou/CSIMIN00120221213123.html',in:'https://www.city.naha.okinawa.jp/kurasitetuduki/todoke/idou/idou.html'}},
-    utsunomiya:{hasData:true,office:'宇都宮市は区制がなく、市民課またはバンバ出張所が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.utsunomiya.lg.jp/faq/kurashi/tennyu/1000522.html',in:'https://www.city.utsunomiya.lg.jp/faq/kurashi/tennyu/1000524.html',mail:'https://www.city.utsunomiya.lg.jp/kurashi/jumin/koseki/1023090.html'}},
-    aomori:{hasData:true,office:'青森市は区制がなく、市役所駅前庁舎が窓口です。転出は窓口・郵送に対応。',
-      links:{out:'https://www.city.aomori.aomori.jp/kurashi_kankyo/koseki/1001590/1001591.html',in:'https://www.city.aomori.aomori.jp/kurashi_kankyo/koseki/1001590/1001591.html',mail:'https://www.city.aomori.aomori.jp/lifeevent/1002503/1007981.html'}},
-    morioka:{hasData:true,office:'盛岡市は区制がなく、市民登録課または青山・簗川・太田の各支所、都南総合支所などが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.morioka.iwate.jp/kurashi/todokede/jumintoroku/1000396.html',in:'https://www.city.morioka.iwate.jp/kurashi/todokede/jumintoroku/index.html'}},
-    akita:{hasData:true,office:'秋田市は区制がなく、市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.akita.lg.jp/kurashi/todokede-shomei/1005347/1027319/1027320.html',in:'https://www.city.akita.lg.jp/kurashi/todokede-shomei/1005347/1027317.html'}},
-    yamagata:{hasData:true,office:'山形市は区制がなく、市民課住民登録係が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.yamagata-yamagata.lg.jp/kurashi/todokede/1006445/1010797/1004074.html',in:'https://www.city.yamagata-yamagata.lg.jp/kurashi/todokede/1006445/1004073.html'}},
-    fukushima:{hasData:true,office:'福島市は区制がなく、市民課登録係が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.fukushima.fukushima.jp/soshiki/7/1028/3/535.html',in:'https://www.city.fukushima.fukushima.jp/soshiki/7/1028/3/509.html',mail:'https://www.city.fukushima.fukushima.jp/download/kurashi/1/1/632.html'}},
-    mito:{hasData:true,office:'水戸市は区制がなく、市役所市民課が窓口です。転出は窓口・郵送に対応。',
-      links:{out:'https://www.city.mito.lg.jp/site/shinsei/4940.html',in:'https://www.city.mito.lg.jp/page/3169.html',mail:'https://www.city.mito.lg.jp/site/shinsei/4938.html'}},
-    maebashi:{hasData:true,office:'前橋市は区制がなく、市民課住民係が窓口です。転出は窓口・郵送に対応（原則30日前から届出可）。',
-      links:{out:'https://www.city.maebashi.gunma.jp/soshiki/shimin/shimin/gyomu/2/8/37869.html',in:'https://www.city.maebashi.gunma.jp/soshiki/shimin/shimin/gyomu/2/8/37868.html'}},
-    toyama:{hasData:true,office:'富山市は区制がなく、市民課または各行政サービスセンター・地区センターが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.toyama.lg.jp/kurashi/koseki/1010190/1012110.html',in:'https://www.city.toyama.lg.jp/faq/1008437/1009867/1008500.html'}},
-    fukui:{hasData:true,office:'福井市は区制がなく、市民サービス推進課または各連絡所が窓口です。転出は窓口・郵送に対応。',
-      links:{out:'https://www.city.fukui.lg.jp/kurasi/todoke/idou/num_tensyutu.html',in:'https://www.city.fukui.lg.jp/support/movein/p050029.html',mail:'https://www.city.fukui.lg.jp/kurasi/todoke/idou/postten.html'}},
-    kofu:{hasData:true,office:'甲府市は区制がなく、市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.kofu.yamanashi.jp/shimin/kurashi/koseki/yubin/tenshutsu.html',in:'https://www.city.kofu.yamanashi.jp/shimin/kurashi/koseki/hikkoshi/todokede.html'}},
-    tsu:{hasData:true,office:'津市は合併市で、市民課または各総合支所・出張所が窓口です。転入は転入先の窓口のみ、転出はオンライン・郵送にも対応。',
-      links:{out:'https://www.info.city.tsu.mie.jp/www/contents/1001000007347/index.html',in:'https://www.info.city.tsu.mie.jp/kurashi/koseki_juuminhyou/1009823/1001545.html',mail:'https://www.info.city.tsu.mie.jp/www/contents/1583890686729/index.html'}},
-    otsu:{hasData:true,office:'大津市は区制がなく、戸籍住民課または各支所が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.otsu.lg.jp/soshiki/010/1115/g/juminhyo/todoke/1389879548506.html',in:'https://www.otsu-city-callcenter.jp/faq/detail.aspx?id=430'}},
-    wakayama:{hasData:true,office:'和歌山市は区制がなく、市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.wakayama.wakayama.jp/kurashi/koseki_jyuminhyo/1001080/1008547/1008554.html',in:'https://www.city.wakayama.wakayama.jp/kurashi/koseki_jyuminhyo/1001080/1008547/1008554.html',mail:'https://www.city.wakayama.wakayama.jp/kurashi/shinseisyo_dl/1007307/1000413/1009067.html'}},
-    tottori:{hasData:true,office:'鳥取市は区制がなく、本庁舎1階市民総合窓口が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.tottori.lg.jp/page/3967.html',in:'https://www.city.tottori.lg.jp/page/3967.html'}},
-    matsue:{hasData:true,office:'松江市は区制がなく、市民課が窓口です（松江市民サービスコーナーでは住所異動不可）。転出は窓口・郵送に対応。',
-      links:{out:'https://www.city.matsue.lg.jp/soshikikarasagasu/shimimbu_shiminka/koseki_juminhyo_inkantoroku/5/1407.html',in:'https://www.city.matsue.lg.jp/soshikikarasagasu/shimimbu_shiminka/koseki_juminhyo_inkantoroku/5/1409.html',mail:'https://www.city.matsue.lg.jp/soshikikarasagasu/shimimbu_shiminka/koseki_juminhyo_inkantoroku/5/3034.html'}},
-    yamaguchi:{hasData:true,office:'山口市は合併市で、総合窓口課または各総合支所・地域交流センターが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.yamaguchi.lg.jp/site/shinsei/97806.html',in:'https://www.city.yamaguchi.lg.jp/site/shinsei/4924.html',mail:'https://www.city.yamaguchi.lg.jp/site/shinsei/4893.html'}},
-    tokushima:{hasData:true,office:'徳島市は区制がなく、住民課または各支所が窓口です（外国人は住民課のみ）。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.tokushima.tokushima.jp/smph/kurashi/todokede/koseki_nado/juminidou/tenshutsu.html',in:'https://www.city.tokushima.tokushima.jp/smph/kurashi/todokede/koseki_nado/juminidou/tennyuu.html',mail:'https://www.city.tokushima.tokushima.jp/kurashi/todokede/koseki_nado/juminidou/yuusou_tenshutsu.html'}},
-    takamatsu:{hasData:true,office:'高松市は区制がなく、市民課4番窓口または各総合センター・支所・市民サービスセンターが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/shomei/tenkyo/tenshutsu_shigai.html',in:'https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/shomei/tenkyo/tennyu_tashi.html'}},
-    kochi:{hasData:true,office:'高知市は区制がなく、中央窓口センターまたは地域の窓口センターが窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.kochi.kochi.jp/soshiki/18/html2-juki-ido-2.html',in:'https://www.city.kochi.kochi.jp/soshiki/18/onestop.html'}},
-    saga:{hasData:true,office:'佐賀市は区制がなく、市民生活課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.saga.lg.jp/main/1832.html',in:'https://www.city.saga.lg.jp/main/1830.html',mail:'https://www.city.saga.lg.jp/main/1833.html'}},
-    nagasaki:{hasData:true,office:'長崎市は区制がなく、各地域センター・各事務所が窓口です（各地区事務所では手続き不可）。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.nagasaki.lg.jp/page/1029.html',in:'https://www.city.nagasaki.lg.jp/page/2226.html'}},
-    oita:{hasData:true,office:'大分市は区制がなく、市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.oita.oita.jp/o048/kurashi/jumintetsuzuki/1140404124942.html',in:'https://www.city.oita.oita.jp/kurashi/jumintetsuzuki/juminido/index.html'}},
-    miyazaki:{hasData:true,office:'宮崎市は区制がなく、市民課が窓口です。転出は窓口・郵送・オンラインに対応。',
-      links:{out:'https://www.city.miyazaki.miyazaki.jp/life/resident/resident_card/7612.html',in:'https://www.city.miyazaki.miyazaki.jp/life/resident/resident_card/7610.html'}},
-    hachioji:{hasData:true,office:'本庁舎1階市民課（7番窓口、八王子市元本郷町3-24-1）のほか、浅川・南大沢・由木東・川口など市内13の市民部各事務所でも転入出届に対応。',
-      links:{out:'https://www.city.hachioji.tokyo.jp/kurashi/kosekijumin/002/003/index.html',in:'https://www.city.hachioji.tokyo.jp/kurashi/kosekijumin/002/001/index.html',mail:'https://www.city.hachioji.tokyo.jp/kurashi/kosekijumin/001/001/yuusou/index.html'}},
-    kawaguchi:{hasData:true,office:'市役所（第二本庁舎2階市民課、川口市青木2-1-1）・各支所・川口駅前行政センターの各施設で転入出届に対応。市民課受付は9時〜16時30分（土日祝休み）。',
-      links:{out:'https://www.city.kawaguchi.lg.jp/soshiki/01060/060/4/47316.html',in:'https://www.city.kawaguchi.lg.jp/soshiki/01060/060/4/47326.html',mail:'https://www.city.kawaguchi.lg.jp/soshiki/01060/060/10/3227.html'}},
-    funabashi:{hasData:true,office:'戸籍住民課（市役所）・船橋駅前総合窓口センター・各出張所連絡所の各施設で対応。駅前センターは第2・4土曜とその翌日曜も開所（9〜17時）、他は土日祝休み。',
-      links:{out:'https://www.city.funabashi.lg.jp/kurashi/koseki/002/p009791.html',in:'https://www.city.funabashi.lg.jp/kurashi/koseki/002/p009791.html',mail:'https://www.city.funabashi.lg.jp/kurashi/koseki/004/p001726.html'}},
-    himeji:{hasData:true,office:'住民窓口センター・支所・地域事務所・駅前市役所・出張所・サービスセンターの各施設で転入出届に対応。郵送での証明書請求は姫路市証明交付センターのみ受付。',
-      links:{out:'https://www.city.himeji.lg.jp/kurashi/0000003159.html',in:'https://www.city.himeji.lg.jp/kurashi/0000006731.html',mail:'https://www.city.himeji.lg.jp/kurashi/0000003203.html'}},
-    higashiosaka:{hasData:true,office:'市民課（本庁舎2階23番窓口、東大阪市荒本北1-1-1）のほか、日下・四条・中鴻池・若江岩田駅前など市内7施設の行政サービスセンターでも対応。',
-      links:{out:'https://www.city.higashiosaka.lg.jp/0000028758.html',in:'https://www.city.higashiosaka.lg.jp/0000007213.html',mail:'https://www.city.higashiosaka.lg.jp/0000003880.html'}},
-    ichikawa:{hasData:true,office:'本庁舎（市川市役所第1庁舎）市民課のほか、行徳支所・大柏出張所・南行徳市民センター・市川駅行政サービスセンターなど複数施設で転入出届に対応。転出届は郵送可、転入届は原則各施設窓口のみ。',
-      links:{out:'https://www.city.ichikawa.lg.jp/page/3831.html',in:'https://www.city.ichikawa.lg.jp/page/3831.html',mail:'https://www.city.ichikawa.lg.jp/res01/1531000009.html'}},
-    matsudo:{hasData:true,office:'本庁舎市民課（松戸市根本387-5）のほか、常盤平・小金・小金原・六実・馬橋・新松戸・八柱・東松戸など市内8支所でも転入出手続きに対応。平日9時〜16時30分。',
-      links:{out:'https://www.city.matsudo.chiba.jp/kurashi/todokede/todokede_etsuran/hikkosi-tetuduki/tensyutu.html',in:'https://www.city.matsudo.chiba.jp/kurashi/todokede/todokede_etsuran/hikkosi-tetuduki/tennyuu.html',mail:'https://www.city.matsudo.chiba.jp/kurashi/todokede/shoumeisho/yuusou.html'}},
-    nishinomiya:{hasData:true,office:'本庁舎1階市民課のほか、各支所・アクタ西宮ステーション・各市民サービスセンターの施設でも手続き可能。平日9時〜17時（正午〜13時休止）、アクタ西宮ステーションは平日19時まで対応。',
-      links:{out:'https://www.nishi.or.jp/dekigotoindex/hikkoshi/tenshutsu.html',in:'https://www.nishi.or.jp/dekigotoindex/hikkoshi/tennyu.html',mail:'https://www.nishi.or.jp/kurashi/koseki/juminhyonotsushi/yuso.html'}},
-    kurashiki:{hasData:true,office:'本庁舎（市民生活部市民課、倉敷市西中新田640）のほか、市内の各支所でも転入出手続きに対応。開庁時間は8時30分〜17時15分、木曜のみ一部施設で19時まで延長。',
-      links:{out:'https://www.city.kurashiki.okayama.jp/kurashi/koseki/1003029/1003071/1010819.html',in:'https://www.city.kurashiki.okayama.jp/kurashi/koseki/1003029/1003071/1003072.html',mail:'https://www.city.kurashiki.okayama.jp/kurashi/koseki/1003029/1003042/1003043/index.html'}},
-    amagasaki:{hasData:true,office:'本庁舎北館1階市民課（尼崎市東七松町1-23-1）のほか、阪急塚口・JR尼崎・阪神尼崎の各サービスセンター施設で土曜窓口を実施。平日9時〜17時。',
-      links:{out:'https://www.city.amagasaki.hyogo.jp/kurashi/todokede/jumin/066tensyutsu.html',in:'https://www.city.amagasaki.hyogo.jp/kurashi/todokede/jumin/066tennyu.html',mail:'https://www.city.amagasaki.hyogo.jp/shisei/sinseisyo/dl_koseki/066dl_tensyutu.html'}},
-    fukuyama:{hasData:true,office:'本庁市民課のほか、松永・北部・東部・神辺の各市民サービス課、鞆・内海・沼隈・芦田・加茂・新市の各支所という施設でも転入出届に対応。毎週金曜は市民課窓口を19時まで延長（住所異動の届出は対象外）。',
-      links:{out:'https://www.city.fukuyama.hiroshima.jp/soshiki/shimin/286709.html',in:'https://www.city.fukuyama.hiroshima.jp/soshiki/shimin/286707.html',mail:'https://www.city.fukuyama.hiroshima.jp/soshiki/shimin/1971.html'}},
-    fujisawa:{hasData:true,office:'市民窓口センター（本庁）のほか、藤沢・村岡を除く各市民センターと石川分館という施設で転入出届に対応。窓口は平日8時30分〜17時、繁忙期（3〜5月）は郵送の返送まで2週間程度かかる。',
-      links:{out:'https://www.city.fujisawa.kanagawa.jp/mado-c/kurashi/koseki/hikkoshi/tenshutsu.html',in:'https://www.city.fujisawa.kanagawa.jp/mado-c/kurashi/koseki/hikkoshi/tennyu.html',mail:'https://www.city.fujisawa.kanagawa.jp/mado-c/kurashi/koseki/shomesho/juminhyo/yuus.html'}},
-    kashiwa:{hasData:true,office:'市民課（本庁）のほか、沼南支所と柏の葉サービスコーナーを除く各出張所、柏駅前行政サービスセンターという施設で転入届に対応。同センターは土曜のみ営業（9時〜17時）で日曜・祝日は休み。',
-      links:{out:'https://www.city.kashiwa.lg.jp/todokede/juusho/tenshutsu/index.html',in:'https://www.city.kashiwa.lg.jp/shimin/todokede/juusho/tennyuu/dosetai.html',mail:'https://www.city.kashiwa.lg.jp/todokede/juuminhyou/yuubin/index.html'}},
-    machida:{hasData:true,office:'市役所市民課のほか、忠生・鶴川・南・なるせ駅前・堺・小山の各市民センター、木曽山崎・玉川学園駅前などの各連絡所という施設でも転入出届に対応。毎月第2・第4日曜は市役所と各市民センターで日曜窓口を開設。転入届は郵送不可。',
-      links:{out:'https://www.city.machida.tokyo.jp/kurashi/touroku/juuki/juuki03/juuki03_03.html',in:'https://www.city.machida.tokyo.jp/kurashi/touroku/juuki/juuki03/juuki03_02.html',mail:'https://www.city.machida.tokyo.jp/kurashi/touroku/kakusyu/yuso-seikyu/yusouseikyu.html'}},
-    toyota:{hasData:true,office:'市民課（市役所南庁舎1階）のほか、上郷・猿投・高岡など各支所、石野・保見の各出張所という施設でも転入出届に対応（駅西口サービスセンターを除く）。支所窓口は土日祝休み。窓口では書かない「スマート窓口」を導入。',
-      links:{out:'https://www.city.toyota.aichi.jp/kurashi/todokede/jumintouroku/1002819.html',in:'https://www.city.toyota.aichi.jp/kurashi/todokede/jumintouroku/1002815.html',mail:'https://www.city.toyota.aichi.jp/kurashi/todokede/1009366/1002832.html'}},
-    toyonaka:{hasData:true,office:'市民課（豊中市役所第一庁舎1階）のほか、庄内出張所（庄内コラボセンター「ショコラ」3階）、新千里出張所（千里文化センター「コラボ」2階）の3施設で転入出届に対応。毎月第2土曜も市民課のみ開設。',
-      links:{out:'https://www.city.toyonaka.osaka.jp/kurashi/shimin/jusho/tensyutu.html',in:'https://www.city.toyonaka.osaka.jp/kurashi/shimin/jusho/tennyuu.html',mail:'https://www.city.toyonaka.osaka.jp/kurashi/shimin/shoumei/seikyu/yuubinnseikyuu.html'}},
-    yokosuka:{hasData:true,office:'本庁舎1階窓口サービス課のほか、追浜・田浦・逸見・衣笠・大津・浦賀・久里浜・北下浦・西の各行政センターでも転入出届に対応。住所地に関係なくどの施設でも手続き可能。',
-      links:{out:'https://www.city.yokosuka.kanagawa.jp/2740/g_info/l100000279.html',in:'https://www.city.yokosuka.kanagawa.jp/2740/g_info/l100000277.html',mail:'https://www.city.yokosuka.kanagawa.jp/2740/g_info/l100000320.html'}},
-    okazaki:{hasData:true,office:'東庁舎1階の市民課（届出窓口係）のほか、岡崎・大平・東部・岩津・矢作・六ツ美・額田の7支所でも転入出届に対応。支所の開庁は平日9時〜16時。転入届は郵送不可、窓口のみ。',
-      links:{out:'https://www.city.okazaki.lg.jp/1100/1101/1116/p004574.html',in:'https://www.city.okazaki.lg.jp/1100/1101/1116/p004659.html',mail:'https://www.city.okazaki.lg.jp/1100/1101/1114/p004624.html'}},
-    suita:{hasData:true,office:'本庁舎1階市民室のほか、山田・千里丘・千里の各出張所でも転入出届に対応。第2・第4土曜は本庁土曜コーナーで転入届のみ受付可（証明書即日発行等は不可）。',
-      links:{out:'https://www.city.suita.osaka.jp/kurashi/1018370/1018372/1006648.html',in:'https://www.city.suita.osaka.jp/kurashi/1018370/1018372/1006647.html',mail:'https://www.city.suita.osaka.jp/kurashi/1018370/1018373/1018376/1006674.html'}},
-    ichinomiya:{hasData:true,office:'本庁舎1階市民課のほか、尾西庁舎の尾西窓口課、木曽川庁舎の木曽川総務窓口課、および葉栗・西成・丹陽町・浅井町・北方町・大和町など各出張所でも転入出届に対応（外国人住民の届出は出張所不可の場合あり）。',
-      links:{out:'https://www.city.ichinomiya.aichi.jp/shiminkenkou/shimin/1043968/1005645/1000134/1000777.html',in:'https://www.city.ichinomiya.aichi.jp/shiminkenkou/shimin/1043968/1005645/1000134/1000778.html',mail:'https://www.city.ichinomiya.aichi.jp/shiminkenkou/shimin/1043968/1059379/1009957/1021151.html'}}
-  };
+  let CITIES = [];
+  let CITY_DATA = {};
 
   const REQUIRED = {
     out:{title:'転出届を出す',note:'新住所地で転入届を出す際に必要な、転出証明書を発行してもらう手続き。マイナポータルの引越しワンストップサービスから提出すれば来庁は不要。',deadline:'期限：引っ越し日の14日前〜当日',tags:['online','mail'],linkKey:'out'},
@@ -610,6 +374,17 @@
   let stale = false;
 
   function searchLink(name, kw){ return 'https://www.google.com/search?q=' + encodeURIComponent(name + ' 転出届 転入届 ' + kw); }
+  function escapeHtml(value){
+    return String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+  }
+  function safeHttpUrl(value){
+    try {
+      const url = new URL(value);
+      return url.protocol === 'https:' || url.protocol === 'http:' ? url.href : null;
+    } catch {
+      return null;
+    }
+  }
   function tagHtml(t){
     const map = {online:['tag-online','オンライン可'],mail:['tag-mail','郵送可'],window:['tag-window','窓口']};
     return `<span class="tag ${map[t][0]}">${map[t][1]}</span>`;
@@ -627,9 +402,9 @@
         return;
       }
       suggEl.innerHTML = matches.map(c => `
-        <button type="button" class="sugg-item" data-id="${c.id}">
-          <span>${c.name}${CITY_DATA[c.id] ? ' <span class="has">実データ</span>' : ''}</span>
-          <span class="sugg-pref">${c.pref}</span>
+        <button type="button" class="sugg-item" data-id="${escapeHtml(c.id)}">
+          <span>${escapeHtml(c.name)}${CITY_DATA[c.id] ? ' <span class="has">実データ</span>' : ''}</span>
+          <span class="sugg-pref">${escapeHtml(c.pref)}</span>
         </button>`).join('');
       suggEl.hidden = false;
       suggEl.querySelectorAll('.sugg-item').forEach(btn=>{
@@ -655,11 +430,15 @@
 
   function renderBlock(direction, cid){
     const name = cityName(cid);
+    const escapedName = escapeHtml(name);
     const data = CITY_DATA[cid] || {hasData:false};
     const req = REQUIRED[direction];
-    const link = data.hasData ? data.links[req.linkKey] : searchLink(name, req.title);
-    const mailRow = (direction === 'out' && data.hasData && data.links.mail)
-      ? `<div class="row-sub">出し忘れた場合は<a href="${data.links.mail}" target="_blank" rel="noopener">郵送での請求</a>も可能</div>` : '';
+    const officialLink = data.hasData ? safeHttpUrl(data.links?.[req.linkKey]) : null;
+    const hasOfficialLink = Boolean(officialLink);
+    const link = officialLink || searchLink(name, req.title);
+    const mailLink = direction === 'out' && data.hasData ? safeHttpUrl(data.links?.mail) : null;
+    const mailRow = mailLink
+      ? `<div class="row-sub">出し忘れた場合は<a href="${escapeHtml(mailLink)}" target="_blank" rel="noopener">郵送での請求</a>も可能</div>` : '';
 
     const noticeText = direction === 'out'
       ? '<strong>転出届の期限：</strong>引っ越し予定日の14日前から当日までに提出します。マイナポータルでオンライン提出すれば来庁不要。ただし実際に使った人はまだ5人に1人に届かないというアンケートもあるので、窓口へ行く前に一度試す価値はある。'
@@ -684,8 +463,8 @@
     }
 
     const officeHtml = data.hasData
-      ? `<div class="kv">${data.office}</div>`
-      : `<div class="empty">${name}の窓口情報は未収録です。<br><a href="${searchLink(name,'区役所 市役所')}" target="_blank" rel="noopener">公式サイトを検索する →</a></div>`;
+      ? `<div class="kv">${escapeHtml(data.office)}</div>`
+      : `<div class="empty">${escapedName}の窓口情報は未収録です。<br><a href="${escapeHtml(searchLink(name,'区役所 市役所'))}" target="_blank" rel="noopener">公式サイトを検索する →</a></div>`;
 
     const bundleHtml = direction === 'in' ? `
       <div class="section">
@@ -704,7 +483,7 @@
     ` : '';
 
     return `
-      <p class="block-title"><span class="tag-dir">${direction === 'out' ? '転出' : '転入'}</span>${name}${direction === 'out' ? 'からの手続き' : 'への手続き'}</p>
+      <p class="block-title"><span class="tag-dir">${direction === 'out' ? '転出' : '転入'}</span>${escapedName}${direction === 'out' ? 'からの手続き' : 'への手続き'}</p>
       <div class="notice">${noticeText}</div>
       <div class="section">
         <p class="section-label required"><span class="dot"></span>必ず行う手続き</p>
@@ -716,7 +495,7 @@
               <p class="row-note">${req.note}</p>
               <div class="row-meta">
                 <span class="deadline">${req.deadline}</span>
-                <a class="row-link" href="${link}" target="_blank" rel="noopener">${data.hasData ? name + 'の案内を見る' : name + 'を検索'} →</a>
+                <a class="row-link" href="${escapeHtml(link)}" target="_blank" rel="noopener">${hasOfficialLink ? escapedName + 'の案内を見る' : escapedName + 'を検索'} →</a>
               </div>
               ${mailRow}
             </div>
@@ -737,10 +516,18 @@
 
   function bindChecks(){
     document.querySelectorAll('.box').forEach(box=>{
+      const row = box.closest('.row');
+      const title = row?.querySelector('h3')?.textContent?.trim() || '項目';
+      const setState = () => {
+        const done = box.classList.contains('done');
+        box.setAttribute('aria-pressed', String(done));
+        box.setAttribute('aria-label', `${title}を${done ? '未完了に戻す' : '完了にする'}`);
+      };
+      setState();
       box.onclick = () => {
         box.classList.toggle('done');
-        const row = box.closest('.row');
         if(row) row.classList.toggle('is-done');
+        setState();
       };
     });
   }
@@ -786,44 +573,65 @@
     });
   }
 
-  const hasDataCount = Object.keys(CITY_DATA).length;
-  document.getElementById('coverage').textContent =
-    `対応都市：東京23区＋政令指定都市＋県庁所在地クラス 計${CITIES.length}都市。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
+  function init(){
+    const hasDataCount = Object.keys(CITY_DATA).length;
+    document.getElementById('coverage').textContent =
+      `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
 
-  document.getElementById('inputOut').value = cityName(oldWard);
-  document.getElementById('inputIn').value = cityName(newWard);
-  setupPicker(document.getElementById('inputOut'), document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
-  setupPicker(document.getElementById('inputIn'), document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
+    document.getElementById('inputOut').value = cityName(oldWard);
+    document.getElementById('inputIn').value = cityName(newWard);
+    setupPicker(document.getElementById('inputOut'), document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
+    setupPicker(document.getElementById('inputIn'), document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
 
-  document.querySelector('.intake').addEventListener('click', (e)=>{
-    const el = e.target.closest('.check-field');
-    if(!el) return;
-    const f = el.dataset.flag;
-    flags.has(f) ? flags.delete(f) : flags.add(f);
-    el.classList.toggle('active', flags.has(f));
+    document.querySelector('.intake').addEventListener('click', (e)=>{
+      const el = e.target.closest('.check-field');
+      if(!el) return;
+      const f = el.dataset.flag;
+      flags.has(f) ? flags.delete(f) : flags.add(f);
+      el.classList.toggle('active', flags.has(f));
+      el.setAttribute('aria-pressed', String(flags.has(f)));
+      applyUniversalFilters();
+
+      if(generated){
+        // 条件チェックは住所変更と違って軽い操作なので、生成済みでも即座に反映する
+        document.getElementById('outBlock').innerHTML = renderBlock('out', oldWard);
+        document.getElementById('inBlock').innerHTML = renderBlock('in', newWard);
+        bindChecks();
+      }
+    });
+
+    document.getElementById('moreAttrsToggle').addEventListener('click', ()=>{
+      const extra = document.getElementById('attrListExtra');
+      const btn = document.getElementById('moreAttrsToggle');
+      const willShow = extra.hidden;
+      extra.hidden = !willShow;
+      btn.setAttribute('aria-expanded', String(willShow));
+      btn.textContent = willShow ? '− 閉じる' : '＋ 他の条件も見る（車・ペットなど）';
+    });
+
+    document.getElementById('generateBtn').addEventListener('click', generate);
+
+    bindChecks();       // 常時表示の「あわせて必要になるもの」セクション用
     applyUniversalFilters();
+    updateGenerateButton();
+  }
 
-    if(generated){
-      // 条件チェックは住所変更と違って軽い操作なので、生成済みでも即座に反映する
-      document.getElementById('outBlock').innerHTML = renderBlock('out', oldWard);
-      document.getElementById('inBlock').innerHTML = renderBlock('in', newWard);
-      bindChecks();
-    }
-  });
-
-  document.getElementById('moreAttrsToggle').addEventListener('click', ()=>{
-    const extra = document.getElementById('attrListExtra');
-    const btn = document.getElementById('moreAttrsToggle');
-    const willShow = extra.hidden;
-    extra.hidden = !willShow;
-    btn.textContent = willShow ? '− 閉じる' : '＋ 他の条件も見る（車・ペットなど）';
-  });
-
-  document.getElementById('generateBtn').addEventListener('click', generate);
-
-  bindChecks();       // 常時表示の「あわせて必要になるもの」セクション用
-  applyUniversalFilters();
-  updateGenerateButton();
+  Promise.all([
+    fetch('./data/cities.json').then(res => { if(!res.ok) throw new Error('cities.json を読み込めませんでした'); return res.json(); }),
+    fetch('./data/city_data.json').then(res => { if(!res.ok) throw new Error('city_data.json を読み込めませんでした'); return res.json(); }),
+  ])
+    .then(([cities, cityData]) => {
+      CITIES = cities;
+      CITY_DATA = cityData;
+      init();
+    })
+    .catch(err => {
+      console.error('都市データの読み込みに失敗しました。', err);
+      const coverage = document.getElementById('coverage');
+      coverage.textContent = '自治体データを読み込めませんでした。ページを再読み込みしてください。';
+      coverage.setAttribute('role', 'alert');
+      document.getElementById('generateBtn').disabled = true;
+    });
 </script>
 </body>
 </html>
