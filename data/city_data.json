@@ -4753,17 +4753,17 @@
   },
   "oomutashi": {
     "hasData": true,
-    "office": "大牟田市役所市民課（本庁舎1階）。転出届は郵送・オンライン可、転入届は窓口来庁が必要。",
+    "office": "大牟田市役所市民部市民課（〒836-8666 福岡県大牟田市有明町2丁目3番地・市庁舎2階、電話0944-41-2602）。平日8時30分〜17時15分。転入・転出・転居は住民異動届で案内。",
     "links": {
-      "out": "https://www.city.omuta.lg.jp/list01222.html",
-      "in": "https://www.city.omuta.lg.jp/list01222.html",
+      "out": "https://www.city.omuta.lg.jp/kiji0032488/index.html",
+      "in": "https://www.city.omuta.lg.jp/kiji0032488/index.html",
       "mail": null
     },
     "confidence": "high"
   },
   "kurumeshi": {
     "hasData": true,
-    "office": "久留米市役所市民課（城南町15番地3）。転出はマイナポータルでオンライン申請可、転入は窓口来庁が必要。",
+    "office": "久留米市役所1階市民課、各市民センター、各総合支所市民福祉課で受付。平日8時30分〜17時15分。転入・転出は住民異動届で案内。",
     "links": {
       "out": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
       "in": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
@@ -4773,7 +4773,7 @@
   },
   "tagawashi": {
     "hasData": true,
-    "office": "田川市役所市民課。転入・転出・転居の来庁日時をスマートフォンやパソコンから事前予約できる。",
+    "office": "田川市役所市民生活部市民課市民年金係（〒825-8501 福岡県田川市中央町1番1号、電話0947-85-7137・0947-85-7138）。窓口受付は平日8時30分〜17時。住民票の交付は毎週木曜のみ19時まで延長。",
     "links": {
       "out": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
       "in": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
