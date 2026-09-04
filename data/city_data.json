@@ -4556,7 +4556,7 @@
     "office": "名護市役所市民課。窓口は市役所1階。郵送での転出証明書請求も可能。",
     "links": {
       "out": "https://www.city.nago.okinawa.jp/kurashi/2018073000016/",
-      "in": null,
+      "in": "https://www.city.nago.okinawa.jp/kurashi/2021080400052/",
       "mail": null
     },
     "confidence": "high"
@@ -4596,7 +4596,7 @@
     "office": "本部町役場。郵送での転出証明書請求対応。",
     "links": {
       "out": "https://www.town.motobu.okinawa.jp/doc/2023112000025/",
-      "in": null,
+      "in": "https://www.town.motobu.okinawa.jp/doc/2023112000025/",
       "mail": "https://www.town.motobu.okinawa.jp/doc/2023112000087/"
     },
     "confidence": "high"
@@ -4616,7 +4616,7 @@
     "office": "伊江村役場住民課。東江前38。郵送対応。",
     "links": {
       "out": "https://www.iejima.org/document/2015011500072/",
-      "in": null,
+      "in": "https://www.iejima.org/document/2015011500072/",
       "mail": null
     },
     "confidence": "high"
@@ -4656,7 +4656,7 @@
     "office": "山武市住民課。住民登録の手続き窓口。",
     "links": {
       "out": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
-      "in": null,
+      "in": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/touroku-setai/page000888.html",
       "mail": null
     },
     "confidence": "high"
@@ -4666,7 +4666,7 @@
     "office": "匝瑳市役所市民課戸籍班。八日市場ハ793-2。電話0479-73-0089。",
     "links": {
       "out": "https://www.city.sosa.lg.jp/sp/page/page000028.html",
-      "in": null,
+      "in": "https://www.city.sosa.lg.jp/page/page000026.html",
       "mail": null
     },
     "confidence": "high"
@@ -4706,7 +4706,7 @@
     "office": "大多喜町役場税務住民課住民係。〒298-0292 大多喜93。電話0470-82-2111。",
     "links": {
       "out": "https://www.town.otaki.chiba.jp/kurashi/todoke/1/1076.html",
-      "in": null,
+      "in": "https://www.town.otaki.chiba.jp/kurashi/todoke/1/1077.html",
       "mail": null
     },
     "confidence": "high"
@@ -5656,7 +5656,7 @@
     "office": "ニセコ町役場（虻田郡ニセコ町字富士見55番地）。窓口で転入届、郵送でも転出手続きが可能。",
     "links": {
       "out": "https://www.town.niseko.lg.jp/information/2812/",
-      "in": null,
+      "in": "https://www.town.niseko.lg.jp/kurashi/todokede/juminhyo",
       "mail": "https://www.town.niseko.lg.jp/information/2812/"
     },
     "confidence": "high"
@@ -7436,7 +7436,7 @@
     "office": "上富良野町役場（北海道空知郡上富良野町）町民生活課で転出届・転居届などの住民登録手続きができる。",
     "links": {
       "out": "https://www.town.kamifurano.hokkaido.jp/index.php?id=3504",
-      "in": null,
+      "in": "https://www.town.kamifurano.hokkaido.jp/index.php?id=1406",
       "mail": null
     },
     "confidence": "high"
@@ -11116,7 +11116,7 @@
     "office": "高知県安芸郡安田町役場",
     "links": {
       "out": "https://www.town.yasuda.kochi.jp/life/dtl.php?hdnKey=1095",
-      "in": null,
+      "in": "https://www.town.yasuda.kochi.jp/life/dtl.php?hdnKey=1062",
       "mail": null
     },
     "confidence": "high"
