@@ -113,6 +113,7 @@
     background:var(--accent-soft);border:1px solid var(--accent);padding:6px 12px;border-radius:var(--radius);
     margin:22px 0 14px;
   }
+  .progress-note{font-size:11.5px;color:var(--ink-faint);margin:-6px 0 14px;}
 
   .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;}
   .block-title{font-size:14px;font-weight:700;margin:0 0 12px;display:flex;align-items:center;gap:8px;}
@@ -227,6 +228,7 @@
 
   <div id="resultsWrap" hidden>
     <div class="route-tag" id="routeTag"></div>
+    <p class="progress-note">チェックした項目は、この端末のブラウザに保存されます。</p>
     <div class="block out" id="outBlock"></div>
     <div class="block in" id="inBlock"></div>
   </div>
@@ -372,6 +374,25 @@
   let flags = new Set();
   let generated = false;
   let stale = false;
+  const PROGRESS_STORAGE_KEY = 'movecierge-checklist-progress-v1';
+  const completedChecks = loadCompletedChecks();
+
+  function loadCompletedChecks(){
+    try {
+      const saved = JSON.parse(localStorage.getItem(PROGRESS_STORAGE_KEY));
+      return new Set(Array.isArray(saved) ? saved.filter(value => typeof value === 'string') : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  function saveCompletedChecks(){
+    try {
+      localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify([...completedChecks]));
+    } catch {
+      // 保存できない環境では、そのページを開いている間だけ完了状態を保持する。
+    }
+  }
 
   function searchLink(name, kw){ return 'https://www.google.com/search?q=' + encodeURIComponent(name + ' 転出届 転入届 ' + kw); }
   function escapeHtml(value){
@@ -518,15 +539,27 @@
     document.querySelectorAll('.box').forEach(box=>{
       const row = box.closest('.row');
       const title = row?.querySelector('h3')?.textContent?.trim() || '項目';
+      const block = box.closest('.block');
+      const scope = block?.id === 'outBlock'
+        ? `out:${oldWard}`
+        : block?.id === 'inBlock'
+          ? `in:${newWard}`
+          : 'common';
+      const checkId = `${scope}:${title}`;
       const setState = () => {
         const done = box.classList.contains('done');
         box.setAttribute('aria-pressed', String(done));
         box.setAttribute('aria-label', `${title}を${done ? '未完了に戻す' : '完了にする'}`);
       };
+      box.classList.toggle('done', completedChecks.has(checkId));
+      if(row) row.classList.toggle('is-done', completedChecks.has(checkId));
       setState();
       box.onclick = () => {
         box.classList.toggle('done');
         if(row) row.classList.toggle('is-done');
+        if(box.classList.contains('done')) completedChecks.add(checkId);
+        else completedChecks.delete(checkId);
+        saveCompletedChecks();
         setState();
       };
     });
