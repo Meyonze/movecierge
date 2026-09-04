@@ -371,25 +371,6 @@
     },
     "confidence": "low"
   },
-  "oonojoushi": {
-    "hasData": true,
-    "office": "市役所本庁1階「まどかフロア」（曙町二丁目2-1）のほか、市内4カ所の地域行政センター（コミュニティセンター内）でも手続きできる。転出・転居・転入の案内は同一ページにまとめて掲載。",
-    "links": {
-      "out": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html#H2_2_58e9ec",
-      "in": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html#H2_4_0f3ae7"
-    },
-    "confidence": "low"
-  },
-  "chikushinoshi": {
-    "hasData": true,
-    "office": "筑紫野市役所市民課（石崎1-1-1）が窓口。転入届・転出届・転居届・世帯変更届の案内は同一ページにまとめて掲載されている。",
-    "links": {
-      "out": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
-      "in": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
-      "mail": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3928.html"
-    },
-    "confidence": "low"
-  },
   "kameokashi": {
     "hasData": true,
     "office": "亀岡市役所（安町野々神8番地）本庁舎1階市民課で転出・転入とも受付。支所・出張所の記載は見当たらず、本庁舎のみの模様。",
@@ -832,16 +813,6 @@
       "out": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "in": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "mail": "https://www.city.hagi.lg.jp/soshiki/31/h19501.html"
-    },
-    "confidence": "low"
-  },
-  "buzenshi": {
-    "hasData": true,
-    "office": "市役所1階市民課窓口（番号発券機設置）。支所の記載は見当たらず、転入届・転居届・世帯変更届・転出届が同一ページの表で案内されている。マイナポータルの引越しワンストップサービスにも対応。",
-    "links": {
-      "out": "https://www.city.buzen.lg.jp/koseki-jumin/henko/todokede.html",
-      "in": "https://www.city.buzen.lg.jp/koseki-jumin/henko/todokede.html",
-      "mail": "https://www.city.buzen.lg.jp/koseki-jumin/yuusoutennsyutu.html"
     },
     "confidence": "low"
   },
