@@ -7,10 +7,10 @@ zenkoku_hikkoshi_research.py
 Claude API (web_search ツール) を使って自動収集するバッチスクリプト。
 
 【できること】
-  - 全国の市区町村リストを Geolonia の住所オープンデータから自動取得
-    （政令指定都市の「〇〇市△△区」はシティレベルに自動集約。東京23区はそのまま）
+  - data/cities.json の全国市区町村リストを対象に自動収集
   - 1自治体につき1回の Claude API 呼び出しで「検索→URL抽出→JSON整形」を実行
-  - 結果を data/city_data.json に逐次保存（中断してもそこから再開できる）
+  - 高信頼度の結果を data/city_data.json、要確認結果を
+    data/city_data_review.json に逐次保存（中断してもそこから再開できる）
   - 信頼度が低い（＝要目視確認）結果を data/city_data_review.json に分離
 
 【使い方】
@@ -32,9 +32,11 @@ Claude API (web_search ツール) を使って自動収集するバッチスク�
       全件実行することを推奨。
 
 【注意】
-  - web_search ツールの type 文字列（"web_search_20260318"）は Anthropic 側で更新されることが
-    あるため、実行前に https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool
-    で最新の値を確認してください。
+  - web_search ツールの type 文字列は "web_search_20250305"（基本版）を使用している。
+    Haiku 4.5 はダイナミックフィルタリング版（"web_search_20260209"、Opus 4.8/4.7/4.6・
+    Sonnet 5・Sonnet 4.6 のみ対応）を使えないため。モデルを変更する場合は対応する
+    type 文字列も見直すこと。最新情報は
+    https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool を参照。
   - 自動抽出したURL・窓口情報は完璧ではありません。confidence が "low" のものは
     data/city_data_review.json にまとまるので、公開前に目視で確認してください。
   - 極端に短時間で大量リクエストを送るとレート制限に当たることがあります。
@@ -47,22 +49,16 @@ import json
 import re
 import threading
 import time
-import urllib.request
 from pathlib import Path
 
 import anthropic
 
-MUNICIPALITY_LIST_URL = "https://geolonia.github.io/japanese-addresses/api/ja.json"
-
 OUTPUT_DIR = Path("data")
+CITY_LIST_FILE = OUTPUT_DIR / "cities.json"
 OUTPUT_FILE = OUTPUT_DIR / "city_data.json"
 REVIEW_FILE = OUTPUT_DIR / "city_data_review.json"
 
-# 「〇〇市△△区」（政令指定都市の行政区）を「〇〇市」に丸めるための正規表現。
-# 東京23区は「市」を含まない単独の「△△区」なのでこのパターンにはマッチせず、そのまま残る。
-WARD_PATTERN = re.compile(r"^(.+?市)(.+区)$")
-
-WEB_SEARCH_TOOL_TYPE = "web_search_20260318"  # 実行前に最新版か要確認
+WEB_SEARCH_TOOL_TYPE = "web_search_20250305"  # Haiku 4.5はダイナミックフィルタリング版(web_search_20260209)非対応のため基本版を使用
 
 SYSTEM_PROMPT = """あなたは日本の自治体の住民異動手続き（転出届・転入届）のページを調べる
 リサーチアシスタントです。
@@ -88,23 +84,17 @@ JSON以外は一切出力せず、次のスキーマだけを返してくださ�
 """
 
 
-def fetch_municipality_list() -> list[dict]:
-    """全国市区町村リストを取得し、政令市の行政区をシティレベルに統合する。"""
-    with urllib.request.urlopen(MUNICIPALITY_LIST_URL) as res:
-        data = json.loads(res.read().decode("utf-8"))
-
-    seen = set()
-    municipalities = []
-    for pref, cities in data.items():
-        for city in cities:
-            m = WARD_PATTERN.match(city)
-            normalized = m.group(1) if m else city
-            key = (pref, normalized)
-            if key in seen:
-                continue
-            seen.add(key)
-            municipalities.append({"pref": pref, "city": normalized})
-    return municipalities
+def load_city_list() -> list[dict]:
+    """公開画面と同じ自治体ID・名称を持つローカル一覧を読み込む。"""
+    with open(CITY_LIST_FILE, "r", encoding="utf-8") as f:
+        cities = json.load(f)
+    if not isinstance(cities, list):
+        raise ValueError(f"{CITY_LIST_FILE} は自治体一覧の配列である必要があります")
+    required = {"id", "name", "pref"}
+    invalid = [city for city in cities if not required.issubset(city)]
+    if invalid:
+        raise ValueError(f"{CITY_LIST_FILE} に必須項目がない自治体があります: {invalid[0]}")
+    return cities
 
 
 def research_city(client: anthropic.Anthropic, pref: str, city: str, model: str) -> dict:
@@ -135,18 +125,51 @@ def research_city(client: anthropic.Anthropic, pref: str, city: str, model: str)
     return parsed
 
 
-def load_existing(path: Path) -> dict:
+def load_records(path: Path) -> dict:
+    """公開用スキーマ（自治体IDをキーにしたオブジェクト）を読み込む。"""
     if not path.exists():
         return {}
     with open(path, "r", encoding="utf-8") as f:
         records = json.load(f)
-    return {f"{r['pref']}/{r['city']}": r for r in records}
+    if not isinstance(records, dict):
+        raise ValueError(
+            f"{path} は自治体IDをキーにしたJSONオブジェクトである必要があります。"
+            " 旧形式の配列は data/city_data_legacy.json などへ退避してから実行してください。"
+        )
+    return records
 
 
-def save_all(path: Path, records: dict):
+def save_records(path: Path, records: dict):
     OUTPUT_DIR.mkdir(exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(list(records.values()), f, ensure_ascii=False, indent=2)
+        json.dump(records, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def is_http_url(value: object) -> bool:
+    return isinstance(value, str) and value.startswith(("https://", "http://"))
+
+
+def to_public_record(result: dict) -> dict:
+    """APIの生データを画面・検証スクリプトが読むスキーマへ変換する。"""
+    office = result.get("office")
+    office = office.strip() if isinstance(office, str) else ""
+    links = {
+        "out": result.get("out_url") if is_http_url(result.get("out_url")) else None,
+        "in": result.get("in_url") if is_http_url(result.get("in_url")) else None,
+        "mail": result.get("mail_url") if is_http_url(result.get("mail_url")) else None,
+    }
+    record = {
+        "hasData": bool(office or any(links.values())),
+        "office": office,
+        "links": links,
+        "confidence": "high" if result.get("confidence") == "high" else "low",
+    }
+    if isinstance(result.get("notes"), str) and result["notes"].strip():
+        record["notes"] = result["notes"].strip()
+    if result.get("error"):
+        record["error"] = str(result["error"])
+    return record
 
 
 def main():
@@ -155,6 +178,11 @@ def main():
     parser.add_argument("--limit", type=int, default=None, help="処理件数（省略時は全件）")
     parser.add_argument("--workers", type=int, default=4, help="並列実行数（控えめ推奨）")
     parser.add_argument(
+        "--retry-reviewed",
+        action="store_true",
+        help="レビュー用データにある自治体も再調査する（公開済みデータは常にスキップ）",
+    )
+    parser.add_argument(
         "--model",
         type=str,
         default="claude-haiku-4-5-20251001",
@@ -162,10 +190,8 @@ def main():
     )
     args = parser.parse_args()
 
-    client = anthropic.Anthropic()  # ANTHROPIC_API_KEY を環境変数から自動取得
-
-    all_municipalities = fetch_municipality_list()
-    print(f"全国の市区町村: {len(all_municipalities)} 件（政令市の区をシティ単位に集約後）")
+    all_municipalities = load_city_list()
+    print(f"全国の市区町村: {len(all_municipalities)} 件（data/cities.json）")
 
     target = (
         all_municipalities[args.start : args.start + args.limit]
@@ -173,9 +199,23 @@ def main():
         else all_municipalities[args.start :]
     )
 
-    existing = load_existing(OUTPUT_FILE)
-    todo = [m for m in target if f"{m['pref']}/{m['city']}" not in existing]
-    print(f"未処理: {len(todo)} 件（既存 {len(existing)} 件はスキップして続きから実行）")
+    public_records = load_records(OUTPUT_FILE)
+    review_records = load_records(REVIEW_FILE)
+    todo = [
+        m for m in target
+        if m["id"] not in public_records
+        and (args.retry_reviewed or m["id"] not in review_records)
+    ]
+    print(
+        f"未処理: {len(todo)} 件（公開済み {len(public_records)} 件、"
+        f"レビュー済み {len(review_records)} 件はスキップして続きから実行）"
+    )
+
+    if not todo:
+        print("対象の未処理自治体はありません。")
+        return
+
+    client = anthropic.Anthropic()  # ANTHROPIC_API_KEY を環境変数から自動取得
 
     lock = threading.Lock()
     done_count = 0
@@ -183,45 +223,45 @@ def main():
     def worker(m: dict) -> tuple[dict, dict]:
         for attempt in range(3):
             try:
-                result = research_city(client, m["pref"], m["city"], args.model)
+                result = research_city(client, m["pref"], m["name"], args.model)
                 return m, result
             except anthropic.RateLimitError:
                 time.sleep(5 * (attempt + 1))
             except Exception as e:  # noqa: BLE001
                 if attempt == 2:
-                    return m, {"pref": m["pref"], "city": m["city"], "error": str(e)}
+                    return m, {"pref": m["pref"], "city": m["name"], "error": str(e)}
                 time.sleep(2)
-        return m, {"pref": m["pref"], "city": m["city"], "error": "retry_exhausted"}
+        return m, {"pref": m["pref"], "city": m["name"], "error": "retry_exhausted"}
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = [executor.submit(worker, m) for m in todo]
         for future in concurrent.futures.as_completed(futures):
             m, result = future.result()
-            key = f"{m['pref']}/{m['city']}"
+            record = to_public_record(result)
 
             with lock:
-                existing[key] = result
+                if record["confidence"] == "high" and record["office"] and record["links"]["out"] and record["links"]["in"]:
+                    public_records[m["id"]] = record
+                    review_records.pop(m["id"], None)
+                else:
+                    review_records[m["id"]] = record
                 done_count += 1
                 if done_count % 10 == 0:
-                    save_all(OUTPUT_FILE, existing)
+                    save_records(OUTPUT_FILE, public_records)
+                    save_records(REVIEW_FILE, review_records)
 
             status = (
                 "OK"
                 if result.get("confidence") == "high"
                 else ("要確認" if "error" not in result else f"失敗:{result.get('error')}")
             )
-            print(f"[{done_count}/{len(todo)}] {m['pref']}{m['city']} … {status}")
+            print(f"[{done_count}/{len(todo)}] {m['pref']}{m['name']} … {status}")
 
-    save_all(OUTPUT_FILE, existing)
+    save_records(OUTPUT_FILE, public_records)
+    save_records(REVIEW_FILE, review_records)
 
-    low_conf = [
-        r for r in existing.values() if r.get("confidence") == "low" or "error" in r
-    ]
-    with open(REVIEW_FILE, "w", encoding="utf-8") as f:
-        json.dump(low_conf, f, ensure_ascii=False, indent=2)
-
-    print(f"\n完了。合計 {len(existing)} 件 → {OUTPUT_FILE}")
-    print(f"要確認・失敗: {len(low_conf)} 件 → {REVIEW_FILE}")
+    print(f"\n完了。公開用: {len(public_records)} 件 → {OUTPUT_FILE}")
+    print(f"要確認・失敗: {len(review_records)} 件 → {REVIEW_FILE}")
 
 
 if __name__ == "__main__":
