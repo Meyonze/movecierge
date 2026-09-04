@@ -23,7 +23,12 @@ validateRecords(reviewData, 'レビュー用データ', { allowIncomplete: true 
 
 const reviewIds = new Set(Object.keys(reviewData));
 const overlap = Object.keys(cityData).filter(id => reviewIds.has(id));
-if (overlap.length) warn('本データとレビュー用データの重複', overlap);
+const highConfidenceConflicts = overlap.filter(id => cityData[id].confidence === 'high');
+const otherConflicts = overlap.filter(id => cityData[id].confidence !== 'high');
+if (highConfidenceConflicts.length) {
+  warn('本データの high とレビュー用データの low が競合', highConfidenceConflicts);
+}
+if (otherConflicts.length) warn('本データとレビュー用データが競合', otherConflicts);
 
 if (errors.length) {
   console.error(`データ検証に失敗しました（${errors.length}件）`);
