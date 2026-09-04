@@ -20,6 +20,7 @@ data/cities.json      # 全国の自治体一覧
 data/city_data.json   # 収録済みの窓口情報・公式案内URL
 data/city_data_review.json # 要確認の調査結果（公開用データには未反映）
 scripts/validate-data.mjs  # データ構造・ID・URLの検証
+docs/DATA_QUALITY.md       # データ品質の基準と確認優先順位
 zenkoku_hikkoshi_research.py  # 全国の自治体データをClaude APIで自動収集するバッチスクリプト
 ```
 
