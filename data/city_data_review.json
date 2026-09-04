@@ -115,16 +115,6 @@
     },
     "confidence": "low"
   },
-  "kurumeshi": {
-    "hasData": true,
-    "office": "久留米市役所1階市民課、各市民センター、各総合支所市民福祉課で受付。転入届・転出届は同一ページ内の一覧としてまとめて案内されている。開庁時間は平日8時30分〜17時15分。",
-    "links": {
-      "out": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
-      "in": "https://www.city.kurume.fukuoka.jp/1050kurashi/2010kosekishoumei/3010juuminidou/idoutodokede.html",
-      "mail": "https://www.city.kurume.fukuoka.jp/1500soshiki/9024shiminka/3020shinsei/2007-1215-1248-432.html"
-    },
-    "confidence": "low"
-  },
   "oyamashi": {
     "hasData": true,
     "office": "小山市役所1階市民課、市内11か所の出張所で受付。転入・転出・転居・世帯変更の案内は1ページにまとめられている。市民課と城南出張所等で休日窓口、市民課と小山東出張所でスマート窓口の事前入力に対応。",
@@ -691,15 +681,6 @@
     },
     "confidence": "low"
   },
-  "oomutashi": {
-    "hasData": true,
-    "office": "大牟田市役所市民課（〒836-8666 福岡県大牟田市有明町2丁目3番地）。平日8:30-17:15開庁、原則第2日曜に休日窓口も開設。転入・転出・転居は「住民異動届」という同一ページで案内されている。",
-    "links": {
-      "out": "https://www.city.omuta.lg.jp/kiji0032488/index.html",
-      "in": "https://www.city.omuta.lg.jp/kiji0032488/index.html"
-    },
-    "confidence": "low"
-  },
   "yanagawashi": {
     "hasData": true,
     "office": "柳川庁舎市民課のほか、大和庁舎・三橋庁舎の市民サービス課でも届出可能な3庁舎体制。平日8:30-17:00、柳川庁舎は第2木曜19時まで延長、第4日曜も一部開庁。",
@@ -871,16 +852,6 @@
       "out": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "in": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "mail": "https://www.city.hagi.lg.jp/soshiki/31/h19501.html"
-    },
-    "confidence": "low"
-  },
-  "tagawashi": {
-    "hasData": true,
-    "office": "本庁舎の市民課窓口が届出先（毎週木曜のみ午後7時まで延長）。支所・出張所の記載は見当たらず、転入届・転出届・転居届・世帯変更届が同一ページにまとめて案内されている。",
-    "links": {
-      "out": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
-      "in": "https://www.joho.tagawa.fukuoka.jp/kiji0031874/index.html",
-      "mail": "https://www.joho.tagawa.fukuoka.jp/kiji0031894/index.html"
     },
     "confidence": "low"
   },
