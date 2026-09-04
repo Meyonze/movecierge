@@ -9,6 +9,8 @@ const [cities, cityData, reviewData] = await Promise.all([
 const errors = [];
 const warnings = new Map();
 const cityIds = new Set();
+const cityById = new Map();
+const outputJson = process.argv.includes('--json');
 
 for (const city of cities) {
   if (!city.id || !city.name || !city.yomi || !city.pref) {
@@ -16,6 +18,7 @@ for (const city of cities) {
   }
   if (cityIds.has(city.id)) errors.push(`自治体IDが重複しています: ${city.id}`);
   cityIds.add(city.id);
+  cityById.set(city.id, city);
 }
 
 validateRecords(cityData, '本データ');
@@ -40,21 +43,26 @@ if (highVsUnclassifiedReviews.length) {
 }
 if (otherOverlaps.length) warn('本データとレビュー用データが重複', otherOverlaps);
 
-if (errors.length) {
-  console.error(`データ検証に失敗しました（${errors.length}件）`);
-  errors.forEach(error => console.error(`- ${error}`));
-  process.exitCode = 1;
+if (outputJson) {
+  console.log(JSON.stringify(createReport(), null, 2));
 } else {
-  console.log(`データ構造: OK（自治体 ${cities.length}件、本データ ${Object.keys(cityData).length}件、レビュー ${Object.keys(reviewData).length}件）`);
-}
+  if (errors.length) {
+    console.error(`データ検証に失敗しました（${errors.length}件）`);
+    errors.forEach(error => console.error(`- ${error}`));
+  } else {
+    console.log(`データ構造: OK（自治体 ${cities.length}件、本データ ${Object.keys(cityData).length}件、レビュー ${Object.keys(reviewData).length}件）`);
+  }
 
-if (warnings.size) {
-  console.warn(`要確認: ${warnings.size}種類`);
-  for (const [label, ids] of warnings) {
-    const sample = ids.slice(0, 3).join(', ');
-    console.warn(`- ${label}: ${ids.length}件${sample ? `（例: ${sample}）` : ''}`);
+  if (warnings.size) {
+    console.warn(`要確認: ${warnings.size}種類`);
+    for (const [label, ids] of warnings) {
+      const sample = ids.slice(0, 3).join(', ');
+      console.warn(`- ${label}: ${ids.length}件${sample ? `（例: ${sample}）` : ''}`);
+    }
   }
 }
+
+if (errors.length) process.exitCode = 1;
 
 async function readJson(path) {
   return JSON.parse(await readFile(path, 'utf8'));
@@ -90,6 +98,33 @@ function validateRecords(records, label, { allowIncomplete = false } = {}) {
 function warn(label, ids) {
   const existing = warnings.get(label) ?? [];
   warnings.set(label, existing.concat(ids));
+}
+
+function createReport() {
+  return {
+    summary: {
+      municipalities: cities.length,
+      publicRecords: Object.keys(cityData).length,
+      reviewRecords: Object.keys(reviewData).length,
+      errors: errors.length,
+      warningTypes: warnings.size,
+    },
+    errors,
+    warnings: [...warnings].map(([label, ids]) => ({
+      label,
+      count: ids.length,
+      municipalities: ids.map(id => {
+        const city = cityById.get(id);
+        return {
+          id,
+          name: city?.name ?? null,
+          pref: city?.pref ?? null,
+          publicConfidence: cityData[id]?.confidence ?? null,
+          reviewConfidence: reviewData[id]?.confidence ?? null,
+        };
+      }),
+    })),
+  };
 }
 
 function isHttpUrl(value) {
