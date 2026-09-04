@@ -209,15 +209,15 @@
 
     <p class="field-label">あてはまるものを選ぶ</p>
     <div class="attr-list" id="attrList">
-      <button class="check-field" data-flag="kokuho" type="button"><span class="sq-box"></span>国民健康保険に加入している（会社の健保ではない）</button>
-      <button class="check-field" data-flag="kaigo" type="button"><span class="sq-box"></span>要介護認定を受けている家族と同居している</button>
-      <button class="check-field" data-flag="kodomo" type="button"><span class="sq-box"></span>子どもがいる（児童手当・医療証の対象）</button>
+      <button class="check-field" data-flag="kokuho" type="button" aria-pressed="false"><span class="sq-box"></span>国民健康保険に加入している（会社の健保ではない）</button>
+      <button class="check-field" data-flag="kaigo" type="button" aria-pressed="false"><span class="sq-box"></span>要介護認定を受けている家族と同居している</button>
+      <button class="check-field" data-flag="kodomo" type="button" aria-pressed="false"><span class="sq-box"></span>子どもがいる（児童手当・医療証の対象）</button>
     </div>
 
-    <button type="button" class="more-toggle" id="moreAttrsToggle">＋ 他の条件も見る（車・ペットなど）</button>
+    <button type="button" class="more-toggle" id="moreAttrsToggle" aria-expanded="false" aria-controls="attrListExtra">＋ 他の条件も見る（車・ペットなど）</button>
     <div class="attr-list attr-list-extra" id="attrListExtra" hidden>
-      <button class="check-field" data-flag="kuruma" type="button"><span class="sq-box"></span>車を持っている（駐車場の場所が変わる）</button>
-      <button class="check-field" data-flag="inu" type="button"><span class="sq-box"></span>犬を飼っている</button>
+      <button class="check-field" data-flag="kuruma" type="button" aria-pressed="false"><span class="sq-box"></span>車を持っている（駐車場の場所が変わる）</button>
+      <button class="check-field" data-flag="inu" type="button" aria-pressed="false"><span class="sq-box"></span>犬を飼っている</button>
     </div>
 
     <button class="generate-btn" id="generateBtn" type="button">チェックリストを作成する</button>
@@ -516,10 +516,18 @@
 
   function bindChecks(){
     document.querySelectorAll('.box').forEach(box=>{
+      const row = box.closest('.row');
+      const title = row?.querySelector('h3')?.textContent?.trim() || '項目';
+      const setState = () => {
+        const done = box.classList.contains('done');
+        box.setAttribute('aria-pressed', String(done));
+        box.setAttribute('aria-label', `${title}を${done ? '未完了に戻す' : '完了にする'}`);
+      };
+      setState();
       box.onclick = () => {
         box.classList.toggle('done');
-        const row = box.closest('.row');
         if(row) row.classList.toggle('is-done');
+        setState();
       };
     });
   }
@@ -581,6 +589,7 @@
       const f = el.dataset.flag;
       flags.has(f) ? flags.delete(f) : flags.add(f);
       el.classList.toggle('active', flags.has(f));
+      el.setAttribute('aria-pressed', String(flags.has(f)));
       applyUniversalFilters();
 
       if(generated){
@@ -596,6 +605,7 @@
       const btn = document.getElementById('moreAttrsToggle');
       const willShow = extra.hidden;
       extra.hidden = !willShow;
+      btn.setAttribute('aria-expanded', String(willShow));
       btn.textContent = willShow ? '− 閉じる' : '＋ 他の条件も見る（車・ペットなど）';
     });
 
