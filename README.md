@@ -45,7 +45,12 @@ python3 -m http.server 8000
 
 ```bash
 pip install anthropic --break-system-packages
+
+# macOS / Linux
 export ANTHROPIC_API_KEY=sk-ant-...
+
+# PowerShell
+$env:ANTHROPIC_API_KEY = 'sk-ant-...'
 
 # まず少数で試す
 python zenkoku_hikkoshi_research.py --limit 20
@@ -54,4 +59,4 @@ python zenkoku_hikkoshi_research.py --limit 20
 python zenkoku_hikkoshi_research.py --workers 4
 ```
 
-`confidence: low` の結果は `data/city_data_review.json` に分離されます。目視確認してから `data/city_data.json` に反映してください。詳細は `CLAUDE.md` を参照。
+スクリプトは `data/cities.json` の自治体IDを正として、画面が読むJSON形式のまま保存します。`confidence: high` かつ窓口・転出・転入の情報がそろった結果だけを `data/city_data.json` に入れ、それ以外は `data/city_data_review.json` に分離します。レビュー済みの候補を再調査する場合は `--retry-reviewed` を付けてください。
