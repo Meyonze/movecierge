@@ -617,8 +617,8 @@
   }
 
   Promise.all([
-    fetch('./data/cities.json').then(res => { if(!res.ok) throw new Error('cities.json を読み込めませんでした'); return res.json(); }),
-    fetch('./data/city_data.json').then(res => { if(!res.ok) throw new Error('city_data.json を読み込めませんでした'); return res.json(); }),
+    fetch('./data/cities.json', {cache:'no-store'}).then(res => { if(!res.ok) throw new Error('cities.json を読み込めませんでした'); return res.json(); }),
+    fetch('./data/city_data.json', {cache:'no-store'}).then(res => { if(!res.ok) throw new Error('city_data.json を読み込めませんでした'); return res.json(); }),
   ])
     .then(([cities, cityData]) => {
       CITIES = cities;
