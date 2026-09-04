@@ -4783,31 +4783,31 @@
   },
   "yanagawashi": {
     "hasData": true,
-    "office": "柳川市役所市民課。転入・転居の届出は住み始めてから14日以内、マイナンバーカードがあればマイナポータルでの転出手続きも可能。",
+    "office": "柳川庁舎市民課、大和庁舎・三橋庁舎市民サービス課で受付。開庁日の8時30分〜17時。柳川庁舎の一部窓口は第2木曜19時まで延長、第4日曜8時30分〜正午に開庁。市民課市民係：0944-77-8472。",
     "links": {
       "out": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
       "in": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
-      "mail": null
+      "mail": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html"
     },
     "confidence": "high"
   },
   "chikugoshi": {
     "hasData": true,
-    "office": "筑後市役所市民課。転入は住み始めた日から14日以内に転出証明書を添えて届出、マイナンバーカードがあれば「ぴったりサービス」も利用可。",
+    "office": "筑後市役所市民生活部市民課戸籍・住民担当（〒833-8601 福岡県筑後市大字山ノ井898番地、電話0942-53-4112）。転入・転出・転居は同一ページで案内。開庁は平日8時30分〜17時15分。",
     "links": {
       "out": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
       "in": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
-      "mail": null
+      "mail": "https://www.city.chikugo.lg.jp/kurashi/_6067/_30651/_20751.html"
     },
     "confidence": "high"
   },
   "ookawashi": {
     "hasData": true,
-    "office": "大川市役所市民課（大字酒見256番地1）。転出届は概ね1か月前から受付、転入・転居は引越し後に窓口へ。",
+    "office": "大川市役所市民課市民係（〒831-8601 福岡県大川市大字酒見256番地1、直通0944-85-5502）。転入・転居は引越し後14日以内、転出は引越しの14日前後に届出。マイナポータルからの転出手続きも案内。",
     "links": {
-      "out": "https://www.city.okawa.lg.jp/060/010/index.html",
-      "in": "https://www.city.okawa.lg.jp/060/010/index.html",
-      "mail": null
+      "out": "https://www.city.okawa.lg.jp/s014/010/020/020/020/20141218124532.html",
+      "in": "https://www.city.okawa.lg.jp/s014/010/020/020/020/20141218124532.html",
+      "mail": "https://www.city.okawa.lg.jp/s014/010/010/010/010/20141222102649.html"
     },
     "confidence": "high"
   },
