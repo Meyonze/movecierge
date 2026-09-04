@@ -681,26 +681,6 @@
     },
     "confidence": "low"
   },
-  "yanagawashi": {
-    "hasData": true,
-    "office": "柳川庁舎市民課のほか、大和庁舎・三橋庁舎の市民サービス課でも届出可能な3庁舎体制。平日8:30-17:00、柳川庁舎は第2木曜19時まで延長、第4日曜も一部開庁。",
-    "links": {
-      "out": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
-      "in": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html",
-      "mail": "https://www.city.yanagawa.fukuoka.jp/kurashi/torokukoseki/torokukoseki_jushotodoke.html"
-    },
-    "confidence": "low"
-  },
-  "chikugoshi": {
-    "hasData": true,
-    "office": "筑後市役所市民課（戸籍・住民担当）（〒833-8601 福岡県筑後市大字山ノ井898番地）。本庁一括対応で、支所についての記載は見当たらない。転入・転出・転居は同一ページで案内。",
-    "links": {
-      "out": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
-      "in": "https://www.city.chikugo.lg.jp/kurashi/_6067/_6069/_2130.html",
-      "mail": "https://www.city.chikugo.lg.jp/kurashi/_6067/_30651/_20751.html"
-    },
-    "confidence": "low"
-  },
   "kogashi_fuku": {
     "hasData": true,
     "office": "古賀市役所市民国保課（本庁、駅東1-1-1）で受付。支所は確認できず本庁舎窓口が中心。転入・転出が集中する3〜4月には日曜臨時開庁を実施。",
@@ -852,16 +832,6 @@
       "out": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "in": "https://www.city.hagi.lg.jp/soshiki/31/1502.html",
       "mail": "https://www.city.hagi.lg.jp/soshiki/31/h19501.html"
-    },
-    "confidence": "low"
-  },
-  "ookawashi": {
-    "hasData": true,
-    "office": "大川市役所市民課市民係が窓口。支所・出張所の記載は見当たらず、転入・転居・転出の手続きが「住所の異動」という1つのページにまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.okawa.lg.jp/s014/010/020/020/020/20141218124532.html",
-      "in": "https://www.city.okawa.lg.jp/s014/010/020/020/020/20141218124532.html",
-      "mail": "https://www.city.okawa.lg.jp/s014/010/010/010/010/20141222102649.html"
     },
     "confidence": "low"
   },
