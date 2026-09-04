@@ -4853,27 +4853,27 @@
   },
   "munakatashi": {
     "hasData": true,
-    "office": "宗像市役所市民課。転出はマイナンバーカードでオンライン申請可、転入は転出証明書を持参して窓口へ。",
+    "office": "宗像市役所市民課（〒811-3492 福岡県宗像市東郷1-1-1、電話0940-36-1121）と大島行政センターで受付。転入・転出は市役所開庁日の8時30分〜17時。転出はオンライン・郵送も案内。",
     "links": {
-      "out": "https://www.city.munakata.lg.jp/kiji0031015/index.html",
-      "in": "https://www.city.munakata.lg.jp/kiji0031015/index.html",
-      "mail": null
+      "out": "https://www.city.munakata.lg.jp/kiji003991/index.html",
+      "in": "https://www.city.munakata.lg.jp/kiji003991/index.html",
+      "mail": "https://www.city.munakata.lg.jp/kiji003991/index.html"
     },
     "confidence": "high"
   },
   "kogashi_fuku": {
     "hasData": true,
-    "office": "古賀市役所市民国保課。電子証明書付きマイナンバーカードがあればマイナポータルで転出届のオンライン提出が可能、転入は窓口来庁が必要。",
+    "office": "古賀市役所市民国保課市民係（〒811-3192 福岡県古賀市駅東1-1-1、電話092-942-1123）。転入・転居は窓口で、転出はマイナポータルのオンライン手続きも案内。開庁は平日9時〜16時。",
     "links": {
-      "out": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/055.php",
-      "in": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/055.php",
+      "out": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php",
+      "in": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php",
       "mail": null
     },
     "confidence": "high"
   },
   "fukutsushi": {
     "hasData": true,
-    "office": "福津市役所市民課。転出はマイナンバーカードがあればオンライン申請可、転入・転居は窓口来庁が必要。",
+    "office": "福津市役所市民生活部市民課市民係（〒811-3293 福津市中央1-1-1・本館1階、電話0940-43-8103）。転入・転居は住み始めた日から14日以内に届出。開庁は平日8時30分〜17時。",
     "links": {
       "out": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
       "in": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
@@ -5053,17 +5053,17 @@
   },
   "yatsushiroshi": {
     "hasData": true,
-    "office": "八代市役所市民課で転入届・転出届を受け付け。マイナンバーカードを使った引越しワンストップサービスにも対応。",
+    "office": "八代市役所市民課窓口（〒866-8601 熊本県八代市松江城町1-25、電話0965-33-4111）のほか、坂本・千丁・鏡・東陽・泉の各支所地域振興課と日奈久出張所で受付。平日8時30分〜17時15分、本庁市民課は毎週木曜19時まで延長。",
     "links": {
-      "out": "https://www.city.yatsushiro.lg.jp/kiji00319502/index.html",
-      "in": "https://www.city.yatsushiro.lg.jp/kiji00319502/index.html",
-      "mail": null
+      "out": "https://www.city.yatsushiro.lg.jp/kiji00376/index.html",
+      "in": "https://www.city.yatsushiro.lg.jp/kiji00376/index.html",
+      "mail": "https://www.city.yatsushiro.lg.jp/kiji00376/index.html"
     },
     "confidence": "high"
   },
   "hitoyoshishi": {
     "hasData": true,
-    "office": "人吉市役所市民課で転入届・転出届を受け付け。転出届は郵送可、マイナポータルからのオンライン転出にも対応。",
+    "office": "人吉市役所市民部市民課市民係（熊本県人吉市西間下町7-1、代表0966-22-2111）。転入・転出・転居は住民票の異動ページで案内し、転出は郵送・マイナポータルにも対応。",
     "links": {
       "out": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
       "in": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
@@ -5073,21 +5073,21 @@
   },
   "minamatashi": {
     "hasData": true,
-    "office": "水俣市役所で転入届・転出届を受け付け。マイナンバーカードを使ったオンライン転出届にも対応。",
+    "office": "水俣市役所市民課戸籍住民係（〒867-8555 熊本県水俣市陣内一丁目1番1号、電話0966-61-1611）が窓口。転入・転出・転居・世帯変更を受け付け、転出は郵送・マイナポータルにも対応。",
     "links": {
-      "out": "https://www.city.minamata.lg.jp/list00347.html",
-      "in": "https://www.city.minamata.lg.jp/list00347.html",
-      "mail": null
+      "out": "https://www.city.minamata.lg.jp/kiji00328/index.html",
+      "in": "https://www.city.minamata.lg.jp/kiji00328/index.html",
+      "mail": "https://www.city.minamata.lg.jp/kiji00328/index.html"
     },
     "confidence": "high"
   },
   "yamagashi": {
     "hasData": true,
-    "office": "山鹿市役所市民窓口サービス課で転入届・転出届・転居届・世帯主変更を受け付け。転出届は郵送可。",
+    "office": "山鹿市役所市民課（〒861-0592 熊本県山鹿市山鹿987-3、電話0968-43-1169）または各市民センターで、転入・転出・転居・世帯主変更を受付。窓口は平日8時30分〜17時15分で、住所異動は本庁の時間延長時には扱いません。",
     "links": {
       "out": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
       "in": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
-      "mail": null
+      "mail": "https://www.city.yamaga.kumamoto.jp/kiji003529/index.html"
     },
     "confidence": "high"
   },
@@ -5343,11 +5343,11 @@
   },
   "kasukabeshi": {
     "hasData": true,
-    "office": "春日部市役所 市民課（本庁舎）で転入届・転出届を受付。マイナンバーカードをお持ちの場合は住所変更の同時手続きが必要です。",
+    "office": "春日部市役所本庁舎2階市民課、庄和総合支所1階市民窓口担当、武里出張所で受付。平日8時30分〜17時15分。転出は郵送・電子申請・マイナポータルに対応し、転入は窓口で手続きします。",
     "links": {
       "out": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
       "in": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
-      "mail": null
+      "mail": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html"
     },
     "confidence": "high"
   },
@@ -5363,21 +5363,21 @@
   },
   "kounosushi": {
     "hasData": true,
-    "office": "鴻巣市役所本庁市民課、吹上支所・川里支所で転入届・転出届を受付。転出届は郵送・引越しワンストップサービスにも対応。",
+    "office": "鴻巣市役所新館1階市民課（〒365-8601 埼玉県鴻巣市中央1-1）、吹上支所、川里支所で受付。転入・転居は平日8時30分〜17時15分の窓口手続き、転出は郵送・マイナポータルにも対応。",
     "links": {
       "out": "https://www.city.kounosu.saitama.jp/page/27050.html",
       "in": "https://www.city.kounosu.saitama.jp/page/27050.html",
-      "mail": null
+      "mail": "https://www.city.kounosu.saitama.jp/page/27050.html"
     },
     "confidence": "high"
   },
   "ageoshi": {
     "hasData": true,
-    "office": "上尾市役所市民課・市内各支所出張所で転入届・転出届を受付。転出届はオンライン申請・郵送にも対応しています。",
+    "office": "上尾市役所市民課（〒362-8501 埼玉県上尾市本町3-1-1・本庁舎1階、電話048-782-8790）と市内各支所・出張所で受付。転入は住み始めてから14日以内に窓口へ、転出は郵送・マイナポータルにも対応。",
     "links": {
       "out": "https://www.city.ageo.lg.jp/page/414927.html",
       "in": "https://www.city.ageo.lg.jp/faq/soshiki/page/zyuuminnhyoufaq11.html",
-      "mail": null
+      "mail": "https://www.city.ageo.lg.jp/page/31-yuusoutennsyutu.html"
     },
     "confidence": "high"
   },

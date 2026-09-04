@@ -134,25 +134,6 @@
     },
     "confidence": "low"
   },
-  "ageoshi": {
-    "hasData": true,
-    "office": "本庁舎市民課(1階)のほか、上尾駅出張所・尾山台出張所・平方支所・原市支所・大石支所・上平支所・大谷支所でも受付（出張所・支所は一部業務制限あり）。転出届は郵送・オンラインも可。",
-    "links": {
-      "out": "https://www.city.ageo.lg.jp/page/414927.html",
-      "in": "https://www.city.ageo.lg.jp/faq/soshiki/page/zyuuminnhyoufaq11.html",
-      "mail": "https://www.city.ageo.lg.jp/page/31-yuusoutennsyutu.html"
-    },
-    "confidence": "low"
-  },
-  "kasukabeshi": {
-    "hasData": true,
-    "office": "本庁舎2階市民課のほか、庄和総合支所1階市民窓口担当、武里出張所でも転出入届を受付。転入届・転出届とも同一ページで案内されており、転出届のみ郵送・オンライン可。",
-    "links": {
-      "out": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html",
-      "in": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminka/gyomuannai/1/6/4793.html"
-    },
-    "confidence": "low"
-  },
   "kawanishishi": {
     "hasData": true,
     "office": "川西市役所本庁(中央町12番1号)1階の市民課が窓口。支所・出張所の記載は確認できず本庁窓口が中心。オンライン事前入力サービス「CHA-CHAT申請」で来庁前に届出書を作成可能。",
@@ -572,16 +553,6 @@
     },
     "confidence": "low"
   },
-  "kounosushi": {
-    "hasData": true,
-    "office": "鴻巣市役所（本庁舎・新館1階）市民課が窓口。吹上支所・川里支所でも対応可（個人番号カードを使った転出入手続きも可）。転入・転居・転出・郵送転出のすべてが同一ページで案内されている。",
-    "links": {
-      "out": "https://www.city.kounosu.saitama.jp/page/27050.html",
-      "in": "https://www.city.kounosu.saitama.jp/page/27050.html",
-      "mail": "https://www.city.kounosu.saitama.jp/page/27050.html"
-    },
-    "confidence": "low"
-  },
   "fujimishi": {
     "hasData": true,
     "office": "富士見市役所市民課のほか各出張所でも届出可能（〒354-8511 埼玉県富士見市大字鶴馬1800番地の1）。転入・転居・転出・郵送転出の案内が1つのページにまとまっている。転入届は郵送・オンライン不可で窓口来庁必須。",
@@ -662,33 +633,6 @@
     },
     "confidence": "low"
   },
-  "kogashi_fuku": {
-    "hasData": true,
-    "office": "古賀市役所市民国保課（本庁、駅東1-1-1）で受付。支所は確認できず本庁舎窓口が中心。転入・転出が集中する3〜4月には日曜臨時開庁を実施。",
-    "links": {
-      "out": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php",
-      "in": "https://www.city.koga.fukuoka.jp/cityhall/work/shiminkokuho/007.php"
-    },
-    "confidence": "low"
-  },
-  "fukutsushi": {
-    "hasData": true,
-    "office": "福津市役所市民課（市役所本館1階、福津市中央1-1-1）で受付。転出はオンライン届出も可能だが、転入・転居は窓口来庁が必要。",
-    "links": {
-      "out": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html",
-      "in": "https://www.city.fukutsu.lg.jp/soshiki/shimin/shimin/1/1/currentpage/1256.html"
-    },
-    "confidence": "low"
-  },
-  "munakatashi": {
-    "hasData": true,
-    "office": "宗像市役所市民課（本庁、東郷1-1-1）のほか、離島にある大島行政センターでも転出・転入の届出が可能。転入は郵送不可、転出は郵送可。",
-    "links": {
-      "out": "https://www.city.munakata.lg.jp/kiji003991/index.html",
-      "in": "https://www.city.munakata.lg.jp/kiji003991/index.html"
-    },
-    "confidence": "low"
-  },
   "karatsushi": {
     "hasData": true,
     "office": "唐津市役所市民課（本庁、西城内1-1）に加え、浜玉・厳木・相知・北波多・肥前・鎮西・呼子・七山の8市民センター（旧町村の窓口）で手続き可能。開庁8時30分〜17時15分。",
@@ -696,25 +640,6 @@
       "out": "https://www.city.karatsu.lg.jp/page/3998.html",
       "in": "https://www.city.karatsu.lg.jp/site/navi/3082.html",
       "mail": "https://www.city.karatsu.lg.jp/page/3998.html"
-    },
-    "confidence": "low"
-  },
-  "yatsushiroshi": {
-    "hasData": true,
-    "office": "本庁（市民課窓口、松江城町1-25）のほか、坂本・千丁・鏡・東陽・泉の各支所（地域振興課）でも手続き可能。本庁は毎週木曜のみ午後7時まで延長受付。",
-    "links": {
-      "out": "https://www.city.yatsushiro.lg.jp/kiji00376/index.html",
-      "in": "https://www.city.yatsushiro.lg.jp/kiji00376/index.html"
-    },
-    "confidence": "low"
-  },
-  "yamagashi": {
-    "hasData": true,
-    "office": "山鹿市役所市民課（山鹿987-3）が窓口。住民異動届を受け付ける窓口で、関連する児童手当等の手続きも合わせて案内。",
-    "links": {
-      "out": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
-      "in": "https://www.city.yamaga.kumamoto.jp/kiji00333/index.html",
-      "mail": "https://www.city.yamaga.kumamoto.jp/www/contents/1585127012200/index.html"
     },
     "confidence": "low"
   },
@@ -1186,25 +1111,6 @@
       "out": "https://www.city.unzen.nagasaki.jp/kiji003368/index.html",
       "in": "https://www.city.unzen.nagasaki.jp/kiji003368/index.html",
       "mail": "https://www.city.unzen.nagasaki.jp/kiji0032942/index.html"
-    },
-    "confidence": "low"
-  },
-  "hitoyoshishi": {
-    "hasData": true,
-    "office": "本庁市民課市民係（西間下町7番地1）が窓口。支所についての記載は確認できず、単一庁舎で転入・転出・転居の届出を受け付けている様子。",
-    "links": {
-      "out": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
-      "in": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/26487",
-      "mail": "https://www.city.hitoyoshi.lg.jp/kurashi/juminhyo_koseki/juminhyo_koseki_oshirase/35297"
-    },
-    "confidence": "low"
-  },
-  "minamatashi": {
-    "hasData": true,
-    "office": "市民課戸籍住民係（本庁舎、陣内一丁目1番1号）が窓口。支所についての記載は確認できず、本庁舎の窓口で転入・転出・転居・世帯変更をまとめて案内。",
-    "links": {
-      "out": "https://www.city.minamata.lg.jp/kiji00328/index.html",
-      "in": "https://www.city.minamata.lg.jp/kiji00328/index.html"
     },
     "confidence": "low"
   },
