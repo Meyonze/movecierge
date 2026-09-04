@@ -4813,10 +4813,10 @@
   },
   "buzenshi": {
     "hasData": true,
-    "office": "豊前市役所市民課（吉木955番地）。引越しワンストップサービスでマイナポータルから転出届のオンライン申請が可能、転入は窓口来庁が必要。",
+    "office": "豊前市役所市民課窓口（〒828-8501 福岡県豊前市大字吉木955）。転入・転居は住み始めた日から14日以内、転出は予定日の14日前から届出。開庁は平日8時30分〜17時。",
     "links": {
-      "out": "https://www.city.buzen.lg.jp/koseki-jumin/todokede/hikkoshi.html",
-      "in": "https://www.city.buzen.lg.jp/koseki-jumin/todokede/hikkoshi.html",
+      "out": "https://www.city.buzen.lg.jp/koseki-jumin/henko/todokede.html",
+      "in": "https://www.city.buzen.lg.jp/koseki-jumin/henko/todokede.html",
       "mail": "https://www.city.buzen.lg.jp/koseki-jumin/yuusoutennsyutu.html"
     },
     "confidence": "high"
@@ -4833,7 +4833,7 @@
   },
   "chikushinoshi": {
     "hasData": true,
-    "office": "筑紫野市役所市民課（石崎1-1-1）。転出届はマイナポータルでオンライン申請可、転入・転居は窓口来庁が必要。",
+    "office": "筑紫野市役所市民生活部市民課（〒818-8686 福岡県筑紫野市石崎1-1-1、電話092-923-1111）。住民登録の届出は本庁市民課で平日のみ受付。開庁は8時30分〜17時。",
     "links": {
       "out": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
       "in": "https://www.city.chikushino.fukuoka.jp/soshiki/11/3548.html",
@@ -4843,7 +4843,7 @@
   },
   "oonojoushi": {
     "hasData": true,
-    "office": "大野城市役所1階総合窓口センターまたは地域行政センター。転出は郵送・オンライン可、転入はマイナンバーカード持参で窓口へ。",
+    "office": "大野城市役所本庁まどかフロア（〒816-8510 福岡県大野城市曙町2-2-1）または市内4カ所の地域行政センターで受付。本庁は平日8時30分〜17時・第2/4土曜9時30分〜12時30分、地域行政センターは9時〜21時（手続きにより制限あり）。転出はオンライン・郵送も案内。",
     "links": {
       "out": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html",
       "in": "https://www.city.onojo.fukuoka.jp/kiji0035947/index.html",
