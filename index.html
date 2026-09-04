@@ -375,6 +375,17 @@
   let stale = false;
 
   function searchLink(name, kw){ return 'https://www.google.com/search?q=' + encodeURIComponent(name + ' 転出届 転入届 ' + kw); }
+  function escapeHtml(value){
+    return String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+  }
+  function safeHttpUrl(value){
+    try {
+      const url = new URL(value);
+      return url.protocol === 'https:' || url.protocol === 'http:' ? url.href : null;
+    } catch {
+      return null;
+    }
+  }
   function tagHtml(t){
     const map = {online:['tag-online','オンライン可'],mail:['tag-mail','郵送可'],window:['tag-window','窓口']};
     return `<span class="tag ${map[t][0]}">${map[t][1]}</span>`;
@@ -392,9 +403,9 @@
         return;
       }
       suggEl.innerHTML = matches.map(c => `
-        <button type="button" class="sugg-item" data-id="${c.id}">
-          <span>${c.name}${CITY_DATA[c.id] ? ' <span class="has">実データ</span>' : ''}</span>
-          <span class="sugg-pref">${c.pref}</span>
+        <button type="button" class="sugg-item" data-id="${escapeHtml(c.id)}">
+          <span>${escapeHtml(c.name)}${CITY_DATA[c.id] ? ' <span class="has">実データ</span>' : ''}</span>
+          <span class="sugg-pref">${escapeHtml(c.pref)}</span>
         </button>`).join('');
       suggEl.hidden = false;
       suggEl.querySelectorAll('.sugg-item').forEach(btn=>{
@@ -420,12 +431,15 @@
 
   function renderBlock(direction, cid){
     const name = cityName(cid);
+    const escapedName = escapeHtml(name);
     const data = CITY_DATA[cid] || {hasData:false};
     const req = REQUIRED[direction];
-    const hasOfficialLink = Boolean(data.hasData && data.links && data.links[req.linkKey]);
-    const link = hasOfficialLink ? data.links[req.linkKey] : searchLink(name, req.title);
-    const mailRow = (direction === 'out' && data.hasData && data.links && data.links.mail)
-      ? `<div class="row-sub">出し忘れた場合は<a href="${data.links.mail}" target="_blank" rel="noopener">郵送での請求</a>も可能</div>` : '';
+    const officialLink = data.hasData ? safeHttpUrl(data.links?.[req.linkKey]) : null;
+    const hasOfficialLink = Boolean(officialLink);
+    const link = officialLink || searchLink(name, req.title);
+    const mailLink = direction === 'out' && data.hasData ? safeHttpUrl(data.links?.mail) : null;
+    const mailRow = mailLink
+      ? `<div class="row-sub">出し忘れた場合は<a href="${escapeHtml(mailLink)}" target="_blank" rel="noopener">郵送での請求</a>も可能</div>` : '';
 
     const noticeText = direction === 'out'
       ? '<strong>転出届の期限：</strong>引っ越し予定日の14日前から当日までに提出します。マイナポータルでオンライン提出すれば来庁不要。ただし実際に使った人はまだ5人に1人に届かないというアンケートもあるので、窓口へ行く前に一度試す価値はある。'
@@ -450,8 +464,8 @@
     }
 
     const officeHtml = data.hasData
-      ? `<div class="kv">${data.office}</div>`
-      : `<div class="empty">${name}の窓口情報は未収録です。<br><a href="${searchLink(name,'区役所 市役所')}" target="_blank" rel="noopener">公式サイトを検索する →</a></div>`;
+      ? `<div class="kv">${escapeHtml(data.office)}</div>`
+      : `<div class="empty">${escapedName}の窓口情報は未収録です。<br><a href="${escapeHtml(searchLink(name,'区役所 市役所'))}" target="_blank" rel="noopener">公式サイトを検索する →</a></div>`;
 
     const bundleHtml = direction === 'in' ? `
       <div class="section">
@@ -470,7 +484,7 @@
     ` : '';
 
     return `
-      <p class="block-title"><span class="tag-dir">${direction === 'out' ? '転出' : '転入'}</span>${name}${direction === 'out' ? 'からの手続き' : 'への手続き'}</p>
+      <p class="block-title"><span class="tag-dir">${direction === 'out' ? '転出' : '転入'}</span>${escapedName}${direction === 'out' ? 'からの手続き' : 'への手続き'}</p>
       <div class="notice">${noticeText}</div>
       <div class="section">
         <p class="section-label required"><span class="dot"></span>必ず行う手続き</p>
@@ -482,7 +496,7 @@
               <p class="row-note">${req.note}</p>
               <div class="row-meta">
                 <span class="deadline">${req.deadline}</span>
-                <a class="row-link" href="${link}" target="_blank" rel="noopener">${hasOfficialLink ? name + 'の案内を見る' : name + 'を検索'} →</a>
+                <a class="row-link" href="${escapeHtml(link)}" target="_blank" rel="noopener">${hasOfficialLink ? escapedName + 'の案内を見る' : escapedName + 'を検索'} →</a>
               </div>
               ${mailRow}
             </div>
