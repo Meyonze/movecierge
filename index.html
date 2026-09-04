@@ -43,7 +43,6 @@
   .tagline{font-size:13px;color:var(--ink-soft);margin:0 0 14px;padding-bottom:14px;border-bottom:2px solid var(--ink);}
   .lead{font-size:13.5px;color:var(--ink-soft);margin:12px 0 0;max-width:54ch;}
   .coverage{font-size:11.5px;color:var(--ink-faint);margin:8px 0 0;line-height:1.7;}
-
   /* ---------- intake ---------- */
   .intake{margin-top:22px;border:1px solid var(--ink);background:#fff;padding:16px 14px 18px;}
   .field-label{font-size:12.5px;font-weight:700;color:var(--ink-soft);margin:0 0 6px;}
@@ -186,7 +185,7 @@
 <body>
 <div class="page">
 
-  <span class="eyebrow">PROTOTYPE — 全国主要都市版</span>
+  <span class="eyebrow">PROTOTYPE — 全国版</span>
   <h1 class="logo">
     <span class="logo-mark" aria-hidden="true">転</span>
     <span class="logo-word">シェルジュ</span>
@@ -196,13 +195,13 @@
   <p class="coverage" id="coverage" aria-live="polite">自治体データを読み込んでいます…</p>
 
   <div class="intake">
-    <p class="field-label">旧住所（引っ越し元）</p>
+    <label class="field-label" for="inputOut">旧住所（引っ越し元）</label>
     <div class="city-picker">
       <input type="text" class="city-input" id="inputOut" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
       <div class="suggestions" id="suggOut" hidden></div>
     </div>
 
-    <p class="field-label">新住所（引っ越し先）</p>
+    <label class="field-label" for="inputIn">新住所（引っ越し先）</label>
     <div class="city-picker">
       <input type="text" class="city-input" id="inputIn" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
       <div class="suggestions" id="suggIn" hidden></div>
@@ -618,7 +617,9 @@
     })
     .catch(err => {
       console.error('都市データの読み込みに失敗しました。', err);
-      document.getElementById('coverage').textContent = '自治体データを読み込めませんでした。ページを再読み込みしてください。';
+      const coverage = document.getElementById('coverage');
+      coverage.textContent = '自治体データを読み込めませんでした。ページを再読み込みしてください。';
+      coverage.setAttribute('role', 'alert');
       document.getElementById('generateBtn').disabled = true;
     });
 </script>
