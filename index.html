@@ -98,6 +98,7 @@
   }
   .generate-btn:hover{background:var(--accent-dark);}
   .generate-btn.stale{background:var(--ink);}
+  .generate-btn:disabled{background:var(--line);color:var(--ink-soft);cursor:not-allowed;}
   .generate-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
 
   .pre-generate{
@@ -192,7 +193,7 @@
   </h1>
   <p class="tagline">引っ越し手続きチェックリスト</p>
   <p class="lead">旧住所・新住所の市区町村名を入力すると、あてはまる手続きだけに絞り込まれます。あてはまる条件も選べます。</p>
-  <p class="coverage" id="coverage"></p>
+  <p class="coverage" id="coverage" aria-live="polite">自治体データを読み込んでいます…</p>
 
   <div class="intake">
     <p class="field-label">旧住所（引っ越し元）</p>
@@ -421,8 +422,9 @@
     const name = cityName(cid);
     const data = CITY_DATA[cid] || {hasData:false};
     const req = REQUIRED[direction];
-    const link = data.hasData ? data.links[req.linkKey] : searchLink(name, req.title);
-    const mailRow = (direction === 'out' && data.hasData && data.links.mail)
+    const hasOfficialLink = Boolean(data.hasData && data.links && data.links[req.linkKey]);
+    const link = hasOfficialLink ? data.links[req.linkKey] : searchLink(name, req.title);
+    const mailRow = (direction === 'out' && data.hasData && data.links && data.links.mail)
       ? `<div class="row-sub">出し忘れた場合は<a href="${data.links.mail}" target="_blank" rel="noopener">郵送での請求</a>も可能</div>` : '';
 
     const noticeText = direction === 'out'
@@ -480,7 +482,7 @@
               <p class="row-note">${req.note}</p>
               <div class="row-meta">
                 <span class="deadline">${req.deadline}</span>
-                <a class="row-link" href="${link}" target="_blank" rel="noopener">${data.hasData ? name + 'の案内を見る' : name + 'を検索'} →</a>
+                <a class="row-link" href="${link}" target="_blank" rel="noopener">${hasOfficialLink ? name + 'の案内を見る' : name + 'を検索'} →</a>
               </div>
               ${mailRow}
             </div>
@@ -592,12 +594,19 @@
   }
 
   Promise.all([
-    fetch('./data/cities.json').then(res => { if(!res.ok) throw new Error('failed to load cities.json'); return res.json(); }),
-    fetch('./data/city_data.json').then(res => { if(!res.ok) throw new Error('failed to load city_data.json'); return res.json(); }),
+    fetch('./data/cities.json').then(res => { if(!res.ok) throw new Error('cities.json を読み込めませんでした'); return res.json(); }),
+    fetch('./data/city_data.json').then(res => { if(!res.ok) throw new Error('city_data.json を読み込めませんでした'); return res.json(); }),
   ])
-    .then(([cities, cityData]) => { CITIES = cities; CITY_DATA = cityData; })
-    .catch(err => { console.error('都市データの読み込みに失敗しました。', err); })
-    .finally(init);
+    .then(([cities, cityData]) => {
+      CITIES = cities;
+      CITY_DATA = cityData;
+      init();
+    })
+    .catch(err => {
+      console.error('都市データの読み込みに失敗しました。', err);
+      document.getElementById('coverage').textContent = '自治体データを読み込めませんでした。ページを再読み込みしてください。';
+      document.getElementById('generateBtn').disabled = true;
+    });
 </script>
 </body>
 </html>
