@@ -1367,26 +1367,6 @@
     },
     "confidence": "low"
   },
-  "abutagunkyougokumachi": {
-    "hasData": true,
-    "office": "虻田郡京極町の転入・転出の届け出は住民福祉課住民係（京極町）で受け付けています。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "kabatoguntsukigatamachi": {
-    "hasData": true,
-    "office": "樺戸郡月形町の住所に関する届け出（転入・転出・転居）は月形町役場（月形町1219番地）で受け付けています。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "minamitsugarugunoowanimachi": {
     "hasData": true,
     "office": "大鰐町役場 住民生活課（青森県南津軽郡大鰐町大字大鰐字上牡丹森5-3）で転入届・転出届を受け付け（要問合せ）。",
@@ -1427,29 +1407,9 @@
     },
     "confidence": "low"
   },
-  "hiyamagunassabumachi": {
-    "hasData": true,
-    "office": "檜山郡厚沢部町の転入・転出の届け出は住民税務課（厚沢部町新町207番地）で受け付けています。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "setanagunimaganemachi": {
     "hasData": true,
     "office": "今金町役場（住民福祉課）の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "kamikawaguntakasumachi": {
-    "hasData": true,
-    "office": "上川郡鷹栖町の住民異動に関する届け出（転入・転出）は町民課お客さま窓口係（鷹栖町南1条3丁目5番1号）で受け付けています。",
     "links": {
       "out": null,
       "in": null,
