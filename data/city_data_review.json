@@ -1317,46 +1317,6 @@
     },
     "confidence": "low"
   },
-  "inashi": {
-    "hasData": true,
-    "office": "伊那市役所市民課（伊那市下新田3050）。高遠・長谷の各支所でも対応。",
-    "links": {
-      "out": "https://www.city.ina.nagano.jp/kurashi/td/tenshutsu.html",
-      "in": "https://www.city.ina.nagano.jp/kurashi/td/tennyu.html",
-      "mail": "https://www.city.ina.nagano.jp/kurashi/td/yuuso.html"
-    },
-    "confidence": "low"
-  },
-  "komoroshi": {
-    "hasData": true,
-    "office": "小諸市役所市民課（小諸市相生町3-3-30）。支所はなし。",
-    "links": {
-      "out": "https://www.city.komoro.nagano.jp/soshiki/shimin/tenshutsu.html",
-      "in": "https://www.city.komoro.nagano.jp/soshiki/shimin/tennyu.html",
-      "mail": "https://www.city.komoro.nagano.jp/soshiki/shimin/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
-  "kitasakugunkaruizawamachi": {
-    "hasData": true,
-    "office": "軽井沢町役場（北佐久郡軽井沢町大字中軽井沢1433-1）住民課。支所なし。",
-    "links": {
-      "out": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/tenshutsu.html",
-      "in": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/tennyu.html",
-      "mail": "https://www.town.karuizawa.nagano.jp/kurashi/tetsuzuki/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
-  "chinoshi": {
-    "hasData": true,
-    "office": "茅野市役所市民課（茅野市塚原2-6-1）。支所はなし。",
-    "links": {
-      "out": "https://www.city.chino.nagano.jp/soshiki/shimin/tenshutsu.html",
-      "in": "https://www.city.chino.nagano.jp/soshiki/shimin/tennyu.html",
-      "mail": "https://www.city.chino.nagano.jp/soshiki/shimin/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
   "minamiaizugunhiekimura": {
     "hasData": true,
     "office": "檜枝岐村役場（南会津郡檜枝岐村字上ノ台166）住民課。支所なし。",
