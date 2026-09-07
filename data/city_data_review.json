@@ -661,15 +661,6 @@
       "mail": "https://www.city.hanyu.lg.jp/docs/2012070900133/"
     }
   },
-  "youfushi": {
-    "hasData": true,
-    "office": "届出先は養父市役所市民課または各地域局。転入届・転出届は同一ページ内（住民登録（転入・転出・転居・世帯変更等）の届出）で案内されている。",
-    "links": {
-      "out": "https://www.city.yabu.hyogo.jp/soshiki/shiminseikatsu/shiminka/3_1/2476.html",
-      "in": "https://www.city.yabu.hyogo.jp/soshiki/shiminseikatsu/shiminka/3_1/2476.html",
-      "mail": "https://www.city.yabu.hyogo.jp/soshiki/shiminseikatsu/shiminka/1_2/1199.html"
-    }
-  },
   "shisoushi": {
     "hasData": true,
     "office": "届出先は各市民局市民係（本庁のほか山崎・一宮・波賀・千種の各市民局）。転入届・転出届は同一ページ（住所異動の届出）にまとめて案内されている。",
@@ -677,15 +668,6 @@
       "out": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
       "in": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
       "mail": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/shinseisho/1386828102696.html"
-    }
-  },
-  "katoushi": {
-    "hasData": true,
-    "office": "届出先は加東市役所市民協働部市民課窓口係（社50番地、支所の記載なし）。転入届・転出届は同一ページ（届出と証明）の表にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.kato.lg.jp/kurashi/shoumei/1457747773839.html",
-      "in": "https://www.city.kato.lg.jp/kurashi/shoumei/1457747773839.html",
-      "mail": "https://www.city.kato.lg.jp/shinseisho/kurashi/koseki/1457747795435.html"
     }
   },
   "tatsunoshi": {
@@ -965,15 +947,6 @@
       "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
       "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
       "mail": "https://www.satsuma-net.jp/material/files/group/7/tensyutuyuubin.pdf"
-    }
-  },
-  "airagunyuusuimachi": {
-    "hasData": true,
-    "office": "栗野庁舎住民税務課または吉松庁舎住民税務課で転入届・転出届・転居届を受付。転出届は郵送提出用の書式あり。",
-    "links": {
-      "out": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
-      "in": "https://www.town.yusui.kagoshima.jp/soshiki/29/663.html",
-      "mail": "https://www.town.yusui.kagoshima.jp/uploaded/attachment/2710.pdf"
     }
   },
   "soogunoosakimachi": {
