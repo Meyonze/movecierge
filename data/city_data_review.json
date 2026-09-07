@@ -37,16 +37,6 @@
     },
     "confidence": "low"
   },
-  "kishiwadashi": {
-    "hasData": true,
-    "office": "岸和田市役所新館1階市民課が中心窓口。各サービスセンター・山滝支所でも転入出届を受付可能(マイナンバーカードの書換は市民課のみ)。転入・転出は同一ページ内で案内されている。",
-    "links": {
-      "out": "https://www.city.kishiwada.lg.jp/page/21-jumin.html",
-      "in": "https://www.city.kishiwada.lg.jp/page/21-jumin.html",
-      "mail": "https://www.city.kishiwada.lg.jp/page/21-jumin.html"
-    },
-    "confidence": "low"
-  },
   "beppushi": {
     "hasData": true,
     "office": "本庁市民課（市庁舎GF）のほか、亀川出張所・朝日出張所・南部出張所でも転入出手続きが可能（外国人住民の手続きは本庁市民課のみ）。転出届に限り郵送での届出も可能。",
@@ -94,16 +84,6 @@
       "out": "https://www.city.kameoka.kyoto.jp/soshiki/17/2970.html",
       "in": "https://www.city.kameoka.kyoto.jp/soshiki/17/2966.html",
       "mail": "https://www.city.kameoka.kyoto.jp/soshiki/17/3059.html"
-    },
-    "confidence": "low"
-  },
-  "sakuraishi": {
-    "hasData": true,
-    "office": "窓口は桜井市役所（大字粟殿432-1）市民生活部市民課。公式ページには支所についての記載はなく、本庁舎のみでの対応とみられる。",
-    "links": {
-      "out": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/shinseisyodl/1393304265205.html",
-      "in": null,
-      "mail": "https://www.city.sakurai.lg.jp/sosiki/shiminseikatsu/shiminka/shinseisyodl/1393304265205.html"
     },
     "confidence": "low"
   },
@@ -166,16 +146,6 @@
     },
     "confidence": "low"
   },
-  "futtsushi": {
-    "hasData": true,
-    "office": "本庁舎(千葉県富津市下飯野2443番地)市民課で受付。支所の天羽行政センター市民係でも一部手続き可能。転出届・転入届単独の専用ページはなく、オンライン(マイナポータル)手続き案内と郵送用フォーム配布ページのみ確認できた。",
-    "links": {
-      "out": "https://www.city.futtsu.lg.jp/0000007478.html",
-      "in": null,
-      "mail": "https://www.city.futtsu.lg.jp/0000000143.html"
-    },
-    "confidence": "low"
-  },
   "kameyamashi": {
     "hasData": true,
     "office": "亀山市役所市民課戸籍住民グループ（本庁）のほか、関支所・加太出張所の地域サービスグループでも届出可能。転入・転出は「住民異動の届出」という1ページにまとめて案内されている。",
@@ -234,16 +204,6 @@
     },
     "confidence": "low"
   },
-  "oodateshi": {
-    "hasData": true,
-    "office": "大館市役所市民課のほか比内・田代の両総合支所でも受付（外国人住民は市役所市民課のみ）。転出は郵送可。",
-    "links": {
-      "out": "https://www.city.odate.lg.jp/city/handbook/handbook1/page3/p10",
-      "in": "https://www.city.odate.lg.jp/city/handbook/handbook1/page3/p10",
-      "mail": "https://www.city.odate.lg.jp/city/handbook/handbook1/page3/p11"
-    },
-    "confidence": "low"
-  },
   "kamoshi": {
     "hasData": true,
     "office": "加茂市役所の市民課窓口で転入届・転出届・転居届・世帯変更届をまとめて受付。支所の記載はなく、平日午前9時から午後4時30分まで本庁窓口のみで対応。",
@@ -289,15 +249,6 @@
     "links": {
       "out": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html",
       "in": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html"
-    },
-    "confidence": "low"
-  },
-  "kiyosushi": {
-    "hasData": true,
-    "office": "清須市役所市民課（愛知県清須市須ケ口1238番地）の単一庁舎で、支所・出張所はない。開庁時間は平日9時〜16時、土曜は市民課のみ9時〜17時。",
-    "links": {
-      "out": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokedetou/jyuuminkirokukoseki/koseki_jumin_toroku.html",
-      "in": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokedetou/jyuuminkirokukoseki/koseki_jumin_toroku.html"
     },
     "confidence": "low"
   },

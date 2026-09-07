@@ -7163,11 +7163,11 @@
   },
   "futtsushi": {
     "hasData": true,
-    "office": "富津市役所市民課で転入・転出の届出を受付。転出届はマイナポータルからのオンライン提出も可能。",
+    "office": "富津市役所市民部市民課（〒293-8506 千葉県富津市下飯野2443、電話0439-80-1253）と天羽行政センターで転入・転出を受け付け。転出はマイナポータル・郵送に対応し、転入は来庁予定日のオンライン申請に対応。",
     "links": {
-      "out": "https://www.city.futtsu.lg.jp/0000004285.html",
-      "in": "https://www.city.futtsu.lg.jp/0000004285.html",
-      "mail": null
+      "out": "https://www.city.futtsu.lg.jp/0000007478.html",
+      "in": "https://www.city.futtsu.lg.jp/0000007478.html",
+      "mail": "https://www.city.futtsu.lg.jp/0000000143.html"
     },
     "confidence": "high"
   },
@@ -8267,7 +8267,7 @@
     "links": {
       "out": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokede_toroku_shomei/koseki_jumin_toroku.html",
       "in": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokede_toroku_shomei/koseki_jumin_toroku.html",
-      "mail": null
+      "mail": "https://www.city.kiyosu.aichi.jp/kurashi_joho/todokede_toroku_shomei/kakushu_shomei/yuso_seikyu/koseki_jumin_hyo.html"
     },
     "confidence": "high"
   },
@@ -10883,11 +10883,11 @@
   },
   "kishiwadashi": {
     "hasData": true,
-    "office": "岸和田市役所新館1階 市民健康部市民課住民担当（岸和田市岸城町7番1号）",
+    "office": "岸和田市役所市民健康部市民課住民担当（〒596-8510 大阪府岸和田市岸城町7-1・新館1階、電話072-423-9454）と各サービスセンター・山滝支所で受付。平日9時〜17時30分で、転出は郵送・マイナポータルに対応。",
     "links": {
-      "out": "https://www.city.kishiwada.lg.jp/page/21-one.html",
-      "in": "https://www.city.kishiwada.lg.jp/page/21-one.html",
-      "mail": null
+      "out": "https://www.city.kishiwada.lg.jp/page/22-jumin.html",
+      "in": "https://www.city.kishiwada.lg.jp/page/22-jumin.html",
+      "mail": "https://www.city.kishiwada.lg.jp/page/21-yusouseikyu.html"
     },
     "confidence": "high"
   },
