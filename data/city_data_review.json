@@ -47,16 +47,6 @@
     },
     "confidence": "low"
   },
-  "higashimurayamashi": {
-    "hasData": true,
-    "office": "本庁舎1階市民課窓口で受付（平日8:30-17:00）。ワンズタワー内窓口では手続き不可。地域サービス窓口（出張所的な窓口）も別途あり。〒189-8501東村山市本町1-2-3、代表042-393-5111。",
-    "links": {
-      "out": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
-      "in": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
-      "mail": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/tenshutu_yuusou.html"
-    },
-    "confidence": "low"
-  },
   "ichiharashi": {
     "hasData": true,
     "office": "市原市役所市民課総合窓口で転入・転出の届出を受付（電話0436-22-1111）。",
@@ -1246,16 +1236,6 @@
       "in": "https://www.higashikushira.com/docs/2019042300021/",
       "mail": "https://www.higashikushira.com/docs/2019042300021/"
     }
-  },
-  "yoshinogunyoshinochou": {
-    "hasData": true,
-    "office": "吉野町役場 町民税務課（〒639-3192 奈良県吉野郡吉野町大字上市80番地の1、TEL:0746-32-3081）。転出届は独立ページで確認できたが、転入届の専用ページは見つからず。",
-    "links": {
-      "out": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
   },
   "yoshinogunnosegawamura": {
     "hasData": true,

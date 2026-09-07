@@ -11606,7 +11606,7 @@
     "office": "吉野町役場 町民税務課（奈良県吉野郡吉野町大字上市80-1、電話0746-32-3081）で転入届・転出届を受け付け。マイナンバーカードによる特例転出に対応。",
     "links": {
       "out": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
-      "in": "https://www.town.yoshino.nara.jp/soshiki/chominzeimu/juminhyo-koseki-shomei/186.html",
+      "in": "https://www.town.yoshino.nara.jp/chomin/108d3e289b7d88568d12f52ba05ca1811ff7c7f1.pdf",
       "mail": null
     },
     "confidence": "high"
@@ -12333,11 +12333,11 @@
   },
   "higashimurayamashi": {
     "hasData": true,
-    "office": "東村山市役所市民課（東京都東村山市本町1丁目2番地3）で転入届・転出届を受け付けている。地域サービス窓口でも一部対応可",
+    "office": "東村山市役所本庁舎1階市民課（〒189-8501 東京都東村山市本町1-2-3、平日8時30分〜17時）で転入届・転出届を受け付け。ワンズタワー内窓口では手続き不可で、地域サービス窓口は一部対応。",
     "links": {
       "out": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
       "in": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/zyuuminntouroku.html",
-      "mail": null
+      "mail": "https://www.city.higashimurayama.tokyo.jp/kurashi/koseki/tennyu/tenshutu_yuusou.html"
     },
     "confidence": "high"
   },
