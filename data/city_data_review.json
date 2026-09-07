@@ -1307,26 +1307,6 @@
     },
     "confidence": "low"
   },
-  "futabagunkatsuraomura": {
-    "hasData": true,
-    "office": "葛尾村役場（双葉郡葛尾村大字柴倉字舘ノ腰12）住民課。支所なし。",
-    "links": {
-      "out": "https://www.vill.katsurao.fukushima.jp/kurashi/tenshutsu.html",
-      "in": "https://www.vill.katsurao.fukushima.jp/kurashi/tennyu.html",
-      "mail": "https://www.vill.katsurao.fukushima.jp/kurashi/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
-  "futabagunkawauchimura": {
-    "hasData": true,
-    "office": "川内村役場（双葉郡川内村大字下川内字村山41）住民課。支所なし。",
-    "links": {
-      "out": "https://www.vill.kawauchi.fukushima.jp/kurashi/tenshutsu.html",
-      "in": "https://www.vill.kawauchi.fukushima.jp/kurashi/tennyu.html",
-      "mail": "https://www.vill.kawauchi.fukushima.jp/kurashi/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
   "asoguntakamorichou": {
     "hasData": true,
     "office": "高森町役場住民福祉課（熊本県阿蘇郡高森町）で転入届・転出届を受け付け。転出証明書の郵送請求にも対応。",
@@ -1407,16 +1387,6 @@
     },
     "confidence": "low"
   },
-  "setanagunimaganemachi": {
-    "hasData": true,
-    "office": "今金町役場（住民福祉課）の窓口で転入・転出の届出を受け付けている（サイトはWAFブロックのため未検証）",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "tomamaeguntomamaemachi": {
     "hasData": true,
     "office": "苫前町役場（住民生活課）で転入届・転出届の手続きができる。",
@@ -1433,26 +1403,6 @@
     "links": {
       "out": "http://www.town.hamatonbetsu.hokkaido.jp/town/detail.php?content=344",
       "in": "http://www.town.hamatonbetsu.hokkaido.jp/town/detail.php?content=344",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "esashigunchuutonbetsumachi": {
-    "hasData": false,
-    "office": "中頓別町役場（北海道枝幸郡中頓別町）総務課住民グループで転入・転出の手続きができるが、公式サイト内に転入届・転出届の該当ページを特定・検証できなかった。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "esashigunesashimachi": {
-    "hasData": false,
-    "office": "枝幸町役場（北海道枝幸郡枝幸町）で転入・転出の手続きができるが、公式サイト（town.esashi.hokkaido.jp）に接続できずURLを検証できなかった。",
-    "links": {
-      "out": null,
-      "in": null,
       "mail": null
     },
     "confidence": "low"
