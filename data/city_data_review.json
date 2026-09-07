@@ -526,15 +526,6 @@
       "mail": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/online.html"
     }
   },
-  "komatsushimashi": {
-    "hasData": true,
-    "office": "小松島市役所(徳島県小松島市横須町1番1号)の戸籍住民課が窓口。転入届・転出届は「住民異動届」ページに両方まとめて掲載されており、郵送による転出届の案内も同ページ内にある。支所の記載は確認できなかった。",
-    "links": {
-      "out": "https://www.city.komatsushima.lg.jp/docs/703781.html",
-      "in": "https://www.city.komatsushima.lg.jp/docs/703781.html",
-      "mail": "https://www.city.komatsushima.lg.jp/docs/3100860.html"
-    }
-  },
   "yoshinogawashi": {
     "hasData": true,
     "office": "吉野川市役所(〒776-8611 徳島県吉野川市鴨島町鴨島115番地1)の市民生活課が窓口。転入届・転居届・転出届は「住所変更等の届出」ページに一覧表でまとめて掲載されている。支所の記載は確認できなかった。",
@@ -670,15 +661,6 @@
       "mail": "https://www.city.hanyu.lg.jp/docs/2012070900133/"
     }
   },
-  "kukishi": {
-    "hasData": true,
-    "office": "久喜市役所市民課（総合窓口）のほか、菖蒲・栗橋・鷲宮の各行政センター市民係でも手続き可能。",
-    "links": {
-      "out": "https://www.city.kuki.lg.jp/kurashi/koseki/jumin_todokede/1007377.html",
-      "in": "https://www.city.kuki.lg.jp/kurashi/koseki/jumin_todokede/1007377.html",
-      "mail": "https://www.city.kuki.lg.jp/kurashi/koseki/jumin_todokede/1003134.html"
-    }
-  },
   "youfushi": {
     "hasData": true,
     "office": "届出先は養父市役所市民課または各地域局。転入届・転出届は同一ページ内（住民登録（転入・転出・転居・世帯変更等）の届出）で案内されている。",
@@ -722,15 +704,6 @@
       "out": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
       "in": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
       "mail": "https://www.city.gobo.lg.jp/sosiki/siminfukusi/simin/dl/jyuuminnhyounokannkei/1383024795213.html"
-    }
-  },
-  "kinokawashi": {
-    "hasData": true,
-    "office": "市民部市民課のほか各支所・出張所でも届出可（旧町村合併により支所体制あり）。転入・転出・転居届が「住所に関する届出」という1ページにまとめて案内されている（個別ページなし）。転出届は郵送・オンラインにも対応。",
-    "links": {
-      "out": "https://www.city.kinokawa.lg.jp/019/todokede.html",
-      "in": "https://www.city.kinokawa.lg.jp/019/todokede.html",
-      "mail": "https://www.city.kinokawa.lg.jp/shimin/yusou-tenshilyututodoke.html"
     }
   },
   "iwadeshi": {
@@ -812,15 +785,6 @@
       "out": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html",
       "in": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html",
       "mail": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html"
-    }
-  },
-  "hirakawashi": {
-    "hasData": true,
-    "office": "平川市市民課市民係（本庁2階、青森県平川市柏木町藤山25番地6）、尾上総合支所・碇ヶ関総合支所でも取扱い。転入届・転出届は同一ページ内に併記。",
-    "links": {
-      "out": "https://www.city.hirakawa.lg.jp/kurashi/koseki/junminidou.html",
-      "in": "https://www.city.hirakawa.lg.jp/kurashi/koseki/junminidou.html",
-      "mail": "https://www.city.hirakawa.lg.jp/faq/kurashi/koseki/yuusou.html"
     }
   },
   "kamakurashi": {
