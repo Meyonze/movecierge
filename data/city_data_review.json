@@ -1307,46 +1307,6 @@
     },
     "confidence": "low"
   },
-  "kamiinagunminamiminowamura": {
-    "hasData": true,
-    "office": "南箕輪村役場（上伊那郡南箕輪村2471-1）住民課窓口。支所なし、本庁舎のみ対応。",
-    "links": {
-      "out": "https://www.vill.minamiminowa.nagano.jp/kurashi/tetuduki/tenshutsu.html",
-      "in": "https://www.vill.minamiminowa.nagano.jp/kurashi/tetuduki/tennyu.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "minamiaizugunhiekimura": {
-    "hasData": true,
-    "office": "檜枝岐村役場（南会津郡檜枝岐村字上ノ台166）住民課。支所なし。",
-    "links": {
-      "out": "https://www.vill.hinoemata.fukushima.jp/kurashi/tenshutsu.html",
-      "in": "https://www.vill.hinoemata.fukushima.jp/kurashi/tennyu.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "minamiaizugunminamiaizumachi": {
-    "hasData": true,
-    "office": "南会津町役場（南会津郡南会津町田島字宮下甲990）住民課。支所なし。",
-    "links": {
-      "out": "https://www.town.minamiaidzu.fukushima.jp/kurashi/tenshutsu.html",
-      "in": "https://www.town.minamiaidzu.fukushima.jp/kurashi/tennyu.html",
-      "mail": "https://www.town.minamiaidzu.fukushima.jp/kurashi/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
-  "futabaguntomiokamachi": {
-    "hasData": true,
-    "office": "富岡町役場（双葉郡富岡町大字富岡字本町211-7）住民課。支所なし。",
-    "links": {
-      "out": "https://www.town.tomioka.fukushima.jp/kurashi/tenshutsu.html",
-      "in": "https://www.town.tomioka.fukushima.jp/kurashi/tennyu.html",
-      "mail": "https://www.town.tomioka.fukushima.jp/kurashi/yuuso-tenshutsu.html"
-    },
-    "confidence": "low"
-  },
   "futabagunkatsuraomura": {
     "hasData": true,
     "office": "葛尾村役場（双葉郡葛尾村大字柴倉字舘ノ腰12）住民課。支所なし。",
