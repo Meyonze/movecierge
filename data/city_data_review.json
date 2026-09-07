@@ -688,15 +688,6 @@
       "mail": "https://www.city.gobo.lg.jp/sosiki/siminfukusi/simin/dl/jyuuminnhyounokannkei/1383024795213.html"
     }
   },
-  "iwadeshi": {
-    "hasData": true,
-    "office": "市民課（岩出市西野209番地）が窓口。転入・転出・転居届が1つの一覧表ページにまとめて案内されている（個別ページなし）。マイナポータルでのオンライン転出届予約にも対応。",
-    "links": {
-      "out": "https://www.city.iwade.lg.jp/soshiki/6/10249.html",
-      "in": "https://www.city.iwade.lg.jp/soshiki/6/10249.html",
-      "mail": null
-    }
-  },
   "takeharashi": {
     "hasData": true,
     "office": "竹原市役所本庁（市民福祉部市民課市民係）のほか支所でも転入・転居・転出届を受付。転入届・転居届・転出届は同一ページの一覧表でまとめて案内されている。",
@@ -751,15 +742,6 @@
       "mail": null
     }
   },
-  "ukishi": {
-    "hasData": true,
-    "office": "宇城市役所 市民部市民課窓口サービス係（松橋町大野85番地、0964-32-1446）のほか豊野・小川・三角・不知火の各支所総合窓口課でも手続き可能。転入・転居・転出が同一ページにまとめて掲載。",
-    "links": {
-      "out": "https://www.city.uki.kumamoto.jp/kurashi/sumai/2445816",
-      "in": "https://www.city.uki.kumamoto.jp/kurashi/sumai/2445816",
-      "mail": null
-    }
-  },
   "tobashi": {
     "hasData": true,
     "office": "鳥羽市役所西庁舎1階 市民課、または各連絡所が窓口。転入・転出・転居が同一ページにまとまっている。転出は郵送・マイナポータルも可。",
@@ -775,15 +757,6 @@
     "links": {
       "out": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
       "in": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
-      "mail": null
-    }
-  },
-  "natorishi": {
-    "hasData": true,
-    "office": "名取市役所本庁舎1階市民課市民係のみ。転出・転居・転入が同一ページ「引っ越しする時はこんな届けをお忘れなく！」にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.natori.miyagi.jp/page/1499.html",
-      "in": "https://www.city.natori.miyagi.jp/page/1499.html",
       "mail": null
     }
   },

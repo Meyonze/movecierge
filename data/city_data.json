@@ -5113,11 +5113,11 @@
   },
   "ukishi": {
     "hasData": true,
-    "office": "宇城市役所市民課で転入・転出・転居・世帯構成変更などの住民異動を受け付け。引っ越しワンストップサービスにも対応。",
+    "office": "宇城市役所市民部市民課窓口サービス係（松橋町大野85番地、0964-32-1446）のほか、豊野・小川・三角・不知火の各支所総合窓口課で手続き可能。",
     "links": {
-      "out": "https://www.city.uki.kumamoto.jp/kurashi/sumai/juminhyo/2006895",
-      "in": "https://www.city.uki.kumamoto.jp/kurashi/sumai/juminhyo/2006895",
-      "mail": null
+      "out": "https://www.city.uki.kumamoto.jp/kurashi/sumai/2445816",
+      "in": "https://www.city.uki.kumamoto.jp/kurashi/sumai/2445816",
+      "mail": "https://www.city.uki.kumamoto.jp/kurashi/sumai/sonota_sumai/2013589"
     },
     "confidence": "high"
   },
@@ -9143,11 +9143,11 @@
   },
   "natorishi": {
     "hasData": true,
-    "office": "名取市役所1階市民課が窓口。",
+    "office": "名取市役所本庁舎1階市民課市民係が窓口。",
     "links": {
-      "out": "https://www.city.natori.miyagi.jp/page/4864.html",
-      "in": "https://www.city.natori.miyagi.jp/page/4864.html",
-      "mail": null
+      "out": "https://www.city.natori.miyagi.jp/page/1499.html",
+      "in": "https://www.city.natori.miyagi.jp/page/1499.html",
+      "mail": "https://www.city.natori.miyagi.jp/page/1499.html"
     },
     "confidence": "high"
   },
@@ -10293,11 +10293,11 @@
   },
   "iwadeshi": {
     "hasData": true,
-    "office": "岩出市役所市民課（岩出市西野）で転入届・転出届を受け付け。マイナポータルでのオンライン来庁予約も可能。",
+    "office": "岩出市役所市民課市民係（岩出市西野209番地、0736-62-2141）が窓口。転入・転出・転居届を受け付け、転出は郵送申請にも対応。",
     "links": {
-      "out": "https://www.city.iwade.lg.jp/life/1/1/5/",
-      "in": "https://www.city.iwade.lg.jp/life/1/1/5/",
-      "mail": null
+      "out": "https://www.city.iwade.lg.jp/soshiki/6/10249.html",
+      "in": "https://www.city.iwade.lg.jp/soshiki/6/10249.html",
+      "mail": "https://www.city.iwade.lg.jp/soshiki/6/2413.html"
     },
     "confidence": "high"
   },
