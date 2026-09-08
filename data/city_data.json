@@ -13800,5 +13800,15 @@
       "mail": "https://www.town-kiso.com/kurashi/tetuduki/100085/m100020/"
     },
     "confidence": "high"
+  },
+  "itanogunitanomachi": {
+    "hasData": true,
+    "office": "板野町役場1階住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.itano.tokushima.jp/docs/2017040600198/",
+      "in": "https://www.town.itano.tokushima.jp/docs/2017040600174/",
+      "mail": "https://www.town.itano.tokushima.jp/docs/2017040600198/"
+    },
+    "confidence": "high"
   }
 }
