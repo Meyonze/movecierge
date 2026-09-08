@@ -13780,5 +13780,15 @@
       "mail": "https://www.town.kumano.lg.jp/14/6/6821.html"
     },
     "confidence": "high"
+  },
+  "higashitagawagunshounaimachi": {
+    "hasData": true,
+    "office": "庄内町役場税務町民課町民係、または立川総合支所総合支所係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shonai.lg.jp/life/hikkoshi/tensyutsu.html",
+      "in": "https://www.town.shonai.lg.jp/life/hikkoshi/tennyu.html",
+      "mail": "https://www.town.shonai.lg.jp/life/hikkoshi/tensyutsu.html"
+    },
+    "confidence": "high"
   }
 }
