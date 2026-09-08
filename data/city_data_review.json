@@ -517,24 +517,6 @@
       "in": "https://www.city.unnan.shimane.jp/unnan/kurashi/todokede/touroku/residency.html"
     }
   },
-  "narutoshi": {
-    "hasData": true,
-    "office": "鳴門市役所本庁舎(徳島県鳴門市撫養町南浜字東浜170)の市民課市民担当が窓口。転入届・転出届・転居届は同じ「住民登録」ページで一括案内されており、支所については記載が確認できなかった。",
-    "links": {
-      "out": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/jyumintouroku.html",
-      "in": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/jyumintouroku.html",
-      "mail": "https://www.city.naruto.tokushima.jp/kurashi/todokede/koseki/online.html"
-    }
-  },
-  "yoshinogawashi": {
-    "hasData": true,
-    "office": "吉野川市役所(〒776-8611 徳島県吉野川市鴨島町鴨島115番地1)の市民生活課が窓口。転入届・転居届・転出届は「住所変更等の届出」ページに一覧表でまとめて掲載されている。支所の記載は確認できなかった。",
-    "links": {
-      "out": "https://www.city.yoshinogawa.lg.jp/docs/2010100600039/",
-      "in": "https://www.city.yoshinogawa.lg.jp/docs/2010100600039/",
-      "mail": "https://www.city.yoshinogawa.lg.jp/docs/2023020600058/"
-    }
-  },
   "takushi": {
     "hasData": true,
     "office": "多久市役所市民課窓口係が唯一の窓口（支所なし）。転入届・転出届・転居届は同一ページ内にまとめて案内されている。",
