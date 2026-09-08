@@ -13790,5 +13790,15 @@
       "mail": "https://www.town.shonai.lg.jp/life/hikkoshi/tensyutsu.html"
     },
     "confidence": "high"
+  },
+  "kisogunkisomachi": {
+    "hasData": true,
+    "office": "木曽町役場町民課住民係または各支所窓口で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town-kiso.com/kurashi/tetuduki/100085/101524/",
+      "in": "https://www.town-kiso.com/kurashi/tetuduki/100085/101521/",
+      "mail": "https://www.town-kiso.com/kurashi/tetuduki/100085/m100020/"
+    },
+    "confidence": "high"
   }
 }
