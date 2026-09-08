@@ -571,33 +571,6 @@
       "mail": "https://www.city.gobo.lg.jp/sosiki/siminfukusi/simin/dl/jyuuminnhyounokannkei/1383024795213.html"
     }
   },
-  "takeharashi": {
-    "hasData": true,
-    "office": "竹原市役所本庁（市民福祉部市民課市民係）のほか支所でも転入・転居・転出届を受付。転入届・転居届・転出届は同一ページの一覧表でまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.takehara.lg.jp/soshikikarasagasu/shiminka/gyomuannai/9/4/1970.html",
-      "in": "https://www.city.takehara.lg.jp/soshikikarasagasu/shiminka/gyomuannai/9/4/1970.html",
-      "mail": "https://www.city.takehara.lg.jp/soshikikarasagasu/shiminka/gyomuannai/9/4/1970.html"
-    }
-  },
-  "ootakeshi": {
-    "hasData": true,
-    "office": "大竹市役所本庁（市民生活部市民課）または各支所（栗谷支所は9時〜12時、13時〜16時のみ）が窓口。転入届・転出届・転居届は同一ページでまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html",
-      "in": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html",
-      "mail": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html"
-    }
-  },
-  "edashimashi": {
-    "hasData": true,
-    "office": "江田島市役所本庁（大柿町、市民課）のほか、江田島市民センター・能美市民センター・沖美市民センター・三高支所の計5拠点で住民異動届を受付。転入届・転出届・転居届は同一ページでまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814",
-      "in": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814",
-      "mail": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814"
-    }
-  },
   "utoshi": {
     "hasData": true,
     "office": "宇土市役所 市民環境部市民保険課市民係（浦田町51、0964-27-3311）。転入届・転出届・転居届が同一ページにまとめて掲載されている。",
