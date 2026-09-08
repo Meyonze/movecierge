@@ -13770,5 +13770,15 @@
       "mail": "https://www.town.taka.lg.jp/category_guide/detail/id%3D34336"
     },
     "confidence": "high"
+  },
+  "akigunkumanomachi": {
+    "hasData": true,
+    "office": "熊野町役場税務住民課で転入届・転出届を受け付け。所在地は広島県安芸郡熊野町中溝一丁目1番1号。",
+    "links": {
+      "out": "https://www.town.kumano.lg.jp/14/6/6821.html",
+      "in": "https://www.town.kumano.lg.jp/14/6/6821.html",
+      "mail": "https://www.town.kumano.lg.jp/14/6/6821.html"
+    },
+    "confidence": "high"
   }
 }
