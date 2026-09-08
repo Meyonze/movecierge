@@ -9083,11 +9083,11 @@
   },
   "rikuzentakatashi": {
     "hasData": true,
-    "office": "陸前高田市役所市民課で転入届・転出届の手続きができる（陸前高田市）",
+    "office": "陸前高田市役所市民協働部市民課市民係（0192-54-2111）が窓口。転入・転出・転居届を受け付け、転出は郵送・オンライン手続きにも対応。",
     "links": {
-      "out": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/4/2975.html",
-      "in": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/4/2975.html",
-      "mail": null
+      "out": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
+      "in": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
+      "mail": "https://www.city.rikuzentakata.iwate.jp/material/files/group/21/tokureiyuusoutennsyutu2026.pdf"
     },
     "confidence": "high"
   },
@@ -12043,11 +12043,11 @@
   },
   "miyoshishi_toku": {
     "hasData": true,
-    "office": "三好市役所 市民課（各支所でも一部対応）。転入・転居・転出の届出窓口。",
+    "office": "三好市役所市民課（0883-72-7609）のほか、三野・山城・井川・東祖谷・西祖谷の各支所で手続き可能。",
     "links": {
       "out": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
       "in": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
-      "mail": "https://www.miyoshi.i-tokushima.jp/docs/4628.html"
+      "mail": "https://www.miyoshi.i-tokushima.jp/docs/11021.html"
     },
     "confidence": "high"
   },

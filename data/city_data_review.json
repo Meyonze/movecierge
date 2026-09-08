@@ -535,24 +535,6 @@
       "mail": "https://www.city.yoshinogawa.lg.jp/docs/2023020600058/"
     }
   },
-  "miyoshishi_toku": {
-    "hasData": true,
-    "office": "三好市役所(〒778-8501 徳島県三好市池田町サラダ1610番地1)の市民課のほか、三野・山城・井川・東祖谷・西祖谷の各支所でも手続き可能。転入・転居・転出・世帯変更は1ページにまとめて案内されている。",
-    "links": {
-      "out": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
-      "in": "https://www.miyoshi.i-tokushima.jp/docs/4628.html",
-      "mail": "https://www.miyoshi.i-tokushima.jp/docs/11021.html"
-    }
-  },
-  "rikuzentakatashi": {
-    "hasData": true,
-    "office": "転出届・転入届とも市民課市民係（本庁舎）で受付。同一ページ内に転入届・転出届・転居届の説明が併記されている。",
-    "links": {
-      "out": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
-      "in": "https://www.city.rikuzentakata.iwate.jp/soshiki/shiminka/shimingakari/6/2/2483.html",
-      "mail": "https://www.city.rikuzentakata.iwate.jp/material/files/group/21/tokureiyuusoutennsyutu2026.pdf"
-    }
-  },
   "takushi": {
     "hasData": true,
     "office": "多久市役所市民課窓口係が唯一の窓口（支所なし）。転入届・転出届・転居届は同一ページ内にまとめて案内されている。",
