@@ -607,24 +607,6 @@
       "mail": null
     }
   },
-  "itoshimashi": {
-    "hasData": true,
-    "office": "糸島市役所庁舎1階4番異動窓口（本庁のみ）で受付。転出届・転入届・転居届は同一ページ「庁舎1階4番異動窓口でできる手続き」に混在して案内。",
-    "links": {
-      "out": "https://www.city.itoshima.lg.jp/s008/020/010/shiminka-6ban.html",
-      "in": "https://www.city.itoshima.lg.jp/s008/020/010/shiminka-6ban.html",
-      "mail": "https://www.city.itoshima.lg.jp/soshiki/10/yuusouseikyuu.html"
-    }
-  },
-  "hanyuushi": {
-    "hasData": true,
-    "office": "本庁市民生活課のみ（支所・出張所の記載なし）。転入届・転出届は同一ページ内の一覧表で案内されている。",
-    "links": {
-      "out": "https://www.city.hanyu.lg.jp/docs/2014040100956/",
-      "in": "https://www.city.hanyu.lg.jp/docs/2014040100956/",
-      "mail": "https://www.city.hanyu.lg.jp/docs/2012070900133/"
-    }
-  },
   "shisoushi": {
     "hasData": true,
     "office": "届出先は各市民局市民係（本庁のほか山崎・一宮・波賀・千種の各市民局）。転入届・転出届は同一ページ（住所異動の届出）にまとめて案内されている。",
