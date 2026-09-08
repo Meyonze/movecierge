@@ -4827,7 +4827,7 @@
     "links": {
       "out": "https://www.city.ogori.fukuoka.jp/197/199/667",
       "in": "https://www.city.ogori.fukuoka.jp/197/199/667",
-      "mail": null
+      "mail": "https://www.city.ogori.fukuoka.jp/197/199/667"
     },
     "confidence": "high"
   },
@@ -5097,7 +5097,7 @@
     "links": {
       "out": "https://www.city.kikuchi.lg.jp/iju/article/view/1328/12164.html",
       "in": "https://www.city.kikuchi.lg.jp/iju/article/view/1328/12164.html",
-      "mail": null
+      "mail": "https://www.city.kikuchi.lg.jp/article/view/1030/1431.html"
     },
     "confidence": "high"
   },
@@ -6967,7 +6967,7 @@
     "links": {
       "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/6733.html",
       "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
-      "mail": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/juminhyo_koseki/1403.html"
+      "mail": "https://www.satsuma-net.jp/material/files/group/7/tensyutuyuubin.pdf"
     },
     "confidence": "high"
   },

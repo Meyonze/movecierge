@@ -562,15 +562,6 @@
       "mail": "https://www.city.kanzaki.saga.jp/main/359.html"
     }
   },
-  "ogoorishi": {
-    "hasData": true,
-    "office": "小郡市役所 市民課 市民窓口グループ（本庁のみ、支所なし）。転出届・転入届とも同じ「住所の届出」ページに案内あり。",
-    "links": {
-      "out": "https://www.city.ogori.fukuoka.jp/197/199/667",
-      "in": "https://www.city.ogori.fukuoka.jp/197/199/667",
-      "mail": "https://www.city.ogori.fukuoka.jp/197/199/667"
-    }
-  },
   "goboushi": {
     "hasData": true,
     "office": "市民生活部市民環境課（御坊市役所2階、御坊市薗350番地2）が窓口。転入・転出・転居の届出が1つのページにまとめて案内されている（個別ページなし）。転出届のみ郵送・マイナポータルでのオンライン提出可。",
@@ -605,15 +596,6 @@
       "out": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814",
       "in": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814",
       "mail": "https://www.city.etajima.hiroshima.jp/cms/articles/show/6814"
-    }
-  },
-  "kikuchishi": {
-    "hasData": true,
-    "office": "本庁市民課（菊池市隈府888番地、0968-25-7211）のほか、泗水・七城・旭志の各支所市民生活課でも住民異動の手続きが可能。転出届は郵送でも受付。",
-    "links": {
-      "out": "https://www.city.kikuchi.lg.jp/iju/article/view/1328/12164.html",
-      "in": null,
-      "mail": "https://www.city.kikuchi.lg.jp/article/view/1030/1431.html"
     }
   },
   "utoshi": {
@@ -758,15 +740,6 @@
       "out": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
       "in": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
       "mail": null
-    }
-  },
-  "satsumagunsatsumamachi": {
-    "hasData": true,
-    "office": "さつま町役場本庁 町民環境課町民係で転入届・転出届・転居届を受付。マイナンバーカード利用の特例転出入、郵送での転出届提出にも対応。",
-    "links": {
-      "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
-      "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
-      "mail": "https://www.satsuma-net.jp/material/files/group/7/tensyutuyuubin.pdf"
     }
   },
   "yoshinogunnosegawamura": {
