@@ -442,8 +442,7 @@
         </button>`).join('');
       suggEl.hidden = false;
       suggEl.querySelectorAll('.sugg-item').forEach(btn=>{
-        btn.addEventListener('mousedown', (e)=>{
-          e.preventDefault();
+        const selectCity = ()=>{
           const city = CITIES.find(c=>c.id===btn.dataset.id);
           inputEl.value = city.name;
           suggEl.hidden = true;
@@ -451,7 +450,11 @@
           inputEl.removeAttribute('aria-invalid');
           markStale();
           updateGenerateButton();
-        });
+        };
+        // マウス操作で入力欄の blur が先に走らないようにしつつ、
+        // click は残してキーボードの Enter / Space にも対応する。
+        btn.addEventListener('mousedown', (e)=>e.preventDefault());
+        btn.addEventListener('click', selectCity);
       });
     }
     inputEl.addEventListener('input', ()=>{
@@ -463,6 +466,7 @@
     inputEl.addEventListener('focus', showMatches);
     inputEl.addEventListener('blur', ()=>{
       setTimeout(()=>{
+        if(suggEl.contains(document.activeElement)) return;
         suggEl.hidden = true;
         inputEl.value = cityName(getCurrent());
       }, 120);
