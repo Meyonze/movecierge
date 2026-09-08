@@ -11343,10 +11343,10 @@
   },
   "shisoushi": {
     "hasData": true,
-    "office": "宍粟市役所市民課で転入・転出の届出ができる。マイナポータルでのオンライン転出届も可、転出証明書は郵送請求も可。",
+    "office": "宍粟市市民生活部市民課と各市民局市民係が窓口。転入・転出・転居届を受け付け、転出は郵送・オンライン手続きにも対応。",
     "links": {
-      "out": "https://www.city.shiso.lg.jp/mokuteki/hikkoshi/index.html",
-      "in": "https://www.city.shiso.lg.jp/mokuteki/hikkoshi/index.html",
+      "out": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
+      "in": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
       "mail": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/shinseisho/1386828102696.html"
     },
     "confidence": "high"
@@ -13423,10 +13423,10 @@
   },
   "kamakurashi": {
     "hasData": true,
-    "office": "鎌倉市役所市民課（鎌倉市御成町18-10）で転入・転出・転居の届出を受け付け。転出はマイナポータルまたは郵送も可、転入は窓口のみ。",
+    "office": "鎌倉市役所市民課36番窓口と腰越・深沢・大船・玉縄の各支所で届出可能。第2・第4土曜日も市民課窓口を開設。",
     "links": {
-      "out": "https://www.city.kamakura.kanagawa.jp/qa/juuminhyou/index_tennyuu.html",
-      "in": "https://www.city.kamakura.kanagawa.jp/qa/juuminhyou/index_tennyuu.html",
+      "out": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
+      "in": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
       "mail": null
     },
     "confidence": "high"

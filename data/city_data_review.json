@@ -571,15 +571,6 @@
       "mail": "https://www.city.ogori.fukuoka.jp/197/199/667"
     }
   },
-  "shisoushi": {
-    "hasData": true,
-    "office": "届出先は各市民局市民係（本庁のほか山崎・一宮・波賀・千種の各市民局）。転入届・転出届は同一ページ（住所異動の届出）にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
-      "in": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
-      "mail": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/shinseisho/1386828102696.html"
-    }
-  },
   "goboushi": {
     "hasData": true,
     "office": "市民生活部市民環境課（御坊市役所2階、御坊市薗350番地2）が窓口。転入・転出・転居の届出が1つのページにまとめて案内されている（個別ページなし）。転出届のみ郵送・マイナポータルでのオンライン提出可。",
@@ -643,15 +634,6 @@
       "mail": "https://www.city.toba.mie.jp/soshiki/koseki/gyomu/todokede_shomei/todokede_shomei/2054.html"
     }
   },
-  "kamakurashi": {
-    "hasData": true,
-    "office": "鎌倉市市民防災部市民課（本庁舎1階、鎌倉市御成町18-10）、腰越・深沢・大船・玉縄の各支所でも届出可。第2・4土曜日も窓口開設。転入届・転出届は同一ページ内に併記。",
-    "links": {
-      "out": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
-      "in": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
-      "mail": null
-    }
-  },
   "moriyamashi": {
     "hasData": true,
     "office": "市民課（本庁）・速野支所・中洲支所の3窓口で届出可能。ただし転入・転居や外国人の在留カード関連の手続きは支所では扱えず、本庁市民課のみの対応となる。",
@@ -694,15 +676,6 @@
     "links": {
       "out": "https://www.city.sakaiminato.lg.jp/index.php?view=12458",
       "in": "https://www.city.sakaiminato.lg.jp/index.php?view=12458",
-      "mail": null
-    }
-  },
-  "udashi": {
-    "hasData": true,
-    "office": "宇陀市役所（本庁・榛原）市民課で受付。2023年2月6日からマイナポータルでのオンライン転出・転入手続きにも対応。転出入とも同一ページに情報が併記されている。",
-    "links": {
-      "out": "https://www.city.uda.lg.jp/shimin/kurashi/koseki/idou.html",
-      "in": "https://www.city.uda.lg.jp/shimin/kurashi/koseki/idou.html",
       "mail": null
     }
   },
