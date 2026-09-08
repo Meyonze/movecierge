@@ -562,15 +562,6 @@
       "mail": "https://www.city.kanzaki.saga.jp/main/359.html"
     }
   },
-  "shibushishi": {
-    "hasData": true,
-    "office": "志布志庁舎市民環境課、有明庁舎市民税務課、松山庁舎総務市民課の3庁舎で受付。転入届・転出届は「住民異動届」として同一ページにまとめて案内されている（郵送転出証明書請求は別ページあり）。",
-    "links": {
-      "out": "https://www.city.shibushi.lg.jp/soshiki/6/16831.html",
-      "in": "https://www.city.shibushi.lg.jp/soshiki/6/16831.html",
-      "mail": "https://www.city.shibushi.lg.jp/soshiki/6/12844.html"
-    }
-  },
   "ogoorishi": {
     "hasData": true,
     "office": "小郡市役所 市民課 市民窓口グループ（本庁のみ、支所なし）。転出届・転入届とも同じ「住所の届出」ページに案内あり。",
@@ -658,24 +649,6 @@
     "links": {
       "out": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
       "in": "https://www.city.kamakura.kanagawa.jp/shiminka/juidozen.html",
-      "mail": null
-    }
-  },
-  "yaitashi": {
-    "hasData": true,
-    "office": "矢板市役所市民課のみ（支所記載なし）。転入・転出の手続きが同一ページ「転入・転出するときの手続き」にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.yaita.tochigi.jp/soshiki/simin/tennyutensyutu.html",
-      "in": "https://www.city.yaita.tochigi.jp/soshiki/simin/tennyutensyutu.html",
-      "mail": null
-    }
-  },
-  "nasukarasuyamashi": {
-    "hasData": true,
-    "office": "那須烏山市役所市民課（支所記載なし）。転入届・転出届・転居届・世帯変更届が同一ページ「住民異動に関する届出」にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.nasukarasuyama.lg.jp/kurashi/notification-certificate/resident-registration/page000599.html",
-      "in": "https://www.city.nasukarasuyama.lg.jp/kurashi/notification-certificate/resident-registration/page000599.html",
       "mail": null
     }
   },
@@ -821,15 +794,6 @@
       "out": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
       "in": "https://www.satsuma-net.jp/soshiki/yakuba/1006/4/juminhyo_koseki_shomei/tennyu_tensyutsu_tenkyo/1400.html",
       "mail": "https://www.satsuma-net.jp/material/files/group/7/tensyutuyuubin.pdf"
-    }
-  },
-  "soogunoosakimachi": {
-    "hasData": true,
-    "office": "町民課窓口係（曽於郡大崎町仮宿1029番地）。マイナポータルでのオンライン転出届提出に対応し来庁不要。窓口での転入・転出手続きの詳細ページはリンク切れのため確認できず。",
-    "links": {
-      "out": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/hikkosionestop.html",
-      "in": "https://www.town.kagoshima-osaki.lg.jp/jk_madoguchi/hikkosionestop.html",
-      "mail": null
     }
   },
   "yoshinogunnosegawamura": {
