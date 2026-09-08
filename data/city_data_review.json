@@ -1122,16 +1122,6 @@
     },
     "confidence": "low"
   },
-  "takaguntakamachi": {
-    "hasData": false,
-    "office": "多可町役場住民課で転入・転出の届出ができる（公式サイトのTLS証明書エラーによりURLの生存確認ができなかったため確認不可）。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "kunigamigunginozamura": {
     "hasData": true,
     "office": "宜野座村役場 住民生活課で転入届・転出届の手続きができる（沖縄県国頭郡宜野座村字宜野座）。",

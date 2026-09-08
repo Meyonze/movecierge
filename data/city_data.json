@@ -13760,5 +13760,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "takaguntakamachi": {
+    "hasData": true,
+    "office": "多可町役場住民課で転入届・転出届を受け付け。マイナンバーカードを利用する転入届は本庁住民課での受付。",
+    "links": {
+      "out": "https://www.town.taka.lg.jp/category_guide/detail/id%3D17672",
+      "in": "https://www.town.taka.lg.jp/category_guide/detail/id%3D17672",
+      "mail": "https://www.town.taka.lg.jp/category_guide/detail/id%3D34336"
+    },
+    "confidence": "high"
   }
 }
