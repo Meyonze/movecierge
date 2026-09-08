@@ -544,24 +544,6 @@
       "mail": "https://www.city.kanzaki.saga.jp/main/359.html"
     }
   },
-  "goboushi": {
-    "hasData": true,
-    "office": "市民生活部市民環境課（御坊市役所2階、御坊市薗350番地2）が窓口。転入・転出・転居の届出が1つのページにまとめて案内されている（個別ページなし）。転出届のみ郵送・マイナポータルでのオンライン提出可。",
-    "links": {
-      "out": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
-      "in": "https://www.city.gobo.lg.jp/sosiki/siminseikatu/simin/tantou/1383023884612.html",
-      "mail": "https://www.city.gobo.lg.jp/sosiki/siminfukusi/simin/dl/jyuuminnhyounokannkei/1383024795213.html"
-    }
-  },
-  "utoshi": {
-    "hasData": true,
-    "office": "宇土市役所 市民環境部市民保険課市民係（浦田町51、0964-27-3311）。転入届・転出届・転居届が同一ページにまとめて掲載されている。",
-    "links": {
-      "out": "https://www.city.uto.lg.jp/article/view/1204/1164.html",
-      "in": "https://www.city.uto.lg.jp/article/view/1204/1164.html",
-      "mail": null
-    }
-  },
   "tobashi": {
     "hasData": true,
     "office": "鳥羽市役所西庁舎1階 市民課、または各連絡所が窓口。転入・転出・転居が同一ページにまとまっている。転出は郵送・マイナポータルも可。",
@@ -685,15 +667,6 @@
     "links": {
       "out": "https://www.city.minamishimabara.lg.jp/kiji003332/index.html",
       "in": "https://www.city.minamishimabara.lg.jp/kiji003332/index.html",
-      "mail": null
-    }
-  },
-  "kakoshimagunmishimamura": {
-    "hasData": true,
-    "office": "村外への転出は三島村役場本庁または各島の出張所窓口（マイナポータルでのオンライン転出届提出も可）。村内への転入は本庁窓口で受付。担当は民生課。",
-    "links": {
-      "out": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
-      "in": "https://mishimamura.com/%E8%BB%A2%E5%87%BA%E3%83%BB%E8%BB%A2%E5%85%A5%E3%81%AE%E9%9A%9B%E3%81%AF%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%81%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%82%92/",
       "mail": null
     }
   },
