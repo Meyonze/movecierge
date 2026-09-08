@@ -553,24 +553,6 @@
       "mail": "https://www.city.rikuzentakata.iwate.jp/material/files/group/21/tokureiyuusoutennsyutu2026.pdf"
     }
   },
-  "soumashi": {
-    "hasData": true,
-    "office": "市民課（本庁）で受付。転出届・転入届など住民異動届はすべて「住民登録」ページに一括掲載されており、個別ページには分かれていない。",
-    "links": {
-      "out": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
-      "in": "https://www.city.soma.fukushima.jp/shinososhiki/shiminka/koseki_jumin_inkantoroku/3/1240.html",
-      "mail": null
-    }
-  },
-  "dateshi_fuku": {
-    "hasData": true,
-    "office": "市民課（保原町・中央棟1階）のほか、伊達・梁川・霊山・月舘の各総合支所でも届出可能。",
-    "links": {
-      "out": "https://www.city.fukushima-date.lg.jp/soshiki/10/10.html",
-      "in": "https://www.city.fukushima-date.lg.jp/soshiki/10/202.html",
-      "mail": null
-    }
-  },
   "takushi": {
     "hasData": true,
     "office": "多久市役所市民課窓口係が唯一の窓口（支所なし）。転入届・転出届・転居届は同一ページ内にまとめて案内されている。",
@@ -704,15 +686,6 @@
       "out": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html",
       "in": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html",
       "mail": "https://www.city.otake.hiroshima.jp/soshiki/shiminseikatsu/shimin/gyomu/2_1/7309.html"
-    }
-  },
-  "akitakatashi": {
-    "hasData": true,
-    "office": "安芸高田市役所本庁第1庁舎（市民部市民課窓口係）のほか、八千代・美土里・高宮・甲田・向原の各支所でも住所異動届を受付。転入届・転出届・転居届は同一ページの一覧表でまとめて案内されている。",
-    "links": {
-      "out": "https://www.akitakata.jp/ja/shisei/section/sougoumadoguchi/q159/jusho2/",
-      "in": "https://www.akitakata.jp/ja/shisei/section/sougoumadoguchi/q159/jusho2/",
-      "mail": null
     }
   },
   "edashimashi": {
