@@ -99,6 +99,9 @@
   .generate-btn.stale{background:var(--ink);}
   .generate-btn:disabled{background:var(--line);color:var(--ink-soft);cursor:not-allowed;}
   .generate-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+.selection-hint{margin:10px 0 0;font-size:12px;color:var(--ink-faint);}
+.selection-hint.is-ready{color:var(--accent-dark);font-weight:700;}
+.city-input[aria-invalid="true"]{border-color:#a13d37;background:#fff8f7;}
 
   .pre-generate{
     border:1px dashed var(--ink);background:var(--surface-alt);
@@ -227,6 +230,7 @@
     </div>
 
     <button class="generate-btn" id="generateBtn" type="button">チェックリストを作成する</button>
+    <p class="selection-hint" id="selectionHint" aria-live="polite">旧住所と新住所を候補から選ぶと、チェックリストを作成できます。</p>
   </div>
 
   <div class="pre-generate" id="preGenerate">上のボタンを押すと、旧住所・新住所とあてはまる条件にもとづいたチェックリストが表示されます。</div>
@@ -378,8 +382,8 @@
     {title:'印鑑登録', note:'実印を使う場合は、転入届のついでに同じ施設内で登録し直せる（窓口は別の場合がある）。旧住所の登録は転出時に自動的に失効している。'}
   ];
 
-  let oldWard = 'kita';
-  let newWard = 'osaka';
+  let oldWard = null;
+  let newWard = null;
   let flags = new Set();
   let generated = false;
   let stale = false;
@@ -419,7 +423,7 @@
     const map = {online:['tag-online','オンライン可'],mail:['tag-mail','郵送可'],window:['tag-window','窓口']};
     return `<span class="tag ${map[t][0]}">${map[t][1]}</span>`;
   }
-  function cityName(id){ const c = CITIES.find(c=>c.id===id); return c ? c.name : id; }
+  function cityName(id){ const c = CITIES.find(c=>c.id===id); return c ? c.name : ''; }
 
   function setupPicker(inputEl, suggEl, getCurrent, setCurrent){
     function showMatches(){
@@ -444,11 +448,18 @@
           inputEl.value = city.name;
           suggEl.hidden = true;
           setCurrent(city.id);
+          inputEl.removeAttribute('aria-invalid');
           markStale();
+          updateGenerateButton();
         });
       });
     }
-    inputEl.addEventListener('input', showMatches);
+    inputEl.addEventListener('input', ()=>{
+      setCurrent(null);
+      inputEl.removeAttribute('aria-invalid');
+      updateGenerateButton();
+      showMatches();
+    });
     inputEl.addEventListener('focus', showMatches);
     inputEl.addEventListener('blur', ()=>{
       setTimeout(()=>{
@@ -589,7 +600,15 @@
 
   function updateGenerateButton(){
     const btn = document.getElementById('generateBtn');
-    if(!generated){
+    const hint = document.getElementById('selectionHint');
+    const ready = Boolean(oldWard && newWard);
+    btn.disabled = !ready;
+    if(!ready){
+      btn.textContent = '旧住所と新住所を選択してください';
+      btn.classList.remove('stale');
+      hint.textContent = '旧住所と新住所を候補から選ぶと、チェックリストを作成できます。';
+      hint.classList.remove('is-ready');
+    } else if(!generated){
       btn.textContent = 'チェックリストを作成する';
       btn.classList.remove('stale');
     } else if(stale){
@@ -598,6 +617,10 @@
     } else {
       btn.textContent = 'チェックリストを更新する';
       btn.classList.remove('stale');
+    }
+    if(ready){
+      hint.textContent = '自治体を選択しました。条件を選んでチェックリストを作成できます。';
+      hint.classList.add('is-ready');
     }
   }
 
@@ -609,6 +632,12 @@
   }
 
   function generate(){
+    if(!oldWard || !newWard){
+      const missing = !oldWard ? document.getElementById('inputOut') : document.getElementById('inputIn');
+      missing.setAttribute('aria-invalid', 'true');
+      missing.focus();
+      return;
+    }
     document.getElementById('routeTag').textContent = cityName(oldWard) + ' → ' + cityName(newWard);
     document.getElementById('outBlock').innerHTML = renderBlock('out', oldWard);
     document.getElementById('inBlock').innerHTML = renderBlock('in', newWard);
@@ -634,8 +663,8 @@
     document.getElementById('coverage').textContent =
       `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
 
-    document.getElementById('inputOut').value = cityName(oldWard);
-    document.getElementById('inputIn').value = cityName(newWard);
+    document.getElementById('inputOut').value = '';
+    document.getElementById('inputIn').value = '';
     setupPicker(document.getElementById('inputOut'), document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
     setupPicker(document.getElementById('inputIn'), document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
 
