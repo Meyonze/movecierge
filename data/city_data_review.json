@@ -562,15 +562,6 @@
       "mail": "https://www.city.kanzaki.saga.jp/main/359.html"
     }
   },
-  "nishinoomoteshi": {
-    "hasData": true,
-    "office": "市民生活課市民係の1窓口（種子島・西之表市役所本庁）。転入届・転出届・転居届が同一ページの1つの表にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
-      "in": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
-      "mail": null
-    }
-  },
   "shibushishi": {
     "hasData": true,
     "office": "志布志庁舎市民環境課、有明庁舎市民税務課、松山庁舎総務市民課の3庁舎で受付。転入届・転出届は「住民異動届」として同一ページにまとめて案内されている（郵送転出証明書請求は別ページあり）。",
@@ -589,24 +580,6 @@
       "mail": "https://www.city.ogori.fukuoka.jp/197/199/667"
     }
   },
-  "ukihashi": {
-    "hasData": true,
-    "office": "うきは市役所（吉井庁舎・浮羽庁舎の2庁舎体制）市民課。転出届・転入届は「住所変更」という同一ページ内に案内されている。",
-    "links": {
-      "out": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html",
-      "in": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html",
-      "mail": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html"
-    }
-  },
-  "miyamashi": {
-    "hasData": true,
-    "office": "本庁市民課（健康づくり課）のほか、山川支所・高田支所の市民サービス係でも受付。転出届・転入届は「引越しの際には…」という同一ページ内に案内。",
-    "links": {
-      "out": "https://www.city.miyama.lg.jp/kurashi/010/020/20200109045000.html",
-      "in": "https://www.city.miyama.lg.jp/kurashi/010/020/20200109045000.html",
-      "mail": null
-    }
-  },
   "shisoushi": {
     "hasData": true,
     "office": "届出先は各市民局市民係（本庁のほか山崎・一宮・波賀・千種の各市民局）。転入届・転出届は同一ページ（住所異動の届出）にまとめて案内されている。",
@@ -614,15 +587,6 @@
       "out": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
       "in": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/tantojoho/kosekijumintoroku/1386836913622.html",
       "mail": "https://www.city.shiso.lg.jp/soshiki/shiminseikatsu/shimin/shinseisho/1386828102696.html"
-    }
-  },
-  "tatsunoshi": {
-    "hasData": true,
-    "office": "届出先は本庁市民課または各総合支所地域振興課。転入届・転出届は同一ページ（住民登録に関する主な届出）の表にまとめて案内されている。",
-    "links": {
-      "out": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/6/1916.html",
-      "in": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/6/1916.html",
-      "mail": null
     }
   },
   "goboushi": {

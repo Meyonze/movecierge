@@ -4885,9 +4885,9 @@
     "hasData": true,
     "office": "うきは市役所市民課（吉井町新治316）。転出届は概ね1か月前から受付、転居届は転居後14日以内。",
     "links": {
-      "out": "https://www.city.ukiha.fukuoka.jp/list00138.html",
-      "in": "https://www.city.ukiha.fukuoka.jp/list00138.html",
-      "mail": null
+      "out": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html",
+      "in": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html",
+      "mail": "https://www.city.ukiha.fukuoka.jp/kiji0033027/index.html"
     },
     "confidence": "high"
   },
@@ -4905,8 +4905,8 @@
     "hasData": true,
     "office": "みやま市役所市民課、山川支所・高田支所の市民サービス係。マイナポータルからオンラインで転出届・転入（転居）予約が可能。",
     "links": {
-      "out": "https://www.city.miyama.lg.jp/s018/kurashi/010/100/20200109033000.html",
-      "in": "https://www.city.miyama.lg.jp/s018/kurashi/010/100/20200109033000.html",
+      "out": "https://www.city.miyama.lg.jp/kurashi/010/020/20200109045000.html",
+      "in": "https://www.city.miyama.lg.jp/kurashi/010/020/20200109045000.html",
       "mail": null
     },
     "confidence": "high"
@@ -6835,8 +6835,8 @@
     "hasData": true,
     "office": "種子島・西之表市役所市民生活課市民係窓口で転入届・転出届を受け付け。",
     "links": {
-      "out": "https://www.city.nishinoomote.lg.jp/admin/mokuteki/hikkoshi/index.html",
-      "in": "https://www.city.nishinoomote.lg.jp/admin/mokuteki/hikkoshi/index.html",
+      "out": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
+      "in": "https://www.city.nishinoomote.lg.jp/admin/soshiki/shiminseikatu/shiminkakari/todokede/605.html",
       "mail": null
     },
     "confidence": "high"
@@ -11365,8 +11365,8 @@
     "hasData": true,
     "office": "たつの市役所市民課または各総合支所地域振興課で転入・転出の届出ができる。マイナンバーカードでのオンライン転出も可。",
     "links": {
-      "out": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/1/2379.html",
-      "in": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/1/2379.html",
+      "out": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/6/1916.html",
+      "in": "https://www.city.tatsuno.lg.jp/soshiki/1011/gyomu/2/6/1916.html",
       "mail": null
     },
     "confidence": "high"
