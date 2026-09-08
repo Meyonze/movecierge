@@ -14014,5 +14014,198 @@
       "in": "https://www.city.kamo.niigata.jp/docs/30384.html"
     },
     "confidence": "high"
+  },
+  "fukuchiyamashi": {
+    "hasData": true,
+    "office": "本庁市民課（福知山市字内記13番地の1）に加え、三和・夜久野・大江の3支所でも転出入・転居届を受付。転出届・転入届・転居届は「住民異動届」として同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.fukuchiyama.lg.jp/site/shinsei1/1612.html",
+      "in": "https://www.city.fukuchiyama.lg.jp/site/shinsei1/1612.html",
+      "mail": "https://www.city.fukuchiyama.lg.jp/soshiki/22/1602.html"
+    },
+    "confidence": "high"
+  },
+  "ayabeshi": {
+    "hasData": true,
+    "office": "綾部市役所市民・国保課戸籍住民担当（本庁、京都府綾部市若竹町8番地の1）が窓口。支所についての記載は確認できず、転出届は郵送・マイナンバーカードでの提出も可能だが転入届・転居届は来庁が必要。",
+    "links": {
+      "out": "https://www.city.ayabe.lg.jp/0000002750.html",
+      "in": "https://www.city.ayabe.lg.jp/0000002750.html",
+      "mail": "https://www.city.ayabe.lg.jp/0000002425.html"
+    },
+    "confidence": "high"
+  },
+  "yahatashi": {
+    "hasData": true,
+    "office": "八幡市役所市民生活部市民課（本庁、八幡園内75）が転出入届の窓口。橋本窓口・美濃山窓口という地域窓口もあるが、証明書発行のみを扱い転出入届の受付は行っていない。",
+    "links": {
+      "out": "https://www.city.yawata.kyoto.jp/0000000233.html",
+      "in": "https://www.city.yawata.kyoto.jp/0000000233.html",
+      "mail": "https://www.city.yawata.kyoto.jp/0000005734.html"
+    },
+    "confidence": "high"
+  },
+  "nantanshi": {
+    "hasData": true,
+    "office": "南丹市役所市民課（本庁、園部町小桜町47番地）が窓口。支所についての記載は確認できず、転出届はオンライン・郵送にも対応。",
+    "links": {
+      "out": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html",
+      "in": "https://www.city.nantan.kyoto.jp/www/life/106/001/000/index_82460.html"
+    },
+    "confidence": "high"
+  },
+  "takahashishi": {
+    "hasData": true,
+    "office": "高梁市役所市民課（松原通2043番地）のほか、各地域局・各地域市民センター・成羽地域局各連絡所でも届出可能（マイナンバーカードの券面更新は一部窓口を除く）。転出証明書は郵送請求もできる。",
+    "links": {
+      "out": "https://www.city.takahashi.lg.jp/site/kosodate/jyuminidou.html",
+      "in": "https://www.city.takahashi.lg.jp/site/kosodate/jyuminidou.html",
+      "mail": "https://www.city.takahashi.lg.jp/site/kosodate/jyuminidou.html"
+    },
+    "confidence": "high"
+  },
+  "akaiwashi": {
+    "hasData": true,
+    "office": "本庁(市民課、赤磐市下市344)のほか、赤坂支所・熊山支所・吉井支所の3支所でも受付。開庁時間は平日8時30分〜17時15分。転出・転入とも同一ページで案内されている。",
+    "links": {
+      "out": "https://www.city.akaiwa.lg.jp/annai/shiminseikatsu/shimin/kurashi/koseki/todokede/1141.html",
+      "in": "https://www.city.akaiwa.lg.jp/annai/shiminseikatsu/shimin/kurashi/koseki/todokede/1141.html",
+      "mail": "https://www.city.akaiwa.lg.jp/annai/shiminseikatsu/shimin/kurashi/koseki/6790.html"
+    },
+    "confidence": "high"
+  },
+  "obamashi": {
+    "hasData": true,
+    "office": "小浜市役所（福井県小浜市大手町6-3）市民課窓口で転入・転出・転居とも受付。支所・出張所の記載は確認できず、本庁一括対応とみられる。",
+    "links": {
+      "out": "https://www1.city.obama.fukui.jp/kurashi/koseki-juminhyoto/147.html",
+      "in": "https://www1.city.obama.fukui.jp/kurashi/koseki-juminhyoto/147.html"
+    },
+    "confidence": "high"
+  },
+  "awarashi": {
+    "hasData": true,
+    "office": "あわら市役所市民課（4番窓口）と芦原分室の2か所で住所異動（転入・転居・転出）の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.awara.lg.jp/mokuteki/life/life0101/p003588.html",
+      "in": "https://www.city.awara.lg.jp/mokuteki/life/life0101/p003588.html",
+      "mail": "https://www.city.awara.lg.jp/mokuteki/life/life0101/p000374.html"
+    },
+    "confidence": "high"
+  },
+  "echizenshi": {
+    "hasData": true,
+    "office": "越前市役所本庁窓口サービス課（3番窓口）と今立総合支所の2か所で住民登録（転入・転出・転居）の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.echizen.lg.jp/office/050/130010/jyuumintouroku.html",
+      "in": "https://www.city.echizen.lg.jp/office/050/130010/jyuumintouroku.html",
+      "mail": "https://www.city.echizen.lg.jp/office/050/130010/j_yubinsinsei.html"
+    },
+    "confidence": "high"
+  },
+  "sakaishi": {
+    "hasData": true,
+    "office": "坂井市役所本庁市民生活課のほか、丸岡・三国・春江の各庁舎（支所）でも住所異動の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.fukui-sakai.lg.jp/shimin2/kurashi/koseki/jumin-toroku/jyuusyohennkou.html",
+      "in": "https://www.city.fukui-sakai.lg.jp/shimin2/kurashi/koseki/jumin-toroku/jyuusyohennkou.html",
+      "mail": "https://www.city.fukui-sakai.lg.jp/shimin/kurashi/koseki/yubin/tensyutsu.html"
+    },
+    "confidence": "high"
+  },
+  "imabarishi": {
+    "hasData": true,
+    "office": "本庁本館1階市民課（〒794-8511 今治市別宮町1丁目4番地1）が窓口。各支所住民サービス課でも転入・転出・転居の届出を受け付けている。",
+    "links": {
+      "out": "https://www.city.imabari.ehime.jp/siminka/idou.html",
+      "in": "https://www.city.imabari.ehime.jp/siminka/idou.html",
+      "mail": "https://www.city.imabari.ehime.jp/siminka/koufu/tenshutu.html"
+    },
+    "confidence": "high"
+  },
+  "uwashimashi": {
+    "hasData": true,
+    "office": "市役所1階市民課（〒798-8601 宇和島市曙町1番地）が本庁窓口。各支所市民サービス係・宇和海支所・各出張所でも届出可能。",
+    "links": {
+      "out": "https://www.city.uwajima.ehime.jp/soshiki/14/shimin18.html",
+      "in": "https://www.city.uwajima.ehime.jp/soshiki/14/shimin26.html"
+    },
+    "confidence": "high"
+  },
+  "yawatahamashi": {
+    "hasData": true,
+    "office": "八幡浜庁舎市民課（〒796-8501 愛媛県八幡浜市北浜一丁目1番1号）が本庁窓口。保内庁舎（〒796-0292）も市の関連施設として案内されている。",
+    "links": {
+      "out": "https://www.city.yawatahama.ehime.jp/doc/2022100300079",
+      "in": "https://www.city.yawatahama.ehime.jp/doc/2022100300079"
+    },
+    "confidence": "high"
+  },
+  "saijoushi": {
+    "hasData": true,
+    "office": "西条市役所本庁市民課市民係（新館1階、〒793-8601 西条市明屋敷164番地）が窓口。西部支所市民福祉課市民生活係でも手続き可能。",
+    "links": {
+      "out": "https://www.city.saijo.ehime.jp/soshiki/shiminseikatsu/jumintoroku.html",
+      "in": "https://www.city.saijo.ehime.jp/soshiki/shiminseikatsu/jumintoroku.html"
+    },
+    "confidence": "high"
+  },
+  "seiyoshi": {
+    "hasData": true,
+    "office": "本庁市民課（〒797-8501 西予市宇和町卯之町三丁目434番地1）が窓口。各支所地域生活課、惣川・大野ヶ原の地域づくり活動センターでも届出可能。",
+    "links": {
+      "out": "https://www.city.seiyo.ehime.jp/kakuka/seikatsu_fukushi/shimin/todokede/417.html",
+      "in": "https://www.city.seiyo.ehime.jp/kakuka/seikatsu_fukushi/shimin/todokede/417.html",
+      "mail": "https://www.city.seiyo.ehime.jp/kakuka/seikatsu_fukushi/shimin/todokede/416.html"
+    },
+    "confidence": "high"
+  },
+  "touonshi": {
+    "hasData": true,
+    "office": "窓口課窓口サービス係（市役所1階2・3番窓口、〒791-0292 東温市見奈良530番地1）が窓口。外国人の転入・転居手続きは本庁窓口課のみで、川内支所では受付不可。",
+    "links": {
+      "out": "https://www.city.toon.ehime.jp/soshiki/12/1771.html",
+      "in": "https://www.city.toon.ehime.jp/soshiki/12/1771.html",
+      "mail": "https://www.city.toon.ehime.jp/soshiki/12/1974.html"
+    },
+    "confidence": "high"
+  },
+  "murakamishi": {
+    "hasData": true,
+    "office": "村上市役所本庁舎（三之町1-1）市民課市民年金室が窓口。転入・転居・転出・世帯変更届をまとめて案内する1ページ構成で、転出入それぞれの専用ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.murakami.lg.jp/soshiki/24/todokede-juminido.html",
+      "in": "https://www.city.murakami.lg.jp/soshiki/24/todokede-juminido.html"
+    },
+    "confidence": "high"
+  },
+  "tsubameshi": {
+    "hasData": true,
+    "office": "燕市役所（吉田西太田1934番地）市民課市民窓口1係が窓口。転入・転居・転出届は表形式でまとめた1ページで案内されており、転出届単独の専用ページは郵送手続きのみ確認できた。",
+    "links": {
+      "out": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/15400.html",
+      "in": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/15400.html",
+      "mail": "https://www.city.tsubame.niigata.jp/soshiki/shimin_seikatsu/1/87/2573.html"
+    },
+    "confidence": "high"
+  },
+  "myoukoushi": {
+    "hasData": true,
+    "office": "手続きは市民税務課（本庁）、妙高高原支所、妙高支所の3か所で対応。転入・転出・転居・世帯主変更届を1ページにまとめて案内しており、転出入それぞれの専用ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.myoko.niigata.jp/docs/2108.html",
+      "in": "https://www.city.myoko.niigata.jp/docs/2108.html",
+      "mail": "https://www.city.myoko.niigata.jp/docs/777.html"
+    },
+    "confidence": "high"
+  },
+  "gosenshi": {
+    "hasData": true,
+    "office": "五泉市役所（太田1094番地1）市民課が本庁窓口。村松支所地域振興課（市民係）でも対応可。転入届・転出届は表形式で1ページにまとめて案内されており、専用の個別ページは確認できなかった。",
+    "links": {
+      "out": "https://www.city.gosen.lg.jp/organization/6/6/11041.html",
+      "in": "https://www.city.gosen.lg.jp/organization/6/6/11041.html"
+    },
+    "confidence": "high"
   }
 }
