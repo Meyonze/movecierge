@@ -14803,5 +14803,25 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "hikigunogawachou": {
+    "hasData": true,
+    "office": "小川町役場 町民課戸籍年金担当で、転出届・転入届などの住所異動を受け付け。転出届は郵送にも対応。",
+    "links": {
+      "out": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/6/2/1375.html",
+      "in": "https://www.town.ogawa.saitama.jp/material/files/group/6/R040401ininjyou.pdf",
+      "mail": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/6/2/1375.html"
+    },
+    "confidence": "high"
+  },
+  "ichiharashi": {
+    "hasData": true,
+    "office": "市原市役所 市民課総合窓口および支所で、転出届・転入届を受け付け。",
+    "links": {
+      "out": "https://prdurbanosichapp1.blob.core.windows.net/common-article/635a451ff38a7311e61a30f3/%E8%BB%A2%E5%87%BA%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E5%90%84%E7%A8%AE%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%2B.pdf",
+      "in": "https://prdurbanosichapp1.blob.core.windows.net/common-article/6685fa80bd6dd82535299ef3/%E8%BB%A2%E5%85%A5%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E5%90%84%E7%A8%AE%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6R6.10%E6%94%B9%E8%A8%82.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
