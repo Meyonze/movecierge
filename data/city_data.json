@@ -14753,5 +14753,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "aokeshimamura": {
+    "hasData": true,
+    "office": "青ヶ島村役場 総務課庶務民生係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.aogashima.tokyo.jp/press/koho1903.pdf",
+      "in": "https://www.vill.aogashima.tokyo.jp/press/koho1903.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
