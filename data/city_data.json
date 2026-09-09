@@ -14823,5 +14823,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "koyuguntonoumachi": {
+    "hasData": true,
+    "office": "都農町役場 住民課町民係で、転入・転出・転居の住民異動届を受け付け。",
+    "links": {
+      "out": "https://prdurbanostnoapp1.blob.core.windows.net/common-article/60519ba0bb91df444d8bf1dc/%E9%80%B1%E5%A0%B1685%E5%8F%B7%2B%2BHP.pdf",
+      "in": "https://prdurbanostnoapp1.blob.core.windows.net/common-article/60519ba0bb91df444d8bf1dc/%E9%80%B1%E5%A0%B1685%E5%8F%B7%2B%2BHP.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

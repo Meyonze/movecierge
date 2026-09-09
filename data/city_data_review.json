@@ -179,16 +179,6 @@
     },
     "confidence": "low"
   },
-  "koyuguntonoumachi": {
-    "hasData": true,
-    "office": "都農町役場（住民担当窓口）で転入届・転出届の手続きが可能。公式サイトがリニューアルされ個別ページはライブ検証できず",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "iwafunegunsekigawamura": {
     "hasData": true,
     "office": "関川村役場 住民環境課（新潟県岩船郡関川村大字下関912、TEL 0254-64-1471）",
