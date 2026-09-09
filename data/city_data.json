@@ -1209,7 +1209,8 @@
     "links": {
       "out": "https://www.city.soka.saitama.jp/cont/s1703/010/020/010/04.html",
       "in": "https://www.city.soka.saitama.jp/cont/s1703/010/020/010/02.html"
-    }
+    },
+    "confidence": "high"
   },
   "narashinoshi": {
     "hasData": true,
@@ -1217,7 +1218,8 @@
     "links": {
       "out": "https://www.city.narashino.lg.jp/soshiki/shimin/faq/simin42.html",
       "in": "https://www.city.narashino.lg.jp/soshiki/shimin/faq/simin46.html"
-    }
+    },
+    "confidence": "high"
   },
   "urayasushi": {
     "hasData": true,
@@ -1226,7 +1228,8 @@
       "out": "https://www.city.urayasu.lg.jp/todokede/testuduki/juminhyo/1022559/index.html",
       "in": "https://www.city.urayasu.lg.jp/todokede/testuduki/juminhyo/1021995/index.html",
       "mail": "https://www.city.urayasu.lg.jp/todokede/testuduki/juminhyo/1022559/1022564.html"
-    }
+    },
+    "confidence": "high"
   },
   "atsugishi": {
     "hasData": true,
@@ -1235,7 +1238,8 @@
       "out": "https://www.city.atsugi.kanagawa.jp/soshiki/shiminka/7_1/25839.html",
       "in": "https://www.city.atsugi.kanagawa.jp/soshiki/shiminka/7_1/25838.html",
       "mail": "https://www.city.atsugi.kanagawa.jp/soshiki/shiminka/7_1/876.html"
-    }
+    },
+    "confidence": "high"
   },
   "yamatoshi": {
     "hasData": true,
@@ -1244,7 +1248,8 @@
       "out": "https://www.city.yamato.lg.jp/gyosei/soshik/43/todokede_shomeisho/hikkoshinitomonautodokede/5199.html",
       "in": "https://www.city.yamato.lg.jp/gyosei/soshik/43/todokede_shomeisho/hikkoshinitomonautodokede/5197.html",
       "mail": "https://www.city.yamato.lg.jp/gyosei/soshik/43/todokede_shomeisho/hikkoshinitomonautodokede/5024.html"
-    }
+    },
+    "confidence": "high"
   },
   "hiratsukashi": {
     "hasData": true,
@@ -1253,7 +1258,8 @@
       "out": "https://www.city.hiratsuka.kanagawa.jp/todokede/page-c_01509.html",
       "in": "https://www.city.hiratsuka.kanagawa.jp/todokede/page-c_01507.html",
       "mail": "https://www.city.hiratsuka.kanagawa.jp/todokede/page-c_01519.html"
-    }
+    },
+    "confidence": "high"
   },
   "chigasakishi": {
     "hasData": true,
@@ -1262,7 +1268,8 @@
       "out": "https://www.city.chigasaki.kanagawa.jp/tetsuduki/jusho/1034059.html",
       "in": "https://www.city.chigasaki.kanagawa.jp/tetsuduki/jusho/1034057.html",
       "mail": "https://www.city.chigasaki.kanagawa.jp/tetsuduki/jusho/1003182.html"
-    }
+    },
+    "confidence": "high"
   },
   "odawarashi": {
     "hasData": true,
@@ -1271,7 +1278,8 @@
       "out": "https://www.city.odawara.kanagawa.jp/field/tax-resi/resident/address/tensyutu-1.html",
       "in": "https://www.city.odawara.kanagawa.jp/field/tax-resi/resident/address/tennyu-1.html",
       "mail": "https://www.city.odawara.kanagawa.jp/field/tax-resi/resident/address/yuso.html"
-    }
+    },
+    "confidence": "high"
   },
   "yokkaichishi": {
     "hasData": true,
@@ -1280,7 +1288,8 @@
       "out": "https://www.city.yokkaichi.lg.jp/www/contents/1489491064711/index.html",
       "in": "https://www.city.yokkaichi.lg.jp/www/contents/1489491279142/index.html",
       "mail": "https://www.city.yokkaichi.lg.jp/www/contents/1001000000783/index.html"
-    }
+    },
+    "confidence": "high"
   },
   "tsukubashi": {
     "hasData": true,
@@ -1289,7 +1298,8 @@
       "out": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbushimimmadoguchika/gyomuannai/5/10/1000763.html",
       "in": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbushimimmadoguchika/gyomuannai/5/10/1000762.html",
       "mail": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbushimimmadoguchika/gyomuannai/5/10/1000809.html"
-    }
+    },
+    "confidence": "high"
   },
   "kumagayashi": {
     "hasData": true,
@@ -1298,7 +1308,8 @@
       "out": "https://www.city.kumagaya.lg.jp/kurashi/tetsuduki/syomei/tenshututodoke.html",
       "in": "https://www.city.kumagaya.lg.jp/kurashi/tetsuduki/syomei/tennyutodoke.html",
       "mail": "https://www.city.kumagaya.lg.jp/smph/shinsei/koseki/koseki04.html"
-    }
+    },
+    "confidence": "high"
   },
   "ootashi": {
     "hasData": true,
@@ -1307,7 +1318,8 @@
       "out": "https://www.city.ota.gunma.jp/page/1026467.html",
       "in": "https://www.city.ota.gunma.jp/page/1026450.html",
       "mail": "https://www.city.ota.gunma.jp/page/1026529.html"
-    }
+    },
+    "confidence": "high"
   },
   "isesakishi": {
     "hasData": true,
@@ -1315,7 +1327,8 @@
     "links": {
       "out": "https://www.city.isesaki.lg.jp/soshiki/siminbu/shiminka/koseki/hikkoshi/2716.html",
       "in": "https://www.city.isesaki.lg.jp/kurashi_tetsuzuki/todokede_shomei/hikkoshi_setaikanren/17529.html"
-    }
+    },
+    "confidence": "high"
   },
   "oogakishi": {
     "hasData": true,
@@ -1324,7 +1337,8 @@
       "out": "https://www.city.ogaki.lg.jp/0000001095.html",
       "in": "https://www.city.ogaki.lg.jp/0000001092.html",
       "mail": "https://www.city.ogaki.lg.jp/0000020757.html"
-    }
+    },
+    "confidence": "high"
   },
   "ujishi": {
     "hasData": true,
@@ -1333,7 +1347,8 @@
       "out": "https://www.city.uji.kyoto.jp/soshiki/43/5554.html",
       "in": "https://www.city.uji.kyoto.jp/soshiki/43/5563.html",
       "mail": "https://www.city.uji.kyoto.jp/soshiki/43/5553.html"
-    }
+    },
+    "confidence": "high"
   },
   "higashihiroshimashi": {
     "hasData": true,
@@ -1341,7 +1356,8 @@
     "links": {
       "out": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/4/8/3110.html",
       "in": "https://www.city.higashihiroshima.lg.jp/soshiki/seikatsukankyo/4/8/3312.html"
-    }
+    },
+    "confidence": "high"
   },
   "ubeshi": {
     "hasData": true,
@@ -1350,7 +1366,8 @@
       "out": "https://www.city.ube.yamaguchi.jp/kurashi/todokede/juushoidou/1001600.html",
       "in": "https://www.city.ube.yamaguchi.jp/kurashi/todokede/juushoidou/1001598.html",
       "mail": "https://www.city.ube.yamaguchi.jp/kurashi/todokede/juushoidou/1001663.html"
-    }
+    },
+    "confidence": "high"
   },
   "itamishi": {
     "hasData": true,
@@ -1359,7 +1376,8 @@
       "out": "https://www.city.itami.lg.jp/SOSIKI/SHIMIN/SHIMIN/HIKKOSI/1392797015270.html",
       "in": "https://www.city.itami.lg.jp/SOSIKI/SHIMIN/SHIMIN/HIKKOSI/1392794968228.html",
       "mail": "https://www.city.itami.lg.jp/SOSIKI/SHIMIN/SHIMIN/HIKKOSI/1388891910164.html"
-    }
+    },
+    "confidence": "high"
   },
   "mitashi": {
     "hasData": true,
@@ -1368,7 +1386,8 @@
       "out": "https://www.city.sanda.lg.jp/soshiki/16/gyomu/todokede_shomei/koseki_jumintoroku/33079.html",
       "in": "https://www.city.sanda.lg.jp/soshiki/16/gyomu/todokede_shomei/koseki_jumintoroku/33078.html",
       "mail": "https://www.city.sanda.lg.jp/soshiki/16/shinsei_dl/1821.html"
-    }
+    },
+    "confidence": "high"
   },
   "ikomashi": {
     "hasData": true,
@@ -1377,7 +1396,8 @@
       "out": "https://www.city.ikoma.lg.jp/0000001043.html",
       "in": "https://www.city.ikoma.lg.jp/0000001302.html",
       "mail": "https://www.city.ikoma.lg.jp/0000000328.html"
-    }
+    },
+    "confidence": "high"
   },
   "settsushi": {
     "hasData": true,
@@ -1386,7 +1406,8 @@
       "out": "https://www.city.settsu.osaka.jp/soshiki/seikatukannkyou/shiminka/juumintouroku/tenshutsu/2266.html",
       "in": "https://www.city.settsu.osaka.jp/soshiki/seikatukannkyou/shiminka/juumintouroku/tennyu/2258.html",
       "mail": "https://www.city.settsu.osaka.jp/soshiki/seikatukannkyou/shiminka/juumintouroku/tenshutsu/2265.html"
-    }
+    },
+    "confidence": "high"
   },
   "toyokawashi": {
     "hasData": true,
@@ -1394,7 +1415,8 @@
     "links": {
       "out": "https://www.city.toyokawa.lg.jp/soshiki/shimin/s_shimin/2/2/8/3653.html",
       "in": "https://www.city.toyokawa.lg.jp/soshiki/shimin/s_shimin/2/2/8/3652.html"
-    }
+    },
+    "confidence": "high"
   },
   "anjoushi": {
     "hasData": true,
@@ -1402,7 +1424,8 @@
     "links": {
       "out": "https://www.city.anjo.aichi.jp/kurasu/todokede/jusyoido/tensyutsu.html",
       "in": "https://www.city.anjo.aichi.jp/kurasu/todokede/jusyoido/tennyu.html"
-    }
+    },
+    "confidence": "high"
   },
   "nishioshi": {
     "hasData": true,
@@ -1410,7 +1433,8 @@
     "links": {
       "out": "https://www.city.nishio.aichi.jp/kurashi/koseki/1001378/1001719.html",
       "in": "https://www.city.nishio.aichi.jp/kurashi/koseki/1001378/1001718.html"
-    }
+    },
+    "confidence": "high"
   },
   "kariyashi": {
     "hasData": true,
@@ -1419,7 +1443,8 @@
       "out": "https://www.city.kariya.lg.jp/kurashi/todokede/koseki/1002930.html",
       "in": "https://www.city.kariya.lg.jp/kurashi/todokede/koseki/1002932.html",
       "mail": "https://www.city.kariya.lg.jp/kurashi/todokede/koseki/1002931.html"
-    }
+    },
+    "confidence": "high"
   },
   "komakishi": {
     "hasData": true,
@@ -1428,7 +1453,8 @@
       "out": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/shimin/3/3/2/5170.html",
       "in": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/shimin/3/3/2/5171.html",
       "mail": "https://www.city.komaki.aichi.jp/admin/soshiki/fukushi/shimin/3/3/2/tenshutsutodoke/36021.html"
-    }
+    },
+    "confidence": "high"
   },
   "suzukashi": {
     "hasData": true,
@@ -1437,7 +1463,8 @@
       "out": "https://www.city.suzuka.lg.jp/kurashi/koseki/1001967/1001970.html",
       "in": "https://www.city.suzuka.lg.jp/kurashi/koseki/1001967/1001968.html",
       "mail": "https://www.city.suzuka.lg.jp/kurashi/koseki/1001967/1001970.html"
-    }
+    },
+    "confidence": "high"
   },
   "urumashi": {
     "hasData": true,
@@ -1446,7 +1473,8 @@
       "out": "https://www.city.uruma.lg.jp/kurashitetsuzuki/todokedeshoumei/juuminidou/tenshutsu/index.html",
       "in": "https://www.city.uruma.lg.jp/kurashitetsuzuki/todokedeshoumei/juuminidou/tennyuu/index.html",
       "mail": "https://www.city.uruma.lg.jp/1006005000/contents/p000006.html"
-    }
+    },
+    "confidence": "high"
   },
   "kitamishi": {
     "hasData": true,
@@ -1455,7 +1483,8 @@
       "out": "https://www.city.kitami.lg.jp/administration/life/detail.php?content=7969",
       "in": "https://www.city.kitami.lg.jp/administration/town/detail.php?content=7967",
       "mail": "https://www.city.kitami.lg.jp/detail.php?content=8303"
-    }
+    },
+    "confidence": "high"
   },
   "otarushi": {
     "hasData": true,
@@ -1464,7 +1493,8 @@
       "out": "https://www.city.otaru.lg.jp/docs/2020110600189/",
       "in": "https://www.city.otaru.lg.jp/docs/2020110600134/",
       "mail": "https://www.city.otaru.lg.jp/docs/2020110600172/"
-    }
+    },
+    "confidence": "high"
   },
   "iwamizawashi": {
     "hasData": true,
@@ -1472,7 +1502,8 @@
     "links": {
       "out": "https://www.city.iwamizawa.hokkaido.jp/soshiki/shiminsabisuka/koseki_juminhyo_inkan/4/10627.html",
       "in": "https://www.city.iwamizawa.hokkaido.jp/soshiki/shiminsabisuka/koseki_juminhyo_inkan/4/3932.html"
-    }
+    },
+    "confidence": "high"
   },
   "muroranshi": {
     "hasData": true,
@@ -1481,7 +1512,8 @@
       "out": "https://www.city.muroran.lg.jp/life/?content=2741",
       "in": "https://www.city.muroran.lg.jp/life/?content=2738",
       "mail": "https://www.city.muroran.lg.jp/life/?content=126"
-    }
+    },
+    "confidence": "high"
   },
   "wakkanaishi": {
     "hasData": true,
@@ -1490,7 +1522,8 @@
       "out": "https://www.city.wakkanai.hokkaido.jp/kurashi/todokedetetsuduki/juminido/tensyutu.html",
       "in": "https://www.city.wakkanai.hokkaido.jp/kurashi/todokedetetsuduki/juminido/tennyu.html",
       "mail": "https://www.city.wakkanai.hokkaido.jp/kurashi/todokedetetsuduki/juminido/tensyutu.html"
-    }
+    },
+    "confidence": "high"
   },
   "hitachishi": {
     "hasData": true,
@@ -1499,7 +1532,8 @@
       "out": "https://www.city.hitachi.lg.jp/kurashi_tetsuzuki/todokede_shomei/1001577/1001578.html",
       "in": "https://www.city.hitachi.lg.jp/kurashi_tetsuzuki/todokede_shomei/1001577/1001580.html",
       "mail": "https://www.city.hitachi.lg.jp/kurashi_tetsuzuki/todokede_shomei/1001577/1001578.html"
-    }
+    },
+    "confidence": "high"
   },
   "hitachinakashi": {
     "hasData": true,
@@ -1508,7 +1542,8 @@
       "out": "https://www.city.hitachinaka.lg.jp/kurashi/koseki/1003515/1003519.html",
       "in": "https://www.city.hitachinaka.lg.jp/kurashi/koseki/1003515/1003521.html",
       "mail": "https://www.city.hitachinaka.lg.jp/kurashi/koseki/1003515/1003520.html"
-    }
+    },
+    "confidence": "high"
   },
   "abikoshi": {
     "hasData": true,
@@ -1516,7 +1551,8 @@
     "links": {
       "out": "https://www.city.abiko.chiba.jp/kurashi/jumin/jyumintouroku/tenshutsu.html",
       "in": "https://www.city.abiko.chiba.jp/kurashi/jumin/jyumintouroku/tennyu.html"
-    }
+    },
+    "confidence": "high"
   },
   "zamashi": {
     "hasData": true,
@@ -1525,7 +1561,8 @@
       "out": "https://www.city.zama.kanagawa.jp/kurashi/koseki/tetsuduki/1001838.html",
       "in": "https://www.city.zama.kanagawa.jp/kurashi/koseki/tetsuduki/1001837.html",
       "mail": "https://www.city.zama.kanagawa.jp/kurashi/koseki/tetsuduki/1001839.html"
-    }
+    },
+    "confidence": "high"
   },
   "ebinashi": {
     "hasData": true,
@@ -1534,7 +1571,8 @@
       "out": "https://www.city.ebina.kanagawa.jp/faq/juminhyo/1001388/1002179.html",
       "in": "https://www.city.ebina.kanagawa.jp/faq/juminhyo/1001388/1002176.html",
       "mail": "https://www.city.ebina.kanagawa.jp/guide/todokede/todokede/1002810.html"
-    }
+    },
+    "confidence": "high"
   },
   "iseharashi": {
     "hasData": true,
@@ -1543,7 +1581,8 @@
       "out": "https://www.city.isehara.kanagawa.jp/docs/2014070400149/",
       "in": "https://www.city.isehara.kanagawa.jp/docs/2014070400132/",
       "mail": "https://www.city.isehara.kanagawa.jp/docs/2014070400149/"
-    }
+    },
+    "confidence": "high"
   },
   "sanjoushi": {
     "hasData": true,
@@ -1552,7 +1591,8 @@
       "out": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shimimmadoguchika/madoguchi/madoguchi/4016.html",
       "in": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shimimmadoguchika/madoguchi/madoguchi/3982.html",
       "mail": "https://www.city.sanjo.niigata.jp/soshiki/shimimbu/shimimmadoguchika/madoguchi/madoguchi/4016.html"
-    }
+    },
+    "confidence": "high"
   },
   "tachikawashi": {
     "hasData": true,
@@ -1560,7 +1600,8 @@
     "links": {
       "out": "https://www.city.tachikawa.lg.jp/kurashi/koseki/1002119/1026502.html",
       "in": "https://www.city.tachikawa.lg.jp/kurashi/koseki/1002119/1026504.html"
-    }
+    },
+    "confidence": "high"
   },
   "musashinoshi": {
     "hasData": true,
@@ -1569,7 +1610,8 @@
       "out": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004525.html",
       "in": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004524.html",
       "mail": "https://www.city.musashino.lg.jp/kurashi_tetsuzuki/todokede_shomei/jushohenko/1004527.html"
-    }
+    },
+    "confidence": "high"
   },
   "mitakashi": {
     "hasData": true,
@@ -1577,7 +1619,8 @@
     "links": {
       "out": "https://www.city.mitaka.lg.jp/c_service/000/000320.html",
       "in": "https://www.city.mitaka.lg.jp/c_service/000/000321.html"
-    }
+    },
+    "confidence": "high"
   },
   "fuchuushi": {
     "hasData": true,
@@ -1586,7 +1629,8 @@
       "out": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/tenshutu.html",
       "in": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/tennyu.html",
       "mail": "https://www.city.fuchu.tokyo.jp/kurashi/tetuduki/tenkyo/yuusoutennsyutu.html"
-    }
+    },
+    "confidence": "high"
   },
   "choufushi": {
     "hasData": true,
@@ -1595,7 +1639,8 @@
       "out": "https://www.city.chofu.lg.jp/030040/p017020.html",
       "in": "https://www.city.chofu.lg.jp/030040/p017019.html",
       "mail": "https://www.city.chofu.lg.jp/030040/p017016.html"
-    }
+    },
+    "confidence": "high"
   },
   "kodairashi": {
     "hasData": true,
@@ -1604,7 +1649,8 @@
       "out": "https://www.city.kodaira.tokyo.jp/kurashi/014/014218.html",
       "in": "https://www.city.kodaira.tokyo.jp/kurashi/014/014208.html",
       "mail": "https://www.city.kodaira.tokyo.jp/kurashi/014/014247.html"
-    }
+    },
+    "confidence": "high"
   },
   "hinoshi": {
     "hasData": true,
@@ -1613,7 +1659,8 @@
       "out": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1015858.html",
       "in": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1013904.html",
       "mail": "https://www.city.hino.lg.jp/kurashi/jumin/jusho/1002590.html"
-    }
+    },
+    "confidence": "high"
   },
   "kokubunjishi": {
     "hasData": true,
@@ -1622,7 +1669,8 @@
       "out": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010959/index.html",
       "in": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010841/index.html",
       "mail": "https://www.city.kokubunji.tokyo.jp/kurashi/hikkoshi/1010959/1027672.html"
-    }
+    },
+    "confidence": "high"
   },
   "komaeshi": {
     "hasData": true,
@@ -1631,7 +1679,8 @@
       "out": "https://www.city.komae.tokyo.jp/index.cfm/41,13612,309,1981,html",
       "in": "https://www.city.komae.tokyo.jp/index.cfm/41,50264,309,1981,html",
       "mail": "https://www.city.komae.tokyo.jp/index.cfm/41,108424,308,1968,html"
-    }
+    },
+    "confidence": "high"
   },
   "kiyoseshi": {
     "hasData": true,
@@ -1640,7 +1689,8 @@
       "out": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003477.html",
       "in": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003478.html",
       "mail": "https://www.city.kiyose.lg.jp/kurashi/todoke_shoumei/1003476/1003483.html"
-    }
+    },
+    "confidence": "high"
   },
   "higashikurumeshi": {
     "hasData": true,
@@ -1649,7 +1699,8 @@
       "out": "https://www.city.higashikurume.lg.jp/kurashi/todokede/juminhyo/1000279.html",
       "in": "https://www.city.higashikurume.lg.jp/kurashi/todokede/juminhyo/1000277.html",
       "mail": "https://www.city.higashikurume.lg.jp/shinseisho/juminhyo/1001511.html"
-    }
+    },
+    "confidence": "high"
   },
   "musashimurayamashi": {
     "hasData": true,
@@ -1658,7 +1709,8 @@
       "out": "https://www.city.musashimurayama.lg.jp/kurashi/todoke/1005178/jumintouroku/1000317.html",
       "in": "https://www.city.musashimurayama.lg.jp/kurashi/todoke/1005178/jumintouroku/1000316.html",
       "mail": "https://www.city.musashimurayama.lg.jp/kurashi/shinsei/todokede/1001004.html"
-    }
+    },
+    "confidence": "high"
   },
   "tamashi": {
     "hasData": true,
@@ -1667,7 +1719,8 @@
       "out": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001772.html",
       "in": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001771.html",
       "mail": "https://www.city.tama.lg.jp/kurashi/jumin/hikkoshi/1001773.html"
-    }
+    },
+    "confidence": "high"
   },
   "inagishi": {
     "hasData": true,
@@ -1675,7 +1728,8 @@
     "links": {
       "out": "https://www.city.inagi.tokyo.jp/kurashi/tetsuzuki/1002554/1002556.html",
       "in": "https://www.city.inagi.tokyo.jp/kurashi/tetsuzuki/1002554/1002555.html"
-    }
+    },
+    "confidence": "high"
   },
   "akirunoichi": {
     "hasData": true,
@@ -1683,7 +1737,8 @@
     "links": {
       "out": "https://www.city.akiruno.tokyo.jp/0000000878.html",
       "in": "https://www.city.akiruno.tokyo.jp/0000000877.html"
-    }
+    },
+    "confidence": "high"
   },
   "nishitoukyoushi": {
     "hasData": true,
@@ -1692,7 +1747,8 @@
       "out": "https://www.city.nishitokyo.lg.jp/kurasi/todokede/zyumin/tennsyututodoke.html",
       "in": "https://www.city.nishitokyo.lg.jp/kurasi/todokede/zyumin/tennyu.html",
       "mail": "https://www.city.nishitokyo.lg.jp/kurasi/sinseisyo/itiran/zyumintoroku/yusotensyutu.html"
-    }
+    },
+    "confidence": "high"
   },
   "kakamigaharashi": {
     "hasData": true,
@@ -1701,7 +1757,8 @@
       "out": "https://www.city.kakamigahara.lg.jp/life/koseki/1001373/1001375.html",
       "in": "https://www.city.kakamigahara.lg.jp/life/koseki/1001373/1001374.html",
       "mail": "https://www.city.kakamigahara.lg.jp/internet/shinseisho/1004586/1004596.html"
-    }
+    },
+    "confidence": "high"
   },
   "matsusakashi": {
     "hasData": true,
@@ -1710,7 +1767,8 @@
       "out": "https://www.city.matsusaka.mie.jp/soshiki/15/tenshutu.html",
       "in": "https://www.city.matsusaka.mie.jp/soshiki/15/tennyuu.html",
       "mail": "https://www.city.matsusaka.mie.jp/soshiki/15/tenshutuyuusou.html"
-    }
+    },
+    "confidence": "high"
   },
   "kuwanashi": {
     "hasData": true,
@@ -1719,7 +1777,8 @@
       "out": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tenshutsu-honnin.html",
       "in": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tennyu-honnin.html",
       "mail": "https://www.city.kuwana.lg.jp/kosekijyumin/kurashi/todokede/tenshutsu-yuusou.html"
-    }
+    },
+    "confidence": "high"
   },
   "iseshi": {
     "hasData": true,
@@ -1728,7 +1787,8 @@
       "out": "https://www.city.ise.mie.jp/kurashi/koseki/tensyutsu/1001351.html",
       "in": "https://www.city.ise.mie.jp/kurashi/koseki/tennyu/1001353.html",
       "mail": "https://www.city.ise.mie.jp/kurashi/koseki/tensyutsu/1001356.html"
-    }
+    },
+    "confidence": "high"
   },
   "shuunanshi": {
     "hasData": true,
@@ -1736,7 +1796,8 @@
     "links": {
       "out": "https://www.city.shunan.lg.jp/soshiki/20/2623.html",
       "in": "https://www.city.shunan.lg.jp/soshiki/20/2621.html"
-    }
+    },
+    "confidence": "high"
   },
   "kasugashi": {
     "hasData": true,
@@ -1745,7 +1806,8 @@
       "out": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000838.html",
       "in": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000840.html",
       "mail": "https://www.city.kasuga.fukuoka.jp/kurashi/koseki/jumintouroku/1000838.html"
-    }
+    },
+    "confidence": "high"
   },
   "mishimashi": {
     "hasData": true,
@@ -1754,7 +1816,8 @@
       "out": "https://www.city.mishima.shizuoka.jp/page/1243.html",
       "in": "https://www.city.mishima.shizuoka.jp/page/1244.html",
       "mail": "https://www.city.mishima.shizuoka.jp/page/3771.html"
-    }
+    },
+    "confidence": "high"
   },
   "iwatashi": {
     "hasData": true,
@@ -1762,7 +1825,8 @@
     "links": {
       "out": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
       "in": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html"
-    }
+    },
+    "confidence": "high"
   },
   "setoshi": {
     "hasData": true,
@@ -1771,7 +1835,8 @@
       "out": "https://www.city.seto.aichi.jp/docs/2010/11/10/01009/index.html",
       "in": "https://www.city.seto.aichi.jp/docs/2010/11/10/00487/index.html",
       "mail": "https://www.city.seto.aichi.jp/docs/2010/11/10/02792/index.html"
-    }
+    },
+    "confidence": "high"
   },
   "inuyamashi": {
     "hasData": true,
@@ -1780,7 +1845,8 @@
       "out": "https://www.city.inuyama.aichi.jp/question/koseki/1001726.html",
       "in": "https://www.city.inuyama.aichi.jp/question/koseki/1001724.html",
       "mail": "https://www.city.inuyama.aichi.jp/kurashi/koseki/1000017/1006633.html"
-    }
+    },
+    "confidence": "high"
   },
   "inazawashi": {
     "hasData": true,
@@ -1788,7 +1854,8 @@
     "links": {
       "out": "https://www.city.inazawa.aichi.jp/0000000619.html",
       "in": "https://www.city.inazawa.aichi.jp/0000000620.html"
-    }
+    },
+    "confidence": "high"
   },
   "gamagoorishi": {
     "hasData": true,
@@ -1797,7 +1864,8 @@
       "out": "https://www.city.gamagori.lg.jp/unit/shimin/tensyuttu.html",
       "in": "https://www.city.gamagori.lg.jp/unit/shimin/tennyu.html",
       "mail": "https://www.city.gamagori.lg.jp/unit/shimin/yuusouniyorutennsyututodoke.html"
-    }
+    },
+    "confidence": "high"
   },
   "toukaishi": {
     "hasData": true,
@@ -1805,7 +1873,8 @@
     "links": {
       "out": "https://www.city.tokai.aichi.jp/kurashi/1001502/1001512/1006103.html",
       "in": "https://www.city.tokai.aichi.jp/kurashi/1001502/1001512/1006102.html"
-    }
+    },
+    "confidence": "high"
   },
   "oobushi": {
     "hasData": true,
@@ -1814,7 +1883,8 @@
       "out": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1011523.html",
       "in": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1011608.html",
       "mail": "https://www.city.obu.aichi.jp/kurashi/todokede/idou/1013471.html"
-    }
+    },
+    "confidence": "high"
   },
   "nagaokakyoushi": {
     "hasData": true,
@@ -1823,7 +1893,8 @@
       "out": "https://www.city.nagaokakyo.lg.jp/0000000396.html",
       "in": "https://www.city.nagaokakyo.lg.jp/0000000397.html",
       "mail": "https://www.city.nagaokakyo.lg.jp/0000000396.html"
-    }
+    },
+    "confidence": "high"
   },
   "ashiyashi": {
     "hasData": true,
@@ -1832,7 +1903,8 @@
       "out": "https://www.city.ashiya.lg.jp/shimin/sigaitensyutu.html",
       "in": "https://www.city.ashiya.lg.jp/shimin/sigaitennyu.html",
       "mail": "https://www.city.ashiya.lg.jp/shimin/download/tenshutsu.html"
-    }
+    },
+    "confidence": "high"
   },
   "mikishi": {
     "hasData": true,
@@ -1841,7 +1913,8 @@
       "out": "https://www.city.miki.lg.jp/soshiki/21/2107.html",
       "in": "https://www.city.miki.lg.jp/soshiki/21/2105.html",
       "mail": "https://www.city.miki.lg.jp/site/sinseisyo/2194.html"
-    }
+    },
+    "confidence": "high"
   },
   "yamatokooriyamashi": {
     "hasData": true,
@@ -1850,7 +1923,8 @@
       "out": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/2/1526.html",
       "in": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/2/1527.html",
       "mail": "https://www.city.yamatokoriyama.lg.jp/soshiki/shiminka/todokede_tetsuzuki_shomei/6/simin_shinseisyo_mokuteki/2/1522.html"
-    }
+    },
+    "confidence": "high"
   },
   "tenrishi": {
     "hasData": true,
@@ -1859,7 +1933,8 @@
       "out": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1403236979374.html",
       "in": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1410921131235.html",
       "mail": "https://www.city.tenri.nara.jp/kurashi/todokede/hikkoshi/1403236979374.html"
-    }
+    },
+    "confidence": "high"
   },
   "nasushiobarashi": {
     "hasData": true,
@@ -1867,7 +1942,8 @@
     "links": {
       "out": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/shiminka/koseki_shomei/6/2872.html",
       "in": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/shiminka/koseki_shomei/6/2917.html"
-    }
+    },
+    "confidence": "high"
   },
   "ashikagashi": {
     "hasData": true,
@@ -1875,7 +1951,8 @@
     "links": {
       "out": "https://www.city.ashikaga.tochigi.jp/living/000013/000112/p002417.html",
       "in": "https://www.city.ashikaga.tochigi.jp/living/000013/000112/p002416.html"
-    }
+    },
+    "confidence": "high"
   },
   "fukayashi": {
     "hasData": true,
@@ -1883,7 +1960,8 @@
     "links": {
       "out": "https://www.city.fukaya.saitama.jp/soshiki/shiminseikatsu/shimin/tanto/tennyu_tenshutsu_tenkyo/1391958013609.html",
       "in": "https://www.city.fukaya.saitama.jp/soshiki/shiminseikatsu/shimin/tanto/tennyu_tenshutsu_tenkyo/1391750166972.html"
-    }
+    },
+    "confidence": "high"
   },
   "asakashi": {
     "hasData": true,
@@ -1892,7 +1970,8 @@
       "out": "https://www.city.asaka.lg.jp/soshiki/11/jyuuki-tensyutu.html",
       "in": "https://www.city.asaka.lg.jp/soshiki/11/jyuuki-tennyuu.html",
       "mail": "https://www.city.asaka.lg.jp/soshiki/11/yuusou-tensyutu.html"
-    }
+    },
+    "confidence": "high"
   },
   "niizashi": {
     "hasData": true,
@@ -1900,7 +1979,8 @@
     "links": {
       "out": "https://www.city.niiza.lg.jp/soshiki/14/tenshututodoke.html",
       "in": "https://www.city.niiza.lg.jp/soshiki/14/tennyutodoke.html"
-    }
+    },
+    "confidence": "high"
   },
   "todashi": {
     "hasData": true,
@@ -1908,7 +1988,8 @@
     "links": {
       "out": "https://www.city.toda.saitama.jp/soshiki/191/simin-tensyutu.html",
       "in": "https://www.city.toda.saitama.jp/soshiki/191/simin-tennyu.html"
-    }
+    },
+    "confidence": "high"
   },
   "misatoshi": {
     "hasData": true,
@@ -1916,7 +1997,8 @@
     "links": {
       "out": "https://www.city.misato.lg.jp/soshiki/shiminseikatsu/shimin/7/833.html",
       "in": "https://www.city.misato.lg.jp/soshiki/shiminseikatsu/shimin/7/964.html"
-    }
+    },
+    "confidence": "high"
   },
   "fujiedashi": {
     "hasData": true,
@@ -1924,7 +2006,8 @@
     "links": {
       "out": "https://www.city.fujieda.shizuoka.jp/soshiki/shiminkyodo/shimin/gyomu/2/1445915545862.html",
       "in": "https://www.city.fujieda.shizuoka.jp/soshiki/shiminkyodo/shimin/gyomu/2/1445915537183.html"
-    }
+    },
+    "confidence": "high"
   },
   "yaizushi": {
     "hasData": true,
@@ -1933,7 +2016,8 @@
       "out": "https://www.city.yaizu.lg.jp/life/hikkoshi/tenshutsu/index.html",
       "in": "https://www.city.yaizu.lg.jp/life/hikkoshi/tennyu/tennyu.html",
       "mail": "https://www.city.yaizu.lg.jp/life/hikkoshi/tenshutsu/yuusou.html"
-    }
+    },
+    "confidence": "high"
   },
   "fujinomiyashi": {
     "hasData": true,
@@ -1942,7 +2026,8 @@
       "out": "https://www.city.fujinomiya.lg.jp/kurashi/todokede/hikkoshi/tenshutsu/index.html",
       "in": "https://www.city.fujinomiya.lg.jp/citizen/kjdvo40000003py2.html",
       "mail": "https://www.city.fujinomiya.lg.jp/citizen/llti2b00000016xg.html"
-    }
+    },
+    "confidence": "high"
   },
   "kakegawashi": {
     "hasData": true,
@@ -1950,7 +2035,8 @@
     "links": {
       "out": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7659.html",
       "in": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7676.html"
-    }
+    },
+    "confidence": "high"
   },
   "kounanshi": {
     "hasData": true,
@@ -1959,7 +2045,8 @@
       "out": "https://www.city.konan.lg.jp/kurashi/todoke/1001710/1001733/1004319.html",
       "in": "https://www.city.konan.lg.jp/kurashi/todoke/1001710/1001731/1004318.html",
       "mail": "https://www.city.konan.lg.jp/kurashi/todoke/1001727/1004322.html"
-    }
+    },
+    "confidence": "high"
   },
   "tokonameshi": {
     "hasData": true,
@@ -1967,7 +2054,8 @@
     "links": {
       "out": "https://www.city.tokoname.aichi.jp/kurashi/todokede/1000480/1000482.html",
       "in": "https://www.city.tokoname.aichi.jp/kurashi/todokede/1000480/1000481.html"
-    }
+    },
+    "confidence": "high"
   },
   "miyoshishi": {
     "hasData": true,
@@ -1975,7 +2063,8 @@
     "links": {
       "out": "https://www.city.aichi-miyoshi.lg.jp/soshiki/shiminkeizai/shimin/2/5/2304.html",
       "in": "https://www.city.aichi-miyoshi.lg.jp/soshiki/shiminkeizai/shimin/2/5/294.html"
-    }
+    },
+    "confidence": "high"
   },
   "tajimishi": {
     "hasData": true,
@@ -1984,7 +2073,8 @@
       "out": "https://www.city.tajimi.lg.jp/kurashi/koseki/tenshutsu.html",
       "in": "https://www.city.tajimi.lg.jp/kurashi_tetsuduzuki/koseki_jumin_ryoken/1005210/1005212.html",
       "mail": "https://www.city.tajimi.lg.jp/kurashi/koseki/tenshutsu.html"
-    }
+    },
+    "confidence": "high"
   },
   "izumiootsushi": {
     "hasData": true,
@@ -1993,7 +2083,8 @@
       "out": "https://www.city.izumiotsu.lg.jp/kakuka/shiminseikatu/shimin/jyuuminnhyounoidou/7862.html",
       "in": "https://www.city.izumiotsu.lg.jp/kakuka/shiminseikatu/shimin/jyuuminnhyounoidou/1297816236043.html",
       "mail": "https://www.city.izumiotsu.lg.jp/kakuka/shiminseikatu/shimin/jyuuminnhyounoidou/1298437660565.html"
-    }
+    },
+    "confidence": "high"
   },
   "kaizukashi": {
     "hasData": true,
@@ -2001,7 +2092,8 @@
     "links": {
       "out": "https://www.city.kaizuka.lg.jp/kakuka/shiminseikatsu/shimin/menu/jumin/tenshutsu.html",
       "in": "https://www.city.kaizuka.lg.jp/kakuka/shiminseikatsu/shimin/menu/jumin/tennyu.html"
-    }
+    },
+    "confidence": "high"
   },
   "daitoushi": {
     "hasData": true,
@@ -2010,7 +2102,8 @@
       "out": "https://www.city.daito.lg.jp/soshiki/18/2374.html",
       "in": "https://www.city.daito.lg.jp/soshiki/18/2372.html",
       "mail": "https://www.city.daito.lg.jp/soshiki/18/2378.html"
-    }
+    },
+    "confidence": "high"
   },
   "takasagoshi": {
     "hasData": true,
@@ -2018,7 +2111,8 @@
     "links": {
       "out": "https://www.city.takasago.lg.jp/soshikikarasagasu/shimimmadoguchika/koseki_juminhyo_inkantoroku/5/2032.html",
       "in": "https://www.city.takasago.lg.jp/soshikikarasagasu/shimimmadoguchika/koseki_juminhyo_inkantoroku/5/1270.html"
-    }
+    },
+    "confidence": "high"
   },
   "kasaishi": {
     "hasData": true,
@@ -2026,7 +2120,8 @@
     "links": {
       "out": "https://www.city.kasai.hyogo.jp/site/hikkoshi/1018.html",
       "in": "https://www.city.kasai.hyogo.jp/site/hikkoshi/1017.html"
-    }
+    },
+    "confidence": "high"
   },
   "tanbashi": {
     "hasData": true,
@@ -2035,7 +2130,8 @@
       "out": "https://www.city.tamba.lg.jp/soshiki/shimin_anzen/koseki/todoke-syomei/1479.html",
       "in": "https://www.city.tamba.lg.jp/kurashi/todoke/todoke_shomei/5127.html",
       "mail": "https://www.city.tamba.lg.jp/soshiki/shimin_anzen/koseki/todoke-syomei/1793.html"
-    }
+    },
+    "confidence": "high"
   },
   "akoushi": {
     "hasData": true,
