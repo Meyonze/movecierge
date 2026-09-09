@@ -14763,5 +14763,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "mikurashimamura": {
+    "hasData": true,
+    "office": "御蔵島村役場 総務課民生係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.mikurasima.tokyo.jp/data/koho/416.pdf",
+      "in": "https://www.vill.mikurasima.tokyo.jp/data/koho/416.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
