@@ -14723,5 +14723,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "takaokagunochimachi": {
+    "hasData": true,
+    "office": "越知町役場 住民課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.ochi.kochi.jp/storage/files/soumu/kouhou/2020/202003.pdf",
+      "in": "https://www.town.ochi.kochi.jp/storage/files/soumu/kouhou/2020/202003.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }

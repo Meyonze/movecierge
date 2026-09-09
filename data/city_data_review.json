@@ -209,16 +209,6 @@
     },
     "confidence": "low"
   },
-  "takaokagunochimachi": {
-    "hasData": true,
-    "office": "高知県高岡郡越知町役場 住民課（サイトが egress ブロックのため URL 未検証）",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "takaokagunyusuharamachi": {
     "hasData": true,
     "office": "高知県高岡郡檮原町役場 総務課住民係（サイトが egress ブロックのため URL 未検証）",
