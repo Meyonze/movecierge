@@ -232,7 +232,7 @@
 
     <button class="generate-btn" id="generateBtn" type="button">チェックリストを作成する</button>
     <p class="selection-hint" id="selectionHint" aria-live="polite">旧住所と新住所を候補から選ぶと、チェックリストを作成できます。</p>
-    <p class="selection-hint" id="loadingHint" aria-live="polite">自治体データを読み込んでいます。操作できるまで少々お待ちください。</p>
+    <p class="selection-hint" id="loadingHint" aria-live="polite">自治体候補を読み込んでいます。あてはまる条件は先に選べます。</p>
   </div>
 
   <div class="pre-generate" id="preGenerate">上のボタンを押すと、旧住所・新住所とあてはまる条件にもとづいたチェックリストが表示されます。</div>
@@ -392,9 +392,8 @@
   const PROGRESS_STORAGE_KEY = 'movecierge-checklist-progress-v1';
   const completedChecks = loadCompletedChecks();
 
-  // データと操作イベントの準備が完了する前に押されても、反応しないように見えないようにする。
-  const loadingControls = document.querySelectorAll('.city-input, .check-field, #moreAttrsToggle, .box');
-  loadingControls.forEach(el=>el.disabled = true);
+  // 自治体データを待つ間も、条件選択や共通チェックは先に操作できるようにする。
+  // 旧住所・新住所が確定するまでは、生成ボタンだけを無効にする。
   document.getElementById('generateBtn').disabled = true;
 
   function loadCompletedChecks(){
@@ -670,17 +669,22 @@
   }
 
   function init(){
-    loadingControls.forEach(el=>el.disabled = false);
     document.getElementById('loadingHint').hidden = true;
     const hasDataCount = Object.keys(CITY_DATA).length;
     document.getElementById('coverage').textContent =
       `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
 
-    document.getElementById('inputOut').value = '';
-    document.getElementById('inputIn').value = '';
-    setupPicker(document.getElementById('inputOut'), document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
-    setupPicker(document.getElementById('inputIn'), document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
+    const inputOut = document.getElementById('inputOut');
+    const inputIn = document.getElementById('inputIn');
+    setupPicker(inputOut, document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
+    setupPicker(inputIn, document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
+    // 読み込み中に入力された文字も、データ到着後すぐ候補表示に使う。
+    [inputOut, inputIn].forEach(input => {
+      if(input.value.trim()) input.dispatchEvent(new Event('input'));
+    });
+  }
 
+  function setupSharedControls(){
     document.querySelector('.intake').addEventListener('click', (e)=>{
       const el = e.target.closest('.check-field');
       if(!el) return;
@@ -715,14 +719,36 @@
       bindChecks();
     });
 
-    bindChecks();       // 常時表示の「あわせて必要になるもの」セクション用
-    applyUniversalFilters();
-    updateGenerateButton();
+  }
+
+  setupSharedControls();
+  bindChecks();       // 常時表示の「あわせて必要になるもの」セクション用
+  applyUniversalFilters();
+  updateGenerateButton();
+
+  async function fetchJson(path){
+    async function request(cache){
+      const controller = new AbortController();
+      const timeout = setTimeout(()=>controller.abort(), 10000);
+      try {
+        const response = await fetch(path, {cache, signal:controller.signal});
+        if(!response.ok) throw new Error(`${path} を読み込めませんでした`);
+        return await response.json();
+      } finally {
+        clearTimeout(timeout);
+      }
+    }
+    try {
+      return await request('no-store');
+    } catch(firstError) {
+      console.warn(`${path} の初回読み込みに失敗したため再試行します。`, firstError);
+      return request('reload');
+    }
   }
 
   Promise.all([
-    fetch('./data/cities.json', {cache:'no-store'}).then(res => { if(!res.ok) throw new Error('cities.json を読み込めませんでした'); return res.json(); }),
-    fetch('./data/city_data.json', {cache:'no-store'}).then(res => { if(!res.ok) throw new Error('city_data.json を読み込めませんでした'); return res.json(); }),
+    fetchJson('./data/cities.json'),
+    fetchJson('./data/city_data.json'),
   ])
     .then(([cities, cityData]) => {
       CITIES = cities;
@@ -732,9 +758,9 @@
     .catch(err => {
       console.error('都市データの読み込みに失敗しました。', err);
       const coverage = document.getElementById('coverage');
-      coverage.textContent = '自治体データを読み込めませんでした。ページを再読み込みしてください。';
+      coverage.textContent = '自治体候補を読み込めませんでした。条件の選択はできます。ページを再読み込みしても改善しない場合は、通信状態をご確認ください。';
       coverage.setAttribute('role', 'alert');
-      document.getElementById('generateBtn').disabled = true;
+      document.getElementById('loadingHint').textContent = '候補データを読み込めませんでした。';
     });
 </script>
 </body>
