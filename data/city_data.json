@@ -14773,5 +14773,35 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "nanyoushi": {
+    "hasData": true,
+    "office": "南陽市役所1階の市民課市民係で、転入・転出・転居の住所異動届を受け付け。",
+    "links": {
+      "out": "https://www.city.nanyo.yamagata.jp/up/files/giyousei/kouhoukoucyo/siho/pdf/1243.pdf",
+      "in": "https://www.city.nanyo.yamagata.jp/up/files/giyousei/kouhoukoucyo/siho/pdf/1243.pdf",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akiguntouyoumachi": {
+    "hasData": true,
+    "office": "東洋町役場 住民課。公式の届出案内に転入届・転出届の入口を掲載。",
+    "links": {
+      "out": "https://www.town.toyo.kochi.jp/contents/a02b03.php",
+      "in": "https://www.town.toyo.kochi.jp/contents/a02b03.php",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "akigunnaharimachi": {
+    "hasData": true,
+    "office": "奈半利町役場 住民福祉課で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://x178-142.i-kochi.or.jp/file/2022_kurashitecho.pdf",
+      "in": "https://x178-142.i-kochi.or.jp/file/2022_kurashitecho.pdf",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
