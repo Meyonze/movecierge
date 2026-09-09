@@ -109,26 +109,6 @@
     },
     "confidence": "low"
   },
-  "kisogujoumatsumachi": {
-    "hasData": true,
-    "office": "上松町役場の窓口で転入届・転出届を受け付け。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "kisogunoutakimura": {
-    "hasData": true,
-    "office": "王滝村役場の窓口で転入届・転出届を受け付け。",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "kisogunookuwamura": {
     "hasData": true,
     "office": "大桑村役場の窓口で転入届・転出届を受け付け。",

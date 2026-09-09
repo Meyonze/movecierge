@@ -14733,5 +14733,25 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "kisogunoutakimura": {
+    "hasData": true,
+    "office": "王滝村役場 福祉健康課住民係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.vill.otaki.nagano.jp/kurashi/todokede/koseki/todokede_jyumin.html",
+      "in": "https://www.vill.otaki.nagano.jp/kurashi/todokede/koseki/todokede_jyumin.html",
+      "mail": null
+    },
+    "confidence": "high"
+  },
+  "kisogujoumatsumachi": {
+    "hasData": true,
+    "office": "上松町役場 住民福祉課住民係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.agematsu.nagano.jp/kurashi/sumai_seikatsu/iju/oideyoagematsu.html?d=202510%3F",
+      "in": "https://www.town.agematsu.nagano.jp/kurashi/sumai_seikatsu/iju/oideyoagematsu.html?d=202510%3F",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
