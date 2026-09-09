@@ -131,6 +131,8 @@
 
   .notice{position:relative;border:1px solid var(--accent);background:var(--accent-soft);padding:11px 13px 11px 42px;font-size:12px;line-height:1.7;color:var(--ink);margin-bottom:16px;}
   .notice::before{content:"注";position:absolute;left:0;top:0;bottom:0;width:30px;background:var(--accent);color:#fff;font-weight:700;font-size:12.5px;display:flex;align-items:center;justify-content:center;}
+  .notice.provisional{border-color:var(--line);background:var(--surface-alt);color:var(--ink-soft);padding-left:50px;}
+  .notice.provisional::before{content:"要確認";width:38px;background:var(--ink-soft);font-size:9px;}
 
   .section-label{font-size:11.5px;font-weight:700;color:var(--ink-faint);letter-spacing:.03em;margin:0 0 8px;display:flex;align-items:center;gap:7px;}
   .section-label .dot{width:6px;height:6px;border-radius:50%;background:var(--ink-faint);flex-shrink:0;}
@@ -519,6 +521,9 @@
     const noticeText = direction === 'out'
       ? '<strong>転出届の期限：</strong>引っ越し予定日の14日前から当日までに提出します。マイナポータルでオンライン提出すれば来庁不要。ただし実際に使った人はまだ5人に1人に届かないというアンケートもあるので、窓口へ行く前に一度試す価値はある。'
       : '<strong>転入届の期限：</strong>引っ越した日から14日以内に、必ず窓口で提出します。オンラインでは完結しません。';
+    const provisionalNotice = data.hasData && data.confidence === 'low'
+      ? '<div class="notice provisional">この自治体は窓口情報を掲載していますが、転入・転出の個別公式案内URLは未確認です。リンク先の公式検索結果または窓口で、必要書類を確認してください。</div>'
+      : '';
 
     const filtered = CONDITIONAL[direction].filter(item => flags.has(item.flag));
     let condHtml;
@@ -561,6 +566,7 @@
     return `
       <p class="block-title"><span class="tag-dir">${direction === 'out' ? '転出' : '転入'}</span>${escapedName}${direction === 'out' ? 'からの手続き' : 'への手続き'}</p>
       <div class="notice">${noticeText}</div>
+      ${provisionalNotice}
       <div class="section">
         <p class="section-label required"><span class="dot"></span>必ず行う手続き</p>
         <div class="ledger">
