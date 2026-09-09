@@ -201,7 +201,7 @@
     <span class="logo-word">シェルジュ</span>
   </h1>
   <p class="tagline">引っ越し手続きチェックリスト</p>
-  <p class="lead">旧住所・新住所の市区町村名を入力すると、あてはまる手続きだけに絞り込まれます。あてはまる条件も選べます。</p>
+  <p class="lead">旧住所・新住所の市区町村名を入力すると、あてはまる手続きだけに絞り込まれます。正式名称を入力すれば、候補を選ばなくても確定できます。あてはまる条件も選べます。</p>
   <p class="coverage" id="coverage" aria-live="polite">自治体データを読み込んでいます…</p>
 
   <div class="intake">
@@ -431,6 +431,29 @@
   }
   function cityName(id){ const c = CITIES.find(c=>c.id===id); return c ? c.name : ''; }
 
+  function normalizeCityQuery(value){
+    return String(value || '').trim().normalize('NFKC').replace(/\s+/g, '');
+  }
+
+  function findExactCity(value){
+    const query = normalizeCityQuery(value);
+    if(!query) return null;
+    const matches = CITIES.filter(city => {
+      return normalizeCityQuery(city.name) === query || normalizeCityQuery(city.pref + city.name) === query;
+    });
+    return matches.length === 1 ? matches[0] : null;
+  }
+
+  function commitTypedCity(inputEl, getCurrent, setCurrent){
+    const city = findExactCity(inputEl.value);
+    if(!city) return false;
+    const changed = getCurrent() !== city.id;
+    inputEl.value = city.name;
+    setCurrent(city.id);
+    inputEl.removeAttribute('aria-invalid');
+    return changed;
+  }
+
   function setupPicker(inputEl, suggEl, getCurrent, setCurrent){
     function showMatches(){
       const q = inputEl.value.trim();
@@ -474,7 +497,8 @@
       setTimeout(()=>{
         if(suggEl.contains(document.activeElement)) return;
         suggEl.hidden = true;
-        inputEl.value = cityName(getCurrent());
+        if(commitTypedCity(inputEl, getCurrent, setCurrent)) markStale();
+        updateGenerateButton();
       }, 120);
     });
   }
@@ -642,8 +666,16 @@
   }
 
   function generate(){
+    const inputOut = document.getElementById('inputOut');
+    const inputIn = document.getElementById('inputIn');
+    const changed = [
+      commitTypedCity(inputOut, ()=>oldWard, id=>oldWard=id),
+      commitTypedCity(inputIn, ()=>newWard, id=>newWard=id),
+    ].some(Boolean);
+    if(changed) markStale();
+    updateGenerateButton();
     if(!oldWard || !newWard){
-      const missing = !oldWard ? document.getElementById('inputOut') : document.getElementById('inputIn');
+      const missing = !oldWard ? inputOut : inputIn;
       missing.setAttribute('aria-invalid', 'true');
       missing.focus();
       return;
