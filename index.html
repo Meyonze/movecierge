@@ -489,6 +489,7 @@
     inputEl.addEventListener('input', ()=>{
       setCurrent(null);
       inputEl.removeAttribute('aria-invalid');
+      if(commitTypedCity(inputEl, getCurrent, setCurrent)) markStale();
       updateGenerateButton();
       showMatches();
     });
@@ -653,7 +654,7 @@
       btn.classList.remove('stale');
     }
     if(ready){
-      hint.textContent = '自治体を選択しました。条件を選んでチェックリストを作成できます。';
+      hint.textContent = '自治体を確定しました。条件を選んでチェックリストを作成できます。';
       hint.classList.add('is-ready');
     }
   }
