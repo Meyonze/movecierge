@@ -139,16 +139,6 @@
     },
     "confidence": "low"
   },
-  "nishiokitamagunshiratakamachi": {
-    "hasData": false,
-    "office": "白鷹町役場（町民課）。公式サイトへの到達確認ができず（接続エラー）未検証のため、情報反映を保留",
-    "links": {
-      "out": null,
-      "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "aridagunhirokawachou": {
     "hasData": true,
     "office": "広川町役場住民環境課（有田郡広川町）で転入届・転出届を受け付け。詳細は役場へ要確認。",

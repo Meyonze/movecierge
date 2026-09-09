@@ -14713,5 +14713,15 @@
       "mail": null
     },
     "confidence": "high"
+  },
+  "nishiokitamagunshiratakamachi": {
+    "hasData": true,
+    "office": "白鷹町役場 町民課戸籍年金係で転入届・転出届を受け付け。",
+    "links": {
+      "out": "https://www.town.shirataka.lg.jp/1064.htm",
+      "in": "https://www.town.shirataka.lg.jp/1064.htm",
+      "mail": null
+    },
+    "confidence": "high"
   }
 }
