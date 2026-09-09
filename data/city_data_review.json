@@ -89,26 +89,6 @@
     },
     "confidence": "low"
   },
-  "sarugunhidakamachi": {
-    "hasData": true,
-    "office": "日高町役場（沙流郡）で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "https://www.town.hidaka.hokkaido.jp/life/?content=735",
-      "in": "https://www.town.hidaka.hokkaido.jp/life/?content=735",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "samanigunsamanimachi": {
-    "hasData": true,
-    "office": "様似町役場で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "http://www.samani.jp/konnatoki/index7.html",
-      "in": "http://www.samani.jp/konnatoki/index7.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "shimoinagunananmachi": {
     "hasData": true,
     "office": "阿南町役場の窓口で転入届・転出届を受け付け。",
@@ -155,46 +135,6 @@
     "links": {
       "out": null,
       "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "nakagawaguntoyokoromachi": {
-    "hasData": true,
-    "office": "豊頃町役場（住民課）で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "https://www.toyokoro.jp/soshiki/3/",
-      "in": "https://www.toyokoro.jp/soshiki/3/",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "kushirogunkushiromachi": {
-    "hasData": true,
-    "office": "釧路町役場（住民課戸籍住民係）で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "http://www.town.kushiro.lg.jp/living-guide/10201/00001/110642150311.html",
-      "in": "http://www.town.kushiro.lg.jp/living-guide/10201/00001/160503150315.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "kawakamigunteshikutsuchou": {
-    "hasData": true,
-    "office": "弟子屈町役場（環境生活課総合サービス室町民係）で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "https://www.town.teshikaga.hokkaido.jp/kurashi/kurashi_tetsuzuki/juminhyo_koseki_inkantoroku/1038.html",
-      "in": "https://www.town.teshikaga.hokkaido.jp/kurashi/kurashi_tetsuzuki/juminhyo_koseki_inkantoroku/1038.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "shibetsugunshibetsumachi": {
-    "hasData": true,
-    "office": "標津町役場（住民生活課）で転入届・転出届の手続きができる。",
-    "links": {
-      "out": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
-      "in": "https://www.shibetsutown.jp/kurashi/todokede/jusho/",
       "mail": null
     },
     "confidence": "low"
@@ -309,46 +249,6 @@
     },
     "confidence": "low"
   },
-  "kunigamigunginozamura": {
-    "hasData": true,
-    "office": "宜野座村役場 住民生活課で転入届・転出届の手続きができる（沖縄県国頭郡宜野座村字宜野座）。",
-    "links": {
-      "out": "https://www.vill.ginoza.okinawa.jp/kurashi/koseki-shomei/577.html",
-      "in": "https://www.vill.ginoza.okinawa.jp/kurashi/koseki-shomei/577.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "shimashiriguntonakimura": {
-    "hasData": true,
-    "office": "渡名喜村役場で転入届・転出届の手続きができる（沖縄県島尻郡渡名喜村）。詳細はサイトのJS/httpの制約で本文検証ができず、目視確認を推奨。",
-    "links": {
-      "out": "http://www.vill.tonaki.okinawa.jp/detail.jsp?id=57518&menuid=12291&funcid=1",
-      "in": "http://www.vill.tonaki.okinawa.jp/detail.jsp?id=57518&menuid=12291&funcid=1",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "shimashirigunminamidaitoumura": {
-    "hasData": true,
-    "office": "南大東村役場 福祉民生課で転入届・転出届の手続きができる（沖縄県島尻郡南大東村）。ページがJS描画のため本文キーワード検証はできていない。",
-    "links": {
-      "out": "https://www.vill.minamidaito.okinawa.jp/page/799.html",
-      "in": "https://www.vill.minamidaito.okinawa.jp/page/799.html",
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "miyakoguntaramamura": {
-    "hasData": true,
-    "office": "多良間村役場 住民福祉課で転入届・転出届の手続きができる（沖縄県宮古郡多良間村）。村サイトに転入・転出専用ページが見当たらず、届出・証明書の総合ページを掲載。",
-    "links": {
-      "out": "https://www.vill.tarama.okinawa.jp/kurashi/todokede_syoumei/",
-      "in": "https://www.vill.tarama.okinawa.jp/kurashi/todokede_syoumei/",
-      "mail": null
-    },
-    "confidence": "low"
-  },
   "kanragunnanmokumura": {
     "hasData": true,
     "office": "群馬県甘楽郡南牧村役場（長野県南牧村とは別の自治体）。転入・転出届の手続きは住民担当窓口で扱う。公式サイトの該当ページが自動アクセスをブロックしておりURL未検証のためconfidence lowとした。",
@@ -405,16 +305,6 @@
     "links": {
       "out": null,
       "in": null,
-      "mail": null
-    },
-    "confidence": "low"
-  },
-  "iwafunegunawashimauramura": {
-    "hasData": true,
-    "office": "粟島浦村役場（新潟県岩船郡粟島浦村、TEL 0254-55-2111）",
-    "links": {
-      "out": "https://www.vill.awashimaura.lg.jp/information/process/",
-      "in": "https://www.vill.awashimaura.lg.jp/information/process/",
       "mail": null
     },
     "confidence": "low"
