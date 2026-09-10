@@ -269,8 +269,9 @@
     "office": "福岡市は7区に分かれています。転入届・転居届は新住所地を管轄する区役所・出張所のみ。転出届はオンライン・郵送にも対応。",
     "links": {
       "out": "https://www.city.fukuoka.lg.jp/shimin/kusei/life/tenshutsutodoke.html",
-      "in": "https://www.city.fukuoka.lg.jp/shimin/kusei/qa/FAQ13192.html"
-    }
+      "in": "https://www.city.fukuoka.lg.jp/shimin/kusei/life/tetuduki/001.html"
+    },
+    "confidence": "high"
   },
   "kyoto": {
     "hasData": true,
@@ -575,9 +576,10 @@
     "hasData": true,
     "office": "大津市は区制がなく、戸籍住民課または各支所が窓口です。転出は窓口・郵送・オンラインに対応。",
     "links": {
-      "out": "https://www.city.otsu.lg.jp/soshiki/010/1115/g/juminhyo/todoke/1389879548506.html",
+      "out": "https://www.city.otsu.lg.jp/apply/a/t/t/4923.html",
       "in": "https://www.otsu-city-callcenter.jp/faq/detail.aspx?id=430"
-    }
+    },
+    "confidence": "high"
   },
   "wakayama": {
     "hasData": true,
@@ -650,10 +652,11 @@
     "hasData": true,
     "office": "佐賀市は区制がなく、市民生活課が窓口です。転出は窓口・郵送・オンラインに対応。",
     "links": {
-      "out": "https://www.city.saga.lg.jp/main/1832.html",
-      "in": "https://www.city.saga.lg.jp/main/1830.html",
+      "out": "https://www.city.saga.lg.jp/main/1771.html",
+      "in": "https://www.city.saga.lg.jp/kurashi/jyuminhyo-koseki-shomei/3/456.html",
       "mail": "https://www.city.saga.lg.jp/main/1833.html"
-    }
+    },
+    "confidence": "high"
   },
   "nagasaki": {
     "hasData": true,
@@ -878,7 +881,8 @@
     "links": {
       "out": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=344",
       "in": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=280"
-    }
+    },
+    "confidence": "high"
   },
   "himishi": {
     "hasData": true,
@@ -2598,7 +2602,8 @@
     "links": {
       "out": "https://www.city.tamana.lg.jp/q/aview/192/31326.html",
       "in": "https://www.city.tamana.lg.jp/q/aview/491/1436.html"
-    }
+    },
+    "confidence": "high"
   },
   "hitashi": {
     "hasData": true,
@@ -2803,9 +2808,10 @@
     "hasData": true,
     "office": "飯能市役所（大字双柳）本庁舎1階市民課が窓口。各地区行政センター（富士見地区行政センターを除く）でも受付可。飯能駅サービスコーナーでは住民異動の手続き不可。",
     "links": {
-      "out": "https://www.city.hanno.lg.jp/soshikikarasagasu/shiminseikatsubu/shiminka/todokede_shomei_kyoka/1385.html",
-      "in": "https://www.city.hanno.lg.jp/soshikikarasagasu/shiminseikatsubu/shiminka/todokede_shomei_kyoka/1383.html"
-    }
+      "out": "https://www.city.hanno.lg.jp/kurashi_seikatsukankyo/koseki_juminhyo_passport_madoguchiannai/todokede_shomei_kyoka/index.html",
+      "in": "https://www.city.hanno.lg.jp/kurashi_seikatsukankyo/koseki_juminhyo_passport_madoguchiannai/todokede_shomei_kyoka/index.html"
+    },
+    "confidence": "high"
   },
   "kanumashi": {
     "hasData": true,
@@ -3766,9 +3772,10 @@
     "hasData": true,
     "office": "本庁市民窓口課（山北520、本庁1階6番窓口）のほか、加茂支所・勝北支所・久米支所・阿波出張所の各地域振興課でも受付可能。転出届は郵送・マイナポータルでのオンライン手続きにも対応。",
     "links": {
-      "out": "https://www.city.tsuyama.lg.jp/article?articleId=65b38f695677ea07dd03ae7a",
-      "in": "https://www.city.tsuyama.lg.jp/article?articleId=65b38e8d5677ea07dd03ad50"
-    }
+      "out": "https://www.city.tsuyama.lg.jp/common/photo/free/files/11989/202111151023380993188.pdf",
+      "in": "https://www.city.tsuyama.lg.jp/common/photo/free/files/5680/202308170904460846208.pdf"
+    },
+    "confidence": "high"
   },
   "iharashi": {
     "hasData": true,
@@ -4488,7 +4495,8 @@
       "out": "https://www.city.kamiamakusa.kumamoto.jp/q/list/271.html",
       "in": "https://www.city.kamiamakusa.kumamoto.jp/q/list/267.html",
       "mail": "https://www.city.kamiamakusa.kumamoto.jp/q/aview/271/13558.html"
-    }
+    },
+    "confidence": "high"
   },
   "asoshi": {
     "hasData": true,
@@ -4804,10 +4812,11 @@
     "hasData": true,
     "office": "錦江町役場で転居・転入・転出の届出を受付。転入・転出それぞれ必要書類の案内PDFが別々に用意されている。",
     "links": {
-      "out": "https://www.town.kinko.lg.jp/documents/770/6240.pdf",
-      "in": "https://www.town.kinko.lg.jp/documents/770/6239.pdf",
+      "out": "https://www.town.kinko.lg.jp/jumin-h/kurashi/koseki/annai/setsume.html",
+      "in": "https://www.town.kinko.lg.jp/jumin-h/kurashi/koseki/annai/setsume.html",
       "mail": null
-    }
+    },
+    "confidence": "high"
   },
   "azumagunhigashiagatsumamachi": {
     "hasData": true,
