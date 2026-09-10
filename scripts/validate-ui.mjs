@@ -53,6 +53,8 @@ const requiredBehaviors = [
   '年度末・年度初めの注意',
   'https://note.com/meyonze',
   'https://x.com/meyonze34',
+  'https://static.cloudflareinsights.com/beacon.min.js',
+  'data-cf-beacon=',
 ];
 
 for (const behavior of requiredBehaviors) {
