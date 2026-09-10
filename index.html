@@ -54,6 +54,7 @@
     border:1.5px solid var(--ink);border-radius:8px;background:#fff;color:var(--ink);
   }
   .city-input:focus{outline:2px solid var(--accent);outline-offset:1px;}
+  .city-input:disabled{background:var(--surface-alt);color:var(--ink-faint);cursor:wait;}
   .suggestions{
     position:absolute;left:0;right:0;top:calc(100% + 3px);
     background:#fff;border:1px solid var(--ink);z-index:10;
@@ -226,13 +227,13 @@
   <div class="intake">
     <label class="field-label" for="inputOut">旧住所（引っ越し元）</label>
     <div class="city-picker">
-      <input type="text" class="city-input" id="inputOut" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
+      <input type="text" class="city-input" id="inputOut" placeholder="候補を読み込んでいます…" autocomplete="off" disabled>
       <div class="suggestions" id="suggOut" hidden></div>
     </div>
 
     <label class="field-label" for="inputIn">新住所（引っ越し先）</label>
     <div class="city-picker">
-      <input type="text" class="city-input" id="inputIn" placeholder="市区町村名を入力（例：北区、大阪市、おおさか）" autocomplete="off">
+      <input type="text" class="city-input" id="inputIn" placeholder="候補を読み込んでいます…" autocomplete="off" disabled>
       <div class="suggestions" id="suggIn" hidden></div>
     </div>
 
@@ -873,6 +874,10 @@
 
     const inputOut = document.getElementById('inputOut');
     const inputIn = document.getElementById('inputIn');
+    [inputOut, inputIn].forEach(input => {
+      input.disabled = false;
+      input.placeholder = '市区町村名を入力（例：北区、大阪市、おおさか）';
+    });
     setupPicker(
       inputOut,
       document.getElementById('suggOut'),
