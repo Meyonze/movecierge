@@ -17,9 +17,11 @@ if (scriptMatches.length !== 1) {
 const requiredIds = [
   'inputOut',
   'inputIn',
+  'moveDate',
   'suggOut',
   'suggIn',
   'generateBtn',
+  'shareChecklist',
   'copyChecklist',
   'printChecklist',
   'moreAttrsToggle',
@@ -38,6 +40,7 @@ const requiredBehaviors = [
   "inputEl.addEventListener('input'",
   "inputEl.addEventListener('blur'",
   "document.getElementById('generateBtn').addEventListener('click', generate)",
+  "document.getElementById('shareChecklist').addEventListener('click', shareChecklist)",
   "document.getElementById('copyChecklist').addEventListener('click', copyChecklist)",
   "box.onclick = () =>",
 ];

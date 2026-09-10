@@ -20,7 +20,7 @@
     --accent:#22406B;
     --accent-dark:#152B48;
     --accent-soft:#E1E7EE;
-    --radius:3px;
+    --radius:8px;
   }
   *{box-sizing:border-box;}
   [hidden]{display:none !important;}
@@ -44,20 +44,20 @@
   .lead{font-size:13.5px;color:var(--ink-soft);margin:12px 0 0;max-width:54ch;}
   .coverage{font-size:11.5px;color:var(--ink-faint);margin:8px 0 0;line-height:1.7;}
   /* ---------- intake ---------- */
-  .intake{margin-top:22px;border:1px solid var(--ink);background:#fff;padding:16px 14px 18px;}
+  .intake{margin-top:22px;border:1px solid var(--ink);background:#fff;padding:16px 14px 18px;border-radius:10px;}
   .field-label{font-size:12.5px;font-weight:700;color:var(--ink-soft);margin:0 0 6px;}
   .field-label:not(:first-child){margin-top:18px;}
 
   .city-picker{position:relative;}
   .city-input{
     width:100%;font-family:inherit;font-size:14px;padding:10px 12px;
-    border:1.5px solid var(--ink);border-radius:3px;background:#fff;color:var(--ink);
+    border:1.5px solid var(--ink);border-radius:8px;background:#fff;color:var(--ink);
   }
   .city-input:focus{outline:2px solid var(--accent);outline-offset:1px;}
   .suggestions{
     position:absolute;left:0;right:0;top:calc(100% + 3px);
     background:#fff;border:1px solid var(--ink);z-index:10;
-    max-height:230px;overflow-y:auto;box-shadow:0 6px 16px rgba(20,20,15,.12);
+    max-height:230px;overflow-y:auto;box-shadow:0 6px 16px rgba(20,20,15,.12);border-radius:8px;
   }
   .suggestions[hidden]{display:none;}
   .sugg-item{
@@ -91,10 +91,14 @@
   .more-toggle:hover{color:var(--accent-dark);}
   .attr-list-extra{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);}
 
+  .move-date{width:100%;font:inherit;font-size:14px;padding:10px 12px;border:1.5px solid var(--ink);border-radius:8px;background:#fff;color:var(--ink);}
+  .move-date:focus{outline:2px solid var(--accent);outline-offset:1px;}
+  .move-date-note{margin:6px 0 0;font-size:11.5px;color:var(--ink-faint);}
+
   .generate-btn{
     display:block;width:100%;margin-top:20px;padding:14px;
     background:var(--accent);color:#fff;border:none;border-radius:3px;
-    font-family:inherit;font-size:15px;font-weight:700;cursor:pointer;letter-spacing:.02em;
+    font-family:inherit;font-size:15px;font-weight:700;cursor:pointer;letter-spacing:.02em;border-radius:8px;
   }
   .generate-btn:hover{background:var(--accent-dark);}
   .generate-btn.stale{background:var(--ink);}
@@ -106,7 +110,7 @@
 
   .pre-generate{
     border:1px dashed var(--ink);background:var(--surface-alt);
-    padding:28px 18px;text-align:center;margin:20px 0;
+    padding:28px 18px;text-align:center;margin:20px 0;border-radius:10px;
     font-size:13px;color:var(--ink-soft);line-height:1.8;
   }
 
@@ -115,7 +119,7 @@
   .route-tag{
     display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:700;color:var(--accent-dark);
     background:var(--accent-soft);border:1px solid var(--accent);padding:6px 12px;border-radius:var(--radius);
-    margin:22px 0 14px;
+    margin:22px 0 14px;border-radius:8px;
   }
   .progress-note{font-size:11.5px;color:var(--ink-faint);margin:-6px 0 14px;}
   .progress-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:-4px 0 16px;padding:8px 0;border-bottom:1px solid var(--line);font-size:11.5px;}
@@ -129,12 +133,19 @@
   .reset-progress:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
   .share-status{min-height:1.5em;margin:-8px 0 14px;font-size:11.5px;color:var(--accent-dark);}
 
-  .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;}
+  .move-plan{border:1px solid var(--accent);background:var(--accent-soft);padding:13px;margin:0 0 16px;border-radius:10px;}
+  .move-plan-title{display:flex;justify-content:space-between;gap:8px;align-items:baseline;margin:0 0 9px;font-size:13px;font-weight:700;color:var(--accent-dark);}
+  .move-plan-title span{font-size:11.5px;color:var(--ink-soft);font-weight:400;}
+  .move-plan-list{display:grid;gap:7px;margin:0;padding:0;list-style:none;}
+  .move-plan-list li{display:flex;gap:8px;align-items:flex-start;font-size:11.5px;line-height:1.55;}
+  .move-plan-list strong{flex:0 0 78px;color:var(--accent-dark);}
+
+  .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;border-radius:10px;}
   .block-title{font-size:14px;font-weight:700;margin:0 0 12px;display:flex;align-items:center;gap:8px;}
   .block-title .tag-dir{font-size:10px;font-weight:700;padding:2px 7px;border-radius:2px;background:var(--accent);color:#fff;}
   .block.in .block-title .tag-dir{background:var(--ink);}
 
-  .notice{position:relative;border:1px solid var(--accent);background:var(--accent-soft);padding:11px 13px 11px 42px;font-size:12px;line-height:1.7;color:var(--ink);margin-bottom:16px;}
+  .notice{position:relative;border:1px solid var(--accent);background:var(--accent-soft);padding:11px 13px 11px 42px;font-size:12px;line-height:1.7;color:var(--ink);margin-bottom:16px;border-radius:8px;overflow:hidden;}
   .notice::before{content:"注";position:absolute;left:0;top:0;bottom:0;width:30px;background:var(--accent);color:#fff;font-weight:700;font-size:12.5px;display:flex;align-items:center;justify-content:center;}
   .notice.provisional{border-color:var(--line);background:var(--surface-alt);color:var(--ink-soft);padding-left:50px;}
   .notice.provisional::before{content:"要確認";width:38px;background:var(--ink-soft);font-size:9px;}
@@ -145,7 +156,7 @@
   .section-label.required .dot{background:var(--accent);}
   .section{margin-bottom:22px;}
 
-  .ledger{border:1px solid var(--line);background:#fff;}
+  .ledger{border:1px solid var(--line);background:#fff;border-radius:8px;overflow:hidden;}
   .ledger.alt{background:var(--surface-alt);}
   .row{display:flex;gap:12px;padding:13px 12px;border-bottom:1px solid var(--line);}
   .row:last-child{border-bottom:none;}
@@ -153,7 +164,7 @@
 
   .box{
     flex-shrink:0;width:24px;height:24px;margin-top:1px;border:1.5px solid var(--ink);border-radius:3px;
-    display:flex;align-items:center;justify-content:center;font-size:11.5px;font-weight:700;color:var(--ink);
+    display:flex;align-items:center;justify-content:center;font-size:11.5px;font-weight:700;color:var(--ink);border-radius:6px;
     background:#fff;cursor:pointer;position:relative;font-family:inherit;padding:0;
   }
   .box.required{border-color:var(--accent);color:var(--accent-dark);}
@@ -181,7 +192,7 @@
   .row-sub{font-size:11px;color:var(--ink-faint);margin-top:6px;}
   .row-sub a{color:var(--ink-soft);}
 
-  .kv{border:1px solid var(--line);background:var(--surface-alt);padding:13px;font-size:12.5px;color:var(--ink-soft);}
+  .kv{border:1px solid var(--line);background:var(--surface-alt);padding:13px;font-size:12.5px;color:var(--ink-soft);border-radius:8px;}
   .empty{border:1px dashed var(--line);padding:15px;text-align:center;font-size:12px;color:var(--ink-faint);}
   .empty a{color:var(--ink-soft);}
   .hint{border:1px dashed var(--line);padding:15px;text-align:center;font-size:12px;color:var(--ink-faint);}
@@ -225,6 +236,10 @@
       <div class="suggestions" id="suggIn" hidden></div>
     </div>
 
+    <label class="field-label" for="moveDate">引っ越し予定日（任意）</label>
+    <input class="move-date" id="moveDate" type="date">
+    <p class="move-date-note">入力すると、転出・転入の目安を日付つきで表示します。</p>
+
     <p class="field-label">あてはまるものを選ぶ</p>
     <div class="attr-list" id="attrList">
       <button class="check-field" data-flag="kokuho" type="button" aria-pressed="false"><span class="sq-box"></span>国民健康保険に加入している（会社の健保ではない）</button>
@@ -247,10 +262,12 @@
 
   <div id="resultsWrap" hidden>
     <div class="route-tag" id="routeTag"></div>
+    <section class="move-plan" id="movePlan" aria-live="polite" hidden></section>
     <p class="progress-note">チェックした項目は、この端末のブラウザに保存されます。</p>
     <div class="progress-controls">
       <span class="progress-summary" id="progressSummary" aria-live="polite"></span>
       <div class="progress-actions">
+        <button class="progress-action" id="shareChecklist" type="button">共有する</button>
         <button class="progress-action" id="copyChecklist" type="button">チェックリストをコピー</button>
         <button class="progress-action" id="printChecklist" type="button">印刷する</button>
         <button class="reset-progress" id="resetProgress" type="button">この端末の進捗をすべてリセット</button>
@@ -400,6 +417,7 @@
 
   let oldWard = null;
   let newWard = null;
+  let moveDate = '';
   let flags = new Set();
   let generated = false;
   let stale = false;
@@ -654,6 +672,8 @@
   function checklistText(){
     const route = document.getElementById('routeTag').textContent.trim();
     const summary = document.getElementById('progressSummary').textContent.trim();
+    const plan = document.getElementById('movePlan');
+    const schedule = plan.hidden ? '' : plan.innerText.trim();
     const items = [...document.querySelectorAll('.row')]
       .filter(row => getComputedStyle(row).display !== 'none')
       .map(row => {
@@ -662,7 +682,83 @@
         return title && box ? `${box.classList.contains('done') ? '☑' : '☐'} ${title}` : null;
       })
       .filter(Boolean);
-    return ['転シェルジュ｜引っ越し手続きチェックリスト', route, summary, '', ...items].join('\n');
+    return ['転シェルジュ｜引っ越し手続きチェックリスト', route, summary, schedule, '', ...items].filter(Boolean).join('\n');
+  }
+
+  function dateFromInput(value){
+    if(!/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
+    const [year, month, day] = value.split('-').map(Number);
+    const date = new Date(year, month - 1, day);
+    return Number.isNaN(date.getTime()) ? null : date;
+  }
+
+  function formatDate(date){
+    return new Intl.DateTimeFormat('ja-JP', {month:'long', day:'numeric', weekday:'short'}).format(date);
+  }
+
+  function addDays(date, days){
+    const next = new Date(date);
+    next.setDate(next.getDate() + days);
+    return next;
+  }
+
+  function renderMovePlan(){
+    const plan = document.getElementById('movePlan');
+    const date = dateFromInput(moveDate);
+    if(!date){
+      plan.hidden = true;
+      plan.innerHTML = '';
+      return;
+    }
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const daysUntil = Math.round((date - today) / 86400000);
+    const timing = daysUntil > 0
+      ? `引っ越しまであと${daysUntil}日`
+      : daysUntil === 0 ? '今日が引っ越し日です' : `引っ越し後${Math.abs(daysUntil)}日`;
+    const outStart = addDays(date, -14);
+    const inDeadline = addDays(date, 14);
+    const outName = escapeHtml(cityName(oldWard));
+    const inName = escapeHtml(cityName(newWard));
+    plan.innerHTML = `
+      <p class="move-plan-title">${formatDate(date)}の引っ越し計画 <span>${timing}</span></p>
+      <ul class="move-plan-list">
+        <li><strong>${formatDate(outStart)}〜</strong><span>${outName}で転出届。ライフラインの停止・開始も早めに予約。</span></li>
+        <li><strong>${formatDate(date)}</strong><span>引っ越し日。転出証明書と本人確認書類を手元に。</span></li>
+        <li><strong>${formatDate(inDeadline)}まで</strong><span>${inName}で転入届。マイナンバーカードの住所変更もまとめて。</span></li>
+      </ul>`;
+    plan.hidden = false;
+  }
+
+  function shareUrl(){
+    const url = new URL(window.location.href);
+    url.search = '';
+    url.searchParams.set('from', oldWard);
+    url.searchParams.set('to', newWard);
+    if(moveDate) url.searchParams.set('move', moveDate);
+    if(flags.size) url.searchParams.set('flags', [...flags].join(','));
+    return url.toString();
+  }
+
+  async function shareChecklist(){
+    const status = document.getElementById('shareStatus');
+    const url = shareUrl();
+    const text = checklistText();
+    if(navigator.share){
+      try {
+        await navigator.share({title:'転シェルジュ｜引っ越し手続きチェックリスト', text, url});
+        status.textContent = '共有画面を開きました。';
+      } catch(error) {
+        if(error?.name !== 'AbortError') status.textContent = '共有できませんでした。コピーしてお使いください。';
+      }
+      return;
+    }
+    try {
+      await navigator.clipboard.writeText(`${text}\n${url}`);
+      status.textContent = '共有用リンクをコピーしました。家族やメモアプリに貼り付けて使えます。';
+    } catch {
+      status.textContent = '共有用リンクをコピーできませんでした。';
+    }
   }
 
   async function copyChecklist(){
@@ -738,6 +834,7 @@
     document.getElementById('routeTag').textContent = cityName(oldWard) + ' → ' + cityName(newWard);
     document.getElementById('outBlock').innerHTML = renderBlock('out', oldWard);
     document.getElementById('inBlock').innerHTML = renderBlock('in', newWard);
+    renderMovePlan();
     bindChecks();
 
     generated = true;
@@ -765,10 +862,39 @@
     const inputIn = document.getElementById('inputIn');
     setupPicker(inputOut, document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
     setupPicker(inputIn, document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
+    const moveDateInput = document.getElementById('moveDate');
+    moveDateInput.addEventListener('input', ()=>{
+      moveDate = moveDateInput.value;
+      if(generated) renderMovePlan();
+    });
     // 読み込み中に入力された文字も、データ到着後すぐ候補表示に使う。
     [inputOut, inputIn].forEach(input => {
       if(input.value.trim()) input.dispatchEvent(new Event('input'));
     });
+    restoreSharedChecklist();
+  }
+
+  function restoreSharedChecklist(){
+    const params = new URLSearchParams(window.location.search);
+    const out = params.get('from');
+    const incoming = params.get('to');
+    if(!CITIES.some(city => city.id === out) || !CITIES.some(city => city.id === incoming)) return;
+    oldWard = out;
+    newWard = incoming;
+    document.getElementById('inputOut').value = cityName(out);
+    document.getElementById('inputIn').value = cityName(incoming);
+    moveDate = params.get('move') || '';
+    document.getElementById('moveDate').value = moveDate;
+    const allowedFlags = new Set(['kokuho', 'kaigo', 'kodomo', 'kuruma', 'inu']);
+    flags = new Set((params.get('flags') || '').split(',').filter(flag => allowedFlags.has(flag)));
+    document.querySelectorAll('.check-field').forEach(el => {
+      const active = flags.has(el.dataset.flag);
+      el.classList.toggle('active', active);
+      el.setAttribute('aria-pressed', String(active));
+    });
+    applyUniversalFilters();
+    updateGenerateButton();
+    generate();
   }
 
   function setupSharedControls(){
@@ -799,6 +925,7 @@
     });
 
     document.getElementById('generateBtn').addEventListener('click', generate);
+    document.getElementById('shareChecklist').addEventListener('click', shareChecklist);
     document.getElementById('copyChecklist').addEventListener('click', copyChecklist);
     document.getElementById('printChecklist').addEventListener('click', ()=>window.print());
     document.getElementById('resetProgress').addEventListener('click', ()=>{
