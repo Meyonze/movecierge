@@ -204,12 +204,19 @@
 
   .footnote{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);}
   .footnote p{font-size:11.5px;color:var(--ink-faint);margin:0 0 5px;line-height:1.7;}
+  .footer-links{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:12px !important;}
+  .footer-links a{color:var(--ink-soft);font-weight:700;text-underline-offset:3px;}
+  .legal{margin-top:14px;border:1px solid var(--line);background:var(--surface-alt);border-radius:8px;padding:0 12px;}
+  .legal summary{padding:10px 0;cursor:pointer;font-size:12px;font-weight:700;color:var(--ink-soft);}
+  .legal-copy{padding:0 0 12px;}
+  .legal-copy h2{margin:10px 0 3px;font-size:11.5px;color:var(--ink-soft);}
+  .legal-copy p{margin:0 0 9px;font-size:11px;line-height:1.7;color:var(--ink-faint);}
 
   @page{size:A4;margin:12mm;}
   @media print{
     body{background:#fff;}
     .page{max-width:none;padding:0;}
-    .intake,.pre-generate,.progress-note,.progress-actions,.share-status{display:none !important;}
+    .intake,.pre-generate,.progress-note,.progress-actions,.share-status,.footer-links,.legal{display:none !important;}
     .block{border:0;padding:0;margin:0 0 8mm;background:transparent;}
     .ledger{border:0;border-radius:0;overflow:visible;background:transparent;}
     .row{border:1px solid var(--line);margin:0 0 3mm;break-inside:avoid;page-break-inside:avoid;}
@@ -392,6 +399,22 @@
   <footer class="footnote">
     <p>自治体情報の最終更新：2026年9月10日</p>
     <p>掲載内容は変更されることがあります。最終確認は必ず各市区町村の公式サイト・窓口で行ってください。</p>
+    <p class="footer-links">
+      <a href="#legal">利用規約・プライバシー</a>
+      <a href="https://note.com/meyonze" target="_blank" rel="noopener">制作・運営：meyonze</a>
+      <a href="https://x.com/meyonze34" target="_blank" rel="noopener">お問い合わせ（X）</a>
+    </p>
+    <details class="legal" id="legal">
+      <summary>利用規約・プライバシー</summary>
+      <div class="legal-copy">
+        <h2>利用規約</h2>
+        <p>本サービスは、引っ越しに関する手続きの一般的な目安を提供するものです。必要書類・開庁日・期限・手続き方法は変更されることがあるため、必ず各市区町村や事業者の公式案内でご確認ください。本サービスの利用により生じた損害について、制作・運営者は責任を負いません。</p>
+        <h2>プライバシー</h2>
+        <p>入力した市区町村・引っ越し予定日・選択条件を、制作・運営者のサーバーへ送信・保存することはありません。チェックの完了状態のみ、この端末のブラウザ内に保存されます。公式サイト・note・Xなどの外部リンク先では、各サービスの規約・プライバシーポリシーが適用されます。</p>
+        <h2>お問い合わせ</h2>
+        <p>不具合報告やご意見は、制作・運営者 <a href="https://x.com/meyonze34" target="_blank" rel="noopener">meyonze のX</a> からお寄せください。</p>
+      </div>
+    </details>
   </footer>
 
 </div>

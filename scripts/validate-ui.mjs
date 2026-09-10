@@ -29,6 +29,7 @@ const requiredIds = [
   'resultsWrap',
   'outBlock',
   'inBlock',
+  'legal',
 ];
 
 for (const id of requiredIds) {
@@ -50,6 +51,8 @@ const requiredBehaviors = [
   'function movePlanAlerts(start, end)',
   '年末年始の注意',
   '年度末・年度初めの注意',
+  'https://note.com/meyonze',
+  'https://x.com/meyonze34',
 ];
 
 for (const behavior of requiredBehaviors) {
