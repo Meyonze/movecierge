@@ -204,8 +204,12 @@
 
   .footnote{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);}
   .footnote p{font-size:11.5px;color:var(--ink-faint);margin:0 0 5px;line-height:1.7;}
-  .footer-links{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:12px !important;}
-  .footer-links a{color:var(--ink-soft);font-weight:700;text-underline-offset:3px;}
+  .footer-links{display:flex;align-items:center;gap:8px;margin-top:12px !important;}
+  .footer-links a{display:grid;place-items:center;width:22px;height:22px;color:var(--ink-faint);text-decoration:none;opacity:.72;}
+  .footer-links a:hover{color:var(--accent-dark);opacity:1;}
+  .footer-links a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px;}
+  .brand-icon{display:grid;place-items:center;width:18px;height:18px;border:1px solid currentColor;border-radius:5px;font-family:Arial,sans-serif;font-size:11px;font-weight:700;line-height:1;}
+  .brand-icon.x{border:0;font-size:16px;font-weight:400;}
   .legal{margin-top:14px;border:1px solid var(--line);background:var(--surface-alt);border-radius:8px;padding:0 12px;}
   .legal summary{padding:10px 0;cursor:pointer;font-size:12px;font-weight:700;color:var(--ink-soft);}
   .legal-copy{padding:0 0 12px;}
@@ -399,10 +403,9 @@
   <footer class="footnote">
     <p>自治体情報の最終更新：2026年9月10日</p>
     <p>掲載内容は変更されることがあります。最終確認は必ず各市区町村の公式サイト・窓口で行ってください。</p>
-    <p class="footer-links">
-      <a href="#legal">利用規約・プライバシー</a>
-      <a href="https://note.com/meyonze" target="_blank" rel="noopener">制作・運営：meyonze</a>
-      <a href="https://x.com/meyonze34" target="_blank" rel="noopener">お問い合わせ（X）</a>
+    <p class="footer-links" aria-label="制作・運営・お問い合わせ">
+      <a href="https://note.com/meyonze" target="_blank" rel="noopener" aria-label="制作・運営：meyonze のnote" title="meyonze のnote"><span class="brand-icon" aria-hidden="true">n</span></a>
+      <a href="https://x.com/meyonze34" target="_blank" rel="noopener" aria-label="お問い合わせ：meyonze のX" title="meyonze のX"><span class="brand-icon x" aria-hidden="true">𝕏</span></a>
     </p>
     <details class="legal" id="legal">
       <summary>利用規約・プライバシー</summary>
