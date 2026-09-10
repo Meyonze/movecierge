@@ -44,6 +44,9 @@ const requiredBehaviors = [
   "document.getElementById('shareChecklist').addEventListener('click', shareChecklist)",
   "document.getElementById('copyChecklist').addEventListener('click', copyChecklist)",
   "box.onclick = () =>",
+  'let cityDataReady = false;',
+  "fetchJson('./data/cities.json')",
+  "fetchJson('./data/city_data.json')",
 ];
 
 for (const behavior of requiredBehaviors) {

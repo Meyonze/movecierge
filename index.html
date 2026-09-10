@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>転シェルジュ｜引っ越し手続きチェックリスト（プロトタイプ）</title>
+<title>転シェルジュ｜引っ越し手続きチェックリスト</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%2322406B'/%3E%3Ctext x='32' y='45' font-family='Hiragino Sans, sans-serif' font-weight='700' font-size='36' fill='white' text-anchor='middle'%3E転%3C/text%3E%3C/svg%3E">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap');
@@ -31,9 +31,7 @@
   }
   .page{max-width:600px;margin:0 auto;padding:24px 16px 56px;}
 
-  .eyebrow{display:inline-block;border:1px solid var(--accent);color:var(--accent-dark);font-size:11px;font-weight:700;letter-spacing:.05em;padding:3px 8px;border-radius:var(--radius);}
-
-  .logo{display:flex;align-items:center;gap:11px;margin:14px 0 6px;}
+  .logo{display:flex;align-items:center;gap:11px;margin:0 0 6px;}
   .logo-mark{
     display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;
     width:42px;height:42px;background:var(--accent);color:#fff;
@@ -204,10 +202,19 @@
   .footnote{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);}
   .footnote p{font-size:11.5px;color:var(--ink-faint);margin:0 0 5px;line-height:1.7;}
 
+  @page{size:A4;margin:12mm;}
   @media print{
     body{background:#fff;}
-    .page{max-width:none;padding:12mm;}
+    .page{max-width:none;padding:0;}
     .intake,.pre-generate,.progress-note,.progress-actions,.share-status{display:none !important;}
+    .block{border:0;padding:0;margin:0 0 8mm;background:transparent;}
+    .ledger{border:0;border-radius:0;overflow:visible;background:transparent;}
+    .row{border:1px solid var(--line);margin:0 0 3mm;break-inside:avoid;page-break-inside:avoid;}
+    .row:last-child{border-bottom:1px solid var(--line);}
+    .group-row{margin:4mm 0 1mm;padding:0;border:0;background:transparent;break-after:avoid;page-break-after:avoid;}
+    .group-row + .row{break-before:avoid;page-break-before:avoid;}
+    .block-title,.block .section,.notice,.route-tag,.move-plan,.kv,.empty,.divider{break-inside:avoid;page-break-inside:avoid;}
+    *{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
   }
   @media (prefers-reduced-motion:reduce){*{transition:none !important;}}
 </style>
@@ -215,7 +222,6 @@
 <body>
 <div class="page">
 
-  <span class="eyebrow">PROTOTYPE — 全国版</span>
   <h1 class="logo">
     <span class="logo-mark" aria-hidden="true">転</span>
     <span class="logo-word">シェルジュ</span>
@@ -390,6 +396,10 @@
 <script>
   let CITIES = [];
   let CITY_DATA = {};
+  let cityDataReady = false;
+  let cityDataFailed = false;
+  let pickerReady = false;
+  let sharedChecklistPending = false;
 
   const REQUIRED = {
     out:{title:'転出届を出す',note:'新住所地で転入届を出す際に必要な、転出証明書を発行してもらう手続き。マイナポータルの引越しワンストップサービスから提出すれば来庁は不要。',deadline:'期限：引っ越し日の14日前〜当日',tags:['online','mail'],linkKey:'out'},
@@ -800,6 +810,19 @@
   function updateGenerateButton(){
     const btn = document.getElementById('generateBtn');
     const hint = document.getElementById('selectionHint');
+    if(!cityDataReady){
+      btn.disabled = true;
+      btn.classList.remove('stale');
+      if(cityDataFailed){
+        btn.textContent = '自治体情報を再読み込みしてください';
+        hint.textContent = '住所候補は使えますが、自治体情報を読み込めませんでした。ページを再読み込みしてください。';
+      } else {
+        btn.textContent = '自治体情報を読み込んでいます…';
+        hint.textContent = '住所候補は先に選べます。自治体情報の読み込み後にチェックリストを作成できます。';
+      }
+      hint.classList.remove('is-ready');
+      return;
+    }
     const ready = Boolean(oldWard && newWard);
     btn.disabled = !ready;
     if(!ready){
@@ -831,6 +854,10 @@
   }
 
   function generate(){
+    if(!cityDataReady){
+      updateGenerateButton();
+      return;
+    }
     const inputOut = document.getElementById('inputOut');
     const inputIn = document.getElementById('inputIn');
     const changed = [
@@ -866,11 +893,31 @@
     updateProgressSummary();
   }
 
+  function updateDataStatus(){
+    if(!CITIES.length) return;
+    const coverage = document.getElementById('coverage');
+    const loadingHint = document.getElementById('loadingHint');
+    if(cityDataReady){
+      const hasDataCount = Object.keys(CITY_DATA).length;
+      coverage.textContent =
+        `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
+      loadingHint.hidden = true;
+    } else if(cityDataFailed){
+      coverage.textContent = '自治体候補は利用できますが、窓口情報を読み込めませんでした。ページを再読み込みしてください。';
+      coverage.setAttribute('role', 'alert');
+      loadingHint.hidden = false;
+      loadingHint.textContent = '住所候補は使えます。自治体情報を再読み込みしてください。';
+    } else {
+      coverage.textContent = `対応都市：全国${CITIES.length}市区町村。窓口情報を読み込んでいます…`;
+      loadingHint.hidden = false;
+      loadingHint.textContent = '住所候補はすぐに使えます。自治体情報を読み込んでいます。';
+    }
+  }
+
   function init(){
-    document.getElementById('loadingHint').hidden = true;
-    const hasDataCount = Object.keys(CITY_DATA).length;
-    document.getElementById('coverage').textContent =
-      `対応都市：全国${CITIES.length}市区町村。うち実データ収録は${hasDataCount}都市、その他は全国共通ルール＋検索リンクで代替表示。`;
+    if(pickerReady) return;
+    pickerReady = true;
+    updateDataStatus();
 
     const inputOut = document.getElementById('inputOut');
     const inputIn = document.getElementById('inputIn');
@@ -929,7 +976,8 @@
     });
     applyUniversalFilters();
     updateGenerateButton();
-    generate();
+    sharedChecklistPending = true;
+    if(cityDataReady) generate();
   }
 
   function setupSharedControls(){
@@ -997,21 +1045,33 @@
     }
   }
 
-  Promise.all([
-    fetchJson('./data/cities.json'),
-    fetchJson('./data/city_data.json'),
-  ])
-    .then(([cities, cityData]) => {
+  fetchJson('./data/cities.json')
+    .then(cities => {
       CITIES = cities;
-      CITY_DATA = cityData;
       init();
     })
     .catch(err => {
-      console.error('都市データの読み込みに失敗しました。', err);
+      console.error('自治体候補の読み込みに失敗しました。', err);
       const coverage = document.getElementById('coverage');
       coverage.textContent = '自治体候補を読み込めませんでした。条件の選択はできます。ページを再読み込みしても改善しない場合は、通信状態をご確認ください。';
       coverage.setAttribute('role', 'alert');
       document.getElementById('loadingHint').textContent = '候補データを読み込めませんでした。';
+    });
+
+  fetchJson('./data/city_data.json')
+    .then(cityData => {
+      CITY_DATA = cityData;
+      cityDataReady = true;
+      cityDataFailed = false;
+      updateDataStatus();
+      updateGenerateButton();
+      if(sharedChecklistPending && !generated) generate();
+    })
+    .catch(err => {
+      console.error('自治体情報の読み込みに失敗しました。', err);
+      cityDataFailed = true;
+      updateDataStatus();
+      updateGenerateButton();
     });
 </script>
 </body>
