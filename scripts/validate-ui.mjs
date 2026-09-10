@@ -38,6 +38,7 @@ for (const id of requiredIds) {
 const requiredBehaviors = [
   'commitTypedCity',
   "inputEl.addEventListener('input'",
+  "inputEl.addEventListener('keydown'",
   "inputEl.addEventListener('blur'",
   "document.getElementById('generateBtn').addEventListener('click', generate)",
   "document.getElementById('shareChecklist').addEventListener('click', shareChecklist)",

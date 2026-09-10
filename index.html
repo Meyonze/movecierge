@@ -486,7 +486,7 @@
     return changed;
   }
 
-  function setupPicker(inputEl, suggEl, getCurrent, setCurrent){
+  function setupPicker(inputEl, suggEl, getCurrent, setCurrent, onEnter){
     function showMatches(){
       const q = inputEl.value.trim();
       if(!q){ suggEl.hidden = true; return; }
@@ -526,6 +526,19 @@
       showMatches();
     });
     inputEl.addEventListener('focus', showMatches);
+    inputEl.addEventListener('keydown', (event)=>{
+      if(event.key !== 'Enter') return;
+      const changed = commitTypedCity(inputEl, getCurrent, setCurrent);
+      if(changed) markStale();
+      updateGenerateButton();
+      event.preventDefault();
+      if(!getCurrent()){
+        inputEl.setAttribute('aria-invalid', 'true');
+        return;
+      }
+      suggEl.hidden = true;
+      onEnter?.();
+    });
     inputEl.addEventListener('blur', ()=>{
       setTimeout(()=>{
         if(suggEl.contains(document.activeElement)) return;
@@ -860,12 +873,29 @@
 
     const inputOut = document.getElementById('inputOut');
     const inputIn = document.getElementById('inputIn');
-    setupPicker(inputOut, document.getElementById('suggOut'), ()=>oldWard, id=>oldWard=id);
-    setupPicker(inputIn, document.getElementById('suggIn'), ()=>newWard, id=>newWard=id);
+    setupPicker(
+      inputOut,
+      document.getElementById('suggOut'),
+      ()=>oldWard,
+      id=>oldWard=id,
+      ()=>document.getElementById('inputIn').focus(),
+    );
+    setupPicker(
+      inputIn,
+      document.getElementById('suggIn'),
+      ()=>newWard,
+      id=>newWard=id,
+      ()=>document.getElementById('moveDate').focus(),
+    );
     const moveDateInput = document.getElementById('moveDate');
     moveDateInput.addEventListener('input', ()=>{
       moveDate = moveDateInput.value;
       if(generated) renderMovePlan();
+    });
+    moveDateInput.addEventListener('keydown', event=>{
+      if(event.key !== 'Enter') return;
+      event.preventDefault();
+      document.getElementById('generateBtn').focus();
     });
     // 読み込み中に入力された文字も、データ到着後すぐ候補表示に使う。
     [inputOut, inputIn].forEach(input => {
