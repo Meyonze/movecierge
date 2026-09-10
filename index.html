@@ -138,6 +138,9 @@
   .move-plan-list{display:grid;gap:7px;margin:0;padding:0;list-style:none;}
   .move-plan-list li{display:flex;gap:8px;align-items:flex-start;font-size:11.5px;line-height:1.55;}
   .move-plan-list strong{flex:0 0 78px;color:var(--accent-dark);}
+  .move-plan-alerts{display:grid;gap:7px;margin-top:12px;padding-top:11px;border-top:1px solid color-mix(in srgb,var(--accent) 28%,transparent);}
+  .move-plan-alert{margin:0;padding-left:9px;border-left:3px solid var(--accent);font-size:11.5px;line-height:1.6;color:var(--ink-soft);}
+  .move-plan-alert strong{color:var(--accent-dark);}
 
   .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;border-radius:10px;}
   .block-title{font-size:14px;font-weight:700;margin:0 0 12px;display:flex;align-items:center;gap:8px;}
@@ -726,6 +729,34 @@
     return next;
   }
 
+  function overlapsDateRange(start, end, rangeStart, rangeEnd){
+    return start <= rangeEnd && end >= rangeStart;
+  }
+
+  function overlapsRecurringPeriod(start, end, startMonth, startDay, endMonth, endDay){
+    for(let year = start.getFullYear() - 1; year <= end.getFullYear() + 1; year += 1){
+      const rangeStart = new Date(year, startMonth - 1, startDay);
+      const rangeEndYear = endMonth < startMonth ? year + 1 : year;
+      const rangeEnd = new Date(rangeEndYear, endMonth - 1, endDay);
+      if(overlapsDateRange(start, end, rangeStart, rangeEnd)) return true;
+    }
+    return false;
+  }
+
+  function movePlanAlerts(start, end){
+    const alerts = [];
+    if(overlapsRecurringPeriod(start, end, 12, 29, 1, 3)){
+      alerts.push('<p class="move-plan-alert"><strong>年末年始の注意：</strong>計画期間に12月29日〜1月3日を含みます。多くの市区町村窓口は閉庁するため、手続きは前倒しし、開庁日を公式サイトで確認してください。</p>');
+    }
+    if(overlapsRecurringPeriod(start, end, 3, 15, 4, 15)){
+      alerts.push('<p class="move-plan-alert"><strong>年度末・年度初めの注意：</strong>3月中旬〜4月中旬は窓口・引越し会社・ライフラインの繁忙期です。来庁日や工事日は早めに予約してください。</p>');
+    }
+    if(overlapsRecurringPeriod(start, end, 4, 29, 5, 6)){
+      alerts.push('<p class="move-plan-alert"><strong>大型連休の注意：</strong>祝日や自治体の休日で窓口が開いていない日があります。連休の前後は混みやすいため、手続き先の開庁日を確認してください。</p>');
+    }
+    return alerts.length ? `<div class="move-plan-alerts">${alerts.join('')}</div>` : '';
+  }
+
   function renderMovePlan(){
     const plan = document.getElementById('movePlan');
     const date = dateFromInput(moveDate);
@@ -750,7 +781,8 @@
         <li><strong>${formatDate(outStart)}〜</strong><span>${outName}で転出届。ライフラインの停止・開始も早めに予約。</span></li>
         <li><strong>${formatDate(date)}</strong><span>引っ越し日。転出証明書と本人確認書類を手元に。</span></li>
         <li><strong>${formatDate(inDeadline)}まで</strong><span>${inName}で転入届。マイナンバーカードの住所変更もまとめて。</span></li>
-      </ul>`;
+      </ul>
+      ${movePlanAlerts(outStart, inDeadline)}`;
     plan.hidden = false;
   }
 

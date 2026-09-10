@@ -47,6 +47,9 @@ const requiredBehaviors = [
   'let cityDataReady = false;',
   "fetchJson('./data/cities.json')",
   "fetchJson('./data/city_data.json')",
+  'function movePlanAlerts(start, end)',
+  '年末年始の注意',
+  '年度末・年度初めの注意',
 ];
 
 for (const behavior of requiredBehaviors) {
