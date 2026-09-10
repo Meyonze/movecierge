@@ -20,6 +20,8 @@ const requiredIds = [
   'suggOut',
   'suggIn',
   'generateBtn',
+  'copyChecklist',
+  'printChecklist',
   'moreAttrsToggle',
   'resetProgress',
   'resultsWrap',
@@ -36,6 +38,7 @@ const requiredBehaviors = [
   "inputEl.addEventListener('input'",
   "inputEl.addEventListener('blur'",
   "document.getElementById('generateBtn').addEventListener('click', generate)",
+  "document.getElementById('copyChecklist').addEventListener('click', copyChecklist)",
   "box.onclick = () =>",
 ];
 

@@ -120,9 +120,14 @@
   .progress-note{font-size:11.5px;color:var(--ink-faint);margin:-6px 0 14px;}
   .progress-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:-4px 0 16px;padding:8px 0;border-bottom:1px solid var(--line);font-size:11.5px;}
   .progress-summary{font-weight:700;color:var(--accent-dark);}
+  .progress-actions{display:flex;align-items:center;justify-content:flex-end;gap:10px;flex-wrap:wrap;}
+  .progress-action{padding:0;border:0;background:none;color:var(--ink-soft);font:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer;}
+  .progress-action:hover{color:var(--accent-dark);}
+  .progress-action:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
   .reset-progress{padding:0;border:0;background:none;color:var(--ink-soft);font:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer;}
   .reset-progress:hover{color:var(--accent-dark);}
   .reset-progress:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  .share-status{min-height:1.5em;margin:-8px 0 14px;font-size:11.5px;color:var(--accent-dark);}
 
   .block{border:1px solid var(--ink);background:#fff;padding:16px 14px 4px;margin-bottom:14px;}
   .block-title{font-size:14px;font-weight:700;margin:0 0 12px;display:flex;align-items:center;gap:8px;}
@@ -189,7 +194,8 @@
 
   @media print{
     body{background:#fff;}
-    .city-picker,.box{display:none;}
+    .page{max-width:none;padding:12mm;}
+    .intake,.pre-generate,.progress-note,.progress-actions,.share-status{display:none !important;}
   }
   @media (prefers-reduced-motion:reduce){*{transition:none !important;}}
 </style>
@@ -244,8 +250,13 @@
     <p class="progress-note">チェックした項目は、この端末のブラウザに保存されます。</p>
     <div class="progress-controls">
       <span class="progress-summary" id="progressSummary" aria-live="polite"></span>
-      <button class="reset-progress" id="resetProgress" type="button">この端末の進捗をすべてリセット</button>
+      <div class="progress-actions">
+        <button class="progress-action" id="copyChecklist" type="button">チェックリストをコピー</button>
+        <button class="progress-action" id="printChecklist" type="button">印刷する</button>
+        <button class="reset-progress" id="resetProgress" type="button">この端末の進捗をすべてリセット</button>
+      </div>
     </div>
+    <p class="share-status" id="shareStatus" aria-live="polite"></p>
     <div class="block out" id="outBlock"></div>
     <div class="block in" id="inBlock"></div>
   </div>
@@ -640,6 +651,42 @@
     summary.textContent = `進捗：${completed} / ${visibleBoxes.length}件 完了`;
   }
 
+  function checklistText(){
+    const route = document.getElementById('routeTag').textContent.trim();
+    const summary = document.getElementById('progressSummary').textContent.trim();
+    const items = [...document.querySelectorAll('.row')]
+      .filter(row => getComputedStyle(row).display !== 'none')
+      .map(row => {
+        const title = row.querySelector('h3')?.textContent?.trim();
+        const box = row.querySelector('.box');
+        return title && box ? `${box.classList.contains('done') ? '☑' : '☐'} ${title}` : null;
+      })
+      .filter(Boolean);
+    return ['転シェルジュ｜引っ越し手続きチェックリスト', route, summary, '', ...items].join('\n');
+  }
+
+  async function copyChecklist(){
+    const status = document.getElementById('shareStatus');
+    const text = checklistText();
+    try {
+      await navigator.clipboard.writeText(text);
+      status.textContent = 'チェックリストをコピーしました。家族やメモアプリに貼り付けて使えます。';
+    } catch {
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.append(textarea);
+      textarea.select();
+      const copied = document.execCommand('copy');
+      textarea.remove();
+      status.textContent = copied
+        ? 'チェックリストをコピーしました。家族やメモアプリに貼り付けて使えます。'
+        : 'コピーできませんでした。ブラウザの設定を確認して、もう一度お試しください。';
+    }
+  }
+
   function updateGenerateButton(){
     const btn = document.getElementById('generateBtn');
     const hint = document.getElementById('selectionHint');
@@ -752,6 +799,8 @@
     });
 
     document.getElementById('generateBtn').addEventListener('click', generate);
+    document.getElementById('copyChecklist').addEventListener('click', copyChecklist);
+    document.getElementById('printChecklist').addEventListener('click', ()=>window.print());
     document.getElementById('resetProgress').addEventListener('click', ()=>{
       if(!window.confirm('この端末に保存したすべての進捗をリセットします。よろしいですか？')) return;
       completedChecks.clear();
