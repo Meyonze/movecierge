@@ -157,6 +157,7 @@
   .section-label.required{color:var(--accent-dark);}
   .section-label.required .dot{background:var(--accent);}
   .section{margin-bottom:22px;}
+  .section-note{margin:-3px 0 8px;font-size:11.5px;line-height:1.6;color:var(--ink-faint);}
 
   .ledger{border:1px solid var(--line);background:#fff;border-radius:8px;overflow:hidden;}
   .ledger.alt{background:var(--surface-alt);}
@@ -620,7 +621,7 @@
         <div class="row">
           <button class="box"></button>
           <div class="row-body">
-            <div class="row-top"><h3>${item.title}</h3>${item.bundle ? '<div class="tags"><span class="tag tag-bundle">同じ施設で可</span></div>' : ''}</div>
+            <div class="row-top"><h3>${item.title}</h3>${item.bundle ? `<div class="tags"><span class="tag tag-bundle">${direction === 'out' ? '転出届' : '転入届'}と同じ施設で可</span></div>` : ''}</div>
             <p class="target">${item.target}</p>
             <p class="row-note">${item.note}</p>
           </div>
@@ -633,13 +634,14 @@
 
     const bundleHtml = direction === 'in' ? `
       <div class="section">
-        <p class="section-label"><span class="dot"></span>同じ施設でついでにできること</p>
+        <p class="section-label"><span class="dot"></span>転入届と同じ施設でできること</p>
+        <p class="section-note">転入届を出す庁舎内で、続けて手続きできる場合があります。</p>
         <div class="ledger">
           ${BUNDLE_EXTRA_IN.map(item => `
             <div class="row">
               <button class="box"></button>
               <div class="row-body">
-                <div class="row-top"><h3>${item.title}</h3><div class="tags"><span class="tag tag-bundle">同じ施設</span></div></div>
+                <div class="row-top"><h3>${item.title}</h3><div class="tags"><span class="tag tag-bundle">転入届と同じ施設</span></div></div>
                 <p class="row-note">${item.note}</p>
               </div>
             </div>`).join('')}

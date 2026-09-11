@@ -51,6 +51,8 @@ const requiredBehaviors = [
   'function movePlanAlerts(start, end)',
   '年末年始の注意',
   '年度末・年度初めの注意',
+  '転入届と同じ施設でできること',
+  "direction === 'out' ? '転出届' : '転入届'",
   'https://note.com/meyonze',
   'https://x.com/meyonze34',
   'https://static.cloudflareinsights.com/beacon.min.js',
