@@ -270,8 +270,11 @@
       <button class="check-field" data-flag="kodomo" type="button" aria-pressed="false"><span class="sq-box"></span>子どもがいる（児童手当・医療証の対象）</button>
     </div>
 
-    <button type="button" class="more-toggle" id="moreAttrsToggle" aria-expanded="false" aria-controls="attrListExtra">＋ 他の条件も見る（車・ペットなど）</button>
+    <button type="button" class="more-toggle" id="moreAttrsToggle" aria-expanded="false" aria-controls="attrListExtra">＋ 他の条件も見る（住まい・車・ペットなど）</button>
     <div class="attr-list attr-list-extra" id="attrListExtra" hidden>
+      <button class="check-field" data-flag="chintai" type="button" aria-pressed="false"><span class="sq-box"></span>賃貸住宅から引っ越す</button>
+      <button class="check-field" data-flag="fudosan" type="button" aria-pressed="false"><span class="sq-box"></span>土地・建物を所有している</button>
+      <button class="check-field" data-flag="hoiku" type="button" aria-pressed="false"><span class="sq-box"></span>保育園・幼稚園などに通う未就学児がいる</button>
       <button class="check-field" data-flag="kuruma" type="button" aria-pressed="false"><span class="sq-box"></span>車を持っている（駐車場の場所が変わる）</button>
       <button class="check-field" data-flag="inu" type="button" aria-pressed="false"><span class="sq-box"></span>犬を飼っている</button>
     </div>
@@ -330,6 +333,36 @@
         </div>
       </div>
 
+      <div class="group-row">住まい・引越し準備</div>
+      <div class="row">
+        <button class="box"></button>
+        <div class="row-body">
+          <div class="row-top"><h3>引越し業者の手配・見積もり</h3></div>
+          <p class="row-note">依頼する場合は、希望日の空きと作業内容を早めに確認する。自力で運ぶ場合も、車両・駐車場所・搬入経路を事前に確かめておく。</p>
+        </div>
+      </div>
+      <div class="row">
+        <button class="box"></button>
+        <div class="row-body">
+          <div class="row-top"><h3>不用品・粗大ごみの処分</h3></div>
+          <p class="row-note">粗大ごみは自治体への申込みから回収まで日数がかかることがある。テレビ・エアコン・冷蔵庫・洗濯機などは通常の粗大ごみでは出せないため、早めに処分方法を確認する。</p>
+        </div>
+      </div>
+      <div class="row" data-flag="chintai">
+        <button class="box"></button>
+        <div class="row-body">
+          <div class="row-top"><h3>賃貸借契約の解約連絡・退去立会い</h3></div>
+          <p class="row-note">解約の連絡期限、退去日、鍵の返却方法を契約書で確認し、管理会社または大家へ連絡する。退去前後の室内は写真に残し、原状回復や敷金精算の確認に備える。</p>
+        </div>
+      </div>
+      <div class="row" data-flag="fudosan">
+        <button class="box"></button>
+        <div class="row-body">
+          <div class="row-top"><h3>不動産の住所変更登記</h3></div>
+          <p class="row-note">土地・建物の登記名義人は、住所変更後2年以内に変更登記が必要。法務局による「スマート変更登記」を利用する方法もある。</p>
+        </div>
+      </div>
+
       <div class="group-row">お金・保険</div>
       <div class="row">
         <button class="box"></button>
@@ -364,8 +397,24 @@
       <div class="row" data-flag="kuruma">
         <button class="box"></button>
         <div class="row-body">
+          <div class="row-top"><h3>車検証の住所変更（変更登録）</h3></div>
+          <p class="row-note">車を持っていて住所が変わる場合、普通自動車・軽自動車とも原則15日以内に手続きする。車庫証明などを先に求められることがあるため、引越し先を管轄する窓口の案内を確認する。</p>
+        </div>
+      </div>
+      <div class="row" data-flag="kuruma">
+        <button class="box"></button>
+        <div class="row-body">
           <div class="row-top"><h3>車庫証明（自動車保管場所届出）</h3><div class="tags"><span class="tag tag-window">窓口</span></div></div>
-          <p class="row-note">車を持っていて保管場所が変わる場合、新住所を管轄する警察署で取得する。引っ越し後15日以内が目安。こちらも住民票の写しが必要になることがある。</p>
+          <p class="row-note">保管場所が変わる場合、車検証の住所変更にあわせて必要になることがある。必要な地域・書類は、保管場所を管轄する警察署で確認する。</p>
+        </div>
+      </div>
+
+      <div class="group-row" data-flag="hoiku">未就学児の手続き</div>
+      <div class="row" data-flag="hoiku">
+        <button class="box"></button>
+        <div class="row-body">
+          <div class="row-top"><h3>保育園・認定こども園・幼稚園の転園・退園</h3></div>
+          <p class="row-note">在園中の園と、旧住所・新住所の自治体窓口へ早めに相談する。自治体ごとに申込み時期や必要書類が異なり、転居前から手続きが必要になる場合がある。</p>
         </div>
       </div>
 
@@ -1031,7 +1080,7 @@
     document.getElementById('inputIn').value = cityName(incoming);
     moveDate = params.get('move') || '';
     document.getElementById('moveDate').value = moveDate;
-    const allowedFlags = new Set(['kokuho', 'kaigo', 'kodomo', 'kuruma', 'inu']);
+    const allowedFlags = new Set(['kokuho', 'kaigo', 'kodomo', 'chintai', 'fudosan', 'hoiku', 'kuruma', 'inu']);
     flags = new Set((params.get('flags') || '').split(',').filter(flag => allowedFlags.has(flag)));
     document.querySelectorAll('.check-field').forEach(el => {
       const active = flags.has(el.dataset.flag);
