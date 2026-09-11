@@ -56,6 +56,7 @@ const requiredBehaviors = [
   'data-flag="chintai"',
   'data-flag="fudosan"',
   'data-flag="hoiku"',
+  "'.row[data-flag], .group-row[data-flag]'",
   '車検証の住所変更（変更登録）',
   '不動産の住所変更登記',
   '不用品・粗大ごみの処分',

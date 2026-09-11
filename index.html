@@ -1000,8 +1000,8 @@
   }
 
   function applyUniversalFilters(){
-    document.querySelectorAll('.row[data-flag]').forEach(row=>{
-      row.style.display = flags.has(row.dataset.flag) ? '' : 'none';
+    document.querySelectorAll('.row[data-flag], .group-row[data-flag]').forEach(item=>{
+      item.style.display = flags.has(item.dataset.flag) ? '' : 'none';
     });
     updateProgressSummary();
   }
