@@ -114,6 +114,7 @@
   }
 
   .tag-bundle{background:#fff;color:var(--ink-soft);border:1px dashed var(--ink-soft);}
+  .bundle-tag-line{margin:5px 0 7px;}
 
   .route-tag{
     display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:700;color:var(--accent-dark);
@@ -621,7 +622,8 @@
         <div class="row">
           <button class="box"></button>
           <div class="row-body">
-            <div class="row-top"><h3>${item.title}</h3>${item.bundle ? `<div class="tags"><span class="tag tag-bundle">${direction === 'out' ? '転出届' : '転入届'}と同じ施設で可</span></div>` : ''}</div>
+            <div class="row-top"><h3>${item.title}</h3></div>
+            ${item.bundle ? `<p class="bundle-tag-line"><span class="tag tag-bundle">${direction === 'out' ? '転出届' : '転入届'}と同じ施設で可</span></p>` : ''}
             <p class="target">${item.target}</p>
             <p class="row-note">${item.note}</p>
           </div>
@@ -641,7 +643,8 @@
             <div class="row">
               <button class="box"></button>
               <div class="row-body">
-                <div class="row-top"><h3>${item.title}</h3><div class="tags"><span class="tag tag-bundle">転入届と同じ施設</span></div></div>
+                <div class="row-top"><h3>${item.title}</h3></div>
+                <p class="bundle-tag-line"><span class="tag tag-bundle">転入届と同じ施設</span></p>
                 <p class="row-note">${item.note}</p>
               </div>
             </div>`).join('')}
